@@ -73,3 +73,10 @@ a {
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+button.cta {
+  border: 0;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+}
