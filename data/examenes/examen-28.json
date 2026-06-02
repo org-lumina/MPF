@@ -1,0 +1,786 @@
+{
+  "examen_id": 28,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Entre los objetos de la Ley N° 26.485 se incluye la remoción de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los obstáculos económicos al consumo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "todas las normas procesales provinciales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "los registros públicos de denuncias",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "los patrones socioculturales que promueven y sostienen la desigualdad de género y las relaciones de poder sobre las mujeres",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 2 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 2 inc. e: 'La remoción de patrones socioculturales que promueven y sostienen la desigualdad de género y las relaciones de poder sobre las mujeres'."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Cuando la Corte decida que hubo violación de un derecho, el art. 63 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, dispone que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Remitirá el caso a la Asamblea General",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 63.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Dispondrá que se garantice al lesionado el goce de su derecho, y si procede, la reparación de las consecuencias y el pago de una justa indemnización a la parte lesionada",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 63.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): garantía del goce del derecho, reparación de las consecuencias y justa indemnización a la parte lesionada."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo podrá emitir recomendaciones no vinculantes",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 63.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Impondrá sanciones penales al funcionario responsable",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 63.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Las sanciones de multa, suspensión y remoción solo procederán, conforme el artículo 71 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la comisión de faltas leves",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Ley N° 27.148 sanciona las faltas leves solo con apercibimiento; la multa, suspensión y remoción proceden por faltas graves."
+        },
+        {
+          "letra": "B",
+          "texto": "A criterio del juez de la causa",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Ley N° 27.148 vincula estas sanciones a las faltas graves, no al criterio del juez de la causa."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la comisión de faltas graves",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 71 de la Ley N° 27.148 dispone que las sanciones de multa de hasta el 20%, de suspensión y de remoción solo procederán por la comisión de faltas graves."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando lo solicite la víctima",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Ley N° 27.148 vincula estas sanciones a las faltas graves, no a la solicitud de la víctima."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 14 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el postulante debe consignar en el formulario, entre otros datos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo el número de DNI",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 14, Ley N° 26.861: la norma no dispone «Sólo el número de DNI»; lo correcto es: el formulario debe consignar apellido y nombre, domicilio real y constituido, teléfono y correo electrónico, entre otros."
+        },
+        {
+          "letra": "B",
+          "texto": "Apellido y nombre, domicilio real y constituido, teléfono y correo electrónico",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 14, Ley N° 26.861: el formulario debe consignar apellido y nombre, domicilio real y constituido, teléfono y correo electrónico, entre otros."
+        },
+        {
+          "letra": "C",
+          "texto": "El nombre de tres referencias laborales",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 14, Ley N° 26.861: la norma no dispone «El nombre de tres referencias laborales»; lo correcto es: el formulario debe consignar apellido y nombre, domicilio real y constituido, teléfono y correo electrónico, entre otros."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente sus antecedentes penales",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 14, Ley N° 26.861: la norma no dispone «Únicamente sus antecedentes penales»; lo correcto es: el formulario debe consignar apellido y nombre, domicilio real y constituido, teléfono y correo electrónico, entre otros."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 20 de la Ley N° 26.485 establece que el procedimiento será:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "oneroso y ordinario",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 20 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "gratuito y sumarísimo",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 20 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 20: 'El procedimiento será gratuito y sumarísimo.'"
+        },
+        {
+          "letra": "C",
+          "texto": "reservado y arbitral",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 20 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "escrito y de doble instancia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 20 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 19 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, ¿por qué conducto puede un Estado Parte someter a la Asamblea General una propuesta de enmienda?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por conducto de la Comisión Interamericana de Mujeres",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 19, Convención de Belém do Pará (Ley N° 24.632): la propuesta de enmienda se somete a la Asamblea General por conducto de la Comisión Interamericana de Mujeres."
+        },
+        {
+          "letra": "B",
+          "texto": "Por conducto de la Comisión Interamericana de Derechos Humanos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 19, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Directamente, sin intermediarios",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 19, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Por conducto del Secretario General de la ONU",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 19, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo I de la Resolución PGN N° 70/2022, el Equipo tendrá intervención ante conductas de violencia, discriminación o acoso en razón del género que ocurran:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente en espacios privados",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Conductas alcanzadas; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo I (Conductas alcanzadas): durante el trabajo, en relación con él o como resultado, dentro o fuera del horario, en desplazamientos, viajes, eventos o comunicaciones por cualquier vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo dentro del horario laboral y en la sede de la fiscalía",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Conductas alcanzadas; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo I (Conductas alcanzadas): durante el trabajo, en relación con él o como resultado, dentro o fuera del horario, en desplazamientos, viajes, eventos o comunicaciones por cualquier vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo en eventos oficiales del organismo",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Conductas alcanzadas; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo I (Conductas alcanzadas): durante el trabajo, en relación con él o como resultado, dentro o fuera del horario, en desplazamientos, viajes, eventos o comunicaciones por cualquier vía."
+        },
+        {
+          "letra": "D",
+          "texto": "Durante el trabajo, en relación con el trabajo o como resultado de él, dentro o fuera del horario laboral, en desplazamientos, viajes o eventos, o en comunicaciones por cualquier vía",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo I (Conductas alcanzadas): durante el trabajo, en relación con él o como resultado, dentro o fuera del horario, en desplazamientos, viajes, eventos o comunicaciones por cualquier vía."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 83 de la Constitución Nacional, ¿con qué mayoría puede la Cámara de origen insistir sobre un proyecto vetado por el Poder Ejecutivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mayoría absoluta de los presentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 83 de la Constitución Nacional exige la mayoría de dos tercios de votos para insistir sobre el veto, no la mayoría absoluta de los presentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres cuartas partes del total",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 83 de la Constitución Nacional requiere dos tercios de votos, no tres cuartas partes del total."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayoría de dos tercios de votos",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 83 de la Constitución Nacional dispone que la Cámara de origen confirma el proyecto vetado por mayoría de dos tercios de votos, y el proyecto pasa a la Cámara revisora."
+        },
+        {
+          "letra": "D",
+          "texto": "Mayoría simple",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 83 de la Constitución Nacional requiere dos tercios de votos, no mayoría simple."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 23 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, las evaluaciones de empleados se califican y el puntaje mínimo para acceder al cargo es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De 0 a 70, mínimo 40 puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 23, Ley N° 26.861: la norma no dispone «De 0 a 70, mínimo 40 puntos»; lo correcto es: las evaluaciones se califican de 0 a 100 y se requiere mínimo 60 puntos en cada prueba."
+        },
+        {
+          "letra": "B",
+          "texto": "De 0 a 100, mínimo 70 puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 23, Ley N° 26.861: la norma no dispone «De 0 a 100, mínimo 70 puntos»; lo correcto es: las evaluaciones se califican de 0 a 100 y se requiere mínimo 60 puntos en cada prueba."
+        },
+        {
+          "letra": "C",
+          "texto": "De 0 a 100, mínimo 60 puntos en cada prueba",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 23, Ley N° 26.861: las evaluaciones se califican de 0 a 100 y se requiere mínimo 60 puntos en cada prueba."
+        },
+        {
+          "letra": "D",
+          "texto": "De 0 a 100, mínimo 50 puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 23, Ley N° 26.861: la norma no dispone «De 0 a 100, mínimo 50 puntos»; lo correcto es: las evaluaciones se califican de 0 a 100 y se requiere mínimo 60 puntos en cada prueba."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el punto IV de la parte resolutiva de la Resolución PGN N° 70/2022, el Reglamento Disciplinario para los/as Magistrados/as del MPF fue aprobado por la Resolución:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Res. PGN 507/14",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Resuelvo IV; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Resuelvo IV: el Reglamento Disciplinario para Magistrados/as del MPF fue aprobado por Res. PGN 2627/15."
+        },
+        {
+          "letra": "B",
+          "texto": "Res. PGN 52/08",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Resuelvo IV; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Resuelvo IV: el Reglamento Disciplinario para Magistrados/as del MPF fue aprobado por Res. PGN 2627/15."
+        },
+        {
+          "letra": "C",
+          "texto": "Res. PGN 2627/15",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Resuelvo IV: el Reglamento Disciplinario para Magistrados/as del MPF fue aprobado por Res. PGN 2627/15."
+        },
+        {
+          "letra": "D",
+          "texto": "Res. PGN 128/10",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Resuelvo IV; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Resuelvo IV: el Reglamento Disciplinario para Magistrados/as del MPF fue aprobado por Res. PGN 2627/15."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 41 de la Constitución Nacional, ¿qué se prohíbe respecto de ciertos residuos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Su tratamiento en provincias",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 41 de la Constitución Nacional no prohíbe el tratamiento de residuos en las provincias, sino el ingreso al territorio de residuos peligrosos y radiactivos."
+        },
+        {
+          "letra": "B",
+          "texto": "El ingreso al territorio nacional de residuos actual o potencialmente peligrosos, y de los radiactivos",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 41 de la Constitución Nacional prohíbe el ingreso al territorio nacional de residuos actual o potencialmente peligrosos, y de los radiactivos."
+        },
+        {
+          "letra": "C",
+          "texto": "Su exportación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 41 de la Constitución Nacional prohíbe el ingreso de tales residuos, no su exportación."
+        },
+        {
+          "letra": "D",
+          "texto": "Su producción nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 41 de la Constitución Nacional prohíbe el ingreso al territorio de residuos peligrosos y radiactivos, no su producción nacional."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El principio de transparencia obliga al MPF a informar, conforme el artículo 9 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo el presupuesto anual",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9 inc. i de la Ley N° 27.148 no se limita al presupuesto anual, sino que abarca criterios, objetivos y resultados de gestión."
+        },
+        {
+          "letra": "B",
+          "texto": "Los criterios que orientan la persecución y selectividad penal, los objetivos anuales propuestos y los resultados de su gestión",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 9 inc. i de la Ley N° 27.148 dispone que el MPF informará los criterios que orientan la persecución y selectividad penal, los objetivos anuales propuestos y los resultados de su gestión."
+        },
+        {
+          "letra": "C",
+          "texto": "Las instrucciones reservadas de cada caso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9 inc. i de la Ley N° 27.148 refiere a criterios, objetivos y resultados, no a instrucciones reservadas de cada caso."
+        },
+        {
+          "letra": "D",
+          "texto": "El nombre de todos los imputados",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9 inc. i de la Ley N° 27.148 no exige informar el nombre de los imputados."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 99 inciso 3 de la Constitución Nacional, ¿en qué materias NO puede el Ejecutivo dictar decretos de necesidad y urgencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En materia de seguridad social",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 3 de la Constitución Nacional no menciona la seguridad social entre las materias vedadas; las prohibidas son penal, tributaria, electoral y de partidos políticos."
+        },
+        {
+          "letra": "B",
+          "texto": "En materia de obras públicas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 3 de la Constitución Nacional no incluye las obras públicas entre las materias vedadas a los DNU; las prohibidas son penal, tributaria, electoral y de partidos políticos."
+        },
+        {
+          "letra": "C",
+          "texto": "En materia educativa",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 3 de la Constitución Nacional no incluye la materia educativa entre las vedadas a los DNU."
+        },
+        {
+          "letra": "D",
+          "texto": "En materia penal, tributaria, electoral o de régimen de los partidos políticos",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 99 inc. 3 de la Constitución Nacional prohíbe los decretos de necesidad y urgencia en materia penal, tributaria, electoral o de régimen de los partidos políticos."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 2 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, obliga a los Estados a establecer la protección jurídica de los derechos de la mujer sobre una base de igualdad y a garantizar, por conducto de los tribunales nacionales competentes y otras instituciones públicas:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La protección efectiva de la mujer contra todo acto de discriminación",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 2.c, CEDAW (Ley N° 23.179): protección efectiva de la mujer contra todo acto de discriminación por conducto de los tribunales nacionales competentes."
+        },
+        {
+          "letra": "B",
+          "texto": "La inversión de la carga de la prueba en todo proceso",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 2.c, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Tribunales exclusivos para mujeres",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 2.c, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Indemnizaciones automáticas",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 2.c, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Según las inmunidades del artículo 63 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), los magistrados del MPF no podrán ser arrestados:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Excepto en caso de ser sorprendidos en flagrante delito, dando cuenta al Procurador General con la información sumaria del hecho",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 63 inc. a de la Ley N° 27.148 dispone que no podrán ser arrestados, excepto en caso de ser sorprendidos en flagrante delito, supuesto en el que se dará cuenta al Procurador General con la información sumaria del hecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Salvo orden del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 63 inc. a de la Ley N° 27.148 prevé la excepción de flagrante delito, no una orden del Poder Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Bajo ninguna circunstancia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 63 inc. a de la Ley N° 27.148 admite el arresto en caso de flagrante delito, por lo que no es bajo ninguna circunstancia."
+        },
+        {
+          "letra": "D",
+          "texto": "Salvo autorización del Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 63 inc. a de la Ley N° 27.148 prevé la excepción de flagrante delito, no una autorización del Senado."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo del documento institucional 'Qué es el Ministerio Público Fiscal', ¿qué dependencias integran la jurisdicción de Bahía Blanca?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Unidad Fiscal Bahía Blanca y Fiscalía Federal de Mercedes",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Jurisdicción Bahía Blanca; la opción correcta es la 'a'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Bahía Blanca, Res. PGN N° 42/25): Unidad Fiscal Bahía Blanca, Unidad Fiscal Santa Rosa y Fiscalía Federal de General Pico (creada por ley, no habilitada)."
+        },
+        {
+          "letra": "B",
+          "texto": "Unidad Fiscal Bahía Blanca, Unidad Fiscal Neuquén y Sede Descentralizada de Viedma",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Jurisdicción Bahía Blanca; la opción correcta es la 'a'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Bahía Blanca, Res. PGN N° 42/25): Unidad Fiscal Bahía Blanca, Unidad Fiscal Santa Rosa y Fiscalía Federal de General Pico (creada por ley, no habilitada)."
+        },
+        {
+          "letra": "C",
+          "texto": "Unidad Fiscal Bahía Blanca, Unidad Fiscal Mar del Plata y Sede de Necochea",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Jurisdicción Bahía Blanca; la opción correcta es la 'a'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Bahía Blanca, Res. PGN N° 42/25): Unidad Fiscal Bahía Blanca, Unidad Fiscal Santa Rosa y Fiscalía Federal de General Pico (creada por ley, no habilitada)."
+        },
+        {
+          "letra": "D",
+          "texto": "Unidad Fiscal Bahía Blanca, Unidad Fiscal Santa Rosa y Fiscalía Federal de General Pico (creada por ley, no habilitada)",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Bahía Blanca, Res. PGN N° 42/25): Unidad Fiscal Bahía Blanca, Unidad Fiscal Santa Rosa y Fiscalía Federal de General Pico (creada por ley, no habilitada)."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Las personas citadas por integrantes del MPF a prestar declaración, conforme el artículo 7 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo concurren si lo autoriza un juez",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7 de la Ley N° 27.148 no exige autorización judicial para la citación a declarar."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente declaran por escrito",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7 de la Ley N° 27.148 prevé la obligación de concurrir, no una declaración únicamente por escrito."
+        },
+        {
+          "letra": "C",
+          "texto": "Pueden negarse libremente a concurrir",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7 de la Ley N° 27.148 establece que las personas citadas estarán obligadas a concurrir, no que puedan negarse libremente."
+        },
+        {
+          "letra": "D",
+          "texto": "Estarán obligadas a concurrir y podrán ser conducidas por la fuerza pública en caso de ausencia injustificada",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 7 de la Ley N° 27.148 dispone que las personas citadas estarán obligadas a concurrir y podrán ser conducidas por la fuerza pública en caso de ausencia injustificada."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Conforme al artículo 12 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), el Ministerio de Trabajo también apoyará la labor de las personas discapacitadas a través de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Becas de formación profesional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 12 de la Ley N° 22.431 no menciona becas de formación profesional."
+        },
+        {
+          "letra": "B",
+          "texto": "El régimen de pasantías rentadas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 12 de la Ley N° 22.431 no menciona el régimen de pasantías rentadas."
+        },
+        {
+          "letra": "C",
+          "texto": "El régimen de trabajo a domicilio",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 12 de la Ley N° 22.431 dispone que también apoya la labor a través del régimen de trabajo a domicilio."
+        },
+        {
+          "letra": "D",
+          "texto": "Cooperativas de producción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 12 de la Ley N° 22.431 no menciona las cooperativas de producción."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según los considerandos de la Resolución PGN N° 3329/2016, ¿cuántos concursos se habían convocado tras dos años y medio de aprobada la reglamentación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Noventa (90), de los cuales ochenta y nueve (89) concluyeron",
+          "correcta": true,
+          "explicacion": "Correcta. Considerandos, Resolución PGN N° 3329/2016: se convocaron noventa (90) concursos, de los cuales ochenta y nueve (89) concluyeron."
+        },
+        {
+          "letra": "B",
+          "texto": "Cien (100)",
+          "correcta": false,
+          "explicacion": "Incorrecta. Considerandos, Resolución PGN N° 3329/2016: la norma no dispone «Cien (100)»; lo correcto es: se convocaron noventa (90) concursos, de los cuales ochenta y nueve (89) concluyeron."
+        },
+        {
+          "letra": "C",
+          "texto": "Cincuenta (50)",
+          "correcta": false,
+          "explicacion": "Incorrecta. Considerandos, Resolución PGN N° 3329/2016: la norma no dispone «Cincuenta (50)»; lo correcto es: se convocaron noventa (90) concursos, de los cuales ochenta y nueve (89) concluyeron."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuarenta (40)",
+          "correcta": false,
+          "explicacion": "Incorrecta. Considerandos, Resolución PGN N° 3329/2016: la norma no dispone «Cuarenta (40)»; lo correcto es: se convocaron noventa (90) concursos, de los cuales ochenta y nueve (89) concluyeron."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Conforme a la pauta 8 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), notificada la calificación, el agente podrá solicitar reconsideración en el plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco (5) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. El plazo de cinco (5) días hábiles corresponde a la resolución de la reconsideración, no a su interposición, según la pauta 8 del art. 81 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "B",
+          "texto": "Veinticuatro (24) horas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija veinticuatro (24) horas para solicitar reconsideración."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez (10) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija diez (10) días hábiles para solicitar reconsideración."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres (3) días hábiles",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 8 inc. d) del art. 81 de la Res. PGN N° 128/2010 fija tres (3) días hábiles para solicitar reconsideración."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 4 de la Ley N° 26.743, ¿cuál es la edad mínima para solicitar la rectificación registral del sexo, salvo la excepción del art. 5?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "dieciocho (18) años",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 4 de la Ley N° 26.743 (Identidad de Género). Art. 4 inc. 1: 'Acreditar la edad mínima de dieciocho (18) años de edad, con excepción de lo establecido en el artículo 5° de la presente ley.'"
+        },
+        {
+          "letra": "B",
+          "texto": "catorce (14) años",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "dieciséis (16) años",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "veintiún (21) años",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 22 inciso a) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué obligación tienen las empresas de transporte colectivo terrestre sometidas al contralor de autoridad nacional respecto de las personas con discapacidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reservarles la totalidad de los asientos del coche",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 inciso a) de la Ley N° 22.431 no obliga a reservar la totalidad de los asientos del coche."
+        },
+        {
+          "letra": "B",
+          "texto": "Transportarlas gratuitamente en el trayecto que medie entre el domicilio de las mismas y cualquier destino al que deban concurrir por razones familiares, asistenciales, educacionales, laborales o de cualquier otra índole que tiendan a favorecer su plena integración social",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 22 inciso a) de la Ley N° 22.431 obliga a transportar gratuitamente a las personas con discapacidad entre su domicilio y cualquier destino que favorezca su integración social."
+        },
+        {
+          "letra": "C",
+          "texto": "Otorgar un descuento del 50% en el pasaje",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 inciso a) de la Ley N° 22.431 establece la gratuidad, no un descuento del 50%."
+        },
+        {
+          "letra": "D",
+          "texto": "Transportarlas gratuitamente solo en el trayecto al lugar de trabajo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 inciso a) de la Ley N° 22.431 no limita la gratuidad al trayecto al lugar de trabajo."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 4 de la Ley N° 26.485 considera violencia indirecta a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la violencia ejercida por terceros ajenos a la familia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "toda conducta, acción, omisión, disposición, criterio o práctica discriminatoria que ponga a la mujer en desventaja con respecto al varón",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 4: 'Se considera violencia indirecta... toda conducta, acción omisión, disposición, criterio o práctica discriminatoria que ponga a la mujer en desventaja con respecto al varón.'"
+        },
+        {
+          "letra": "C",
+          "texto": "la violencia que no produce daño físico",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "la violencia tolerada por organizaciones privadas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Conforme al artículo 72 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), los titulares de las dependencias deberán habilitar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un Libro de Actas donde se asentará y certificará el cumplimiento de los actos de juramento",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 72 de la Res. PGN N° 128/2010 ordena habilitar un Libro de Actas donde se asentará y certificará el cumplimiento de los actos de juramento."
+        },
+        {
+          "letra": "B",
+          "texto": "Un legajo de antecedentes penales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 72 de la Res. PGN N° 128/2010 no exige habilitar un legajo de antecedentes penales."
+        },
+        {
+          "letra": "C",
+          "texto": "Un registro digital de firmas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 72 de la Res. PGN N° 128/2010 no prevé un registro digital de firmas."
+        },
+        {
+          "letra": "D",
+          "texto": "Un libro de quejas del personal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 72 de la Res. PGN N° 128/2010 no contempla un libro de quejas del personal."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 45 inc. c) del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), la solvencia en búsquedas en la web otorga hasta:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Diez (10) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 45 inc. c), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Diez (10) puntos»; lo correcto es: hasta veinte (20) puntos por la solvencia en búsquedas en la web."
+        },
+        {
+          "letra": "B",
+          "texto": "Treinta (30) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 45 inc. c), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Treinta (30) puntos»; lo correcto es: hasta veinte (20) puntos por la solvencia en búsquedas en la web."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuarenta (40) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 45 inc. c), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Cuarenta (40) puntos»; lo correcto es: hasta veinte (20) puntos por la solvencia en búsquedas en la web."
+        },
+        {
+          "letra": "D",
+          "texto": "Veinte (20) puntos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 45 inc. c), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): hasta veinte (20) puntos por la solvencia en búsquedas en la web."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Un juez recibe una denuncia por violencia doméstica. La presunta víctima y el presunto agresor tienen hijos en común y conviven en un inmueble cuya titularidad es del agresor. La víctima teme por su seguridad.",
+    "consigna": "Enumere las medidas preventivas urgentes que el juez puede disponer y explique el régimen de la audiencia posterior.",
+    "resolucion_didactica": "(a) Respuesta: El juez puede disponer, de oficio o a petición de parte y en cualquier etapa, diversas medidas preventivas urgentes (entre ellas la exclusión del agresor de la residencia común con independencia de su titularidad), y debe fijar una audiencia que tomará personalmente bajo pena de nulidad dentro de las 48 horas, escuchando a las partes por separado, sin que proceda mediación ni conciliación.\n(b) Razonamiento jurídico paso a paso: 1) Conforme al art. 26 inc. a de la Ley N° 26.485, puede ordenar -entre otras- la prohibición de acercamiento, el cese de actos de perturbación y la prohibición de compra y tenencia de armas con secuestro. 2) Por tratarse de violencia doméstica, el art. 26 inc. b de la Ley N° 26.485 habilita la exclusión del agresor de la residencia común con independencia de la titularidad, la fijación de cuota alimentaria provisoria si correspondiese y la suspensión provisoria del régimen de visitas. 3) Según el art. 28 de la Ley N° 26.485, debe fijar audiencia que tomará personalmente bajo pena de nulidad dentro de las 48 horas de ordenadas las medidas. 4) En esa audiencia escuchará a las partes por separado bajo pena de nulidad y quedan prohibidas las audiencias de mediación o conciliación (art. 28, Ley N° 26.485).\n(c) Normas y conceptos aplicables: Ley N° 26.485, arts. 26 incs. a y b (medidas preventivas urgentes, incluida la exclusión del hogar con independencia de la titularidad) y 28 (audiencia en 48 horas, partes por separado, prohibición de mediación y conciliación).",
+    "fundamento_normativo": "Ley N° 26.485, arts. 26 incs. a y b; y 28."
+  }
+}

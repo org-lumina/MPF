@@ -1,0 +1,786 @@
+{
+  "examen_id": 17,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 99 inciso 1 de la Constitución Nacional, ¿qué carácter tiene el Presidente respecto de la administración general del país?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es ajeno a la administración",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 1 de la Constitución Nacional declara al Presidente responsable político de la administración general del país; no es ajeno a ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Es el jefe supremo de la Nación, jefe del gobierno y responsable político de la administración general del país",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 99 inc. 1 de la Constitución Nacional dispone que el Presidente es el jefe supremo de la Nación, jefe del gobierno y responsable político de la administración general del país."
+        },
+        {
+          "letra": "C",
+          "texto": "Es solo el comandante de las fuerzas armadas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 12 de la Constitución Nacional lo declara comandante en jefe de las Fuerzas Armadas, pero el inc. 1 le atribuye además ser jefe supremo y responsable político de la administración."
+        },
+        {
+          "letra": "D",
+          "texto": "Es el jefe del Poder Legislativo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 1 de la Constitución Nacional no lo hace jefe del Poder Legislativo; lo declara jefe supremo de la Nación y jefe del gobierno."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 17 de la Constitución Nacional, ¿qué requisitos debe reunir la expropiación por causa de utilidad pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ser autorizada por el gobernador de provincia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 17 de la Constitución Nacional no la subordina a la autorización del gobernador; exige ley e indemnización previa."
+        },
+        {
+          "letra": "B",
+          "texto": "Ser dispuesta por decreto y posteriormente indemnizada",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 17 de la Constitución Nacional exige que sea calificada por ley y previamente indemnizada, no dispuesta por decreto ni indemnizada con posterioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Ser ordenada por la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 17 de la Constitución Nacional no atribuye la expropiación a una orden de la Corte Suprema; requiere calificación por ley e indemnización previa."
+        },
+        {
+          "letra": "D",
+          "texto": "Ser calificada por ley y previamente indemnizada",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 17 de la Constitución Nacional dispone que la expropiación por causa de utilidad pública debe ser calificada por ley y previamente indemnizada."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento institucional 'Qué es el Ministerio Público Fiscal', el diseño que impuso el abandono progresivo de la estructura reflejo al Poder Judicial fue aprobado por la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Resolución PGN N° 66/19",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Organización interna del MPF; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Organización interna del MPF): el diseño que impuso el abandono de la estructura reflejo al Poder Judicial fue aprobado por la Resolución PGN N° 35/19."
+        },
+        {
+          "letra": "B",
+          "texto": "Resolución PGN N° 16/2018",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Organización interna del MPF; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Organización interna del MPF): el diseño que impuso el abandono de la estructura reflejo al Poder Judicial fue aprobado por la Resolución PGN N° 35/19."
+        },
+        {
+          "letra": "C",
+          "texto": "Resolución PGN N° 42/25",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Organización interna del MPF; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Organización interna del MPF): el diseño que impuso el abandono de la estructura reflejo al Poder Judicial fue aprobado por la Resolución PGN N° 35/19."
+        },
+        {
+          "letra": "D",
+          "texto": "Resolución PGN N° 35/19",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Organización interna del MPF): el diseño que impuso el abandono de la estructura reflejo al Poder Judicial fue aprobado por la Resolución PGN N° 35/19."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando II de la Resolución PGN N° 70/2022, la Ley de Protección Integral para prevenir, sancionar y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales es la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley N° 26485",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando II: la Ley de Protección Integral contra la violencia contra las mujeres es la N° 26485 (con su Decreto Reglamentario N° 1011/10)."
+        },
+        {
+          "letra": "B",
+          "texto": "Ley N° 27372",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando II: la Ley de Protección Integral contra la violencia contra las mujeres es la N° 26485 (con su Decreto Reglamentario N° 1011/10)."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley N° 27499",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando II: la Ley de Protección Integral contra la violencia contra las mujeres es la N° 26485 (con su Decreto Reglamentario N° 1011/10)."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley N° 24632",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando II: la Ley de Protección Integral contra la violencia contra las mujeres es la N° 26485 (con su Decreto Reglamentario N° 1011/10)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 27 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, en caso de guerra o emergencia que amenace la independencia del Estado, la suspensión de garantías:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puede entrañar discriminación por origen nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 27.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Requiere autorización previa de la Corte",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 27.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Puede ser total y permanente",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 27.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo procede en la medida y por el tiempo estrictamente limitados a las exigencias de la situación y sin discriminación por raza, color, sexo, idioma, religión u origen social",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 27.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): suspensión limitada a las exigencias de la situación y sin discriminación por raza, color, sexo, idioma, religión u origen social."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El inc. 4 del art. 80 del Código Penal, según la Ley N° 26.791, agrava el homicidio cometido:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por placer, codicia, odio racial, religioso, de género o a la orientación sexual, identidad de género o su expresión",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 4 CP). Ley N° 26.791, art. 1 (art. 80 inc. 4 CP): 'Por placer, codicia, odio racial, religioso, de género o a la orientación sexual, identidad de género o su expresión.'"
+        },
+        {
+          "letra": "B",
+          "texto": "exclusivamente por codicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 4 CP); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente con alevosía",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 4 CP); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "sólo por odio racial o religioso",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 4 CP); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Según el artículo 56 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), la capacitación de los agentes del MPF:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es una condición esencial de desempeño y constituye un derecho y un deber; será integral, permanente y gratuita",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 56 de la Ley N° 27.148 dispone que la capacitación es una condición esencial de desempeño y constituye un derecho y un deber de todos los agentes, y que será integral, permanente y gratuita."
+        },
+        {
+          "letra": "B",
+          "texto": "Se realiza exclusivamente en el extranjero",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 56 de la Ley N° 27.148 no limita la capacitación al extranjero; se ejecuta con recursos propios o por convenios."
+        },
+        {
+          "letra": "C",
+          "texto": "Es facultativa y arancelada",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 56 de la Ley N° 27.148 establece que la capacitación es gratuita y constituye un deber, no facultativa y arancelada."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo se brinda a los fiscales generales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 56 de la Ley N° 27.148 alcanza a todos los agentes del MPF, no solo a los fiscales generales."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Cuál es el plazo máximo del Tribunal de Enjuiciamiento desde la recepción de las actuaciones para emitir sentencia, conforme el artículo 80 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sesenta (60) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. c de la Ley N° 27.148 fija ciento ochenta días hábiles, no sesenta."
+        },
+        {
+          "letra": "B",
+          "texto": "Trescientos sesenta (360) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. c de la Ley N° 27.148 fija ciento ochenta días hábiles, no trescientos sesenta."
+        },
+        {
+          "letra": "C",
+          "texto": "Noventa (90) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. c de la Ley N° 27.148 fija ciento ochenta días hábiles, no noventa."
+        },
+        {
+          "letra": "D",
+          "texto": "Ciento ochenta (180) días hábiles",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80 inc. c de la Ley N° 27.148 dispone que el Tribunal de Enjuiciamiento tiene un plazo máximo de ciento ochenta (180) días hábiles desde la recepción de las actuaciones para emitir sentencia."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 13 inciso d) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), el Ministerio de Educación debe coordinar con las autoridades competentes las derivaciones de los educandos discapacitados a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hogares con internación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso d) de la Ley N° 22.431 no se refiere a derivaciones a hogares con internación."
+        },
+        {
+          "letra": "B",
+          "texto": "Establecimientos de salud",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso d) de la Ley N° 22.431 no se refiere a derivaciones a establecimientos de salud."
+        },
+        {
+          "letra": "C",
+          "texto": "Programas de rehabilitación domiciliaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso d) de la Ley N° 22.431 no se refiere a programas de rehabilitación domiciliaria."
+        },
+        {
+          "letra": "D",
+          "texto": "Tareas competitivas o a talleres protegidos",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 13 inciso d) de la Ley N° 22.431 dispone coordinar las derivaciones a tareas competitivas o a talleres protegidos."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Conforme al artículo 5 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el titular de la dependencia podrá designar en forma directa:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos (2) cargos letrados",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 5, Ley N° 26.861: el titular de la dependencia podrá designar en forma directa dos (2) cargos letrados."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) cargos letrados",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Ley N° 26.861: la norma no dispone «Tres (3) cargos letrados»; lo correcto es: el titular de la dependencia podrá designar en forma directa dos (2) cargos letrados."
+        },
+        {
+          "letra": "C",
+          "texto": "Un (1) cargo letrado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Ley N° 26.861: la norma no dispone «Un (1) cargo letrado»; lo correcto es: el titular de la dependencia podrá designar en forma directa dos (2) cargos letrados."
+        },
+        {
+          "letra": "D",
+          "texto": "Ningún cargo letrado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Ley N° 26.861: la norma no dispone «Ningún cargo letrado»; lo correcto es: el titular de la dependencia podrá designar en forma directa dos (2) cargos letrados."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 36 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, los miembros de la Comisión son elegidos por un período de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seis años, sin reelección",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 36.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuatro años y solo podrán ser reelegidos una vez",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 36.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): los miembros de la Comisión son elegidos por cuatro años y solo pueden ser reelegidos una vez."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco años, reelegibles indefinidamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 36.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres años, reelegibles dos veces",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 36.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 51 del Reglamento para el Ingreso Democrático e Igualitario al MPF, modificado por la Resolución PGN N° 3329/2016, el tope de desinsaculados es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Veinte (20) titulares",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve III (art. 51 del Reglamento): la norma no dispone «Veinte (20) titulares»; lo correcto es: el tope de desinsaculados es de diez (10) titulares y diez (10) suplentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez (10) titulares y diez (10) suplentes",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, resuelve III (art. 51 del Reglamento): el tope de desinsaculados es de diez (10) titulares y diez (10) suplentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Cien (100) titulares",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve III (art. 51 del Reglamento): la norma no dispone «Cien (100) titulares»; lo correcto es: el tope de desinsaculados es de diez (10) titulares y diez (10) suplentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Diez (10) titulares únicamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve III (art. 51 del Reglamento): la norma no dispone «Diez (10) titulares únicamente»; lo correcto es: el tope de desinsaculados es de diez (10) titulares y diez (10) suplentes."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 3 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, los Estados tomarán medidas apropiadas, incluso legislativas, en todas las esferas para:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Asegurar el pleno desarrollo y adelanto de la mujer, garantizándole el ejercicio y goce de los derechos humanos y libertades fundamentales en igualdad con el hombre",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 3, CEDAW (Ley N° 23.179): medidas para el pleno desarrollo y adelanto de la mujer en igualdad de condiciones con el hombre."
+        },
+        {
+          "letra": "B",
+          "texto": "Eliminar las medidas de protección de la maternidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 3, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Limitar la participación femenina al ámbito doméstico",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 3, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Reservar ciertos derechos a la mujer casada",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 3, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 18 de la Constitución Nacional (cláusula del progreso), ¿qué debe proveer el Congreso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La reforma constitucional",
+          "correcta": false,
+          "explicacion": "Incorrecta. La reforma constitucional se rige por el art. 30 de la Constitución Nacional, no por el art. 75 inc. 18."
+        },
+        {
+          "letra": "B",
+          "texto": "La intervención federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. La intervención federal es atribución del art. 75 inc. 31 de la Constitución Nacional, no de la cláusula del progreso del inc. 18."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo la defensa nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 18 de la Constitución Nacional no se limita a la defensa nacional; provee a la prosperidad del país y al progreso de la ilustración, entre otros fines."
+        },
+        {
+          "letra": "D",
+          "texto": "Lo conducente a la prosperidad del país, al adelanto y bienestar de todas las provincias, y al progreso de la ilustración",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 18 de la Constitución Nacional (cláusula del progreso) dispone que el Congreso provee lo conducente a la prosperidad del país, al adelanto y bienestar de todas las provincias, y al progreso de la ilustración."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 16 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), el monto de las asignaciones por escolaridad primaria, media y superior y de ayuda escolar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se mantiene igual que para los demás hijos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 16 de la Ley N° 22.431 no mantiene el monto igual al de los demás hijos."
+        },
+        {
+          "letra": "B",
+          "texto": "Se duplicará cuando el hijo a cargo del trabajador, de cualquier edad, fuere discapacitado y concurriese a establecimiento oficial, o privado controlado por autoridad competente",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 16 de la Ley N° 22.431 duplica las asignaciones cuando el hijo a cargo, de cualquier edad, es discapacitado y concurre a establecimiento oficial o privado controlado."
+        },
+        {
+          "letra": "C",
+          "texto": "Se incrementa un 50%",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 16 de la Ley N° 22.431 dispone la duplicación, no un incremento del 50%."
+        },
+        {
+          "letra": "D",
+          "texto": "Se triplicará en todos los casos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 16 de la Ley N° 22.431 dispone la duplicación, no la triplicación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El Fiscal Nacional de Investigaciones Administrativas será designado, conforme el artículo 26 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el Poder Ejecutivo con acuerdo del Senado por dos tercios",
+          "correcta": false,
+          "explicacion": "Incorrecta. El procedimiento de acuerdo del Senado por dos tercios rige para el Procurador General (art. 11 de la Ley N° 27.148), no para el Fiscal Nacional de Investigaciones Administrativas."
+        },
+        {
+          "letra": "B",
+          "texto": "Por sorteo entre los fiscales generales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 26 de la Ley N° 27.148 establece concurso, no sorteo entre los fiscales generales."
+        },
+        {
+          "letra": "C",
+          "texto": "Directamente por el Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 26 de la Ley N° 27.148 prevé concurso para ese cargo, no designación directa por el Procurador General."
+        },
+        {
+          "letra": "D",
+          "texto": "Por concurso para ese cargo y no podrá ser separado de él salvo por los motivos previstos en esta ley",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 26 de la Ley N° 27.148 dispone que el Fiscal Nacional de Investigaciones Administrativas será designado por concurso para ese cargo y no podrá ser separado de él salvo por los motivos previstos en esta ley."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando VI de la Resolución PGN N° 70/2022, la resolución se dicta de acuerdo a las atribuciones previstas en los artículos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "75 inc. 22 de la CN y 16 de la Ley 27499",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando VI / Resuelvo; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando VI: se dicta conforme las atribuciones de los artículos 12 de la Ley 27148 y 33 de la Ley 24946."
+        },
+        {
+          "letra": "B",
+          "texto": "120 de la Constitución Nacional y 2 de la Ley 27150",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando VI / Resuelvo; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando VI: se dicta conforme las atribuciones de los artículos 12 de la Ley 27148 y 33 de la Ley 24946."
+        },
+        {
+          "letra": "C",
+          "texto": "44 y 50 de la LOMPF",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando VI / Resuelvo; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando VI: se dicta conforme las atribuciones de los artículos 12 de la Ley 27148 y 33 de la Ley 24946."
+        },
+        {
+          "letra": "D",
+          "texto": "12 de la Ley 27148 y 33 de la Ley 24946",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando VI: se dicta conforme las atribuciones de los artículos 12 de la Ley 27148 y 33 de la Ley 24946."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 49 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), el Tribunal Evaluador resuelve las impugnaciones en 'Técnico Administrativo' en el plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Diez (10) días",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 49, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Diez (10) días»; lo correcto es: el TE resuelve las impugnaciones en quince (15) días, ampliable según el número de impugnaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (5) días",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 49, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Cinco (5) días»; lo correcto es: el TE resuelve las impugnaciones en quince (15) días, ampliable según el número de impugnaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Quince (15) días, ampliable según el número de impugnaciones",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 49, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): el TE resuelve las impugnaciones en quince (15) días, ampliable según el número de impugnaciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Veinte (20) días",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 49, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Veinte (20) días»; lo correcto es: el TE resuelve las impugnaciones en quince (15) días, ampliable según el número de impugnaciones."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 6 de la Ley N° 26.485 define las modalidades como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las formas en que se manifiestan los distintos tipos de violencia contra las mujeres en los diferentes ámbitos",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 6: 'A los efectos de esta ley se entiende por modalidades las formas en que se manifiestan los distintos tipos de violencia contra las mujeres en los diferentes ámbitos...'"
+        },
+        {
+          "letra": "B",
+          "texto": "los tipos de daño que sufre la mujer",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "las sanciones aplicables al agresor",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "los derechos procesales de la víctima",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El Procurador General de la Nación es, conforme el artículo 11 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un vocal del Consejo General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 11 de la Ley N° 27.148 define al Procurador General como jefe del MPF; preside el Consejo General (art. 16) pero no es un mero vocal."
+        },
+        {
+          "letra": "B",
+          "texto": "Un fiscal de distrito con funciones ampliadas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 11 de la Ley N° 27.148 lo define como jefe del organismo con autoridad en todo el territorio nacional, no como un fiscal de distrito."
+        },
+        {
+          "letra": "C",
+          "texto": "El presidente del Tribunal de Enjuiciamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 11 de la Ley N° 27.148 no identifica al Procurador General con la presidencia del Tribunal de Enjuiciamiento."
+        },
+        {
+          "letra": "D",
+          "texto": "El jefe del Ministerio Público Fiscal de la Nación y el responsable de su buen funcionamiento",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 11 de la Ley N° 27.148 establece que el Procurador General es el jefe del MPF de la Nación y el responsable de su buen funcionamiento."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 9 de la Ley N° 26.485 encomienda al Consejo Nacional de la Mujer implementar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un fondo de reparación económica directa",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "una línea telefónica gratuita y accesible para dar contención, información y asesoramiento",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 9 inc. o: 'Implementar una línea telefónica gratuita y accesible en forma articulada con las provincias... destinada a dar contención, información y brindar asesoramiento sobre recursos existentes...'"
+        },
+        {
+          "letra": "C",
+          "texto": "un registro de antecedentes penales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "un tribunal especializado en violencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 42 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), ¿con qué dispositivos no pueden ingresar los aspirantes a la sala de pruebas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anteojos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 42, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Anteojos»; lo correcto es: no se puede ingresar a la sala con teléfonos celulares ni otro dispositivo que permita la transmisión digital de datos."
+        },
+        {
+          "letra": "B",
+          "texto": "Calculadoras",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 42, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Calculadoras»; lo correcto es: no se puede ingresar a la sala con teléfonos celulares ni otro dispositivo que permita la transmisión digital de datos."
+        },
+        {
+          "letra": "C",
+          "texto": "Material bibliográfico impreso",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 42, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Material bibliográfico impreso»; lo correcto es: no se puede ingresar a la sala con teléfonos celulares ni otro dispositivo que permita la transmisión digital de datos."
+        },
+        {
+          "letra": "D",
+          "texto": "Teléfonos celulares ni otro dispositivo que permita la transmisión digital de datos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 42, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): no se puede ingresar a la sala con teléfonos celulares ni otro dispositivo que permita la transmisión digital de datos."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 12 de la Ley N° 26.743 (trato digno) dispone que, a solo requerimiento del interesado, el nombre de pila adoptado deberá ser utilizado para:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la citación, registro, legajo, llamado y cualquier otra gestión o servicio, en los ámbitos públicos como privados",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 12 de la Ley N° 26.743 (Identidad de Género). Art. 12: '...el nombre de pila adoptado deberá ser utilizado para la citación, registro, legajo, llamado y cualquier otra gestión o servicio, tanto en los ámbitos públicos como privados.'"
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente el ámbito privado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 12 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo las gestiones judiciales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 12 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "exclusivamente los trámites del Registro Civil",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 12 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "En las fórmulas de juramento del artículo 73 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), el funcionario se compromete a desempeñar el cargo:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con honor y con lealtad, observando y haciendo observar fielmente la Constitución de la Nación Argentina",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 73 de la Res. PGN N° 128/2010 compromete a desempeñar el cargo con honor y con lealtad, observando y haciendo observar fielmente la Constitución de la Nación Argentina."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta el cumplimiento de la edad jubilatoria",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las fórmulas del art. 73 de la Res. PGN N° 128/2010 no condicionan el cargo al cumplimiento de la edad jubilatoria."
+        },
+        {
+          "letra": "C",
+          "texto": "Conforme a las instrucciones de su superior jerárquico",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las fórmulas del art. 73 de la Res. PGN N° 128/2010 no aluden a las instrucciones del superior jerárquico."
+        },
+        {
+          "letra": "D",
+          "texto": "Según el reglamento interno de cada fiscalía",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las fórmulas del art. 73 de la Res. PGN N° 128/2010 no remiten al reglamento interno de cada fiscalía."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Conforme al artículo 84 (Disposición Complementaria) de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), ante la insuficiencia de la normativa prevista en el art. 65 de la Ley N° 24.946 y ausencia de regulaciones específicas, corresponde la aplicación analógica de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Código Civil y Comercial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 84 de la Res. PGN N° 128/2010 no remite analógicamente al Código Civil y Comercial."
+        },
+        {
+          "letra": "B",
+          "texto": "La Ley 27.148",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 84 de la Res. PGN N° 128/2010 no remite analógicamente a la Ley 27.148."
+        },
+        {
+          "letra": "C",
+          "texto": "La Ley N° 25.164 (Ley Marco de Regulación de Empleo Público Nacional)",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 84 de la Res. PGN N° 128/2010 dispone la aplicación analógica de la Ley N° 25.164."
+        },
+        {
+          "letra": "D",
+          "texto": "La Ley de Contrato de Trabajo (Ley 20.744)",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 84 de la Res. PGN N° 128/2010 no remite analógicamente a la Ley de Contrato de Trabajo."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Una persona es detenida sin que se le informen las razones de su detención, permanece varios días sin ser llevada ante un juez y se le niega un defensor. Posteriormente es condenada con base en una confesión obtenida mediante coacción. La defensa plantea que se vulneraron sus garantías.",
+    "consigna": "Identifique las garantías de la Convención Americana violadas y la procedencia eventual de acudir al sistema interamericano.",
+    "resolucion_didactica": "(a) Respuesta: Se vulneraron las garantías de los arts. 7 y 8 de la CADH (libertad personal, defensa, presunción de inocencia y validez de la confesión), y, agotados los recursos internos, procede peticionar ante la Comisión IDH.\n(b) Razonamiento jurídico paso a paso: 1) Se violó el art. 7 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054: el derecho a ser informada sin demora de las razones de la detención (art. 7.4) y a ser llevada sin demora ante un juez (art. 7.5). 2) Se violó el art. 8: el derecho de defensa y a ser asistida por defensor, incluido el defensor proporcionado por el Estado (art. 8.2.d y 8.2.e), y la presunción de inocencia (art. 8.2). 3) La condena basada en confesión coaccionada es inválida porque, conforme al art. 8.3, la confesión solo vale si es hecha sin coacción de ninguna naturaleza. 4) Agotados los recursos internos, puede presentarse petición ante la Comisión (art. 44) dentro de los seis meses de notificada la decisión definitiva (art. 46.1.b), salvo las excepciones del art. 46.2; eventualmente el caso puede llegar a la Corte, sometido por la Comisión o por el Estado (art. 61.1).\n(c) Normas y conceptos aplicables: arts. 7.4, 7.5, 8.2, 8.2.d, 8.2.e, 8.3, 44, 46 y 61 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054; debido proceso y agotamiento de recursos internos.",
+    "fundamento_normativo": "Arts. 7.4, 7.5, 8.2, 8.2.d, 8.2.e, 8.3, 44, 46 y 61, Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054."
+  }
+}

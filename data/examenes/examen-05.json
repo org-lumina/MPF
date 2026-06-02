@@ -1,0 +1,786 @@
+{
+  "examen_id": 5,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 16 inc. j de la Ley N° 26.485 reconoce el derecho de la mujer a oponerse a inspecciones sobre su cuerpo por fuera del estricto marco de la orden judicial, y en caso de consentirlas:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pierde el derecho a la confidencialidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "renuncia a impugnar el resultado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "debe abonar el costo de la pericia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "tiene derecho a ser acompañada por alguien de su confianza y a que sean realizados por personal especializado formado con perspectiva de género",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 16 inc. j: '...tiene derecho a ser acompañada por alguien de su confianza y a que sean realizados por personal profesional especializado y formado con perspectiva de género.'"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 44 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, ¿quién puede presentar peticiones a la Comisión con denuncias de violación de la Convención?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Exclusivamente las organizaciones internacionales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 44, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo la víctima directa de la violación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 44, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier persona o grupo de personas, o entidad no gubernamental legalmente reconocida en uno o más Estados Miembros de la Organización",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 44, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): cualquier persona, grupo o ONG legalmente reconocida puede presentar peticiones."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente los Estados Partes",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 44, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 2 de la Constitución Nacional, ¿qué carácter tienen las contribuciones directas e indirectas allí previstas, con ciertas excepciones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No pueden ser impuestas por el Congreso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 2 de la Constitución Nacional faculta al Congreso a imponer esas contribuciones; no se las priva de poder imponerlas."
+        },
+        {
+          "letra": "B",
+          "texto": "Son coparticipables",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 2 de la Constitución Nacional dispone que esas contribuciones son coparticipables, con excepción de la parte o el total de las que tengan asignación específica."
+        },
+        {
+          "letra": "C",
+          "texto": "Son de exclusiva competencia provincial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 2 de la Constitución Nacional las atribuye al Congreso (contribuciones indirectas concurrentes y directas por tiempo determinado), no a la exclusiva competencia provincial."
+        },
+        {
+          "letra": "D",
+          "texto": "Son siempre de asignación específica",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 2 de la Constitución Nacional prevé que son coparticipables salvo las que tengan asignación específica; no que sean siempre de asignación específica."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 9 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, respecto de la nacionalidad, los Estados garantizarán que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La nacionalidad de los hijos sigue siempre la del padre",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 9.1, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "La mujer pierde su nacionalidad al casarse",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 9.1, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "El matrimonio con un extranjero cambia automáticamente la nacionalidad de la esposa",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 9.1, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Ni el matrimonio con un extranjero ni el cambio de nacionalidad del marido durante el matrimonio cambien automáticamente la nacionalidad de la esposa, la conviertan en apátrida o la obliguen a adoptar la del cónyuge",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 9.1, CEDAW (Ley N° 23.179): el matrimonio o el cambio de nacionalidad del marido no alteran automáticamente la nacionalidad de la esposa."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el artículo 81 del Régimen de Funcionarios y Empleados (Anexo III de la Resolución PGN N° 70/2022), el recurso de reconsideración deberá ser resuelto en el plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Diez (10) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 81; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 81: la reconsideración deberá ser resuelta en el plazo de cinco (5) días hábiles contados desde su presentación."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 81; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 81: la reconsideración deberá ser resuelta en el plazo de cinco (5) días hábiles contados desde su presentación."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco (5) días hábiles contados desde su presentación",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo III, art. 81: la reconsideración deberá ser resuelta en el plazo de cinco (5) días hábiles contados desde su presentación."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos (2) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 81; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 81: la reconsideración deberá ser resuelta en el plazo de cinco (5) días hábiles contados desde su presentación."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 3 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, reconoce que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Toda mujer tiene derecho a una vida libre de violencia, tanto en el ámbito público como en el privado",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 3, Convención de Belém do Pará (Ley N° 24.632): toda mujer tiene derecho a una vida libre de violencia en el ámbito público y privado."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho depende de la legislación interna de cada Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 3, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo las mujeres casadas tienen protección",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 3, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho se limita al ámbito doméstico",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 3, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 9 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el cupo mínimo de cargos a cubrir por personas con discapacidad es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuatro por ciento (4%)",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 9, Ley N° 26.861: el cuatro por ciento (4%), como mínimo, de los cargos debe ser ocupado por personas con discapacidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco por ciento (5%)",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 9, Ley N° 26.861: la norma no dispone «Cinco por ciento (5%)»; lo correcto es: el cuatro por ciento (4%), como mínimo, de los cargos debe ser ocupado por personas con discapacidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez por ciento (10%)",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 9, Ley N° 26.861: la norma no dispone «Diez por ciento (10%)»; lo correcto es: el cuatro por ciento (4%), como mínimo, de los cargos debe ser ocupado por personas con discapacidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos por ciento (2%)",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 9, Ley N° 26.861: la norma no dispone «Dos por ciento (2%)»; lo correcto es: el cuatro por ciento (4%), como mínimo, de los cargos debe ser ocupado por personas con discapacidad."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 59 inc. d) del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), el ejercicio de la docencia e investigación universitaria otorga hasta:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tres (3) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 59 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Tres (3) puntos»; lo correcto es: hasta siete (7) puntos por docencia, investigación universitaria o cargos académicos."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez (10) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 59 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Diez (10) puntos»; lo correcto es: hasta siete (7) puntos por docencia, investigación universitaria o cargos académicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco (5) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 59 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Cinco (5) puntos»; lo correcto es: hasta siete (7) puntos por docencia, investigación universitaria o cargos académicos."
+        },
+        {
+          "letra": "D",
+          "texto": "Siete (7) puntos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 59 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): hasta siete (7) puntos por docencia, investigación universitaria o cargos académicos."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 22 de la Constitución Nacional, ¿qué jerarquía tienen los tratados y concordatos respecto de las leyes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Jerarquía superior a las leyes",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 22 de la Constitución Nacional establece que los tratados y concordatos tienen jerarquía superior a las leyes."
+        },
+        {
+          "letra": "B",
+          "texto": "Jerarquía igual a las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional les reconoce jerarquía superior a las leyes, no igual."
+        },
+        {
+          "letra": "C",
+          "texto": "Jerarquía superior a la Constitución",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional no les confiere jerarquía superior a la Constitución; solo superior a las leyes (los instrumentos de DD.HH. enumerados tienen jerarquía constitucional sin derogar la primera parte)."
+        },
+        {
+          "letra": "D",
+          "texto": "Jerarquía inferior a las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional otorga a los tratados y concordatos jerarquía superior a las leyes, no inferior."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿A quién remite el Procurador General un informe detallado de lo actuado en oportunidad de la inauguración del período de sesiones ordinarias, conforme el artículo 6 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 6 de la Ley N° 27.148 no menciona al Consejo de la Magistratura como destinatario del informe."
+        },
+        {
+          "letra": "B",
+          "texto": "A la Corte Suprema de Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 6 de la Ley N° 27.148 dirige el informe a la Comisión Bicameral, no a la Corte Suprema."
+        },
+        {
+          "letra": "C",
+          "texto": "A la Comisión Bicameral cuya composición y funciones fijará el Congreso Nacional",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 6 de la Ley N° 27.148 dispone que el Procurador General remitirá a la Comisión Bicameral, cuya composición y funciones fijará el Congreso Nacional, un informe detallado de lo actuado."
+        },
+        {
+          "letra": "D",
+          "texto": "Al Ministerio de Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 6 de la Ley N° 27.148 establece la remisión a la Comisión Bicameral, no al Ministerio de Justicia."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según la definición del art. 4 de la Ley N° 26.485, la violencia contra las mujeres es toda conducta, acción u omisión que, de manera directa o indirecta, se basa en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un contrato laboral",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "una situación de convivencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "una relación desigual de poder",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 4: 'Se entiende por violencia contra las mujeres toda conducta, acción u omisión, que de manera directa o indirecta... basada en una relación desigual de poder, afecte su vida, libertad, dignidad...'"
+        },
+        {
+          "letra": "D",
+          "texto": "un vínculo de parentesco únicamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando III de la Resolución PGN N° 70/2022, respecto de la restitución de los gastos incurridos en fotocopias, la Asesoría Jurídica:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Consideró que excedía las competencias",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando III; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando III: la Asesoría Jurídica no encontró óbice para reconocer la restitución de los gastos de fotocopias."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo derivó al Tribunal de Enjuiciamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando III; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando III: la Asesoría Jurídica no encontró óbice para reconocer la restitución de los gastos de fotocopias."
+        },
+        {
+          "letra": "C",
+          "texto": "Rechazó la solicitud",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando III; la opción correcta es la 'a'. Resolución PGN N° 70/2022, Considerando III: la Asesoría Jurídica no encontró óbice para reconocer la restitución de los gastos de fotocopias."
+        },
+        {
+          "letra": "D",
+          "texto": "No encontró óbice para su reconocimiento",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando III: la Asesoría Jurídica no encontró óbice para reconocer la restitución de los gastos de fotocopias."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Según el artículo 71 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), las faltas leves podrán ser sancionadas con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Multa del veinte por ciento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Ley N° 27.148 reserva la multa del 20% para las faltas graves, no para las leves."
+        },
+        {
+          "letra": "B",
+          "texto": "Suspensión de treinta días",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Ley N° 27.148 reserva la suspensión para las faltas graves, no para las leves."
+        },
+        {
+          "letra": "C",
+          "texto": "Remoción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Ley N° 27.148 reserva la remoción para las faltas graves, no para las leves."
+        },
+        {
+          "letra": "D",
+          "texto": "Apercibimiento",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 71 de la Ley N° 27.148 dispone que las faltas leves podrán ser sancionadas con apercibimiento."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo I de la Resolución PGN N° 70/2022, entre los principios rectores del Equipo, el referido a la reserva de las actuaciones establece que el legajo será:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Confidencial para las personas ajenas al conflicto",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo I (Principios rectores, inc. c, Reserva de las actuaciones): el legajo será confidencial para las personas ajenas al conflicto."
+        },
+        {
+          "letra": "B",
+          "texto": "Accesible sólo para el Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Principios rectores; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo I (Principios rectores, inc. c, Reserva de las actuaciones): el legajo será confidencial para las personas ajenas al conflicto."
+        },
+        {
+          "letra": "C",
+          "texto": "Público para todos los involucrados",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Principios rectores; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo I (Principios rectores, inc. c, Reserva de las actuaciones): el legajo será confidencial para las personas ajenas al conflicto."
+        },
+        {
+          "letra": "D",
+          "texto": "Destruido al finalizar el procedimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Principios rectores; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo I (Principios rectores, inc. c, Reserva de las actuaciones): el legajo será confidencial para las personas ajenas al conflicto."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Conforme al artículo 82 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), los agentes del MPF estarán sujetos en materia disciplinaria a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un régimen disciplinario propio y exclusivo de cada dependencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 82 de la Res. PGN N° 128/2010 no remite a un régimen disciplinario propio y exclusivo de cada dependencia."
+        },
+        {
+          "letra": "B",
+          "texto": "El Código Penal exclusivamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 82 de la Res. PGN N° 128/2010 no remite al Código Penal exclusivamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Los regímenes disciplinarios para Magistrados, Funcionarios y Empleados vigentes, con las modificaciones que a futuro pudieren introducirse",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 82 de la Res. PGN N° 128/2010 sujeta a los agentes a los regímenes disciplinarios para Magistrados, Funcionarios y Empleados vigentes, con las modificaciones que a futuro pudieren introducirse."
+        },
+        {
+          "letra": "D",
+          "texto": "Las normas de la Ley de Contrato de Trabajo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 82 de la Res. PGN N° 128/2010 no remite a la Ley de Contrato de Trabajo."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "De acuerdo con la pauta 8 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), ¿qué período comprende la calificación anual?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El año calendario completo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no abarca el año calendario completo."
+        },
+        {
+          "letra": "B",
+          "texto": "Del 1 de marzo al 28 de febrero",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija el período del 1 de marzo al 28 de febrero."
+        },
+        {
+          "letra": "C",
+          "texto": "Del 1 de enero al 31 de diciembre",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija el período del 1 de enero al 31 de diciembre."
+        },
+        {
+          "letra": "D",
+          "texto": "Del 1 de noviembre del año anterior al 31 de octubre del año en curso",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 comprende el período del 1 de noviembre del año anterior al 31 de octubre del año en curso."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 117 de la Constitución Nacional, ¿en qué asuntos ejerce la Corte Suprema su jurisdicción originaria y exclusivamente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En los asuntos concernientes a embajadores, ministros y cónsules extranjeros, y en los que alguna provincia fuese parte",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 117 de la Constitución Nacional dispone que la Corte ejerce su jurisdicción originaria y exclusivamente en los asuntos concernientes a embajadores, ministros y cónsules extranjeros, y en los que alguna provincia fuese parte."
+        },
+        {
+          "letra": "B",
+          "texto": "En las causas de coparticipación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 117 de la Constitución Nacional no menciona las causas de coparticipación dentro de la jurisdicción originaria; ésta comprende los asuntos de embajadores y aquellos en que una provincia es parte."
+        },
+        {
+          "letra": "C",
+          "texto": "En las causas laborales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 117 de la Constitución Nacional no incluye las causas laborales en la jurisdicción originaria de la Corte."
+        },
+        {
+          "letra": "D",
+          "texto": "En todas las causas penales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 117 de la Constitución Nacional no asigna a la Corte jurisdicción originaria en todas las causas penales, sino en los asuntos de embajadores, ministros y cónsules extranjeros y cuando una provincia es parte."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "La instancia ante el Tribunal de Enjuiciamiento será abierta, conforme el artículo 78 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por decisión fundada del Procurador General de la Nación, de oficio o por denuncia, basada en hechos que configuren las causales de remoción previstas en esta ley",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 78 de la Ley N° 27.148 dispone que la instancia será abierta por decisión fundada del Procurador General, de oficio o por denuncia, basada en la invocación de hechos que configuren las causales de remoción previstas en esta ley."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el propio Tribunal de oficio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 78 de la Ley N° 27.148 atribuye la apertura al Procurador General, no al propio Tribunal de oficio."
+        },
+        {
+          "letra": "C",
+          "texto": "Por decisión del Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 78 de la Ley N° 27.148 atribuye la apertura de la instancia al Procurador General, no al Senado."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el juez de la causa",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 78 de la Ley N° 27.148 atribuye la apertura al Procurador General, no al juez de la causa."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según la Resolución PGN N° 3329/2016, ¿en ejercicio de qué leyes resuelve la Procuradora General?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley 24.946 únicamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, parte resolutiva: la norma no dispone «Ley 24.946 únicamente»; lo correcto es: la PGN resuelve en ejercicio de la Ley N° 27.148 y lo normado por la Ley N° 26.861."
+        },
+        {
+          "letra": "B",
+          "texto": "Leyes 24.946 y 26.861",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, parte resolutiva: la norma no dispone «Leyes 24.946 y 26.861»; lo correcto es: la PGN resuelve en ejercicio de la Ley N° 27.148 y lo normado por la Ley N° 26.861."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley 22.431 y 26.861",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, parte resolutiva: la norma no dispone «Ley 22.431 y 26.861»; lo correcto es: la PGN resuelve en ejercicio de la Ley N° 27.148 y lo normado por la Ley N° 26.861."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley 27.148 y ley 26.861",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, parte resolutiva: la PGN resuelve en ejercicio de la Ley N° 27.148 y lo normado por la Ley N° 26.861."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 26 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), el Tribunal Evaluador de cada concurso lo selecciona la PGN entre los miembros del CPE y se compone de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tres (3) miembros titulares y tres (3) suplentes",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): el Tribunal Evaluador se compone de tres (3) titulares y tres (3) suplentes seleccionados del CPE."
+        },
+        {
+          "letra": "B",
+          "texto": "Quince titulares",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Quince titulares»; lo correcto es: el Tribunal Evaluador se compone de tres (3) titulares y tres (3) suplentes seleccionados del CPE."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco titulares y dos suplentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Cinco titulares y dos suplentes»; lo correcto es: el Tribunal Evaluador se compone de tres (3) titulares y tres (3) suplentes seleccionados del CPE."
+        },
+        {
+          "letra": "D",
+          "texto": "Un titular y un suplente",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Un titular y un suplente»; lo correcto es: el Tribunal Evaluador se compone de tres (3) titulares y tres (3) suplentes seleccionados del CPE."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 28 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿en qué plazo debe el Poder Ejecutivo nacional reglamentar las disposiciones de la ley?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de un (1) año de su sanción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 28 de la Ley N° 22.431 fija el plazo en 180 días desde la promulgación, no en un año desde la sanción."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de los noventa (90) días de su promulgación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 28 de la Ley N° 22.431 fija el plazo en 180 días, no en 90 días."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro de los trescientos sesenta (360) días",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 28 de la Ley N° 22.431 fija el plazo en 180 días, no en 360 días."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentro de los ciento ochenta (180) días de su promulgación",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 28 de la Ley N° 22.431 dispone que el Poder Ejecutivo reglamente dentro de los ciento ochenta (180) días de la promulgación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 9° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué organismo autoriza y fiscaliza el desempeño de determinada tarea por parte de personas discapacitadas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Ministerio de Desarrollo Social y Medio Ambiente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 9° de la Ley N° 22.431 no atribuye esa función al Ministerio de Desarrollo Social y Medio Ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "El Ministerio de Salud de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 9° de la Ley N° 22.431 atribuye la autorización y fiscalización al Ministerio de Trabajo, no al de Salud."
+        },
+        {
+          "letra": "C",
+          "texto": "El Ministerio de Trabajo, teniendo en cuenta la indicación efectuada por el Ministerio de Salud de la Nación dispuesta en el artículo 3°",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 9° de la Ley N° 22.431 dispone que el Ministerio de Trabajo autoriza y fiscaliza la tarea, conforme la indicación del Ministerio de Salud del artículo 3°."
+        },
+        {
+          "letra": "D",
+          "texto": "El Ministerio de Educación de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 9° de la Ley N° 22.431 no atribuye esa función al Ministerio de Educación de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El preámbulo de la Declaración ONU afirma que la violencia contra la mujer constituye:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un problema sólo de los países en desarrollo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "una cuestión meramente cultural",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "un asunto exclusivamente privado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "una violación de los derechos humanos y las libertades fundamentales",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU). Declaración ONU, preámbulo: 'Afirmando que la violencia contra la mujer constituye una violación de los derechos humanos y las libertades fundamentales e impide total o parcialmente a la mujer gozar de dichos derechos y libertades...'"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "En materia de incompatibilidades, los integrantes del MPF, conforme el artículo 58 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo tienen incompatibilidad con cargos políticos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 de la Ley N° 27.148 alcanza también el ejercicio de la abogacía, no solo los cargos políticos."
+        },
+        {
+          "letra": "B",
+          "texto": "No podrán ejercer la abogacía ni la representación de terceros en juicio, salvo en asuntos propios o de su cónyuge, ascendientes o descendientes, o en cumplimiento de un deber legal",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 de la Ley N° 27.148 dispone que los integrantes del MPF no podrán ejercer la abogacía ni la representación de terceros en juicio, salvo en asuntos propios o de su cónyuge, ascendientes o descendientes, o en cumplimiento de un deber legal."
+        },
+        {
+          "letra": "C",
+          "texto": "Pueden ejercer libremente la abogacía",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 de la Ley N° 27.148 prohíbe el ejercicio de la abogacía, con las excepciones que indica."
+        },
+        {
+          "letra": "D",
+          "texto": "Pueden representar a terceros con autorización del juez",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 de la Ley N° 27.148 admite la representación únicamente en asuntos propios o familiares o por deber legal, no por autorización del juez."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 6 inc. a de la Ley N° 26.485, la violencia doméstica es la ejercida contra las mujeres por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "funcionarios de instituciones públicas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "empleadores en el ámbito laboral",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier persona en lugares públicos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "un integrante del grupo familiar, independientemente del espacio físico donde ocurra",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 6 inc. a: 'Violencia doméstica contra las mujeres: aquella ejercida contra las mujeres por un integrante del grupo familiar, independientemente del espacio físico donde ésta ocurra...'"
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Una persona con discapacidad debe trasladarse en colectivo desde su domicilio hasta un centro asistencial donde recibe un tratamiento, y luego a una entrevista laboral. La empresa de transporte colectivo terrestre, sometida al contralor de autoridad nacional, le exige el pago del pasaje. La persona viaja además con un acompañante cuya necesidad está documentada.",
+    "consigna": "Indique si la empresa puede exigir el pago del pasaje y si el acompañante también goza de la franquicia.",
+    "resolucion_didactica": "(a) Respuesta: La empresa no puede exigir el pago del pasaje; los traslados son gratuitos y la franquicia alcanza también al acompañante con necesidad documentada.\n(b) Razonamiento jurídico paso a paso: 1) El artículo 22 inciso a) de la Ley N° 22.431 obliga a las empresas de transporte colectivo terrestre sometidas al contralor de autoridad nacional a transportar gratuitamente a las personas con discapacidad en el trayecto que medie entre su domicilio y cualquier destino al que deban concurrir por razones familiares, asistenciales, educacionales, laborales o de cualquier otra índole que tienda a favorecer su plena integración social. 2) El traslado al centro asistencial (razón asistencial) y el traslado a la entrevista laboral (razón laboral) quedan comprendidos en esos supuestos. 3) Por ello la empresa no puede exigir el pago del pasaje. 4) La misma norma establece que la franquicia es extensiva a un acompañante en caso de necesidad documentada, supuesto que se configura en el caso. 5) La reglamentación fija las comodidades, las características de los pases y las sanciones a los transportistas que la inobserven.\n(c) Normas y conceptos aplicables: Artículo 22 inciso a) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas): gratuidad del transporte colectivo terrestre bajo contralor nacional para favorecer la integración social y extensión de la franquicia a un acompañante en caso de necesidad documentada.",
+    "fundamento_normativo": "Artículo 22 inciso a) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas): transporte gratuito de las personas con discapacidad entre su domicilio y cualquier destino por razones familiares, asistenciales, educacionales, laborales u otras que favorezcan su integración social; franquicia extensiva a un acompañante en caso de necesidad documentada."
+  }
+}

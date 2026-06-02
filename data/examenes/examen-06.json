@@ -1,0 +1,786 @@
+{
+  "examen_id": 6,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo del documento institucional 'Qué es el Ministerio Público Fiscal', en el fuero Penal Económico de la CABA, ¿cuántas Fiscalías Nacionales en lo Penal Económico se enumeran?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Doce (1 a 12)",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - CABA Penal Económico; la opción correcta es la 'c'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, CABA, Penal Económico): se enumeran las Fiscalías Nacionales en lo Penal Económico N° 1 a N° 11 (once)."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (1 a 5)",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - CABA Penal Económico; la opción correcta es la 'c'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, CABA, Penal Económico): se enumeran las Fiscalías Nacionales en lo Penal Económico N° 1 a N° 11 (once)."
+        },
+        {
+          "letra": "C",
+          "texto": "Once (1 a 11)",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, CABA, Penal Económico): se enumeran las Fiscalías Nacionales en lo Penal Económico N° 1 a N° 11 (once)."
+        },
+        {
+          "letra": "D",
+          "texto": "Ocho (1 a 8)",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - CABA Penal Económico; la opción correcta es la 'c'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, CABA, Penal Económico): se enumeran las Fiscalías Nacionales en lo Penal Económico N° 1 a N° 11 (once)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 48 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, en el procedimiento ante la Comisión, ésta se pondrá a disposición de las partes a fin de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dictar una sentencia condenatoria",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 48.1.f, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Imponer una multa al Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 48.1.f, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Llegar a una solución amistosa del asunto fundada en el respeto a los derechos humanos reconocidos en la Convención",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 48.1.f, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): la Comisión se pone a disposición de las partes para una solución amistosa fundada en el respeto a los DDHH."
+        },
+        {
+          "letra": "D",
+          "texto": "Remitir el caso a la Corte Internacional de Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 48.1.f, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El Procurador General, los procuradores fiscales, los fiscales generales y los fiscales gozan de estabilidad, conforme el artículo 62 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mientras dure su buena conducta y hasta los setenta y cinco (75) años de edad",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 62 de la Ley N° 27.148 dispone que estos magistrados gozan de estabilidad mientras dure su buena conducta y hasta los setenta y cinco (75) años de edad."
+        },
+        {
+          "letra": "B",
+          "texto": "Por un período de cinco años renovable",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 62 de la Ley N° 27.148 garantiza estabilidad mientras dure la buena conducta hasta los 75 años, no un período renovable de cinco años."
+        },
+        {
+          "letra": "C",
+          "texto": "Mientras dure su buena conducta sin límite de edad",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 62 de la Ley N° 27.148 fija el límite de los 75 años, no estabilidad sin límite de edad."
+        },
+        {
+          "letra": "D",
+          "texto": "Hasta los sesenta y cinco (65) años de edad",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 62 de la Ley N° 27.148 fija el límite en los 75 años, no en los 65."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "La pauta 5 del Régimen de calificaciones del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal) se refiere a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La asistencia y puntualidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. La asistencia y puntualidad corresponden a la pauta 6, no a la pauta 5 del art. 81 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "B",
+          "texto": "La antigüedad y títulos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La antigüedad y títulos corresponden a la pauta 7, no a la pauta 5 del art. 81 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "C",
+          "texto": "La aptitud para el ascenso, considerando la idoneidad para trabajos de nivel superior",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 5 del art. 81 de la Res. PGN N° 128/2010 se refiere a la aptitud para el ascenso, considerando la idoneidad para trabajos de nivel superior."
+        },
+        {
+          "letra": "D",
+          "texto": "El cumplimiento de tareas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El cumplimiento de tareas corresponde a la pauta 1, no a la pauta 5 del art. 81 de la Res. PGN N° 128/2010."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 9 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, dispone que los Estados tendrán especialmente en cuenta la situación de vulnerabilidad de la mujer en razón, entre otras, de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Su profesión u oficio",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 9, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Su afiliación política",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 9, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Su raza o condición étnica, de emigrante, refugiada o desplazada, embarazo, discapacidad, minoría de edad, ancianidad, situación socioeconómica desfavorable o conflictos armados o privación de libertad",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 9, Convención de Belém do Pará (Ley N° 24.632): factores de vulnerabilidad (raza, etnia, migración, embarazo, discapacidad, edad, situación socioeconómica, conflicto armado, privación de libertad)."
+        },
+        {
+          "letra": "D",
+          "texto": "Su nivel educativo exclusivamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 9, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Los magistrados que alcancen los 75 años quedarán sujetos a un nuevo nombramiento, precedido de igual acuerdo, que se efectuará, conforme el artículo 62 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el término de diez (10) años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 62 de la Ley N° 27.148 fija un término de cinco años, no de diez."
+        },
+        {
+          "letra": "B",
+          "texto": "De manera vitalicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 62 de la Ley N° 27.148 prevé designaciones por cinco años reiterables, no vitalicias."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el término de cinco (5) años, y podrán ser reiterados mediante el mismo procedimiento",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 62 de la Ley N° 27.148 dispone que estas designaciones se efectuarán por el término de cinco (5) años y podrán ser reiteradas mediante el mismo procedimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el término de tres (3) años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 62 de la Ley N° 27.148 fija un término de cinco años, no de tres."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento institucional 'Qué es el Ministerio Público Fiscal' (Reglamento de Ingreso Democrático), las funciones del cargo a concursar en el agrupamiento Técnico Administrativo consisten en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dictaminar en causas civiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Funciones Técnico Administrativo; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Funciones del cargo a concursar): el agrupamiento Técnico Administrativo realiza tareas administrativas y de apoyo técnico y/o jurídico en las dependencias del MPF."
+        },
+        {
+          "letra": "B",
+          "texto": "Tareas administrativas y de apoyo técnico y/o jurídico en las dependencias del MPF",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Funciones del cargo a concursar): el agrupamiento Técnico Administrativo realiza tareas administrativas y de apoyo técnico y/o jurídico en las dependencias del MPF."
+        },
+        {
+          "letra": "C",
+          "texto": "Dirigir investigaciones penales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Funciones Técnico Administrativo; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Funciones del cargo a concursar): el agrupamiento Técnico Administrativo realiza tareas administrativas y de apoyo técnico y/o jurídico en las dependencias del MPF."
+        },
+        {
+          "letra": "D",
+          "texto": "Representar al MPF ante la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Funciones Técnico Administrativo; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Funciones del cargo a concursar): el agrupamiento Técnico Administrativo realiza tareas administrativas y de apoyo técnico y/o jurídico en las dependencias del MPF."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Entre los preceptos rectores del art. 7 de la Ley N° 26.485 se encuentra el respeto del derecho a la confidencialidad y la intimidad, lo que implica:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "remitir la información a la prensa",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "permitir el acceso público irrestricto a los registros",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "prohibir la reproducción para uso particular o difusión pública de la información relacionada con situaciones de violencia sin autorización de quien la padece",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 7 inc. f: '...prohibiéndose la reproducción para uso particular o difusión pública de la información relacionada con situaciones de violencia contra la mujer, sin autorización de quien la padece.'"
+        },
+        {
+          "letra": "D",
+          "texto": "publicar todos los datos en el Observatorio",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando IV de la Resolución PGN N° 70/2022, ¿quién, titular de la Dirección General de Investigaciones y Apoyo Tecnológico a la Investigación Penal, propuso crear un área especializada en causas vinculadas a cuestiones de género?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El doctor Federico Guillermo Reynares Solari",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando IV; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando IV: la doctora Romina Del Buono, titular de la Dirección General de Investigaciones y Apoyo Tecnológico a la Investigación Penal, propuso crear un área especializada en cuestiones de género."
+        },
+        {
+          "letra": "B",
+          "texto": "El doctor Julio César Castro",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando IV; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando IV: la doctora Romina Del Buono, titular de la Dirección General de Investigaciones y Apoyo Tecnológico a la Investigación Penal, propuso crear un área especializada en cuestiones de género."
+        },
+        {
+          "letra": "C",
+          "texto": "La doctora Cecilia Alida Indiana Garzón",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando IV; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando IV: la doctora Romina Del Buono, titular de la Dirección General de Investigaciones y Apoyo Tecnológico a la Investigación Penal, propuso crear un área especializada en cuestiones de género."
+        },
+        {
+          "letra": "D",
+          "texto": "La doctora Romina Del Buono",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando IV: la doctora Romina Del Buono, titular de la Dirección General de Investigaciones y Apoyo Tecnológico a la Investigación Penal, propuso crear un área especializada en cuestiones de género."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "La violencia psicológica, según el art. 5 de la Ley N° 26.485, se caracteriza por causar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "daño emocional y disminución de la autoestima o perjudica y perturba el pleno desarrollo personal",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 5 inc. 2: 'Psicológica: La que causa daño emocional y disminución de la autoestima o perjudica y perturba el pleno desarrollo personal...'"
+        },
+        {
+          "letra": "B",
+          "texto": "lesiones corporales visibles",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "discriminación laboral",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "menoscabo patrimonial",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Respecto de los hogares previstos en el artículo 7° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), el Ministerio se reserva la facultad de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Administrarlos directamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 7° de la Ley N° 22.431 no reserva al Ministerio la administración directa de los hogares."
+        },
+        {
+          "letra": "B",
+          "texto": "Designar su personal docente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 7° de la Ley N° 22.431 no reserva al Ministerio la designación de personal docente."
+        },
+        {
+          "letra": "C",
+          "texto": "Financiarlos en su totalidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 7° de la Ley N° 22.431 no reserva al Ministerio su financiamiento total."
+        },
+        {
+          "letra": "D",
+          "texto": "Reglamentar y fiscalizar su funcionamiento",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 7° de la Ley N° 22.431 reserva al Ministerio la facultad de reglamentar y fiscalizar el funcionamiento de los hogares."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 55 de la Constitución Nacional, ¿qué edad se requiere para ser elegido senador?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Treinta años",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 55 de la Constitución Nacional requiere tener la edad de treinta años para ser elegido senador."
+        },
+        {
+          "letra": "B",
+          "texto": "Treinta y cinco años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 de la Constitución Nacional exige treinta años para ser senador, no treinta y cinco."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuarenta años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 de la Constitución Nacional exige treinta años, no cuarenta."
+        },
+        {
+          "letra": "D",
+          "texto": "Veinticinco años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 de la Constitución Nacional exige treinta años para ser senador; los veinticinco años corresponden al diputado (art. 48)."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El procedimiento del concurso público de oposición y antecedentes, conforme el artículo 49 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No incluirá, en ningún caso, entrevistas personales, y estará regido por los principios de objetividad, igualdad de oportunidades y transparencia",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 49 de la Ley N° 27.148 dispone que el procedimiento no incluirá, en ningún caso, entrevistas personales, y estará regido por los principios de objetividad, igualdad de oportunidades y transparencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Incluirá entrevistas personales obligatorias",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 49 de la Ley N° 27.148 excluye expresamente, en todos los casos, las entrevistas personales."
+        },
+        {
+          "letra": "C",
+          "texto": "Será exclusivamente oral",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 49 de la Ley N° 27.148 prevé prueba de oposición escrita y oral, no un procedimiento exclusivamente oral."
+        },
+        {
+          "letra": "D",
+          "texto": "Estará a cargo del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 49 de la Ley N° 27.148 establece que el concurso se sustancia ante un tribunal convocado por el Procurador General, no a cargo del Poder Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 24 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), las recusaciones deben presentarse:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes del examen escrito",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 24, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Antes del examen escrito»; lo correcto es: las recusaciones se presentan al momento de la inscripción mediante la plataforma informática habilitada."
+        },
+        {
+          "letra": "B",
+          "texto": "Después de la publicación del dictamen",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 24, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Después de la publicación del dictamen»; lo correcto es: las recusaciones se presentan al momento de la inscripción mediante la plataforma informática habilitada."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier etapa del concurso",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 24, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «En cualquier etapa del concurso»; lo correcto es: las recusaciones se presentan al momento de la inscripción mediante la plataforma informática habilitada."
+        },
+        {
+          "letra": "D",
+          "texto": "Al momento de la inscripción, empleando la plataforma informática habilitada",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 24, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): las recusaciones se presentan al momento de la inscripción mediante la plataforma informática habilitada."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 4 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, ¿en qué cargo se puede ingresar como empleado y personal de maestranza y oficios?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En cualquier cargo del escalafón",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 4, Ley N° 26.861: la norma no dispone «En cualquier cargo del escalafón»; lo correcto es: como empleado y personal de maestranza y oficios sólo se ingresa en el cargo de menor jerarquía."
+        },
+        {
+          "letra": "B",
+          "texto": "En el cargo de mayor jerarquía disponible",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 4, Ley N° 26.861: la norma no dispone «En el cargo de mayor jerarquía disponible»; lo correcto es: como empleado y personal de maestranza y oficios sólo se ingresa en el cargo de menor jerarquía."
+        },
+        {
+          "letra": "C",
+          "texto": "En el cargo de menor jerarquía",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 4, Ley N° 26.861: como empleado y personal de maestranza y oficios sólo se ingresa en el cargo de menor jerarquía."
+        },
+        {
+          "letra": "D",
+          "texto": "En el cargo letrado de primera instancia",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 4, Ley N° 26.861: la norma no dispone «En el cargo letrado de primera instancia»; lo correcto es: como empleado y personal de maestranza y oficios sólo se ingresa en el cargo de menor jerarquía."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según el artículo 83 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), una de las causales de conclusión de la relación de empleo es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Baja por jubilación o vencimiento del plazo de intimación a iniciar el trámite jubilatorio",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 83, inc. 6, de la Res. PGN N° 128/2010 prevé como causal la baja por jubilación o vencimiento del plazo de intimación a iniciar el trámite jubilatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Ascenso a una categoría superior",
+          "correcta": false,
+          "explicacion": "Incorrecta. El ascenso a una categoría superior no es causal de conclusión en el art. 83 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "C",
+          "texto": "Goce de licencia ordinaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El goce de licencia ordinaria no es causal de conclusión en el art. 83 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "D",
+          "texto": "Cambio de agrupamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El cambio de agrupamiento no es causal de conclusión en el art. 83 de la Res. PGN N° 128/2010."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Los auxiliares fiscales son funcionarios que, conforme el artículo 51 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ejercen la jefatura del distrito",
+          "correcta": false,
+          "explicacion": "Incorrecta. La jefatura del distrito corresponde al fiscal coordinador de distrito (art. 18 de la Ley N° 27.148), no a los auxiliares fiscales."
+        },
+        {
+          "letra": "B",
+          "texto": "Colaborarán con los magistrados del MPF y siempre actuarán bajo las instrucciones, supervisión y responsabilidad de ellos",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 51 de la Ley N° 27.148 dispone que los auxiliares fiscales colaborarán con los magistrados del MPF y siempre actuarán bajo las instrucciones, supervisión y responsabilidad de ellos."
+        },
+        {
+          "letra": "C",
+          "texto": "Actúan con plena autonomía respecto de los magistrados",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 51 de la Ley N° 27.148 establece que los auxiliares fiscales actúan bajo instrucciones y supervisión de los magistrados, no con plena autonomía."
+        },
+        {
+          "letra": "D",
+          "texto": "Reemplazan al Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 51 de la Ley N° 27.148 no atribuye a los auxiliares fiscales reemplazar al Procurador General."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 12 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), uno de los requisitos generales para ingresar al MPF es residir a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Menos de cien (100) kilómetros",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 12 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Menos de cien (100) kilómetros»; lo correcto es: residir a menos de 70 km de la sede, exigible una vez propuesto para el cargo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier distancia, sin límite",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 12 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Cualquier distancia, sin límite»; lo correcto es: residir a menos de 70 km de la sede, exigible una vez propuesto para el cargo."
+        },
+        {
+          "letra": "C",
+          "texto": "Menos de cincuenta (50) kilómetros de la sede laboral",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 12 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Menos de cincuenta (50) kilómetros de la sede laboral»; lo correcto es: residir a menos de 70 km de la sede, exigible una vez propuesto para el cargo."
+        },
+        {
+          "letra": "D",
+          "texto": "Menos de setenta (70) kilómetros de la sede laboral, exigible una vez propuesto para el cargo",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 12 inc. d), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): residir a menos de 70 km de la sede, exigible una vez propuesto para el cargo."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 92 de la Constitución Nacional, ¿puede ser alterado el sueldo del Presidente y vicepresidente durante el período de sus nombramientos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puede aumentarse",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 92 de la Constitución Nacional prohíbe alterar el sueldo, lo que comprende tanto aumentarlo como disminuirlo durante el período."
+        },
+        {
+          "letra": "B",
+          "texto": "No podrá ser alterado en el período de sus nombramientos",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 92 de la Constitución Nacional dispone que el sueldo del Presidente y vicepresidente no podrá ser alterado en el período de sus nombramientos."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo con autorización del Congreso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 92 de la Constitución Nacional prohíbe la alteración del sueldo en el período, sin admitir que se altere por autorización del Congreso."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo puede disminuirse",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 92 de la Constitución Nacional veda toda alteración, no solo la disminución."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 119 de la Constitución Nacional, ¿en qué consiste únicamente la traición contra la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En la sedición",
+          "correcta": false,
+          "explicacion": "Incorrecta. La sedición es un supuesto distinto (art. 22 de la Constitución Nacional); el art. 119 define la traición de manera específica."
+        },
+        {
+          "letra": "B",
+          "texto": "En tomar las armas contra ella, o en unirse a sus enemigos prestándoles ayuda y socorro",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 119 de la Constitución Nacional dispone que la traición contra la Nación consistirá únicamente en tomar las armas contra ella, o en unirse a sus enemigos prestándoles ayuda y socorro."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier delito contra el Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 119 de la Constitución Nacional define la traición de modo estricto y limitado; no comprende cualquier delito contra el Estado."
+        },
+        {
+          "letra": "D",
+          "texto": "En la usurpación de funciones públicas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 119 de la Constitución Nacional no incluye la usurpación de funciones públicas dentro de la traición, que se limita a tomar las armas contra la Nación o unirse a sus enemigos."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 5 de la Ley N° 26.485, la violencia sexual comprende la vulneración del derecho de la mujer a decidir voluntariamente sobre su vida sexual o reproductiva e incluye expresamente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "exclusivamente la trata internacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente los delitos con acceso carnal",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo la prostitución forzada de menores",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "la violación dentro del matrimonio o de otras relaciones vinculares o de parentesco, exista o no convivencia",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 5 inc. 3: '...incluyendo la violación dentro del matrimonio o de otras relaciones vinculares o de parentesco, exista o no convivencia, así como la prostitución forzada, explotación, esclavitud, acoso, abuso sexual y trata de mujeres.'"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 18 de la Ley N° 26.485, quienes se desempeñen en servicios asistenciales, sociales, educativos y de salud y tomen conocimiento de un hecho de violencia están obligados a formular las denuncias:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo cuando el hecho configure delito",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 18 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente con autorización de la víctima",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 18 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "aun en aquellos casos en que el hecho no configure delito",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 18 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 18: '...estarán obligados a formular las denuncias, según corresponda, aun en aquellos casos en que el hecho no configure delito.'"
+        },
+        {
+          "letra": "D",
+          "texto": "exclusivamente ante la policía",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 18 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "La Comisión declarará inadmisible una petición, según el art. 47 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, cuando:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El peticionario sea una persona física",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 47.b, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "La víctima haya fallecido",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 47.b, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "El Estado no haya ratificado la Convención de Viena",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 47.b, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "No exponga hechos que caractericen una violación de los derechos garantizados por la Convención",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 47.b, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): inadmisibilidad cuando no se exponen hechos que caractericen una violación de los derechos garantizados."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 28 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), las adecuaciones establecidas en el transporte público por el artículo 22 apartados a) y b) deberán ejecutarse en un plazo máximo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un año a partir de reglamentada la presente, y su incumplimiento podrá determinar la cancelación del servicio",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 28 de la Ley N° 22.431 dispone que las adecuaciones del artículo 22 apartados a) y b) se ejecuten en un año desde reglamentada la ley, bajo pena de cancelación del servicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Seis meses a partir de la promulgación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 28 de la Ley N° 22.431 fija un año desde reglamentada la ley, no seis meses desde la promulgación."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos años a partir de la adhesión provincial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 28 de la Ley N° 22.431 fija un año desde reglamentada la ley, no dos años desde la adhesión provincial."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres años desde la sanción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 28 de la Ley N° 22.431 fija un año para estas adecuaciones; el plazo de tres años corresponde a las barreras de los artículos 20 y 21."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 30 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), las asociaciones gremiales que representan a los trabajadores del MPF podrán designar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un calificador adicional",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 30, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Un calificador adicional»; lo correcto es: las asociaciones gremiales pueden designar un veedor para presenciar las pruebas y/o entrevistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Un recusante de oficio",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 30, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Un recusante de oficio»; lo correcto es: las asociaciones gremiales pueden designar un veedor para presenciar las pruebas y/o entrevistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Un miembro del Tribunal Evaluador",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 30, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Un miembro del Tribunal Evaluador»; lo correcto es: las asociaciones gremiales pueden designar un veedor para presenciar las pruebas y/o entrevistas."
+        },
+        {
+          "letra": "D",
+          "texto": "Un representante en carácter de veedor para presenciar las pruebas y/o entrevistas",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 30, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): las asociaciones gremiales pueden designar un veedor para presenciar las pruebas y/o entrevistas."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "En un Estado parte de la CEDAW, una norma laboral permite el despido de la trabajadora por causa de embarazo y un código civil dispone que la mujer casada necesita autorización del marido para firmar contratos y administrar bienes. Una trabajadora embarazada es despedida y, además, se le impide celebrar un contrato por falta de venia conyugal.",
+    "consigna": "Determine qué disposiciones de la CEDAW resultan vulneradas y qué obligaciones debe cumplir el Estado.",
+    "resolucion_didactica": "(a) Respuesta: Ambas situaciones constituyen discriminación contra la mujer prohibida por la CEDAW; se vulneran los arts. 11 y 15, y el Estado debe eliminar y derogar las normas discriminatorias.\n(b) Razonamiento jurídico paso a paso: 1) Ambos hechos encuadran en la definición de discriminación del art. 1 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179 (restricción basada en el sexo que menoscaba el goce de derechos). 2) El despido por embarazo viola el art. 11.2.a, que obliga a prohibir bajo pena de sanciones el despido por embarazo o licencia de maternidad, y el derecho al trabajo del art. 11.1.a. 3) La exigencia de venia conyugal viola el art. 15.2, que reconoce a la mujer capacidad jurídica idéntica a la del hombre para firmar contratos y administrar bienes; conforme al art. 15.3, todo instrumento privado que limite esa capacidad se considera nulo. 4) El Estado debe condenar y eliminar la discriminación por todos los medios apropiados y sin dilaciones (art. 2), derogar o modificar las leyes discriminatorias (art. 2.f y 2.g) y adoptar las medidas nacionales necesarias para la plena realización de estos derechos (art. 24).\n(c) Normas y conceptos aplicables: arts. 1, 2, 2.f, 2.g, 11.1.a, 11.2.a, 15.2, 15.3 y 24 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179; igualdad sustantiva y capacidad jurídica de la mujer.",
+    "fundamento_normativo": "Arts. 1, 2, 2.f, 2.g, 11.1.a, 11.2.a, 15.2, 15.3 y 24, Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179."
+  }
+}

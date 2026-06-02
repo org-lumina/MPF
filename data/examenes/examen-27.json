@@ -1,0 +1,786 @@
+{
+  "examen_id": 27,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 21 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, la Convención entrará en vigor:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inmediatamente tras la firma",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 21, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Un año después de la primera ratificación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 21, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "El día del depósito del vigésimo instrumento de ratificación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 21, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "El trigésimo día a partir del depósito del segundo instrumento de ratificación",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 21, Convención de Belém do Pará (Ley N° 24.632): entra en vigor el trigésimo día desde el depósito del segundo instrumento de ratificación."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 53 de la Constitución Nacional, ¿con qué mayoría la Cámara de Diputados declara haber lugar a la formación de causa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mayoría absoluta de sus miembros",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 53 de la Constitución Nacional exige dos terceras partes de los miembros presentes, no mayoría absoluta de sus miembros."
+        },
+        {
+          "letra": "B",
+          "texto": "Mayoría de dos terceras partes de sus miembros presentes",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 53 de la Constitución Nacional dispone que Diputados declara haber lugar a la formación de causa por la mayoría de dos terceras partes de sus miembros presentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayoría simple",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 53 de la Constitución Nacional requiere dos tercios de los presentes, no mayoría simple."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres cuartas partes del total",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 53 de la Constitución Nacional exige dos terceras partes de los presentes, no tres cuartas partes del total."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Constitución Nacional",
+      "enunciado": "¿Qué forma de gobierno adopta la Nación Argentina según el artículo 1 de la Constitución Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parlamentaria, republicana y federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 1 de la Constitución Nacional consagra la forma representativa, no la parlamentaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Representativa, republicana y federal",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 1 de la Constitución Nacional establece que la Nación adopta para su gobierno la forma representativa, republicana y federal."
+        },
+        {
+          "letra": "C",
+          "texto": "Representativa, directa y unitaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 1 de la Constitución Nacional no adopta la forma directa ni unitaria, sino la representativa, republicana y federal."
+        },
+        {
+          "letra": "D",
+          "texto": "Representativa, monárquica y unitaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 1 de la Constitución Nacional adopta la forma representativa, republicana y federal; no la monárquica ni la unitaria."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "La resolución de creación de una unidad fiscal especializada establecerá, conforme el artículo 32 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La política de persecución penal nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. La política de persecución penal nacional la fija el Procurador General (art. 12 de la Ley N° 27.148), no la resolución del art. 32."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo su sede",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 32 de la Ley N° 27.148 abarca funciones, organización, integración, ámbito y existencia temporal o permanente, no solo la sede."
+        },
+        {
+          "letra": "C",
+          "texto": "El presupuesto general del MPF",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 32 de la Ley N° 27.148 no refiere al presupuesto general del MPF."
+        },
+        {
+          "letra": "D",
+          "texto": "Sus funciones, organización, integración y ámbito de actuación, así como su existencia temporal o permanente",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 32 de la Ley N° 27.148 establece que la resolución de creación fijará sus funciones, organización, integración y ámbito de actuación, así como su existencia temporal o permanente."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Conforme al art. 22 de la Ley N° 26.485, aun en caso de incompetencia, el juez interviniente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "podrá disponer las medidas preventivas que estime pertinente",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 22 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 22: 'Aún en caso de incompetencia, el/la juez/a interviniente podrá disponer las medidas preventivas que estime pertinente.'"
+        },
+        {
+          "letra": "B",
+          "texto": "deberá rechazar la denuncia in limine",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 22 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "ordenará una audiencia de mediación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 22 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "remitirá la causa sin más trámite",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 22 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "De acuerdo con el artículo 83 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), ¿cuál de estas es una causal de conclusión de la relación de empleo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Suspensión preventiva",
+          "correcta": false,
+          "explicacion": "Incorrecta. La suspensión preventiva no es causal de conclusión en el art. 83 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "B",
+          "texto": "Reincorporación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La reincorporación no es causal de conclusión en el art. 83 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "C",
+          "texto": "Mudanza del domicilio",
+          "correcta": false,
+          "explicacion": "Incorrecta. La mudanza del domicilio no es causal de conclusión en el art. 83 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "D",
+          "texto": "Cese por no confirmación en el cargo",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 83, inc. 4, de la Res. PGN N° 128/2010 prevé como causal el cese por no confirmación en el cargo."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 4 inc. c de la Declaración ONU, los Estados deben proceder con la debida diligencia a fin de prevenir, investigar y castigar todo acto de violencia contra la mujer:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ya se trate de actos perpetrados por el Estado o por particulares",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU). Declaración ONU, art. 4 inc. c: 'Proceder con la debida diligencia a fin de prevenir, investigar y, conforme a la legislación nacional, castigar todo acto de violencia contra la mujer, ya se trate de actos perpetrados por el Estado o por particulares'."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo si la víctima formula denuncia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente cuando sean perpetrados por agentes estatales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "exclusivamente en el ámbito doméstico",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 2 de la Ley N° 26.743 define la identidad de género como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el sexo registrado en la partida de nacimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "el resultado de una intervención quirúrgica de reasignación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "la vivencia interna e individual del género tal como cada persona la siente, que puede corresponder o no con el sexo asignado al nacer",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 2 de la Ley N° 26.743 (Identidad de Género). Art. 2: 'Se entiende por identidad de género a la vivencia interna e individual del género tal como cada persona la siente, la cual puede corresponder o no con el sexo asignado al momento del nacimiento, incluyendo la vivencia personal del cuerpo.'"
+        },
+        {
+          "letra": "D",
+          "texto": "la orientación sexual de la persona",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento del Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482), ¿conforme a cuáles supuestos pueden los/as fiscales disponer de la acción penal pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Excarcelación, eximición, probation y juicio abreviado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Disponibilidad de la acción; la opción correcta es la 'a'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): los/as fiscales pueden disponer de la acción según criterios de oportunidad, conversión de la acción, conciliación y suspensión del proceso a prueba."
+        },
+        {
+          "letra": "B",
+          "texto": "Criterios de oportunidad, conversión de la acción, conciliación y suspensión del proceso a prueba",
+          "correcta": true,
+          "explicacion": "Correcta. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): los/as fiscales pueden disponer de la acción según criterios de oportunidad, conversión de la acción, conciliación y suspensión del proceso a prueba."
+        },
+        {
+          "letra": "C",
+          "texto": "Prescripción, amnistía, indulto y sobreseimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Disponibilidad de la acción; la opción correcta es la 'a'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): los/as fiscales pueden disponer de la acción según criterios de oportunidad, conversión de la acción, conciliación y suspensión del proceso a prueba."
+        },
+        {
+          "letra": "D",
+          "texto": "Mediación, arbitraje, transacción y allanamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Disponibilidad de la acción; la opción correcta es la 'a'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): los/as fiscales pueden disponer de la acción según criterios de oportunidad, conversión de la acción, conciliación y suspensión del proceso a prueba."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 22 inciso a) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿cuántos asientos reservados señalizados y cercanos a la puerta deberán tener los vehículos de transporte público por cada coche?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuatro asientos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 inciso a) de la Ley N° 22.431 exige dos asientos reservados por coche, no cuatro."
+        },
+        {
+          "letra": "B",
+          "texto": "Los que determine la reglamentación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 inciso a) de la Ley N° 22.431 fija dos asientos, no remite a la reglamentación para ese número."
+        },
+        {
+          "letra": "C",
+          "texto": "Un asiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 inciso a) de la Ley N° 22.431 exige dos asientos reservados por coche, no uno."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos asientos",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 22 inciso a) de la Ley N° 22.431 dispone dos asientos reservados señalizados y cercanos a la puerta por cada coche."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Según el artículo 12 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), el Procurador General eleva al Poder Ejecutivo, por intermedio del Ministerio de Justicia y Derechos Humanos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las ternas de candidatos que resulten de los concursos de magistrados del MPF",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 12 inc. l de la Ley N° 27.148 dispone elevar al Poder Ejecutivo, por intermedio del Ministerio de Justicia y Derechos Humanos, las ternas de candidatos que resulten de los concursos de magistrados del MPF."
+        },
+        {
+          "letra": "B",
+          "texto": "Las recusaciones de los jueces",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 de la Ley N° 27.148 no contempla elevar recusaciones de jueces al Poder Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Las sentencias condenatorias del Tribunal de Enjuiciamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 de la Ley N° 27.148 no prevé elevar sentencias del Tribunal de Enjuiciamiento al Poder Ejecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "El presupuesto provincial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 de la Ley N° 27.148 no refiere a un presupuesto provincial."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según la introducción al Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482), ¿qué se denomina código de fondo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conjunto de normas que regulan los procedimientos ante los órganos judiciales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Código de fondo; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: código de fondo es el conjunto de normas que regulan y declaran derechos y deberes (derecho material o sustancial)."
+        },
+        {
+          "letra": "B",
+          "texto": "El conjunto de normas jurídicas que regulan y declaran los derechos y deberes (derecho material o sustancial)",
+          "correcta": true,
+          "explicacion": "Correcta. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: código de fondo es el conjunto de normas que regulan y declaran derechos y deberes (derecho material o sustancial)."
+        },
+        {
+          "letra": "C",
+          "texto": "El conjunto de normas dictadas por las provincias",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Código de fondo; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: código de fondo es el conjunto de normas que regulan y declaran derechos y deberes (derecho material o sustancial)."
+        },
+        {
+          "letra": "D",
+          "texto": "El reglamento interno del MPF",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Código de fondo; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: código de fondo es el conjunto de normas que regulan y declaran derechos y deberes (derecho material o sustancial)."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 45 de la Constitución Nacional, ¿cuántos representantes habrá por habitantes en la Cámara de Diputados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Uno por cada cien mil habitantes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 45 de la Constitución Nacional fija uno por cada treinta y tres mil habitantes, no cien mil."
+        },
+        {
+          "letra": "B",
+          "texto": "Uno por cada cincuenta mil habitantes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 45 de la Constitución Nacional fija uno por cada treinta y tres mil habitantes o fracción que no baje de dieciséis mil quinientos, no cincuenta mil."
+        },
+        {
+          "letra": "C",
+          "texto": "Uno por cada treinta y tres mil habitantes o fracción que no baje de dieciséis mil quinientos",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 45 de la Constitución Nacional establece un representante por cada treinta y tres mil habitantes o fracción que no baje de dieciséis mil quinientos."
+        },
+        {
+          "letra": "D",
+          "texto": "Uno por cada veinte mil habitantes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 45 de la Constitución Nacional fija uno por cada treinta y tres mil habitantes, no veinte mil."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según la pauta 9 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), el promedio obtenido podrá ser aumentado o disminuido con un margen máximo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 9 inc. b) del art. 81 de la Res. PGN N° 128/2010 no fija un margen de dos puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "Un punto, con arreglo a la pauta n° 6",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 9 inc. b) del art. 81 de la Res. PGN N° 128/2010 fija un margen máximo de un punto, con arreglo a la pauta n° 6."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 9 inc. b) del art. 81 de la Res. PGN N° 128/2010 no fija un margen de tres puntos."
+        },
+        {
+          "letra": "D",
+          "texto": "Medio punto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 9 inc. b) del art. 81 de la Res. PGN N° 128/2010 no fija un margen de medio punto."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 51 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, ¿en qué plazo, a partir de la remisión del informe, debe el asunto resolverse o someterse a la Corte para evitar que la Comisión emita su opinión y conclusiones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un año",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 51.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Noventa días",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 51.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres meses",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 51.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): plazo de tres meses desde la remisión del informe para solucionar el asunto o someterlo a la Corte."
+        },
+        {
+          "letra": "D",
+          "texto": "Seis meses",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 51.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "La fiscalía de distrito es el órgano encargado de, conforme el artículo 17 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aprobar el mapa fiscal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El mapa fiscal lo elabora la Procuración General (art. 82 de la Ley N° 27.148), no la fiscalía de distrito conforme el art. 17."
+        },
+        {
+          "letra": "B",
+          "texto": "Designar a los fiscales generales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La designación de fiscales generales no es función de la fiscalía de distrito según el art. 17 de la Ley N° 27.148."
+        },
+        {
+          "letra": "C",
+          "texto": "Juzgar los delitos en un distrito",
+          "correcta": false,
+          "explicacion": "Incorrecta. Juzgar es función jurisdiccional; el art. 17 de la Ley N° 27.148 asigna a la fiscalía de distrito llevar adelante las funciones del MPF, no juzgar."
+        },
+        {
+          "letra": "D",
+          "texto": "Llevar adelante las funciones del MPF en un ámbito territorial determinado, a través de las sedes descentralizadas y unidades fiscales que la integran",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 17 de la Ley N° 27.148 define a la fiscalía de distrito como el órgano encargado de llevar adelante las funciones del MPF en un ámbito territorial determinado, a través de las sedes descentralizadas y unidades fiscales que la integran."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Cuando una unidad fiscal se integre por más de un magistrado, el trabajo entre ellos será distribuido por, conforme el artículo 19 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antigüedad",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 19 inc. c de la Ley N° 27.148 no fija la antigüedad como criterio de distribución."
+        },
+        {
+          "letra": "B",
+          "texto": "Un sistema de turnos o sorteo, salvo que junto al fiscal coordinador de distrito convengan otro criterio",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 19 inc. c de la Ley N° 27.148 dispone que, cuando una unidad fiscal se integre por más de un magistrado, el trabajo se distribuirá por un sistema de turnos o sorteo, salvo que junto al fiscal coordinador de distrito convengan otro criterio."
+        },
+        {
+          "letra": "C",
+          "texto": "Designación del Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 19 inc. c de la Ley N° 27.148 prevé turnos o sorteo, no una designación del Procurador General."
+        },
+        {
+          "letra": "D",
+          "texto": "Orden alfabético",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 19 inc. c de la Ley N° 27.148 no establece el orden alfabético, sino turnos o sorteo."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "La violencia obstétrica del art. 6 inc. e de la Ley N° 26.485 es la que ejerce el personal de salud sobre el cuerpo y los procesos reproductivos de las mujeres expresada en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la difusión de la historia clínica",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "la negativa a brindar atención médica",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "un trato deshumanizado, un abuso de medicalización y patologización de los procesos naturales",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 6 inc. e: '...expresada en un trato deshumanizado, un abuso de medicalización y patologización de los procesos naturales, de conformidad con la Ley 25.929.'"
+        },
+        {
+          "letra": "D",
+          "texto": "el cobro de aranceles indebidos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 22 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, establece respecto de la expulsión de extranjeros que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es prohibida la expulsión colectiva de extranjeros",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 22.9, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): está prohibida la expulsión colectiva de extranjeros."
+        },
+        {
+          "letra": "B",
+          "texto": "Requiere reciprocidad del Estado de origen",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 22.9, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Es libre para el Estado en cualquier caso",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 22.9, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo procede con autorización de la Comisión",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 22.9, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 60 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), no se admitirá la presentación de nuevos antecedentes:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Durante la etapa de impugnación",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 60, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Durante la etapa de impugnación»; lo correcto es: no se admiten nuevos antecedentes con posterioridad a la clausura del plazo de inscripción."
+        },
+        {
+          "letra": "B",
+          "texto": "Con posterioridad a la clausura del plazo de inscripción",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 60, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): no se admiten nuevos antecedentes con posterioridad a la clausura del plazo de inscripción."
+        },
+        {
+          "letra": "C",
+          "texto": "Después del examen escrito",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 60, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Después del examen escrito»; lo correcto es: no se admiten nuevos antecedentes con posterioridad a la clausura del plazo de inscripción."
+        },
+        {
+          "letra": "D",
+          "texto": "Después del dictamen",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 60, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Después del dictamen»; lo correcto es: no se admiten nuevos antecedentes con posterioridad a la clausura del plazo de inscripción."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 45 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), en la prueba de informática se otorgan hasta cuarenta (40) puntos para:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La redacción de un dictamen",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 45 inc. a), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La redacción de un dictamen»; lo correcto es: hasta cuarenta (40) puntos para la prueba de tipeo en computadora."
+        },
+        {
+          "letra": "B",
+          "texto": "La búsqueda en la web",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 45 inc. a), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La búsqueda en la web»; lo correcto es: hasta cuarenta (40) puntos para la prueba de tipeo en computadora."
+        },
+        {
+          "letra": "C",
+          "texto": "La ortografía",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 45 inc. a), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La ortografía»; lo correcto es: hasta cuarenta (40) puntos para la prueba de tipeo en computadora."
+        },
+        {
+          "letra": "D",
+          "texto": "La prueba de tipeo en computadora",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 45 inc. a), Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): hasta cuarenta (40) puntos para la prueba de tipeo en computadora."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 22 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), el CPE se compone de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Quince (15) miembros designados por la PGN",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 22, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): el CPE se compone de quince (15) miembros designados por la PGN."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) miembros",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 22, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Tres (3) miembros»; lo correcto es: el CPE se compone de quince (15) miembros designados por la PGN."
+        },
+        {
+          "letra": "C",
+          "texto": "Veinte (20) miembros",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 22, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Veinte (20) miembros»; lo correcto es: el CPE se compone de quince (15) miembros designados por la PGN."
+        },
+        {
+          "letra": "D",
+          "texto": "Diez (10) miembros",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 22, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Diez (10) miembros»; lo correcto es: el CPE se compone de quince (15) miembros designados por la PGN."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando II de la Resolución PGN N° 70/2022, las facultades del Procurador General para reparar surgen de las leyes:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "27.063 y 27.272",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando II: las facultades del Procurador General para reparar surgen de las leyes 24.946 y 27.148, vinculadas al objeto y fin del organismo."
+        },
+        {
+          "letra": "B",
+          "texto": "26.485 y 24.632",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando II: las facultades del Procurador General para reparar surgen de las leyes 24.946 y 27.148, vinculadas al objeto y fin del organismo."
+        },
+        {
+          "letra": "C",
+          "texto": "24.946 y 27.148",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando II: las facultades del Procurador General para reparar surgen de las leyes 24.946 y 27.148, vinculadas al objeto y fin del organismo."
+        },
+        {
+          "letra": "D",
+          "texto": "27.150 y 27.482",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando II: las facultades del Procurador General para reparar surgen de las leyes 24.946 y 27.148, vinculadas al objeto y fin del organismo."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 10 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, los concursos de ingreso al Ministerio Público de la Nación se efectúan en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 10, Ley N° 26.861: la norma no dispone «El Consejo de la Magistratura»; lo correcto es: los concursos de ingreso al MP de la Nación se efectúan en la PGN o en la DGN, según corresponda."
+        },
+        {
+          "letra": "B",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 10, Ley N° 26.861: la norma no dispone «La Corte Suprema de Justicia de la Nación»; lo correcto es: los concursos de ingreso al MP de la Nación se efectúan en la PGN o en la DGN, según corresponda."
+        },
+        {
+          "letra": "C",
+          "texto": "La Procuración General de la Nación o la Defensoría General de la Nación, según corresponda",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 10, Ley N° 26.861: los concursos de ingreso al MP de la Nación se efectúan en la PGN o en la DGN, según corresponda."
+        },
+        {
+          "letra": "D",
+          "texto": "El Ministerio de Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 10, Ley N° 26.861: la norma no dispone «El Ministerio de Justicia»; lo correcto es: los concursos de ingreso al MP de la Nación se efectúan en la PGN o en la DGN, según corresponda."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 3° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué validez tienen los certificados emitidos por las provincias adheridas a la Ley 24.901?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Idéntica validez en cuanto a sus efectos, previo cumplimiento de los requisitos y condiciones que se establezcan por reglamentación",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 3° de la Ley N° 22.431 dispone que los certificados de provincias adheridas a la Ley 24.901 tienen idéntica validez, previo cumplimiento de los requisitos reglamentarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Validez solo para fines educativos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 3° de la Ley N° 22.431 no restringe la validez a fines educativos."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguna fuera de la provincia emisora",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 3° de la Ley N° 22.431 reconoce idéntica validez de efectos, no la restringe a la provincia emisora."
+        },
+        {
+          "letra": "D",
+          "texto": "Validez limitada a seis meses",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 3° de la Ley N° 22.431 no limita la validez a seis meses."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "María se inscribe en marzo en un concurso del agrupamiento 'Técnico Jurídico' del MPF. Aprueba la prueba escrita de oposición con 45 puntos y, evaluados sus antecedentes, queda ubicada en el puesto 25 del orden de mérito. Al producirse una vacante, el titular de la dependencia pretende seleccionarla directamente.",
+    "consigna": "Indique si el titular puede seleccionar a María en esa vacante y fundamente conforme al Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN) y a la Ley N° 26.861.",
+    "resolucion_didactica": "(a) El titular NO puede seleccionar a María en esa vacante.\n(b) María aprobó la oposición: obtuvo 45 puntos, superando el mínimo de cuarenta (40) puntos exigido por el art. 56 del Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN) y por el art. 29 de la Ley N° 26.861. Sin embargo, la facultad de selección del titular no alcanza a todo el orden de mérito: el art. 64 del mismo Reglamento (agrupamiento «Técnico Jurídico») dispone que el titular deberá seleccionar al postulante entre quienes integran los primeros veinte (20) lugares del orden de mérito (criterio concordante con el art. 33 de la Ley N° 26.861). María está ubicada en el puesto 25, fuera de ese segmento, por lo que no puede ser seleccionada hasta ascender a dicho rango por actualización periódica de la nómina (art. 64 del Reglamento).\n(c) Normas aplicables: art. 56 del Reglamento y art. 29 de la Ley N° 26.861 (puntaje mínimo de oposición); art. 64 del Reglamento y art. 33 de la Ley N° 26.861 (selección dentro de los veinte primeros del orden de mérito).",
+    "fundamento_normativo": "Art. 64, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN) (selección entre los 20 primeros del orden de mérito); art. 56 (puntaje mínimo); arts. 29 y 33, Ley N° 26.861."
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "examen_id": 23,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 25 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el plazo para plantear la reconsideración de la calificación del examen de empleados es de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Diez (10) días corridos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 25, Ley N° 26.861: la norma no dispone «Diez (10) días corridos»; lo correcto es: la reconsideración se plantea dentro de cinco (5) días hábiles de la publicación de la lista."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 25, Ley N° 26.861: la norma no dispone «Tres (3) días hábiles»; lo correcto es: la reconsideración se plantea dentro de cinco (5) días hábiles de la publicación de la lista."
+        },
+        {
+          "letra": "C",
+          "texto": "Quince (15) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 25, Ley N° 26.861: la norma no dispone «Quince (15) días hábiles»; lo correcto es: la reconsideración se plantea dentro de cinco (5) días hábiles de la publicación de la lista."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco (5) días hábiles desde la publicación de la lista",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 25, Ley N° 26.861: la reconsideración se plantea dentro de cinco (5) días hábiles de la publicación de la lista."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento institucional 'Qué es el Ministerio Público Fiscal', ¿cuáles son los fueros (áreas del derecho) en los que se trabaja en la administración de justicia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Penal, civil, comercial, contencioso administrativo, del trabajo, de la seguridad social y de menores",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Fueros): penal, civil, comercial, contencioso administrativo, del trabajo, de la seguridad social y de menores."
+        },
+        {
+          "letra": "B",
+          "texto": "Penal federal, electoral y tributario",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Fueros; la opción correcta es la 'a'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Fueros): penal, civil, comercial, contencioso administrativo, del trabajo, de la seguridad social y de menores."
+        },
+        {
+          "letra": "C",
+          "texto": "Penal, laboral, fiscal y de familia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Fueros; la opción correcta es la 'a'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Fueros): penal, civil, comercial, contencioso administrativo, del trabajo, de la seguridad social y de menores."
+        },
+        {
+          "letra": "D",
+          "texto": "Civil, comercial, penal económico y aduanero",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Fueros; la opción correcta es la 'a'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Fueros): penal, civil, comercial, contencioso administrativo, del trabajo, de la seguridad social y de menores."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "En materia penal, el MPF de la Nación tiene a su cargo, conforme el artículo 3 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dictar sentencia en los delitos ordinarios",
+          "correcta": false,
+          "explicacion": "Incorrecta. Dictar sentencia corresponde a los jueces, no al MPF, conforme el art. 3 de la Ley N° 27.148."
+        },
+        {
+          "letra": "B",
+          "texto": "Juzgar los delitos federales",
+          "correcta": false,
+          "explicacion": "Incorrecta. Juzgar es función jurisdiccional; el art. 3 de la Ley N° 27.148 asigna al MPF fijar la política de persecución y ejercer la acción penal, no juzgar."
+        },
+        {
+          "letra": "C",
+          "texto": "Designar a los fiscales provinciales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 3 de la Ley N° 27.148 no atribuye al MPF la designación de fiscales provinciales."
+        },
+        {
+          "letra": "D",
+          "texto": "Fijar la política de persecución penal y ejercer la acción penal pública",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 3 de la Ley N° 27.148 establece que el MPF tiene a su cargo fijar la política de persecución penal y ejercer la acción penal pública."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 101 de la Constitución Nacional, ¿con qué voto puede ser removido el jefe de gabinete de ministros mediante moción de censura?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por mayoría simple de una Cámara",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 101 de la Constitución Nacional requiere la mayoría absoluta de los miembros de cada Cámara, no la mayoría simple de una sola."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el voto de la mayoría absoluta de los miembros de cada una de las Cámaras",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 101 de la Constitución Nacional dispone que el jefe de gabinete puede ser removido por el voto de la mayoría absoluta de los miembros de cada una de las Cámaras."
+        },
+        {
+          "letra": "C",
+          "texto": "Por dos tercios de los presentes de cualquier Cámara",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 101 de la Constitución Nacional exige la mayoría absoluta de los miembros de cada Cámara para removerlo, no dos tercios de los presentes de una sola Cámara."
+        },
+        {
+          "letra": "D",
+          "texto": "Por decisión del Presidente únicamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 101 de la Constitución Nacional prevé la remoción por el Congreso mediante moción de censura; la designación y remoción por el Presidente está en el art. 99 inc. 7, pero la moción de censura no depende solo del Presidente."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 13 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, la libertad de pensamiento y expresión:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se limita a los nacionales del Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 13.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "No puede estar sujeta a previa censura sino a responsabilidades ulteriores expresamente fijadas por la ley",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 13.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): no admite censura previa, sino responsabilidades ulteriores fijadas por ley."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo ampara la expresión oral",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 13.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Puede estar sujeta a previa censura por motivos de seguridad",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 13.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 55 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), la evaluación en 'Técnico Jurídico' consiste en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo valoración de antecedentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 55, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Sólo valoración de antecedentes»; lo correcto es: la evaluación es una prueba escrita de oposición de tenor jurídico y la valoración de antecedentes, sucesivas y eliminatorias."
+        },
+        {
+          "letra": "B",
+          "texto": "Una prueba escrita de oposición de tenor jurídico y la valoración de los antecedentes, sucesivas y eliminatorias",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 55, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la evaluación es una prueba escrita de oposición de tenor jurídico y la valoración de antecedentes, sucesivas y eliminatorias."
+        },
+        {
+          "letra": "C",
+          "texto": "Una prueba de informática",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 55, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Una prueba de informática»; lo correcto es: la evaluación es una prueba escrita de oposición de tenor jurídico y la valoración de antecedentes, sucesivas y eliminatorias."
+        },
+        {
+          "letra": "D",
+          "texto": "Una entrevista personal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 55, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Una entrevista personal»; lo correcto es: la evaluación es una prueba escrita de oposición de tenor jurídico y la valoración de antecedentes, sucesivas y eliminatorias."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Qué edad y antigüedad se requieren para ser fiscal, conforme el artículo 47 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Veinticinco (25) años de edad y cuatro (4) años de ejercicio efectivo de la profesión de abogado",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 47 de la Ley N° 27.148 requiere para ser fiscal tener veinticinco (25) años de edad y contar con cuatro (4) años de ejercicio efectivo de la profesión de abogado."
+        },
+        {
+          "letra": "B",
+          "texto": "Treinta (30) años de edad y seis (6) años de ejercicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. Treinta años y seis de ejercicio son los requisitos para fiscal general (art. 46 de la Ley N° 27.148), no para fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Veintidós (22) años de edad y dos (2) años de ejercicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 47 de la Ley N° 27.148 fija veinticinco años y cuatro de ejercicio, no veintidós y dos."
+        },
+        {
+          "letra": "D",
+          "texto": "Veintiocho (28) años de edad y cinco (5) años de ejercicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 47 de la Ley N° 27.148 fija veinticinco años y cuatro de ejercicio, no veintiocho y cinco."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 29 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, toda controversia entre Estados sobre la interpretación o aplicación de la Convención que no se solucione por negociación se someterá:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A la Comisión Interamericana de Mujeres",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 29.1, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "A la Corte Interamericana de Derechos Humanos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 29.1, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "A la Asamblea General de la OEA",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 29.1, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Al arbitraje a petición de uno de ellos, y de no acordarse su forma en seis meses, a la Corte Internacional de Justicia",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 29.1, CEDAW (Ley N° 23.179): arbitraje a petición de parte y, sin acuerdo en seis meses, sometimiento a la Corte Internacional de Justicia."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "¿Qué órganos son competentes, según el art. 33 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, para conocer de los asuntos relativos al cumplimiento de los compromisos de la Convención?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Asamblea General y el Consejo Permanente de la OEA",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 33, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "La Comisión Interamericana de Derechos Humanos y la Corte Interamericana de Derechos Humanos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 33, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): la Comisión Interamericana y la Corte Interamericana de Derechos Humanos."
+        },
+        {
+          "letra": "C",
+          "texto": "La Comisión Interamericana de Mujeres y la Corte Internacional de Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 33, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "El Comité de Derechos Humanos y la Corte Penal Internacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 33, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 28 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el examen para cargos letrados consiste en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un cuestionario de opción múltiple",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 28, Ley N° 26.861: la norma no dispone «Un cuestionario de opción múltiple»; lo correcto es: el examen consiste en la elaboración de una solución a un problema jurídico."
+        },
+        {
+          "letra": "B",
+          "texto": "La elaboración de una solución a un problema jurídico",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 28, Ley N° 26.861: el examen consiste en la elaboración de una solución a un problema jurídico."
+        },
+        {
+          "letra": "C",
+          "texto": "Una entrevista de personalidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 28, Ley N° 26.861: la norma no dispone «Una entrevista de personalidad»; lo correcto es: el examen consiste en la elaboración de una solución a un problema jurídico."
+        },
+        {
+          "letra": "D",
+          "texto": "Una prueba de informática",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 28, Ley N° 26.861: la norma no dispone «Una prueba de informática»; lo correcto es: el examen consiste en la elaboración de una solución a un problema jurídico."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según la introducción al Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482), ¿cuál de los siguientes derechos NO está expresamente mencionado como comprendido en el debido proceso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a la doble instancia administrativa previa",
+          "correcta": true,
+          "explicacion": "Correcta. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: enumera presunción de inocencia, no autoincriminación y recurrir el fallo ante tribunal superior, pero no la doble instancia administrativa previa."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a recurrir el fallo ante un juez o tribunal superior",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Debido proceso; la opción correcta es la 'c'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: enumera presunción de inocencia, no autoincriminación y recurrir el fallo ante tribunal superior, pero no la doble instancia administrativa previa."
+        },
+        {
+          "letra": "C",
+          "texto": "La presunción de inocencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Debido proceso; la opción correcta es la 'c'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: enumera presunción de inocencia, no autoincriminación y recurrir el fallo ante tribunal superior, pero no la doble instancia administrativa previa."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a no ser obligado a declarar contra sí mismo",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Debido proceso; la opción correcta es la 'c'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: enumera presunción de inocencia, no autoincriminación y recurrir el fallo ante tribunal superior, pero no la doble instancia administrativa previa."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "De acuerdo con el artículo 80 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), no corresponde calificar a quienes:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hubieran estado gozando de licencias extraordinarias por un período superior a seis meses",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80 de la Res. PGN N° 128/2010 exceptúa de la calificación a quienes hubieran gozado de licencias extraordinarias por un período superior a seis meses."
+        },
+        {
+          "letra": "B",
+          "texto": "Hayan recibido menciones",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 de la Res. PGN N° 128/2010 no exceptúa de la calificación a quienes hayan recibido menciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Tengan título universitario",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 de la Res. PGN N° 128/2010 no exceptúa de la calificación a quienes tengan título universitario."
+        },
+        {
+          "letra": "D",
+          "texto": "Sean personal permanente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 de la Res. PGN N° 128/2010 no exceptúa de la calificación al personal permanente."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Conforme al art. 11 de la Ley N° 26.743, para el acceso a las intervenciones y tratamientos se requerirá únicamente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la conformidad de un familiar",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 11 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "la autorización del cónyuge",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 11 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "el consentimiento informado de la persona",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 11 de la Ley N° 26.743 (Identidad de Género). Art. 11: '...En ambos casos se requerirá, únicamente, el consentimiento informado de la persona.'"
+        },
+        {
+          "letra": "D",
+          "texto": "un certificado de salud mental",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 11 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 3 de la Ley N° 26.743, toda persona podrá solicitar la rectificación registral del sexo y el cambio de nombre de pila e imagen cuando:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "exista una sentencia judicial firme",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "no coincidan con su identidad de género autopercibida",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 3 de la Ley N° 26.743 (Identidad de Género). Art. 3: 'Toda persona podrá solicitar la rectificación registral del sexo, y el cambio de nombre de pila e imagen, cuando no coincidan con su identidad de género autopercibida.'"
+        },
+        {
+          "letra": "C",
+          "texto": "acredite tratamiento hormonal previo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "lo autorice el Registro Nacional de Reincidencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo del documento institucional 'Qué es el Ministerio Público Fiscal', ¿qué Res. PGN estableció la Fiscalía de Distrito de Comodoro Rivadavia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Res. PGN N° 7/25",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Comodoro Rivadavia; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Comodoro Rivadavia fue establecida por Res. PGN N° 72/24."
+        },
+        {
+          "letra": "B",
+          "texto": "Res. PGN N° 72/24",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Comodoro Rivadavia fue establecida por Res. PGN N° 72/24."
+        },
+        {
+          "letra": "C",
+          "texto": "Res. PGN N° 65/24",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Comodoro Rivadavia; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Comodoro Rivadavia fue establecida por Res. PGN N° 72/24."
+        },
+        {
+          "letra": "D",
+          "texto": "Res. PGN N° 42/24",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Comodoro Rivadavia; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Comodoro Rivadavia fue establecida por Res. PGN N° 72/24."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 28 de la Ley N° 26.485, el juez fijará una audiencia que deberá tomar personalmente bajo pena de nulidad dentro de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "CUARENTA Y OCHO (48) horas de ordenadas las medidas del artículo 26",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 28 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 28: '...fijará una audiencia, la que deberá tomar personalmente bajo pena de nulidad, dentro de CUARENTA Y OCHO (48) horas de ordenadas las medidas del artículo 26...'"
+        },
+        {
+          "letra": "B",
+          "texto": "CINCO (5) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 28 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "DIEZ (10) días corridos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 28 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "VEINTICUATRO (24) horas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 28 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 26 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), la integración del Tribunal Evaluador se comunica junto con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La convocatoria general",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La convocatoria general»; lo correcto es: la integración del TE se comunica junto a la publicación de la lista definitiva y no da lugar a planteo alguno."
+        },
+        {
+          "letra": "B",
+          "texto": "La publicación de la lista definitiva de personas inscriptas, y no dará lugar a planteo alguno",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la integración del TE se comunica junto a la publicación de la lista definitiva y no da lugar a planteo alguno."
+        },
+        {
+          "letra": "C",
+          "texto": "La apertura del concurso",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La apertura del concurso»; lo correcto es: la integración del TE se comunica junto a la publicación de la lista definitiva y no da lugar a planteo alguno."
+        },
+        {
+          "letra": "D",
+          "texto": "El dictamen final",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El dictamen final»; lo correcto es: la integración del TE se comunica junto a la publicación de la lista definitiva y no da lugar a planteo alguno."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Ante quién presta juramento el Procurador General de la Nación, conforme el artículo 54 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ante el Consejo General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 de la Ley N° 27.148 dispone el juramento ante el Presidente de la Nación, no ante el Consejo General."
+        },
+        {
+          "letra": "B",
+          "texto": "Ante el Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 de la Ley N° 27.148 prevé el juramento ante el Presidente de la Nación, no ante el Senado."
+        },
+        {
+          "letra": "C",
+          "texto": "Ante el Presidente de la Nación en su calidad de Jefe Supremo de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 54 de la Ley N° 27.148 establece que el Procurador General prestará juramento ante el Presidente de la Nación en su calidad de Jefe Supremo de la Nación."
+        },
+        {
+          "letra": "D",
+          "texto": "Ante el presidente de la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 de la Ley N° 27.148 dispone el juramento ante el Presidente de la Nación, no ante el presidente de la Corte Suprema."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 91 de la Constitución Nacional, ¿qué ocurre con el período del Presidente si fue interrumpido por algún evento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El período se prorroga automáticamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 91 de la Constitución Nacional no prevé prórroga automática del período presidencial."
+        },
+        {
+          "letra": "B",
+          "texto": "El Presidente cesa el mismo día en que expira su período de cuatro años, sin que evento alguno pueda ser motivo de que se le complete más tarde",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 91 de la Constitución Nacional establece que el Presidente cesa en el poder el mismo día en que expira su período de cuatro años, sin que evento alguno que lo haya interrumpido pueda ser motivo de que se le complete más tarde."
+        },
+        {
+          "letra": "C",
+          "texto": "Se convoca a nueva elección de inmediato",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 91 de la Constitución Nacional no ordena convocar a nueva elección de inmediato; dispone que el Presidente cesa al expirar los cuatro años."
+        },
+        {
+          "letra": "D",
+          "texto": "Se le completa más tarde el tiempo perdido",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 91 de la Constitución Nacional dispone exactamente lo contrario: ningún evento que interrumpa el período puede ser motivo de que se le complete más tarde."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 12 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué tipo de talleres apoya la creación el Ministerio de Trabajo, teniendo a su cargo su habilitación, registro y supervisión?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Talleres protegidos terapéuticos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 12 de la Ley N° 22.431 se refiere a talleres protegidos de producción; los terapéuticos corresponden al artículo 6°."
+        },
+        {
+          "letra": "B",
+          "texto": "Talleres de orientación vocacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 12 de la Ley N° 22.431 no se refiere a talleres de orientación vocacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Talleres escolares especiales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 12 de la Ley N° 22.431 no se refiere a talleres escolares especiales."
+        },
+        {
+          "letra": "D",
+          "texto": "Talleres protegidos de producción",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 12 de la Ley N° 22.431 dispone que el Ministerio de Trabajo apoya la creación de talleres protegidos de producción, con su habilitación, registro y supervisión."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Conforme a la pauta 8 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), el plazo para resolver el recurso jerárquico es de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco (5) días hábiles",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 fija cinco (5) días hábiles para resolver el recurso jerárquico."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez (10) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija diez (10) días hábiles para resolver el recurso jerárquico."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres (3) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija tres (3) días hábiles para resolver el recurso jerárquico."
+        },
+        {
+          "letra": "D",
+          "texto": "Quince (15) días corridos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija quince (15) días corridos para resolver el recurso jerárquico."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "En los casos que no se archivan, el Procurador General dará intervención a un Consejo Evaluador a fin de que, conforme el artículo 73 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Emita opinión no vinculante sobre el objeto de las actuaciones",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 73 de la Ley N° 27.148 dispone que el Procurador General dará intervención a un Consejo Evaluador a fin de que emita opinión no vinculante sobre el objeto de las actuaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Remueva al magistrado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La remoción corresponde al Tribunal de Enjuiciamiento (art. 76 de la Ley N° 27.148), no al Consejo Evaluador."
+        },
+        {
+          "letra": "C",
+          "texto": "Imponga la sanción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Ley N° 27.148 asigna al Consejo Evaluador emitir opinión, no imponer la sanción."
+        },
+        {
+          "letra": "D",
+          "texto": "Convoque al Tribunal de Enjuiciamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Ley N° 27.148 no atribuye al Consejo Evaluador convocar al Tribunal de Enjuiciamiento."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Conforme al art. 4 inc. 2 de la Ley N° 26.743, al rectificarse la partida de nacimiento y emitirse el nuevo DNI:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se mantiene el sexo registrado al nacer",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "se requiere homologación judicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "se asigna un nuevo número de documento",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "se conserva el número original",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 4 de la Ley N° 26.743 (Identidad de Género). Art. 4 inc. 2: '...requiriendo la rectificación registral de la partida de nacimiento y el nuevo documento nacional de identidad correspondiente, conservándose el número original.'"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 24 de la Constitución Nacional, ¿qué mayoría requiere la aprobación de tratados de integración con Estados de Latinoamérica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos tercios de los presentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 24 de la Constitución Nacional exige mayoría absoluta de la totalidad de los miembros de cada Cámara, no dos tercios de los presentes."
+        },
+        {
+          "letra": "B",
+          "texto": "La mayoría absoluta de la totalidad de los miembros de cada Cámara",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 24 de la Constitución Nacional dispone que los tratados de integración con Estados de Latinoamérica requieren la mayoría absoluta de la totalidad de los miembros de cada Cámara."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres cuartas partes del total",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 24 de la Constitución Nacional exige mayoría absoluta de la totalidad de los miembros de cada Cámara, no tres cuartas partes del total."
+        },
+        {
+          "letra": "D",
+          "texto": "Mayoría simple de los presentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 24 de la Constitución Nacional exige la mayoría absoluta de la totalidad de los miembros de cada Cámara, no mayoría simple de los presentes."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 4° inciso f) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), entre los servicios que presta el Estado se encuentra:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La cobertura de transporte especial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 4° inciso f) de la Ley N° 22.431 no enuncia la cobertura de transporte especial."
+        },
+        {
+          "letra": "B",
+          "texto": "La provisión de medicamentos gratuitos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 4° inciso f) de la Ley N° 22.431 no enuncia la provisión de medicamentos gratuitos."
+        },
+        {
+          "letra": "C",
+          "texto": "El otorgamiento de pensiones no contributivas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 4° inciso f) de la Ley N° 22.431 no enuncia el otorgamiento de pensiones no contributivas."
+        },
+        {
+          "letra": "D",
+          "texto": "Orientación o promoción individual, familiar y social",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 4° inciso f) de la Ley N° 22.431 comprende la orientación o promoción individual, familiar y social."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "En una fiscalía federal, una empleada se acerca al Equipo de Orientación y Seguimiento en Casos de Violencia de Género y relata, en una entrevista, conductas reiteradas de acoso por motivos de género por parte de un magistrado. Manifiesta su temor a represalias y solicita que no se divulgue su identidad. El Equipo realiza la entrevista con dos integrantes de distinta formación profesional, forma un legajo, diseña un plan de acción y, tras el abordaje interdisciplinario, concluye que las conductas podrían tener implicancias disciplinarias.",
+    "consigna": "Indique cómo debe proceder el Equipo conforme al Protocolo (Anexo II de la Resolución PGN N° 70/2022) y al Reglamento Disciplinario para Magistrados/as (Anexo IV de la misma resolución): tratamiento del legajo, reserva de identidad, derivación y seguimiento.",
+    "resolucion_didactica": "(a) Respuesta: el Equipo debe formar un legajo reservado, resguardar la identidad de la denunciante y, dado que las conductas podrían tener implicancias disciplinarias, remitir las constancias a la Secretaría Disciplinaria y Técnica, continuando con el seguimiento del caso.\n(b) Razonamiento jurídico paso a paso: 1) Conforme al Anexo II de la Resolución PGN N° 70/2022, se forma un legajo registrado en el sistema COMDOC o el que lo reemplace, que será confidencial para las personas ajenas al conflicto, pudiendo disponerse fundadamente su reserva respecto de alguno de los involucrados (Anexo I, principio c, Reserva de las actuaciones). 2) Conforme al art. 24 del Reglamento Disciplinario para Magistrados/as (Anexo IV), al tratarse de hechos de acoso por motivos de género, podrá omitirse en el acta la identidad de la denunciante y reservarse sus datos en sobre cerrado. 3) Como las conductas podrían tener implicancias disciplinarias, el Equipo remitirá todas las constancias a la Secretaría Disciplinaria y Técnica, previo informar dicha circunstancia a la persona consultante, y continuará el seguimiento hasta la resolución final; si se designa instructor/a del sumario, deberá estar capacitado/a en la materia (art. 33), y lo resuelto se hará saber al Equipo con fines estadísticos (art. 53).\n(c) Normas y conceptos aplicables: Resolución PGN N° 70/2022, Anexo II (legajo reservado y evaluación final), Anexo I (principio c, reserva de actuaciones) y Anexo IV, arts. 24, 33 y 53; principios de confidencialidad y reserva de identidad de la víctima.",
+    "fundamento_normativo": "Resolución PGN N° 70/2022, Anexo II (Elaboración de un legajo reservado; Evaluación final); Anexo IV, arts. 24, 33 y 53; Anexo I, principio c) Reserva de las actuaciones."
+  }
+}

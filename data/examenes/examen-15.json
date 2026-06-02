@@ -1,0 +1,786 @@
+{
+  "examen_id": 15,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 64 de la Constitución Nacional, ¿de qué es juez cada Cámara?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De los conflictos entre las provincias",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los conflictos entre provincias se dirimen ante la Corte Suprema (arts. 117 y 127 de la Constitución Nacional), no por cada Cámara."
+        },
+        {
+          "letra": "B",
+          "texto": "De las elecciones, derechos y títulos de sus miembros en cuanto a su validez",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 64 de la Constitución Nacional dispone que cada Cámara es juez de las elecciones, derechos y títulos de sus miembros en cuanto a su validez."
+        },
+        {
+          "letra": "C",
+          "texto": "De los delitos cometidos por sus miembros",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 64 de la Constitución Nacional se refiere a las elecciones, derechos y títulos de sus miembros; el juzgamiento de delitos sigue el régimen de los arts. 69 y 70."
+        },
+        {
+          "letra": "D",
+          "texto": "De la constitucionalidad de las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El control de constitucionalidad corresponde al Poder Judicial (arts. 116 y 117 de la Constitución Nacional), no a cada Cámara conforme al art. 64."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Qué edad y antigüedad profesional se requieren para ser fiscal general, conforme el artículo 46 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Treinta (30) años de edad y seis (6) años de ejercicio efectivo de la profesión de abogado",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 46 de la Ley N° 27.148 requiere para ser fiscal general tener treinta (30) años de edad y contar con seis (6) años de ejercicio efectivo de la profesión de abogado."
+        },
+        {
+          "letra": "B",
+          "texto": "Veinticinco (25) años de edad y cuatro (4) años de ejercicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. Veinticinco años y cuatro de ejercicio son los requisitos para ser fiscal (art. 47 de la Ley N° 27.148), no fiscal general."
+        },
+        {
+          "letra": "C",
+          "texto": "Treinta y cinco (35) años de edad y diez (10) años de ejercicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 46 de la Ley N° 27.148 fija treinta años y seis de ejercicio, no treinta y cinco y diez."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuarenta (40) años de edad y ocho (8) años de ejercicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 46 de la Ley N° 27.148 fija treinta años y seis de ejercicio, no cuarenta y ocho."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Los funcionarios y empleados del MPF se integrarán en tres agrupamientos. ¿Cuáles son, conforme el artículo 57 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Penal, civil y administrativo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 57 de la Ley N° 27.148 no agrupa por materia penal, civil y administrativo."
+        },
+        {
+          "letra": "B",
+          "texto": "Magistrados, funcionarios y empleados",
+          "correcta": false,
+          "explicacion": "Incorrecta. Magistrados, funcionarios y empleados es una clasificación general; el art. 57 de la Ley N° 27.148 fija los tres agrupamientos técnicos mencionados."
+        },
+        {
+          "letra": "C",
+          "texto": "Técnico jurídico, técnico administrativo y servicios auxiliares",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 57 de la Ley N° 27.148 dispone que los funcionarios y empleados se integrarán en los agrupamientos técnico jurídico, técnico administrativo y servicios auxiliares."
+        },
+        {
+          "letra": "D",
+          "texto": "Superior, intermedio e inicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 57 de la Ley N° 27.148 no usa los agrupamientos superior, intermedio e inicial."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando I de la Resolución PGN N° 70/2022, ¿de qué fiscalía era titular el doctor Julio César Castro?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fiscalía N° 13 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando I: el doctor Julio César Castro era titular de la Fiscalía N° 13 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal."
+        },
+        {
+          "letra": "B",
+          "texto": "Fiscalía General ante la Cámara Federal de Casación Penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando I; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando I: el doctor Julio César Castro era titular de la Fiscalía N° 13 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal."
+        },
+        {
+          "letra": "C",
+          "texto": "Fiscalía N° 15 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando I; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando I: el doctor Julio César Castro era titular de la Fiscalía N° 13 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal."
+        },
+        {
+          "letra": "D",
+          "texto": "Fiscalía Federal N° 13 de La Plata",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando I; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando I: el doctor Julio César Castro era titular de la Fiscalía N° 13 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Conforme al art. 37 de la Ley N° 26.485, ¿quién llevará registros sociodemográficos de las denuncias de violencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Ministerio Público Fiscal",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 37 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 37 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 37: 'La Corte Suprema de Justicia de la Nación llevará registros sociodemográficos de las denuncias efectuadas sobre hechos de violencia previstos en esta ley...'"
+        },
+        {
+          "letra": "C",
+          "texto": "El INADI",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 37 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "El Consejo Nacional de la Mujer",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 37 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 38 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, ¿a quiénes se invita a adherir a sus términos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los sindicatos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 38, Ley N° 26.861: la norma no dispone «A los sindicatos»; lo correcto es: se invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a sus términos."
+        },
+        {
+          "letra": "B",
+          "texto": "A las provincias y a la Ciudad Autónoma de Buenos Aires",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 38, Ley N° 26.861: se invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a sus términos."
+        },
+        {
+          "letra": "C",
+          "texto": "A las universidades nacionales",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 38, Ley N° 26.861: la norma no dispone «A las universidades nacionales»; lo correcto es: se invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a sus términos."
+        },
+        {
+          "letra": "D",
+          "texto": "A los colegios de abogados",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 38, Ley N° 26.861: la norma no dispone «A los colegios de abogados»; lo correcto es: se invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a sus términos."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 26 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, si el postulante notificado no comparece a aceptar el cargo dentro de los diez días, se lo tiene por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aprobado en lista de espera",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Ley N° 26.861: la norma no dispone «Aprobado en lista de espera»; lo correcto es: si no comparece dentro de diez (10) días de notificado, se lo tiene por desistido y se lo excluye para nuevo sorteo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sancionado disciplinariamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Ley N° 26.861: la norma no dispone «Sancionado disciplinariamente»; lo correcto es: si no comparece dentro de diez (10) días de notificado, se lo tiene por desistido y se lo excluye para nuevo sorteo."
+        },
+        {
+          "letra": "C",
+          "texto": "Desistido, excluyéndoselo de la lista para llamar a nuevo sorteo",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 26, Ley N° 26.861: si no comparece dentro de diez (10) días de notificado, se lo tiene por desistido y se lo excluye para nuevo sorteo."
+        },
+        {
+          "letra": "D",
+          "texto": "Designado de oficio",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 26, Ley N° 26.861: la norma no dispone «Designado de oficio»; lo correcto es: si no comparece dentro de diez (10) días de notificado, se lo tiene por desistido y se lo excluye para nuevo sorteo."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El Procurador General puede solicitar el enjuiciamiento de los jueces ante los órganos competentes cuando se hallaren incursos en las causales previstas en, conforme el artículo 12 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Código Procesal Penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 inc. n de la Ley N° 27.148 remite al art. 53 de la Constitución Nacional, no al Código Procesal Penal."
+        },
+        {
+          "letra": "B",
+          "texto": "El artículo 110 de la Constitución Nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 inc. n de la Ley N° 27.148 remite al art. 53 de la Constitución Nacional, no al art. 110."
+        },
+        {
+          "letra": "C",
+          "texto": "El artículo 53 de la Constitución Nacional",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 12 inc. n de la Ley N° 27.148 faculta al Procurador General a solicitar el enjuiciamiento de los jueces cuando se hallaren incursos en las causales previstas en el artículo 53 de la Constitución Nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "La ley 24.156",
+          "correcta": false,
+          "explicacion": "Incorrecta. La ley 24.156 rige administración financiera; el art. 12 inc. n de la Ley N° 27.148 remite al art. 53 de la Constitución Nacional."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 6 de la Ley N° 26.743 establece que los trámites para la rectificación registral son:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "gratuitos, personales y no será necesaria la intermediación de ningún gestor o abogado",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 6 de la Ley N° 26.743 (Identidad de Género). Art. 6: 'Los trámites para la rectificación registral previstos en la presente ley son gratuitos, personales y no será necesaria la intermediación de ningún gestor o abogado.'"
+        },
+        {
+          "letra": "B",
+          "texto": "arancelados y deben realizarse por abogado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "gratuitos pero exigen gestor habilitado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "personales pero requieren patrocinio letrado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Conforme al art. 3 de la Ley N° 26.485, las mujeres tienen derecho a gozar de acceso a la justicia:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "preferencial pero arancelado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "gratuito en casos comprendidos en el ámbito de aplicación de la ley",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 3 inc. i: 'Gozar de acceso gratuito a la justicia en casos comprendidos en el ámbito de aplicación de la presente ley'."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo mediante patrocinio privado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "exclusivamente ante el Ministerio Público",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 106 de la Constitución Nacional, ¿qué pueden hacer los ministros en las sesiones del Congreso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Votar en los debates como un legislador más",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 106 de la Constitución Nacional prohíbe expresamente a los ministros votar en los debates."
+        },
+        {
+          "letra": "B",
+          "texto": "Concurrir y tomar parte en sus debates, pero no votar",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 106 de la Constitución Nacional dispone que los ministros pueden concurrir a las sesiones del Congreso y tomar parte en sus debates, pero no votar."
+        },
+        {
+          "letra": "C",
+          "texto": "Presidir las sesiones de las Cámaras",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 106 de la Constitución Nacional no faculta a los ministros a presidir las sesiones; solo a participar en los debates sin votar."
+        },
+        {
+          "letra": "D",
+          "texto": "No pueden concurrir a las sesiones",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 106 de la Constitución Nacional sí permite a los ministros concurrir a las sesiones y participar en los debates, aunque sin votar."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "¿Cuál de las siguientes medidas preventivas urgentes prevé el art. 26 de la Ley N° 26.485?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Imponer prisión preventiva al agresor",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Disponer el embargo de todos los bienes del agresor",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Ordenar la inhabilitación profesional del agresor",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Prohibir al presunto agresor la compra y tenencia de armas, y ordenar el secuestro de las que estuvieren en su posesión",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 26 inc. a.4: 'Prohibir al presunto agresor la compra y tenencia de armas, y ordenar el secuestro de las que estuvieren en su posesión'."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿A quién corresponde designar al fiscal revisor para los casos que correspondan territorialmente al distrito, conforme el artículo 20 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al Consejo General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 20 inc. e de la Ley N° 27.148 no asigna esa designación al Consejo General."
+        },
+        {
+          "letra": "B",
+          "texto": "Al fiscal coordinador de distrito, por sorteo o sistema de turnos que asegure una distribución equitativa",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 20 inc. e de la Ley N° 27.148 dispone que el fiscal coordinador de distrito designará al fiscal revisor por sorteo o un sistema de turnos que asegure una distribución equitativa de la carga de trabajo."
+        },
+        {
+          "letra": "C",
+          "texto": "Al juez de la causa",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 20 inc. e de la Ley N° 27.148 atribuye la designación al fiscal coordinador, no al juez de la causa."
+        },
+        {
+          "letra": "D",
+          "texto": "Al Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 20 inc. e de la Ley N° 27.148 atribuye la designación del fiscal revisor al fiscal coordinador de distrito, no al Procurador General."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 6 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, establece que el derecho a una vida libre de violencia incluye, entre otros:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a ser libre de toda forma de discriminación y a ser valorada y educada libre de patrones estereotipados de comportamiento",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 6, Convención de Belém do Pará (Ley N° 24.632): derecho a ser libre de discriminación y a ser valorada y educada libre de patrones estereotipados."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho al asilo político",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 6, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a la libre circulación entre Estados",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 6, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a la indemnización por error judicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 6, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 21 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué se entiende por practicabilidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La posibilidad de modificar en el tiempo el medio físico",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 21 de la Ley N° 22.431 define así la adaptabilidad, no la practicabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "La supresión total de barreras arquitectónicas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 21 de la Ley N° 22.431 no define la practicabilidad como la supresión total de barreras arquitectónicas."
+        },
+        {
+          "letra": "C",
+          "texto": "La adaptación limitada a condiciones mínimas de los ámbitos básicos para ser utilizados por las personas con movilidad reducida",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 21 de la Ley N° 22.431 define practicabilidad como la adaptación limitada a condiciones mínimas de los ámbitos básicos para uso de personas con movilidad reducida."
+        },
+        {
+          "letra": "D",
+          "texto": "La accesibilidad limitada al ingreso y uso de espacios comunes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 21 de la Ley N° 22.431 define así la visitabilidad, no la practicabilidad."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 39 de la Constitución Nacional, ¿en qué Cámara se ejerce el derecho de iniciativa para presentar proyectos de ley?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En cualquiera de las dos Cámaras",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 39 de la Constitución Nacional radica la iniciativa popular en la Cámara de Diputados, no en cualquiera de las dos Cámaras."
+        },
+        {
+          "letra": "B",
+          "texto": "En el Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 39 de la Constitución Nacional ejerce la iniciativa popular en la Cámara de Diputados, no en el Senado."
+        },
+        {
+          "letra": "C",
+          "texto": "En la Comisión Bicameral Permanente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 39 de la Constitución Nacional no menciona a la Comisión Bicameral Permanente; la iniciativa popular se ejerce en la Cámara de Diputados."
+        },
+        {
+          "letra": "D",
+          "texto": "En la Cámara de Diputados",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 39 de la Constitución Nacional dispone que los ciudadanos tienen el derecho de iniciativa para presentar proyectos de ley en la Cámara de Diputados."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 32 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), para ingresar al agrupamiento 'Servicios Auxiliares' se requiere, además de los requisitos generales:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tres años de experiencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 32, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Tres años de experiencia»; lo correcto es: para Servicios Auxiliares se requiere, además de los requisitos generales del art. 12, educación primaria completa."
+        },
+        {
+          "letra": "B",
+          "texto": "Educación primaria completa",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 32, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): para Servicios Auxiliares se requiere, además de los requisitos generales del art. 12, educación primaria completa."
+        },
+        {
+          "letra": "C",
+          "texto": "Título de abogado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 32, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Título de abogado»; lo correcto es: para Servicios Auxiliares se requiere, además de los requisitos generales del art. 12, educación primaria completa."
+        },
+        {
+          "letra": "D",
+          "texto": "Estudios secundarios completos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 32, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Estudios secundarios completos»; lo correcto es: para Servicios Auxiliares se requiere, además de los requisitos generales del art. 12, educación primaria completa."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 11 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, ¿qué deben establecerse para garantizar la participación de todos los ciudadanos del país?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Concursos sólo para residentes de cada provincia",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 11, Ley N° 26.861: la norma no dispone «Concursos sólo para residentes de cada provincia»; lo correcto es: deben establecerse concursos regionales con alcance en todas las jurisdicciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Concursos regionales con alcance en todas las jurisdicciones",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 11, Ley N° 26.861: deben establecerse concursos regionales con alcance en todas las jurisdicciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Concursos exclusivamente en la Capital Federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 11, Ley N° 26.861: la norma no dispone «Concursos exclusivamente en la Capital Federal»; lo correcto es: deben establecerse concursos regionales con alcance en todas las jurisdicciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Un único concurso nacional anual",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 11, Ley N° 26.861: la norma no dispone «Un único concurso nacional anual»; lo correcto es: deben establecerse concursos regionales con alcance en todas las jurisdicciones."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según la pauta 8 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), la calificación será efectuada en el mes de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Diciembre",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 inc. b) del art. 81 de la Res. PGN N° 128/2010 no fija la calificación en diciembre."
+        },
+        {
+          "letra": "B",
+          "texto": "Noviembre",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 8 inc. b) del art. 81 de la Res. PGN N° 128/2010 dispone que la calificación será efectuada en el mes de noviembre."
+        },
+        {
+          "letra": "C",
+          "texto": "Octubre",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 inc. b) del art. 81 de la Res. PGN N° 128/2010 no fija la calificación en octubre."
+        },
+        {
+          "letra": "D",
+          "texto": "Marzo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 inc. b) del art. 81 de la Res. PGN N° 128/2010 no fija la calificación en marzo."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el artículo 20 del Régimen de Funcionarios y Empleados (Anexo III de la Resolución PGN N° 70/2022), el personal no permanente goza de los derechos enunciados, con excepción de los referidos a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Capacitación y obra social",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 20; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 20: el personal no permanente goza de los derechos enunciados, salvo los incisos a) Estabilidad y c) Igualdad de oportunidades en la carrera."
+        },
+        {
+          "letra": "B",
+          "texto": "Jubilación y seguros",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 20; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 20: el personal no permanente goza de los derechos enunciados, salvo los incisos a) Estabilidad y c) Igualdad de oportunidades en la carrera."
+        },
+        {
+          "letra": "C",
+          "texto": "Licencias y renuncia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 20; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 20: el personal no permanente goza de los derechos enunciados, salvo los incisos a) Estabilidad y c) Igualdad de oportunidades en la carrera."
+        },
+        {
+          "letra": "D",
+          "texto": "Estabilidad e igualdad de oportunidades en la carrera (incisos a y c)",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo III, art. 20: el personal no permanente goza de los derechos enunciados, salvo los incisos a) Estabilidad y c) Igualdad de oportunidades en la carrera."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 22 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué se entiende por barreras en los transportes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aquellas existentes en el acceso y utilización de los medios de transporte público terrestres, aéreos y acuáticos de corta, media y larga distancia y aquellas que dificulten el uso de medios propios de transporte por las personas con movilidad reducida",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 22 de la Ley N° 22.431 define las barreras en los transportes como las del acceso y uso del transporte público terrestre, aéreo y acuático y las que dificulten el uso de medios propios."
+        },
+        {
+          "letra": "B",
+          "texto": "Las derivadas de la falta de estacionamientos reservados",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 de la Ley N° 22.431 no define las barreras en los transportes por la falta de estacionamientos reservados."
+        },
+        {
+          "letra": "C",
+          "texto": "Las existentes en los edificios de uso público",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 de la Ley N° 22.431 reserva los edificios de uso público para las barreras arquitectónicas del artículo 21."
+        },
+        {
+          "letra": "D",
+          "texto": "Las existentes en las vías y espacios libres públicos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 22 de la Ley N° 22.431 reserva las vías y espacios libres públicos para las barreras urbanas del artículo 20."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 11 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, en la esfera del empleo, los Estados deben asegurar a la mujer:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho al trabajo como derecho inalienable de todo ser humano",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 11.1.a, CEDAW (Ley N° 23.179): el derecho al trabajo como derecho inalienable de todo ser humano."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo trabajos compatibles con la maternidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 11.1.a, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Empleo exclusivamente en el sector público",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 11.1.a, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Jornadas reducidas obligatorias",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 11.1.a, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento institucional 'Qué es el Ministerio Público Fiscal', en uso de la potestad del art. 75 inc. 20 de la CN, el Congreso dispuso la división del territorio nacional en cuántos distritos judiciales federales:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "16 distritos",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Distritos Judiciales Federales): el Congreso dispuso la división del territorio nacional en 16 distritos judiciales federales."
+        },
+        {
+          "letra": "B",
+          "texto": "23 distritos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Distritos Judiciales Federales; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Distritos Judiciales Federales): el Congreso dispuso la división del territorio nacional en 16 distritos judiciales federales."
+        },
+        {
+          "letra": "C",
+          "texto": "12 distritos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Distritos Judiciales Federales; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Distritos Judiciales Federales): el Congreso dispuso la división del territorio nacional en 16 distritos judiciales federales."
+        },
+        {
+          "letra": "D",
+          "texto": "24 distritos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Distritos Judiciales Federales; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Distritos Judiciales Federales): el Congreso dispuso la división del territorio nacional en 16 distritos judiciales federales."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 7 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, sobre libertad personal, ¿quién puede ser detenido por deudas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier deudor moroso con sentencia firme",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 7.7, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Quien adeude impuestos al Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 7.7, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo los deudores comerciales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 7.7, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Nadie; salvo mandatos de autoridad judicial competente por incumplimiento de deberes alimentarios",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 7.7, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): nadie será detenido por deudas, salvo mandatos judiciales por incumplimiento de deberes alimentarios."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "El cargo de Contador Auditor regulado en el artículo 76 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), por la exigencia de título, está reservado a profesionales de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier carrera universitaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Res. PGN N° 128/2010 no admite cualquier carrera universitaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Las ciencias económicas (carrera del Consejo de Profesionales de Ciencias Económicas)",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 76 de la Res. PGN N° 128/2010 reserva el cargo a profesionales de las ciencias económicas, por exigir título de una carrera integrante del Consejo de Profesionales de las Ciencias Económicas."
+        },
+        {
+          "letra": "C",
+          "texto": "La abogacía",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Res. PGN N° 128/2010 no reserva el cargo a la abogacía."
+        },
+        {
+          "letra": "D",
+          "texto": "La administración pública sin título",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Res. PGN N° 128/2010 no admite ejercer el cargo desde la administración pública sin título."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Se inicia un procedimiento disciplinario contra una fiscal por una falta leve consistente en llegar habitualmente tarde. La autoridad competente toma conocimiento de la falta y recién dos (2) años después impulsa formalmente las actuaciones, sin que en el intervalo se hubiera cometido nueva falta ni iniciado el procedimiento.",
+    "consigna": "Resuelva si la potestad disciplinaria se encuentra prescripta y fundamente.",
+    "resolucion_didactica": "(a) Respuesta: La potestad disciplinaria está prescripta.\n(b) Razonamiento jurídico paso a paso: 1) Llegar habitualmente tarde constituye falta leve (art. 69, inc. c, de la Ley N° 27.148). 2) Respecto de las faltas leves, la potestad disciplinaria prescribe al año (art. 75 de la Ley N° 27.148), plazo que corre desde que la falta es conocida por la autoridad competente. 3) Transcurrieron dos (2) años desde ese conocimiento sin causal de interrupción (no hubo nueva falta ni iniciación y desarrollo del procedimiento), por lo que el plazo anual venció. 4) La sanción que habría correspondido a la falta leve es el apercibimiento (arts. 70 inc. a y 71 de la Ley N° 27.148), pero la acción disciplinaria ya no puede ejercerse.\n(c) Normas y conceptos aplicables: art. 69 inc. c de la Ley N° 27.148 (falta leve); art. 75 (prescripción al año para faltas leves, cómputo e interrupción); arts. 70 y 71 (sanción de apercibimiento para faltas leves).",
+    "fundamento_normativo": "Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), art. 69 inc. c (falta leve); art. 75 (prescripción al año para faltas leves, cómputo desde el conocimiento e interrupción); arts. 70 y 71 (sanción de apercibimiento para faltas leves)."
+  }
+}

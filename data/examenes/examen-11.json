@@ -1,0 +1,786 @@
+{
+  "examen_id": 11,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 1 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, ¿qué debe entenderse por violencia contra la mujer?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente la violencia ocurrida en el ámbito doméstico",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 1, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Toda agresión física que cause lesiones a la mujer",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 1, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento físico, sexual o psicológico a la mujer, tanto en el ámbito público como en el privado",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 1, Convención de Belém do Pará (Ley N° 24.632): define la violencia contra la mujer basada en género, en ámbito público o privado."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo la violencia ejercida por la pareja o ex pareja",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 1, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento institucional 'Qué es el Ministerio Público Fiscal', ¿interviene el MPF de la Nación siempre, en cualquier causa y lugar del país?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No; tiene a su cargo las causas federales en todo el país y algunas locales de la CABA no transferidas",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Competencia): el MPF tiene a su cargo las causas federales en todo el país y algunas locales de la CABA no transferidas."
+        },
+        {
+          "letra": "B",
+          "texto": "No; sólo interviene en causas penales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Competencia; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Competencia): el MPF tiene a su cargo las causas federales en todo el país y algunas locales de la CABA no transferidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en todas las causas del país",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Competencia; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Competencia): el MPF tiene a su cargo las causas federales en todo el país y algunas locales de la CABA no transferidas."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, salvo en la CABA",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Competencia; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Competencia): el MPF tiene a su cargo las causas federales en todo el país y algunas locales de la CABA no transferidas."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 8° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), las vacantes que se produzcan deben informarse, junto a una descripción del perfil del puesto, ¿a qué organismo que actuará como veedor de los concursos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al Ministerio de Salud de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no designa veedor al Ministerio de Salud de la Nación."
+        },
+        {
+          "letra": "B",
+          "texto": "Al Ministerio de Trabajo, Empleo y Formación de Recursos Humanos, con la participación de la Comisión Nacional Asesora para la Integración de Personas Discapacitadas",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 8° de la Ley N° 22.431 dispone informar las vacantes al Ministerio de Trabajo, Empleo y Formación de Recursos Humanos, veedor de los concursos con la Comisión Nacional Asesora."
+        },
+        {
+          "letra": "C",
+          "texto": "A la Dirección Nacional del Registro Oficial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no designa veedor a la Dirección Nacional del Registro Oficial."
+        },
+        {
+          "letra": "D",
+          "texto": "Al Ministerio de Desarrollo Social y Medio Ambiente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no designa veedor al Ministerio de Desarrollo Social y Medio Ambiente."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando II de la Resolución PGN N° 70/2022, en casos de discriminación estructural las reparaciones deben tener una vocación transformadora, de modo que tengan un efecto:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No solo restitutivo sino también correctivo",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando II: en casos de discriminación estructural las reparaciones deben tener un efecto no solo restitutivo sino también correctivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Exclusivamente económico",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando II: en casos de discriminación estructural las reparaciones deben tener un efecto no solo restitutivo sino también correctivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo punitivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando II: en casos de discriminación estructural las reparaciones deben tener un efecto no solo restitutivo sino también correctivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo restitutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando II: en casos de discriminación estructural las reparaciones deben tener un efecto no solo restitutivo sino también correctivo."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 37 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), la resolución del Tribunal Evaluador sobre las impugnaciones en 'Servicios Auxiliares':",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No será recurrible",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 37, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la resolución del Tribunal Evaluador sobre las impugnaciones no será recurrible."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede revisarse de oficio",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 37, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Puede revisarse de oficio»; lo correcto es: la resolución del Tribunal Evaluador sobre las impugnaciones no será recurrible."
+        },
+        {
+          "letra": "C",
+          "texto": "Admite recurso de apelación",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 37, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Admite recurso de apelación»; lo correcto es: la resolución del Tribunal Evaluador sobre las impugnaciones no será recurrible."
+        },
+        {
+          "letra": "D",
+          "texto": "Es recurrible ante la PGN",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 37, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Es recurrible ante la PGN»; lo correcto es: la resolución del Tribunal Evaluador sobre las impugnaciones no será recurrible."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 30 de la Constitución Nacional, ¿quiénes conservan los poderes de policía e imposición sobre los establecimientos de utilidad nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo los municipios",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 30 de la Constitución Nacional alude a las autoridades provinciales y municipales, no solo a los municipios."
+        },
+        {
+          "letra": "B",
+          "texto": "Las autoridades provinciales y municipales, en tanto no interfieran en el cumplimiento de aquellos fines",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 30 de la Constitución Nacional dispone que las autoridades provinciales y municipales conservan los poderes de policía e imposición sobre los establecimientos de utilidad nacional, en tanto no interfieran en el cumplimiento de aquellos fines."
+        },
+        {
+          "letra": "C",
+          "texto": "La Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 30 de la Constitución Nacional no atribuye esos poderes a la Corte Suprema, sino a las autoridades provinciales y municipales."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo el Gobierno federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 30 de la Constitución Nacional reconoce esos poderes a las autoridades provinciales y municipales, no solo al Gobierno federal."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El Poder Ejecutivo solo podrá disponer modificaciones en las erogaciones del MPF, conforme el artículo 42 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando lo considere conveniente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 de la Ley N° 27.148 restringe esa facultad; el Poder Ejecutivo no puede modificar cuando lo considere conveniente."
+        },
+        {
+          "letra": "B",
+          "texto": "En la medida en que sean producto de modificaciones en la estimación de los recursos que la financian",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 42 de la Ley N° 27.148 dispone que el Poder Ejecutivo solo podrá disponer modificaciones en las erogaciones del MPF en la medida en que sean producto de modificaciones en la estimación de los recursos que la financian."
+        },
+        {
+          "letra": "C",
+          "texto": "Por razones de emergencia económica",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 de la Ley N° 27.148 no habilita esas modificaciones por razones de emergencia económica."
+        },
+        {
+          "letra": "D",
+          "texto": "Con acuerdo del Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 de la Ley N° 27.148 condiciona la modificación a cambios en la estimación de recursos, no al acuerdo del Procurador General."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Si no se presentara ningún plan de trabajo para fiscal coordinador de distrito, el Procurador General, conforme el artículo 18 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Suspende la designación por un año",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 18 de la Ley N° 27.148 prevé ampliar la convocatoria, no suspender la designación por un año."
+        },
+        {
+          "letra": "B",
+          "texto": "Deberá ampliar la convocatoria a fiscales generales de otros distritos fiscales",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 18 de la Ley N° 27.148 establece que, si no se presentara ningún plan de trabajo, el Procurador General deberá ampliar la convocatoria a fiscales generales de otros distritos fiscales."
+        },
+        {
+          "letra": "C",
+          "texto": "Designa directamente al de mayor antigüedad",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 18 de la Ley N° 27.148 ordena ampliar la convocatoria, no designar directamente al de mayor antigüedad."
+        },
+        {
+          "letra": "D",
+          "texto": "Eleva el caso al Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 18 de la Ley N° 27.148 no contempla elevar el caso al Senado."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el punto XII de la parte resolutiva de la Resolución PGN N° 70/2022, la amplia difusión de lo dispuesto, tanto en la página web como en las redes sociales, se encomienda a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Secretaría Disciplinaria y Técnica",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Resuelvo XII; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Resuelvo XII: encomienda a la Dirección de Comunicación Institucional la amplia difusión de lo dispuesto en la web y redes sociales."
+        },
+        {
+          "letra": "B",
+          "texto": "La Dirección de Comunicación Institucional",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Resuelvo XII: encomienda a la Dirección de Comunicación Institucional la amplia difusión de lo dispuesto en la web y redes sociales."
+        },
+        {
+          "letra": "C",
+          "texto": "La Dirección de Recursos Humanos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Resuelvo XII; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Resuelvo XII: encomienda a la Dirección de Comunicación Institucional la amplia difusión de lo dispuesto en la web y redes sociales."
+        },
+        {
+          "letra": "D",
+          "texto": "La Dirección General de Políticas de Género",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Resuelvo XII; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Resuelvo XII: encomienda a la Dirección de Comunicación Institucional la amplia difusión de lo dispuesto en la web y redes sociales."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 15 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), para acreditar los requisitos de los artículos 12 y 13 del mismo Reglamento el postulante debe:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Completar una declaración jurada al inscribirse y refrendarla luego con la documentación que solicite la autoridad de aplicación",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 15, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): se completa una declaración jurada al inscribirse, refrendada luego con la documentación que solicite la autoridad de aplicación."
+        },
+        {
+          "letra": "B",
+          "texto": "Aportar certificado de antecedentes al inscribirse",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 15, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Aportar certificado de antecedentes al inscribirse»; lo correcto es: se completa una declaración jurada al inscribirse, refrendada luego con la documentación que solicite la autoridad de aplicación."
+        },
+        {
+          "letra": "C",
+          "texto": "Rendir un examen psicofísico inicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 15, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Rendir un examen psicofísico inicial»; lo correcto es: se completa una declaración jurada al inscribirse, refrendada luego con la documentación que solicite la autoridad de aplicación."
+        },
+        {
+          "letra": "D",
+          "texto": "Presentar testigos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 15, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Presentar testigos»; lo correcto es: se completa una declaración jurada al inscribirse, refrendada luego con la documentación que solicite la autoridad de aplicación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 88 de la Constitución Nacional, en caso de enfermedad, ausencia, muerte, renuncia o destitución del Presidente, ¿quién ejerce el Poder Ejecutivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El presidente provisorio del Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 88 de la Constitución Nacional no asigna esa función al presidente provisorio del Senado, sino al vicepresidente."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente de la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 88 de la Constitución Nacional no llama al presidente de la Corte Suprema, sino al vicepresidente de la Nación."
+        },
+        {
+          "letra": "C",
+          "texto": "El jefe de gabinete de ministros",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 88 de la Constitución Nacional atribuye el ejercicio del Poder Ejecutivo al vicepresidente, no al jefe de gabinete."
+        },
+        {
+          "letra": "D",
+          "texto": "El vicepresidente de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 88 de la Constitución Nacional dispone que, en caso de enfermedad, ausencia, muerte, renuncia o destitución del Presidente, el Poder Ejecutivo será ejercido por el vicepresidente de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 24 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, cuando ninguno de los postulantes apruebe el examen, la autoridad de aplicación debe:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Declarar desierto el concurso y convocar inmediatamente a uno nuevo, con un nuevo plazo de inscripción",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 24, Ley N° 26.861: si nadie aprueba, se declara desierto el concurso y se convoca inmediatamente a uno nuevo con nuevo plazo de inscripción."
+        },
+        {
+          "letra": "B",
+          "texto": "Elevar las actuaciones a la Corte",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 24, Ley N° 26.861: la norma no dispone «Elevar las actuaciones a la Corte»; lo correcto es: si nadie aprueba, se declara desierto el concurso y se convoca inmediatamente a uno nuevo con nuevo plazo de inscripción."
+        },
+        {
+          "letra": "C",
+          "texto": "Designar de oficio al mejor calificado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 24, Ley N° 26.861: la norma no dispone «Designar de oficio al mejor calificado»; lo correcto es: si nadie aprueba, se declara desierto el concurso y se convoca inmediatamente a uno nuevo con nuevo plazo de inscripción."
+        },
+        {
+          "letra": "D",
+          "texto": "Prorrogar el examen por treinta días",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 24, Ley N° 26.861: la norma no dispone «Prorrogar el examen por treinta días»; lo correcto es: si nadie aprueba, se declara desierto el concurso y se convoca inmediatamente a uno nuevo con nuevo plazo de inscripción."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según las Orientaciones del MPF, las categorías rígidas de masculino/hombre y femenino/mujer excluyentes de las personas trans y/o intersex, junto con la heterosexualidad impuesta como norma, se denominan:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "transversalidad y perspectiva de género",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "dicotomía funcional y jerarquía social",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "estereotipo positivo y disciplinamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "binarismo de género y heteronormatividad",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme a las Orientaciones sobre perspectiva de género (MPF). Orientaciones MPF: '...A esto lo llamamos, \"binarismo de género\" y \"heteronormatividad\".'"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 7 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, obliga a los Estados a establecer mecanismos judiciales y administrativos para asegurar que la mujer objeto de violencia tenga acceso efectivo a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Resarcimiento, reparación del daño u otros medios de compensación justos y eficaces",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 7.g, Convención de Belém do Pará (Ley N° 24.632): acceso efectivo a resarcimiento, reparación del daño u otros medios de compensación."
+        },
+        {
+          "letra": "B",
+          "texto": "Refugios exclusivamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 7.g, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Subsidios económicos permanentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 7.g, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Asistencia legal gratuita en todos los casos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 7.g, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 9 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), la convocatoria general establece un cronograma de concursos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bianual que abarque las distintas jurisdicciones de todo el país",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 9, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): se establece un cronograma de concursos bianual que abarque las distintas jurisdicciones del país."
+        },
+        {
+          "letra": "B",
+          "texto": "Mensual",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 9, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Mensual»; lo correcto es: se establece un cronograma de concursos bianual que abarque las distintas jurisdicciones del país."
+        },
+        {
+          "letra": "C",
+          "texto": "Anual",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 9, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Anual»; lo correcto es: se establece un cronograma de concursos bianual que abarque las distintas jurisdicciones del país."
+        },
+        {
+          "letra": "D",
+          "texto": "Quinquenal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 9, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Quinquenal»; lo correcto es: se establece un cronograma de concursos bianual que abarque las distintas jurisdicciones del país."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 9 de la Ley N° 26.743, tendrán acceso al acta de nacimiento originaria:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los organismos de seguridad",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "los familiares directos sin restricción",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "quienes cuenten con autorización del titular o con orden judicial por escrito y fundada",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 9 de la Ley N° 26.743 (Identidad de Género). Art. 9: 'Sólo tendrán acceso al acta de nacimiento originaria quienes cuenten con autorización del/la titular de la misma o con orden judicial por escrito y fundada.'"
+        },
+        {
+          "letra": "D",
+          "texto": "cualquier funcionario del Registro Civil",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "De acuerdo con el artículo 71 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), la posesión del cargo en el Agrupamiento Técnico Jurídico queda perfeccionada con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La toma de huellas dactilares",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Res. PGN N° 128/2010 no condiciona la posesión a la toma de huellas dactilares."
+        },
+        {
+          "letra": "B",
+          "texto": "El juramento",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 71 de la Res. PGN N° 128/2010 establece que la posesión del cargo queda perfeccionada con el juramento."
+        },
+        {
+          "letra": "C",
+          "texto": "La publicación en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Res. PGN N° 128/2010 no exige la publicación en el Boletín Oficial para perfeccionar la posesión."
+        },
+        {
+          "letra": "D",
+          "texto": "La firma del acta de designación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 71 de la Res. PGN N° 128/2010 no perfecciona la posesión con la firma del acta de designación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 4° inciso a) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿cómo se entiende la rehabilitación integral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Como el otorgamiento de subsidios económicos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 4° inciso a) de la Ley N° 22.431 no define la rehabilitación integral como otorgamiento de subsidios."
+        },
+        {
+          "letra": "B",
+          "texto": "Como el desarrollo de las capacidades de la persona discapacitada",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 4° inciso a) de la Ley N° 22.431 entiende la rehabilitación integral como el desarrollo de las capacidades de la persona discapacitada."
+        },
+        {
+          "letra": "C",
+          "texto": "Como la atención médica de urgencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 4° inciso a) de la Ley N° 22.431 no define la rehabilitación integral como atención médica de urgencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Como la reinserción laboral inmediata",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 4° inciso a) de la Ley N° 22.431 no define la rehabilitación integral como reinserción laboral inmediata."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 16 de la Constitución Nacional, ¿qué única condición se exige para ser admisible en los empleos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La idoneidad",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 16 de la Constitución Nacional dispone que todos los habitantes son admisibles en los empleos sin otra condición que la idoneidad."
+        },
+        {
+          "letra": "B",
+          "texto": "La nacionalidad argentina",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 16 de la Constitución Nacional no exige la nacionalidad como condición de admisibilidad, sino únicamente la idoneidad."
+        },
+        {
+          "letra": "C",
+          "texto": "La residencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 16 de la Constitución Nacional no exige la residencia como condición de admisibilidad en los empleos, sino la idoneidad."
+        },
+        {
+          "letra": "D",
+          "texto": "El título de nobleza",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 16 de la Constitución Nacional no admite títulos de nobleza; al contrario, declara que no hay en la Nación títulos de nobleza."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el preámbulo de la Declaración ONU, la violencia contra la mujer constituye una manifestación de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "diferencias biológicas insuperables",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "controversias estrictamente jurídicas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "relaciones de poder históricamente desiguales entre el hombre y la mujer",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU). Declaración ONU, preámbulo: 'Reconociendo que la violencia contra la mujer constituye una manifestación de relaciones de poder históricamente desiguales entre el hombre y la mujer, que han conducido a la dominación de la mujer y a la discriminación en su contra por parte del hombre...'"
+        },
+        {
+          "letra": "D",
+          "texto": "conflictos exclusivamente económicos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al preámbulo de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 26 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, sobre desarrollo progresivo, compromete a los Estados a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Garantizar de inmediato todos los derechos económicos y sociales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 26, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Suspender los derechos sociales en emergencia económica",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 26, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Adoptar providencias para lograr progresivamente la plena efectividad de los derechos económicos, sociales y sobre educación, ciencia y cultura, en la medida de los recursos disponibles",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 26, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): desarrollo progresivo de los DESC en la medida de los recursos disponibles."
+        },
+        {
+          "letra": "D",
+          "texto": "Delegar estos derechos en organismos internacionales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 26, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 21 de la Ley N° 26.485, la presentación de la denuncia por violencia podrá efectuarse:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "únicamente por escrito ante el fuero de familia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 21 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "ante cualquier juez/jueza de cualquier fuero e instancia o ante el Ministerio Público, en forma oral o escrita",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 21 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 21: 'La presentación de la denuncia por violencia contra las mujeres podrá efectuarse ante cualquier juez/jueza de cualquier fuero e instancia o ante el Ministerio Público, en forma oral o escrita.'"
+        },
+        {
+          "letra": "C",
+          "texto": "exclusivamente ante el Consejo Nacional de la Mujer",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 21 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "sólo ante la fiscalía penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 21 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Cuando el Procurador General entienda que el magistrado es pasible de la sanción de remoción, deberá, conforme el artículo 74 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Archivar las actuaciones",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 74 de la Ley N° 27.148 ordena elevar el caso al Tribunal de Enjuiciamiento, no archivar las actuaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Disponer directamente la remoción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 74 de la Ley N° 27.148 obliga a elevar el caso al Tribunal de Enjuiciamiento; el Procurador General no dispone directamente la remoción."
+        },
+        {
+          "letra": "C",
+          "texto": "Remitir el caso al Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 74 de la Ley N° 27.148 prevé la elevación al Tribunal de Enjuiciamiento, no la remisión al Senado."
+        },
+        {
+          "letra": "D",
+          "texto": "Elevar el caso al Tribunal de Enjuiciamiento del MPF a fin de que evalúe la conducta y determine la procedencia de la remoción u otras sanciones",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 74 de la Ley N° 27.148 dispone que, cuando el Procurador General entienda que el magistrado es pasible de remoción, deberá elevar el caso al Tribunal de Enjuiciamiento del MPF para que evalúe la conducta y determine la procedencia de la remoción o de otras sanciones."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Cuál de las siguientes NO figura entre las procuradurías especializadas permanentes del artículo 22 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Procuraduría de Investigaciones Administrativas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Procuraduría de Investigaciones Administrativas figura en el art. 22 inc. a de la Ley N° 27.148 como permanente."
+        },
+        {
+          "letra": "B",
+          "texto": "Procuraduría de Delitos Ambientales",
+          "correcta": true,
+          "explicacion": "Correcta. La Procuraduría de Delitos Ambientales no integra el listado de procuradurías especializadas permanentes del art. 22 de la Ley N° 27.148."
+        },
+        {
+          "letra": "C",
+          "texto": "Procuraduría de Trata y Explotación de Personas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Procuraduría de Trata y Explotación de Personas figura en el art. 22 inc. f de la Ley N° 27.148 como permanente."
+        },
+        {
+          "letra": "D",
+          "texto": "Procuraduría de Narcocriminalidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Procuraduría de Narcocriminalidad figura en el art. 22 inc. e de la Ley N° 27.148 como permanente."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según la pauta 6 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal) ('Asistencia. Menciones. Sanciones'), el promedio resultante de las cinco pautas anteriores:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se duplica si hay menciones",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 6 del art. 81 de la Res. PGN N° 128/2010 no duplica el promedio por menciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Se reduce a la mitad si hay una sanción",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 6 del art. 81 de la Res. PGN N° 128/2010 no reduce a la mitad el promedio por una sanción."
+        },
+        {
+          "letra": "C",
+          "texto": "Es definitivo e inmodificable",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 6 del art. 81 de la Res. PGN N° 128/2010 permite ajustar el promedio, que no es inmodificable."
+        },
+        {
+          "letra": "D",
+          "texto": "Podrá ser aumentado o disminuido según asistencia y puntualidad, menciones o sanciones del período",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 6 del art. 81 de la Res. PGN N° 128/2010 permite aumentar o disminuir el promedio según asistencia y puntualidad, menciones o sanciones del período."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Lucía, abogada, se inscribe a un concurso de 'Técnico Jurídico' en el mismo fuero, distrito y área de especialización donde su hermano se desempeña como funcionario del MPF. Aprueba el examen con excelente puntaje y queda primera en el orden de mérito. Al momento de la selección, se advierte el vínculo.",
+    "consigna": "Resuelva si Lucía puede ser seleccionada y designada, fundando la respuesta en el Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN).",
+    "resolucion_didactica": "(a) Lucía NO puede ser seleccionada ni designada, pese a su primer lugar en el orden de mérito.\n(b) El art. 14 del Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN) establece un impedimento por parentesco: no podrá ser seleccionado quien se encuentre alcanzado por lazos de afinidad o consanguinidad hasta el segundo grado, o tenga relación de convivencia, con un magistrado/a o funcionario/a del MPF de la Nación o del Poder Judicial de la Nación, siempre que se desempeñe en el mismo distrito, fuero (nacional o federal) y área de especialización a los que se aspire ingresar. El hermano es pariente de segundo grado por consanguinidad y funcionario del MPF, y concurren las tres coincidencias exigidas (mismo distrito, fuero y área de especialización). Por ende opera el impedimento y la designación es improcedente, con independencia del puntaje obtenido. Además, el vínculo familiar debía consignarse en la declaración jurada de la inscripción (art. 15 del Reglamento).\n(c) Normas aplicables: art. 14 del Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN) (impedimento por parentesco); art. 15 del mismo Reglamento (declaración jurada de requisitos e impedimentos).",
+    "fundamento_normativo": "Art. 14, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN) (impedimento por parentesco); art. 15 (declaración jurada)."
+  }
+}

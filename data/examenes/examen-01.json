@@ -1,0 +1,786 @@
+{
+  "examen_id": 1,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 31 de la Constitución Nacional, ¿qué constituye la ley suprema de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las constituciones provinciales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 31 de la Constitución Nacional no incluye a las constituciones provinciales en la ley suprema; las autoridades provinciales deben conformarse a ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo la Constitución",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 31 de la Constitución Nacional integra la ley suprema con la Constitución, las leyes dictadas en su consecuencia y los tratados; no solo la Constitución."
+        },
+        {
+          "letra": "C",
+          "texto": "Las leyes del Congreso únicamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 31 de la Constitución Nacional no se limita a las leyes del Congreso; comprende también la Constitución y los tratados."
+        },
+        {
+          "letra": "D",
+          "texto": "Esta Constitución, las leyes de la Nación que en su consecuencia se dicten y los tratados con las potencias extranjeras",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 31 de la Constitución Nacional establece que esta Constitución, las leyes de la Nación que en su consecuencia se dicten y los tratados con las potencias extranjeras son la ley suprema de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Respecto del deber de comparecer a declarar como testigos ante los tribunales, los magistrados del MPF, conforme el artículo 63 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No pueden ser citados como testigos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 63 inc. b de la Ley N° 27.148 no impide citarlos como testigos; los exime de comparecer y prevé la declaración por escrito."
+        },
+        {
+          "letra": "B",
+          "texto": "Están obligados a comparecer personalmente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 63 inc. b de la Ley N° 27.148 exime a los magistrados del deber de comparecer; no están obligados a comparecer personalmente."
+        },
+        {
+          "letra": "C",
+          "texto": "Estarán exentos del deber de comparecer, en cuyo caso deberán responder por escrito, bajo juramento y con las especificaciones pertinentes",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 63 inc. b de la Ley N° 27.148 dispone que estarán exentos del deber de comparecer a prestar declaración como testigos ante los tribunales, en cuyo caso deberán responder por escrito, bajo juramento y con las especificaciones pertinentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo declaran ante el Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 63 inc. b de la Ley N° 27.148 dispone la declaración por escrito ante el tribunal, no que solo declaren ante el Procurador General."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 12 de la Ley N° 26.485, el Observatorio de la Violencia contra las Mujeres se crea en el ámbito de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la Corte Suprema de Justicia de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 12 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "el Ministerio de Salud de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 12 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "el Ministerio Público Fiscal",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 12 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "el Consejo Nacional de la Mujer",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 12 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 12: 'Créase el Observatorio de la Violencia contra las Mujeres en el ámbito del Consejo Nacional de la Mujer...'"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 3 de la Ley N° 26.485, esta ley garantiza, entre otros, el derecho a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la doble nacionalidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "la objeción de conciencia laboral",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "la propiedad inmueble exclusiva",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "una vida sin violencia y sin discriminaciones",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 3 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 3 inc. a: 'Una vida sin violencia y sin discriminaciones'."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 4 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, reconoce a toda mujer el derecho a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente a la integridad física",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 4, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "A la nacionalidad de su cónyuge",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 4, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "El reconocimiento, goce, ejercicio y protección de todos los derechos humanos y libertades consagrados por los instrumentos regionales e internacionales",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 4, Convención de Belém do Pará (Ley N° 24.632): derecho al reconocimiento, goce, ejercicio y protección de todos los DDHH consagrados en instrumentos regionales e internacionales."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo a los derechos políticos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 4, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento institucional 'Qué es el Ministerio Público Fiscal', la independencia del Ministerio Público tiene sus orígenes en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Código Procesal Penal Federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Definición; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): la independencia del Ministerio Público tiene sus orígenes en la Reforma Constitucional de 1994."
+        },
+        {
+          "letra": "B",
+          "texto": "La Reforma Constitucional de 1994",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): la independencia del Ministerio Público tiene sus orígenes en la Reforma Constitucional de 1994."
+        },
+        {
+          "letra": "C",
+          "texto": "La Ley 27148",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Definición; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): la independencia del Ministerio Público tiene sus orígenes en la Reforma Constitucional de 1994."
+        },
+        {
+          "letra": "D",
+          "texto": "La sanción de la Ley 24946",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Definición; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): la independencia del Ministerio Público tiene sus orígenes en la Reforma Constitucional de 1994."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 27 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, las listas a las que refiere el artículo 24 de la misma ley tienen una vigencia de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un (1) año",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 27, Ley N° 26.861: la norma no dispone «Un (1) año»; lo correcto es: las listas del art. 24 tienen vigencia de dos (2) años."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (5) años",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 27, Ley N° 26.861: la norma no dispone «Cinco (5) años»; lo correcto es: las listas del art. 24 tienen vigencia de dos (2) años."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres (3) años",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 27, Ley N° 26.861: la norma no dispone «Tres (3) años»; lo correcto es: las listas del art. 24 tienen vigencia de dos (2) años."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos (2) años",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 27, Ley N° 26.861: las listas del art. 24 tienen vigencia de dos (2) años."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 23 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), los miembros del CPE podrán ser recusados conforme a las causales previstas en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Reglamento de Licencias",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 23, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El Reglamento de Licencias»; lo correcto es: recusación/excusación conforme a las causales de los arts. 17 y 30 del CPCCN."
+        },
+        {
+          "letra": "B",
+          "texto": "Los artículos 17 y 30 del Código Procesal Civil y Comercial de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 23, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): recusación/excusación conforme a las causales de los arts. 17 y 30 del CPCCN."
+        },
+        {
+          "letra": "C",
+          "texto": "El Código Penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 23, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El Código Penal»; lo correcto es: recusación/excusación conforme a las causales de los arts. 17 y 30 del CPCCN."
+        },
+        {
+          "letra": "D",
+          "texto": "La Ley Orgánica del MPF",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 23, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La Ley Orgánica del MPF»; lo correcto es: recusación/excusación conforme a las causales de los arts. 17 y 30 del CPCCN."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 22 de la Constitución Nacional, ¿qué mayoría requieren los demás tratados sobre derechos humanos para gozar de jerarquía constitucional, luego de aprobados por el Congreso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mayoría simple",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional requiere dos tercios de la totalidad de los miembros de cada Cámara, no mayoría simple."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres cuartas partes de los presentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional exige dos terceras partes de la totalidad de los miembros, no tres cuartas partes de los presentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayoría absoluta de los presentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional exige dos terceras partes de la totalidad de los miembros de cada Cámara, no la mayoría absoluta de los presentes."
+        },
+        {
+          "letra": "D",
+          "texto": "El voto de las dos terceras partes de la totalidad de los miembros de cada Cámara",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 22 de la Constitución Nacional dispone que los demás tratados sobre derechos humanos, luego de aprobados por el Congreso, requieren el voto de las dos terceras partes de la totalidad de los miembros de cada Cámara para gozar de jerarquía constitucional."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Respecto del ejercicio de la docencia, los integrantes del MPF, conforme el artículo 58 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No pueden ejercerla en ningún caso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 de la Ley N° 27.148 permite la docencia con dedicación simple, no la prohíbe en todos los casos."
+        },
+        {
+          "letra": "B",
+          "texto": "Podrán ejercer la docencia solo con dedicación simple, de un modo que no interfiera con el desarrollo de sus funciones y nunca en horarios hábiles",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 de la Ley N° 27.148 dispone que podrán ejercer la docencia solo con dedicación simple, de un modo que no interfiera con el desarrollo de sus funciones y nunca en horarios hábiles de funcionamiento de la institución."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo pueden ejercerla en universidades públicas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 de la Ley N° 27.148 no limita la docencia a universidades públicas."
+        },
+        {
+          "letra": "D",
+          "texto": "Pueden ejercerla con dedicación exclusiva",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 de la Ley N° 27.148 admite la docencia solo con dedicación simple, no exclusiva."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "¿A qué organismo se le asignan las funciones del artículo 5° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al Ministerio de Educación de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 5° de la Ley N° 22.431 no asigna estas funciones al Ministerio de Educación de la Nación."
+        },
+        {
+          "letra": "B",
+          "texto": "Al Ministerio de Salud de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 5° de la Ley N° 22.431 no asigna estas funciones al Ministerio de Salud de la Nación."
+        },
+        {
+          "letra": "C",
+          "texto": "Al Ministerio de Trabajo, Empleo y Formación de Recursos Humanos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 5° de la Ley N° 22.431 no asigna estas funciones al Ministerio de Trabajo, Empleo y Formación de Recursos Humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "Al Ministerio de Desarrollo Social y Medio Ambiente de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 5° de la Ley N° 22.431 asigna las funciones al Ministerio de Desarrollo Social y Medio Ambiente de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "La Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal) fue suscripta por el entonces Procurador General de la Nación:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nicolás Becerra",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 128/2010 no fue suscripta por Nicolás Becerra."
+        },
+        {
+          "letra": "B",
+          "texto": "Esteban Righi",
+          "correcta": true,
+          "explicacion": "Correcta. La Res. PGN N° 128/2010 aparece firmada por Esteban Righi, Procurador General de la Nación."
+        },
+        {
+          "letra": "C",
+          "texto": "Eduardo Casal",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 128/2010 no fue suscripta por Eduardo Casal."
+        },
+        {
+          "letra": "D",
+          "texto": "Alejandra Gils Carbó",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 128/2010 no fue suscripta por Alejandra Gils Carbó."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 5 de la Ley N° 26.485, la violencia simbólica se ejerce a través de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el hostigamiento laboral sistemático",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "la sustracción de bienes",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "patrones estereotipados, mensajes, valores, íconos o signos que transmitan y reproduzcan dominación, desigualdad y discriminación",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 5 inc. 5: 'Simbólica: La que a través de patrones estereotipados, mensajes, valores, íconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad.'"
+        },
+        {
+          "letra": "D",
+          "texto": "la fuerza física directa",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 5 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo I de la Resolución PGN N° 70/2022, el Equipo de Orientación y Seguimiento en Casos de Violencia de Género estará integrado por al menos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco personas",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Conformación; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Anexo I (Conformación): el Equipo estará integrado por al menos tres personas, de psicología, trabajo social y abogacía en la medida de lo posible."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres personas",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo I (Conformación): el Equipo estará integrado por al menos tres personas, de psicología, trabajo social y abogacía en la medida de lo posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Una persona",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Conformación; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Anexo I (Conformación): el Equipo estará integrado por al menos tres personas, de psicología, trabajo social y abogacía en la medida de lo posible."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos personas",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo I - Conformación; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Anexo I (Conformación): el Equipo estará integrado por al menos tres personas, de psicología, trabajo social y abogacía en la medida de lo posible."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El Procurador General está facultado a disponer las reestructuraciones y compensaciones que considere necesarias, conforme el artículo 41 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo con autorización del Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 41 de la Ley N° 27.148 no exige autorización del Senado para esas reestructuraciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente respecto de los recursos propios",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 41 de la Ley N° 27.148 refiere a la suma total del MPF en el presupuesto, no solo a los recursos propios."
+        },
+        {
+          "letra": "C",
+          "texto": "Sin límite alguno",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 41 de la Ley N° 27.148 limita esa facultad a la suma total del MPF, no la concede sin límite."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentro de la suma total correspondiente al MPF en el Presupuesto General de la Administración Nacional",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 41 de la Ley N° 27.148 faculta al Procurador General a disponer reestructuraciones y compensaciones dentro de la suma total correspondiente al MPF en el Presupuesto General de la Administración Nacional."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando V de la Resolución PGN N° 70/2022, para reducir la discriminación por razones de género en la selección de magistrados/as, se dispondrá la ampliación del plazo de inscripción exclusivamente para mujeres cuando el porcentaje de postulantes anotadas sea inferior al:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40%",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando V: se dispondrá la ampliación del plazo de inscripción exclusivamente para mujeres cuando el porcentaje de postulantes anotadas sea inferior al 30%."
+        },
+        {
+          "letra": "B",
+          "texto": "30%",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando V: se dispondrá la ampliación del plazo de inscripción exclusivamente para mujeres cuando el porcentaje de postulantes anotadas sea inferior al 30%."
+        },
+        {
+          "letra": "C",
+          "texto": "25%",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando V: se dispondrá la ampliación del plazo de inscripción exclusivamente para mujeres cuando el porcentaje de postulantes anotadas sea inferior al 30%."
+        },
+        {
+          "letra": "D",
+          "texto": "50%",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando V: se dispondrá la ampliación del plazo de inscripción exclusivamente para mujeres cuando el porcentaje de postulantes anotadas sea inferior al 30%."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según la pauta 7 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), por tesis doctoral defendida y aprobada se adicionan:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 no adiciona cinco puntos por tesis doctoral."
+        },
+        {
+          "letra": "B",
+          "texto": "Medio punto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 no adiciona medio punto por tesis doctoral."
+        },
+        {
+          "letra": "C",
+          "texto": "Un punto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 no adiciona un punto por tesis doctoral."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos puntos",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 adiciona dos puntos por tesis doctoral defendida y aprobada."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Para los efectos de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, ¿qué se entiende por persona?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todo nacional del Estado en cuestión",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 1.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Todo ciudadano de un Estado Parte",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 1.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Toda persona física o jurídica",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 1.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Todo ser humano",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 1.2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): persona es todo ser humano."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "¿Qué sanción prevé el artículo 11 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas) para la concesión adjudicada sin respetar la obligatoriedad establecida?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Será nula de nulidad absoluta",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 11 de la Ley N° 22.431 dispone que la concesión adjudicada sin respetar la obligatoriedad es nula de nulidad absoluta."
+        },
+        {
+          "letra": "B",
+          "texto": "Anulabilidad a petición de parte",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 11 de la Ley N° 22.431 no prevé la anulabilidad a petición de parte, sino la nulidad absoluta."
+        },
+        {
+          "letra": "C",
+          "texto": "Suspensión temporal de la concesión",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 11 de la Ley N° 22.431 no prevé la suspensión temporal de la concesión."
+        },
+        {
+          "letra": "D",
+          "texto": "Multa al funcionario interviniente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 11 de la Ley N° 22.431 no prevé una multa al funcionario como sanción de la concesión."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 8 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, los Estados deben garantizar la investigación y recopilación de estadísticas sobre la violencia contra la mujer con el fin de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Publicar rankings entre Estados",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 8.h, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Fijar el presupuesto de la Comisión",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 8.h, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Evaluar la eficacia de las medidas para prevenir, sancionar y eliminar la violencia y formular los cambios necesarios",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 8.h, Convención de Belém do Pará (Ley N° 24.632): investigación y estadísticas para evaluar la eficacia de las medidas y formular los cambios necesarios."
+        },
+        {
+          "letra": "D",
+          "texto": "Determinar sanciones a los Estados incumplidores",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 8.h, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "La sentencia del Tribunal de Enjuiciamiento podrá ser recurrida por el magistrado condenado ante, conforme el artículo 80 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Cámara Federal de Casación Penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. i de la Ley N° 27.148 prevé el recurso ante la Cámara en lo Contencioso Administrativo Federal, no ante la Cámara Federal de Casación Penal."
+        },
+        {
+          "letra": "B",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. i de la Ley N° 27.148 prevé el recurso ante la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, no ante la Corte Suprema."
+        },
+        {
+          "letra": "C",
+          "texto": "El Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. i de la Ley N° 27.148 prevé un recurso judicial, no la intervención del Senado."
+        },
+        {
+          "letra": "D",
+          "texto": "La Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80 inc. i de la Ley N° 27.148 dispone que la sentencia podrá ser recurrida por el magistrado condenado ante la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 32 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el plazo para plantear reconsideración de la calificación en cargos letrados es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Diez (10) días corridos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 32, Ley N° 26.861: la norma no dispone «Diez (10) días corridos»; lo correcto es: la reconsideración en cargos letrados se plantea dentro de cinco (5) días hábiles de la notificación."
+        },
+        {
+          "letra": "B",
+          "texto": "Veinte (20) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 32, Ley N° 26.861: la norma no dispone «Veinte (20) días hábiles»; lo correcto es: la reconsideración en cargos letrados se plantea dentro de cinco (5) días hábiles de la notificación."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres (3) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 32, Ley N° 26.861: la norma no dispone «Tres (3) días hábiles»; lo correcto es: la reconsideración en cargos letrados se plantea dentro de cinco (5) días hábiles de la notificación."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco (5) días hábiles desde la notificación",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 32, Ley N° 26.861: la reconsideración en cargos letrados se plantea dentro de cinco (5) días hábiles de la notificación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 110 de la Constitución Nacional, ¿por cuánto tiempo conservan sus empleos los jueces de la Corte Suprema y de los tribunales inferiores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta los setenta años sin excepción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 110 de la Constitución Nacional no establece un cese a los setenta años; el límite de edad de setenta y cinco años, con nuevo acuerdo, surge del art. 99 inc. 4."
+        },
+        {
+          "letra": "B",
+          "texto": "Mientras dure su buena conducta",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 110 de la Constitución Nacional dispone que los jueces conservan sus empleos mientras dure su buena conducta."
+        },
+        {
+          "letra": "C",
+          "texto": "Por diez años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 110 de la Constitución Nacional no fija un plazo de diez años; la garantía es mientras dure su buena conducta."
+        },
+        {
+          "letra": "D",
+          "texto": "Por seis años renovables",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 110 de la Constitución Nacional consagra la inamovilidad mientras dure su buena conducta, no un plazo de seis años renovables."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Las Orientaciones del MPF afirman que la violencia de género no es un asunto privado, sino:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un conflicto que debe resolverse mediante mediación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "una violación de los derechos humanos y por lo tanto una cuestión de Estado",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme a las Orientaciones sobre perspectiva de género (MPF). Orientaciones MPF: 'La violencia de género no es un asunto privado, es una violación de los derechos humanos y por lo tanto una cuestión de Estado.'"
+        },
+        {
+          "letra": "C",
+          "texto": "un asunto de competencia exclusivamente policial",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "una problemática estrictamente cultural",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 31 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, la lista general de cargos letrados debe publicarse durante el plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco (5) días",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 31, Ley N° 26.861: la lista general de cargos letrados se publica durante cinco (5) días en internet y carteleras."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) días",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 31, Ley N° 26.861: la norma no dispone «Tres (3) días»; lo correcto es: la lista general de cargos letrados se publica durante cinco (5) días en internet y carteleras."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez (10) días",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 31, Ley N° 26.861: la norma no dispone «Diez (10) días»; lo correcto es: la lista general de cargos letrados se publica durante cinco (5) días en internet y carteleras."
+        },
+        {
+          "letra": "D",
+          "texto": "Quince (15) días",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 31, Ley N° 26.861: la norma no dispone «Quince (15) días»; lo correcto es: la lista general de cargos letrados se publica durante cinco (5) días en internet y carteleras."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Se convoca a concurso para cubrir una vacante de magistrado/a del MPF. Cerrada la inscripción, la cantidad de postulantes mujeres equivale al 22% del total de inscriptos. Posteriormente, al establecer el orden de mérito, dos concursantes obtienen idéntica puntuación total y también idéntica puntuación en las pruebas de oposición; uno es varón y la otra es mujer.",
+    "consigna": "Resuelva, conforme la Resolución PGN N° 70/2022: (a) qué medida corresponde adoptar respecto del plazo de inscripción por el bajo porcentaje de mujeres; (b) cómo debe desempatarse el orden de mérito.",
+    "resolucion_didactica": "(a) Respuesta: como las postulantes mujeres no alcanzan el 30% del total, corresponde ampliar el plazo de inscripción exclusivamente para mujeres; ante paridad absoluta en el orden de mérito se da prioridad a la concursante mujer.\n(b) Razonamiento jurídico paso a paso: 1) Conforme al Considerando V de la Resolución PGN N° 70/2022, cuando el porcentaje de postulantes mujeres es inferior al 30%, se dispone la ampliación del plazo de inscripción exclusivamente para mujeres (en el caso, el 22% es inferior al umbral); las ya inscriptas podrán actualizar antecedentes y, si en la nueva convocatoria no se alcanza el porcentaje, el concurso sigue su curso. 2) Conforme al mismo Considerando V, al establecer el orden de mérito el Tribunal Evaluador, en caso de paridad absoluta, da prioridad a la postulante mujer; como aquí hay paridad tanto en el total como en la oposición, corresponde priorizar a la concursante mujer.\n(c) Normas y conceptos aplicables: Resolución PGN N° 70/2022, Considerando V (ampliación del plazo de inscripción por bajo porcentaje de mujeres y desempate del orden de mérito con prioridad a la postulante mujer); medidas de acción positiva con perspectiva de género. [REVISIÓN HUMANA: confirmar la numeración exacta de los artículos del Anexo VI sobre concursos y el alcance del plazo de ampliación]",
+    "fundamento_normativo": "Resolución PGN N° 70/2022, Considerando V (ampliación del plazo de inscripción exclusivamente para mujeres cuando el porcentaje es inferior al 30%; prioridad a la postulante mujer ante paridad absoluta en el orden de mérito)."
+  }
+}

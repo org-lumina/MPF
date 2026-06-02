@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Exámenes MPF — Plataforma de práctica
 
-## Getting Started
+Plataforma web de práctica de exámenes para aspirantes al **Ministerio Público Fiscal**.
+Modelo: pago único (AR$5000) vía Mercado Pago, login con Google, acceso libre a 30
+exámenes tras pagar. Cada examen tiene 25 preguntas de opción múltiple (una sola
+correcta) + 1 caso práctico; corrección automática con devolución por tema.
 
-First, run the development server:
+> Estado: **esqueleto inicial**. Páginas navegables + utilidades de corrección.
+> Todavía **sin** integración de auth, pagos ni base de datos.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Stack
+
+- **Next.js** (App Router, TypeScript, ESLint) — sin Turbopack experimental
+- **Vercel** (deploy)
+- **Supabase** (base de datos / persistencia)
+- **Mercado Pago** (pago único)
+- **Google OAuth** (login)
+
+## Estructura
+
+```
+data/examenes/   → los 30 exámenes en JSON (examen-01 … examen-30)
+lib/             → utilidades puras (carga, selección, corrección, devolución)
+app/             → páginas (/, /login, /pago, /examen, /resultado)
+components/      → UI reutilizable
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Credenciales
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Todas las credenciales van en variables de entorno, nunca en el código ni en el
+repositorio.** Ver `.env.example` para la lista de variables necesarias (Google
+OAuth, Mercado Pago, Supabase). Crear un `.env.local` a partir de ese archivo.
+`.env*` está incluido en `.gitignore`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Desarrollo
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm install
+npm run dev     # http://localhost:3000
+npm run build   # build de producción
+```

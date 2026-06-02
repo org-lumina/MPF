@@ -1,0 +1,786 @@
+{
+  "examen_id": 12,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "En la modalidad de violencia doméstica, el art. 26 inc. b.7 de la Ley N° 26.485 permite al juez:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ordenar la adopción de los hijos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "ordenar la suspensión provisoria del régimen de visitas",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 26 inc. b.7: 'Ordenar la suspensión provisoria del régimen de visitas'."
+        },
+        {
+          "letra": "C",
+          "texto": "fijar un régimen de visitas amplio para el agresor",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "suspender definitivamente la responsabilidad parental",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 26 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Cuando la comunicación, queja o denuncia resultare manifiestamente inconducente, el Procurador General, conforme el artículo 73 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Podrá archivarla sin más trámite",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 73 de la Ley N° 27.148 dispone que, cuando la comunicación, queja o denuncia resultare manifiestamente inconducente, el Procurador General podrá archivarla sin más trámite."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe elevarla al Tribunal de Enjuiciamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Ley N° 27.148 habilita el archivo sin más trámite; no obliga a elevarla al Tribunal de Enjuiciamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe remitirla al Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Ley N° 27.148 no prevé remitir la denuncia al Poder Ejecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Debe darle intervención obligatoria al Consejo General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Ley N° 27.148 da intervención al Consejo Evaluador (no al Consejo General) solo en los demás casos, no en los manifiestamente inconducentes."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 59 de la Constitución Nacional, cuando el acusado en juicio político sea el presidente de la Nación, ¿quién presidirá el Senado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El jefe de gabinete de ministros",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 59 de la Constitución Nacional no asigna esa función al jefe de gabinete, sino al presidente de la Corte Suprema."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente de la Corte Suprema",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 59 de la Constitución Nacional establece que, cuando el acusado sea el presidente de la Nación, el Senado será presidido por el presidente de la Corte Suprema."
+        },
+        {
+          "letra": "C",
+          "texto": "El vicepresidente de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 59 de la Constitución Nacional dispone que, cuando el acusado es el presidente, el Senado lo preside el presidente de la Corte Suprema, no el vicepresidente."
+        },
+        {
+          "letra": "D",
+          "texto": "El presidente provisorio del Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 59 de la Constitución Nacional atribuye la presidencia, en ese caso, al presidente de la Corte Suprema, no al presidente provisorio del Senado."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 33 de la Ley N° 26.485, las resoluciones sobre medidas preventivas urgentes o sanciones son apelables dentro del plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "DIEZ (10) días corridos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "CINCO (5) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "TRES (3) días hábiles",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 33: '...serán apelables dentro del plazo de TRES (3) días hábiles.'"
+        },
+        {
+          "letra": "D",
+          "texto": "VEINTICUATRO (24) horas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Conforme al artículo 70 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), ¿en qué supuesto puede considerarse excepcionalmente cumplido el requisito de especialización del abogado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando tuviera una actuación relevante en el ejercicio de la profesión ante el fuero federal u ordinario de la Capital Federal o federal del interior del país",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 70 de la Res. PGN N° 128/2010 admite considerar cumplido el requisito de especialización para el abogado con actuación relevante ante el fuero federal u ordinario de la Capital Federal o federal del interior del país."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando acredite diez años de matrícula",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 70 de la Res. PGN N° 128/2010 no fija diez años de matrícula como supuesto de excepción."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando posea un título de posgrado en cualquier rama del derecho",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 70 de la Res. PGN N° 128/2010 no contempla el posgrado en cualquier rama como supuesto de excepción."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando haya aprobado un examen de especialización ante la PGN",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 70 de la Res. PGN N° 128/2010 no exige aprobar un examen de especialización ante la PGN."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 28 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, dispone respecto de las reservas que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No se admite ninguna reserva",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 28.2, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Las reservas requieren aprobación del Comité",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 28.2, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "No se aceptará ninguna reserva incompatible con el objeto y el propósito de la Convención",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 28.2, CEDAW (Ley N° 23.179): no se acepta ninguna reserva incompatible con el objeto y propósito de la Convención."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas las reservas son válidas sin limitación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 28.2, CEDAW (Ley N° 23.179); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 16 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, los Estados asegurarán a la mujer, en igualdad de condiciones, los mismos derechos a decidir:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La nacionalidad del cónyuge",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 16.1.e, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "El domicilio conyugal de manera unilateral",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 16.1.e, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Libre y responsablemente el número de sus hijos y el intervalo entre los nacimientos, con acceso a información, educación y medios para ejercerlos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 16.1.e, CEDAW (Ley N° 23.179): igual derecho a decidir libre y responsablemente el número de hijos y el intervalo entre nacimientos."
+        },
+        {
+          "letra": "D",
+          "texto": "La religión de los hijos exclusivamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 16.1.e, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 67 de la Constitución Nacional, ¿qué prestarán los senadores y diputados en el acto de su incorporación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un informe de gestión",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 67 de la Constitución Nacional no requiere un informe de gestión al incorporarse, sino un juramento."
+        },
+        {
+          "letra": "B",
+          "texto": "Una declaración patrimonial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 67 de la Constitución Nacional exige un juramento en el acto de incorporación, no una declaración patrimonial."
+        },
+        {
+          "letra": "C",
+          "texto": "Una fianza",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 67 de la Constitución Nacional no exige una fianza, sino un juramento."
+        },
+        {
+          "letra": "D",
+          "texto": "Juramento de desempeñar debidamente el cargo, y de obrar en conformidad a lo que prescribe esta Constitución",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 67 de la Constitución Nacional dispone que senadores y diputados prestarán, en el acto de su incorporación, juramento de desempeñar debidamente el cargo y de obrar en conformidad a lo que prescribe esta Constitución."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 40 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), en 'Servicios Auxiliares' el titular de la dependencia podrá elegir entre los postulantes sorteados en los primeros:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tres (3) lugares",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 40, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Tres (3) lugares»; lo correcto es: el titular puede elegir entre los sorteados en los primeros diez (10) lugares del orden de selección."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (5) lugares",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 40, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Cinco (5) lugares»; lo correcto es: el titular puede elegir entre los sorteados en los primeros diez (10) lugares del orden de selección."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez (10) lugares del orden de selección",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 40, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): el titular puede elegir entre los sorteados en los primeros diez (10) lugares del orden de selección."
+        },
+        {
+          "letra": "D",
+          "texto": "Veinte (20) lugares",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 40, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Veinte (20) lugares»; lo correcto es: el titular puede elegir entre los sorteados en los primeros diez (10) lugares del orden de selección."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 20 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué se establece como prioridad en los ámbitos urbanos, arquitectónicos y del transporte?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La supresión de barreras físicas a fin de lograr la accesibilidad para las personas con movilidad reducida",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 20 de la Ley N° 22.431 establece la prioridad de la supresión de barreras físicas para lograr la accesibilidad de las personas con movilidad reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "La creación de estacionamientos públicos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 20 de la Ley N° 22.431 no establece como prioridad la creación de estacionamientos públicos."
+        },
+        {
+          "letra": "C",
+          "texto": "La construcción de viviendas adaptadas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 20 de la Ley N° 22.431 prioriza la supresión de barreras físicas, no la construcción de viviendas adaptadas."
+        },
+        {
+          "letra": "D",
+          "texto": "La señalización exclusiva para no videntes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 20 de la Ley N° 22.431 no se limita a la señalización para no videntes."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Si el acusador solicita la absolución del imputado durante el debate, dicho pedido, conforme el artículo 80 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Será obligatorio para el Tribunal de Enjuiciamiento",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80 inc. d de la Ley N° 27.148 dispone que el pedido de absolución del acusador será obligatorio para el Tribunal de Enjuiciamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe ser ratificado por el Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. d de la Ley N° 27.148 no exige ratificación del Procurador General; el pedido es obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "Suspende el procedimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. d de la Ley N° 27.148 hace obligatorio el pedido de absolución, no suspende el procedimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Es una recomendación que el Tribunal puede desoír",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. d de la Ley N° 27.148 establece que el pedido de absolución es obligatorio, no una mera recomendación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Las calificaciones firmes y consentidas, según la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), se remiten para su incorporación al legajo del agente a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Secretaría Disciplinaria, Técnica y de Recursos Humanos de la Procuración General de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 81 de la Res. PGN N° 128/2010 dispone remitir las calificaciones firmes y consentidas a la Secretaría Disciplinaria, Técnica y de Recursos Humanos de la Procuración General de la Nación."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 81 de la Res. PGN N° 128/2010 no remite las calificaciones al Consejo de la Magistratura."
+        },
+        {
+          "letra": "C",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 81 de la Res. PGN N° 128/2010 no remite las calificaciones a la Auditoría General de la Nación."
+        },
+        {
+          "letra": "D",
+          "texto": "La Oficina Anticorrupción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 81 de la Res. PGN N° 128/2010 no remite las calificaciones a la Oficina Anticorrupción."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 41 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), para ingresar al agrupamiento 'Técnico Administrativo' se requiere, además de los requisitos generales:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Educación primaria completa",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 41, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Educación primaria completa»; lo correcto es: para Técnico Administrativo se requiere, además de los requisitos generales del art. 12, estudios secundarios completos."
+        },
+        {
+          "letra": "B",
+          "texto": "Estudios secundarios completos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 41, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): para Técnico Administrativo se requiere, además de los requisitos generales del art. 12, estudios secundarios completos."
+        },
+        {
+          "letra": "C",
+          "texto": "Título de abogado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 41, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Título de abogado»; lo correcto es: para Técnico Administrativo se requiere, además de los requisitos generales del art. 12, estudios secundarios completos."
+        },
+        {
+          "letra": "D",
+          "texto": "Título de posgrado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 41, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Título de posgrado»; lo correcto es: para Técnico Administrativo se requiere, además de los requisitos generales del art. 12, estudios secundarios completos."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 29 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, la prueba de oposición de cargos letrados se califica de 0 a 70 y el puntaje mínimo para integrar la lista es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cincuenta (50) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 29, Ley N° 26.861: la norma no dispone «Cincuenta (50) puntos»; lo correcto es: la oposición se califica de 0 a 70 y el mínimo para integrar la lista es cuarenta (40) puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuarenta (40) puntos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 29, Ley N° 26.861: la oposición se califica de 0 a 70 y el mínimo para integrar la lista es cuarenta (40) puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "Treinta (30) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 29, Ley N° 26.861: la norma no dispone «Treinta (30) puntos»; lo correcto es: la oposición se califica de 0 a 70 y el mínimo para integrar la lista es cuarenta (40) puntos."
+        },
+        {
+          "letra": "D",
+          "texto": "Sesenta (60) puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 29, Ley N° 26.861: la norma no dispone «Sesenta (60) puntos»; lo correcto es: la oposición se califica de 0 a 70 y el mínimo para integrar la lista es cuarenta (40) puntos."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 42 de la Constitución Nacional, ¿qué derechos tienen los consumidores y usuarios en la relación de consumo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo derecho a la protección de su salud",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 de la Constitución Nacional no limita los derechos a la salud; comprende también seguridad, intereses económicos, información, libre elección y trato equitativo y digno."
+        },
+        {
+          "letra": "B",
+          "texto": "Derecho a la protección de su salud, seguridad e intereses económicos; a una información adecuada y veraz; a la libertad de elección, y a condiciones de trato equitativo y digno",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 42 de la Constitución Nacional reconoce a consumidores y usuarios el derecho a la protección de su salud, seguridad e intereses económicos; a una información adecuada y veraz; a la libertad de elección, y a condiciones de trato equitativo y digno."
+        },
+        {
+          "letra": "C",
+          "texto": "Derecho de huelga y sindicalización",
+          "correcta": false,
+          "explicacion": "Incorrecta. El derecho de huelga y la sindicalización están en el art. 14 bis de la Constitución Nacional, no en el art. 42."
+        },
+        {
+          "letra": "D",
+          "texto": "Derecho a la propiedad y a la herencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La propiedad y la herencia se reconocen en el art. 17 de la Constitución Nacional, no en el art. 42, referido a la relación de consumo."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Cuál de las siguientes NO es una sanción disciplinaria prevista en el artículo 70 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Multa de hasta el veinte por ciento (20%) de las remuneraciones mensuales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La multa de hasta el 20% de las remuneraciones mensuales está prevista en el art. 70 inc. b de la Ley N° 27.148."
+        },
+        {
+          "letra": "B",
+          "texto": "Apercibimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El apercibimiento es una sanción prevista en el art. 70 inc. a de la Ley N° 27.148."
+        },
+        {
+          "letra": "C",
+          "texto": "Arresto de hasta treinta días",
+          "correcta": true,
+          "explicacion": "Correcta. El arresto no figura entre las sanciones disciplinarias del art. 70 de la Ley N° 27.148; el art. 66 además lo excluye expresamente de las sanciones que pueden imponer los jueces."
+        },
+        {
+          "letra": "D",
+          "texto": "Remoción",
+          "correcta": false,
+          "explicacion": "Incorrecta. La remoción es una sanción prevista en el art. 70 inc. d de la Ley N° 27.148."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el artículo 35 del Régimen de Funcionarios y Empleados (Anexo III de la Resolución PGN N° 70/2022), todo/a agente del MPF deberá observar una conducta irreprochable y, dentro y fuera del servicio, deberá:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Abstenerse de afiliarse a sindicatos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 35; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 35: el/la agente deberá abstenerse de todo acto que suponga discriminación, violencia o acoso por género, nacionalidad, origen étnico y demás motivos enumerados."
+        },
+        {
+          "letra": "B",
+          "texto": "Abstenerse de realizar cualquier acto que suponga alguna forma de discriminación, violencia o acoso por los motivos enumerados",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo III, art. 35: el/la agente deberá abstenerse de todo acto que suponga discriminación, violencia o acoso por género, nacionalidad, origen étnico y demás motivos enumerados."
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar autorización para viajar",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 35; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 35: el/la agente deberá abstenerse de todo acto que suponga discriminación, violencia o acoso por género, nacionalidad, origen étnico y demás motivos enumerados."
+        },
+        {
+          "letra": "D",
+          "texto": "Informar sus bienes patrimoniales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 35; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 35: el/la agente deberá abstenerse de todo acto que suponga discriminación, violencia o acoso por género, nacionalidad, origen étnico y demás motivos enumerados."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 51 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), conforme su texto modificado por la Resolución PGN N° 3329/2016, al producirse una vacante en 'Técnico Administrativo', el titular de la dependencia podrá:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Designar directamente al postulante",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 51, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN), texto según Resolución PGN N° 3329/2016: la norma no dispone «Designar directamente al postulante»; lo correcto es: el titular propone el perfil del postulante según las necesidades funcionales y categorías del art. 2 inc. h)."
+        },
+        {
+          "letra": "B",
+          "texto": "Modificar el orden de mérito",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 51, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN), texto según Resolución PGN N° 3329/2016: la norma no dispone «Modificar el orden de mérito»; lo correcto es: el titular propone el perfil del postulante según las necesidades funcionales y categorías del art. 2 inc. h)."
+        },
+        {
+          "letra": "C",
+          "texto": "Eliminar postulantes de la lista",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 51, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN), texto según Resolución PGN N° 3329/2016: la norma no dispone «Eliminar postulantes de la lista»; lo correcto es: el titular propone el perfil del postulante según las necesidades funcionales y categorías del art. 2 inc. h)."
+        },
+        {
+          "letra": "D",
+          "texto": "Proponer a la autoridad de aplicación el perfil del postulante según las necesidades funcionales y las categorías preestablecidas (art. 2 inc. h)",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 51, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN), texto según Resolución PGN N° 3329/2016: el titular propone el perfil del postulante según las necesidades funcionales y categorías del art. 2 inc. h)."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 8° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), si el ente que convoca para cubrir puestos no tiene relevados y actualizados sus datos sobre cargos cubiertos con personas con discapacidad, ¿qué ocurre?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se le concede un plazo de gracia para regularizar",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no prevé un plazo de gracia para regularizar."
+        },
+        {
+          "letra": "B",
+          "texto": "Se reduce el porcentaje exigible al 2%",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no reduce el porcentaje exigible al 2%."
+        },
+        {
+          "letra": "C",
+          "texto": "Se suspende la convocatoria por seis meses",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no prevé la suspensión de la convocatoria por seis meses."
+        },
+        {
+          "letra": "D",
+          "texto": "Se considerará que incumplen el 4% y los postulantes con discapacidad podrán hacer valer de pleno derecho su prioridad de ingreso a igualdad de mérito",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 8° de la Ley N° 22.431 dispone que sin datos relevados se considera incumplido el 4% y los postulantes con discapacidad hacen valer de pleno derecho su prioridad de ingreso a igualdad de mérito."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Conforme al art. 4 de la Ley N° 26.485, la violencia contra las mujeres:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo puede perpetrarse en el ámbito privado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "requiere siempre acceso carnal",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "queda comprendida tanto en el ámbito público como en el privado, incluyendo las perpetradas desde el Estado o por sus agentes",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 4: '...tanto en el ámbito público como en el privado... Quedan comprendidas las perpetradas desde el Estado o por sus agentes.'"
+        },
+        {
+          "letra": "D",
+          "texto": "excluye expresamente los actos del Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Las direcciones generales son los órganos encargados de, conforme el artículo 33 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ejercer la acción penal pública",
+          "correcta": false,
+          "explicacion": "Incorrecta. El ejercicio de la acción penal pública corresponde a las unidades fiscales (arts. 3 y 21 de la Ley N° 27.148), no a las direcciones generales."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizar las tareas auxiliares y de apoyo indispensables para el desarrollo de las funciones del MPF",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 33 de la Ley N° 27.148 define a las direcciones generales como los órganos encargados de realizar las tareas auxiliares y de apoyo indispensables para el desarrollo de las funciones del MPF."
+        },
+        {
+          "letra": "C",
+          "texto": "Designar magistrados",
+          "correcta": false,
+          "explicacion": "Incorrecta. La designación de magistrados no es función de las direcciones generales según el art. 33 de la Ley N° 27.148."
+        },
+        {
+          "letra": "D",
+          "texto": "Dictar instrucciones generales",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las instrucciones generales las imparte el Procurador General (art. 12 inc. h de la Ley N° 27.148), no las direcciones generales."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo II (Protocolo) de la Resolución PGN N° 70/2022, la persona consultante podrá solicitar ser atendida por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El titular de la dependencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo II - Consulta o presentación; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo II: la persona consultante podrá solicitar ser atendida por un miembro de su mismo género u orientación sexual, de ser posible."
+        },
+        {
+          "letra": "B",
+          "texto": "Un abogado externo al organismo",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo II - Consulta o presentación; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo II: la persona consultante podrá solicitar ser atendida por un miembro de su mismo género u orientación sexual, de ser posible."
+        },
+        {
+          "letra": "C",
+          "texto": "El Procurador General",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo II - Consulta o presentación; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo II: la persona consultante podrá solicitar ser atendida por un miembro de su mismo género u orientación sexual, de ser posible."
+        },
+        {
+          "letra": "D",
+          "texto": "Un miembro de su mismo género u orientación sexual, de ser ello posible",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo II: la persona consultante podrá solicitar ser atendida por un miembro de su mismo género u orientación sexual, de ser posible."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según las Orientaciones del MPF, la violencia obstétrica es la cometida por personal de la salud cuando se brinda maltrato:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "antes, durante y/o después del parto o en la atención post aborto, y cuando se viola el secreto profesional",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme a las Orientaciones sobre perspectiva de género (MPF). Orientaciones MPF: 'Obstétrica: Cometida por personal de la salud cuando se brinda maltrato antes, durante y/o después del parto o en la atención post aborto, y cuando se viola el secreto profesional.'"
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente en el ámbito privado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "exclusivamente durante el parto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "sólo en consultas ginecológicas de rutina",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 17 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, el Comité para la Eliminación de la Discriminación contra la Mujer se compone, en el momento de la entrada en vigor de la Convención, de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siete miembros",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 17.1, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez expertos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 17.1, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Veintiún expertos desde el inicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 17.1, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Dieciocho expertos, y de veintitrés después de la ratificación o adhesión por el trigésimo quinto Estado parte",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 17.1, CEDAW (Ley N° 23.179): dieciocho expertos al inicio y veintitrés tras la ratificación/adhesión del trigésimo quinto Estado parte."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando V de la Resolución PGN N° 70/2022, entre las funciones del Equipo, cuando proponga una solución fundada a partir de un abordaje interdisciplinario, de corresponder, podrá:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Iniciar una acción penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando V (funciones del Equipo, inc. e): proponer una solución fundada y, de corresponder, propiciar la intervención de la Secretaría Disciplinaria y Técnica."
+        },
+        {
+          "letra": "B",
+          "texto": "Propiciar la intervención de la Secretaría Disciplinaria y Técnica",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando V (funciones del Equipo, inc. e): proponer una solución fundada y, de corresponder, propiciar la intervención de la Secretaría Disciplinaria y Técnica."
+        },
+        {
+          "letra": "C",
+          "texto": "Remover al magistrado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando V (funciones del Equipo, inc. e): proponer una solución fundada y, de corresponder, propiciar la intervención de la Secretaría Disciplinaria y Técnica."
+        },
+        {
+          "letra": "D",
+          "texto": "Aplicar la sanción directamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando V (funciones del Equipo, inc. e): proponer una solución fundada y, de corresponder, propiciar la intervención de la Secretaría Disciplinaria y Técnica."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Un hombre da muerte a su ex conviviente, con quien había mantenido una relación de pareja sin convivencia actual. Se acredita que mediaron actos de violencia de género previos.",
+    "consigna": "Determine los agravantes del art. 80 del Código Penal aplicables y la pena prevista, conforme a la Ley 26.791.",
+    "resolucion_didactica": "(a) Respuesta: El homicidio queda agravado con reclusión o prisión perpetua por los incs. 1 y 11 del art. 80 del Código Penal, y el autor no puede beneficiarse con la atenuación por circunstancias extraordinarias del art. 80 in fine.\n(b) Razonamiento jurídico paso a paso: 1) El art. 1 de la Ley N° 26.791 (art. 80 inc. 1 CP) comprende a la persona con quien se mantiene o ha mantenido una relación de pareja, mediare o no convivencia, por lo que alcanza a la ex conviviente sin convivencia actual. 2) El art. 2 de la Ley N° 26.791 (art. 80 inc. 11 CP) configura el femicidio cuando la víctima es una mujer, el hecho es perpetrado por un hombre y media violencia de género, extremos acreditados en el caso. 3) Ambos incisos prevén reclusión o prisión perpetua. 4) Por aplicación del art. 3 de la Ley N° 26.791 (art. 80 in fine CP), la atenuación por circunstancias extraordinarias no procede respecto de quien anteriormente hubiera realizado actos de violencia contra la mujer víctima, como ocurre en el caso.\n(c) Normas y conceptos aplicables: Ley N° 26.791, art. 1 (art. 80 inc. 1 CP), art. 2 (art. 80 inc. 11 CP, femicidio) y art. 3 (art. 80 in fine CP, exclusión del atenuante por violencia previa contra la mujer).",
+    "fundamento_normativo": "Ley N° 26.791, art. 1 (art. 80 inc. 1 CP), art. 2 (art. 80 inc. 11 CP) y art. 3 (art. 80 in fine CP)."
+  }
+}

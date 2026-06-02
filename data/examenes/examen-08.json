@@ -1,0 +1,786 @@
+{
+  "examen_id": 8,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 21 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, las evaluaciones eliminatorias del examen de empleados se desarrollan en el orden:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Informática, teórica y psicofísica",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 21, Ley N° 26.861: la norma no dispone «Informática, teórica y psicofísica»; lo correcto es: el orden es a) conocimientos teóricos; b) conocimientos en informática; c) evaluación psicofísica."
+        },
+        {
+          "letra": "B",
+          "texto": "Psicofísica, informática y teórica",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 21, Ley N° 26.861: la norma no dispone «Psicofísica, informática y teórica»; lo correcto es: el orden es a) conocimientos teóricos; b) conocimientos en informática; c) evaluación psicofísica."
+        },
+        {
+          "letra": "C",
+          "texto": "Conocimientos teóricos, conocimientos en informática y psicofísica",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 21, Ley N° 26.861: el orden es a) conocimientos teóricos; b) conocimientos en informática; c) evaluación psicofísica."
+        },
+        {
+          "letra": "D",
+          "texto": "Teórica, psicofísica e informática",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 21, Ley N° 26.861: la norma no dispone «Teórica, psicofísica e informática»; lo correcto es: el orden es a) conocimientos teóricos; b) conocimientos en informática; c) evaluación psicofísica."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 13 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), los impedimentos se evalúan a la fecha:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Del cierre de inscripción",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 13, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): los impedimentos se evalúan a la fecha del cierre de inscripción."
+        },
+        {
+          "letra": "B",
+          "texto": "Del nombramiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 13, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Del nombramiento»; lo correcto es: los impedimentos se evalúan a la fecha del cierre de inscripción."
+        },
+        {
+          "letra": "C",
+          "texto": "De la realización del examen",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 13, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «De la realización del examen»; lo correcto es: los impedimentos se evalúan a la fecha del cierre de inscripción."
+        },
+        {
+          "letra": "D",
+          "texto": "De la apertura del concurso",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 13, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «De la apertura del concurso»; lo correcto es: los impedimentos se evalúan a la fecha del cierre de inscripción."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 7 de la Ley N° 26.485, ¿quiénes deben adoptar las medidas necesarias y ratificar el respeto irrestricto del derecho constitucional a la igualdad entre mujeres y varones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente el Consejo Nacional de la Mujer",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Exclusivamente el Poder Ejecutivo nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Los tres poderes del Estado, sean del ámbito nacional o provincial",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 7: 'Los tres poderes del Estado, sean del ámbito nacional o provincial, adoptarán las medidas necesarias y ratificarán en cada una de sus actuaciones el respeto irrestricto del derecho constitucional a la igualdad entre mujeres y varones.'"
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo el Poder Judicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 7 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Conforme al principio de unidad de actuación, la máxima autoridad del MPF es, según el artículo 9 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Tribunal de Enjuiciamiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Tribunal de Enjuiciamiento no es la máxima autoridad; el art. 9 inc. a de la Ley N° 27.148 la atribuye al Procurador General."
+        },
+        {
+          "letra": "B",
+          "texto": "El fiscal coordinador de distrito",
+          "correcta": false,
+          "explicacion": "Incorrecta. El fiscal coordinador de distrito no es la máxima autoridad según el art. 9 inc. a de la Ley N° 27.148."
+        },
+        {
+          "letra": "C",
+          "texto": "El Procurador General de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 9 inc. a de la Ley N° 27.148 establece que el MPF es una organización jerárquica cuya máxima autoridad es el Procurador General de la Nación."
+        },
+        {
+          "letra": "D",
+          "texto": "El Consejo General del MPF",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9 inc. a de la Ley N° 27.148 identifica al Procurador General como máxima autoridad, no al Consejo General."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Quién elige a uno de los candidatos de la terna que el Procurador General presenta tras el concurso, conforme el artículo 48 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tribunal del concurso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El tribunal del concurso evalúa y produce la terna, pero la elección del candidato corresponde al Poder Ejecutivo (art. 48 de la Ley N° 27.148)."
+        },
+        {
+          "letra": "B",
+          "texto": "El Poder Ejecutivo",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 48 de la Ley N° 27.148 dispone que el Procurador General presentará las ternas al Poder Ejecutivo, quien elegirá a uno de los candidatos."
+        },
+        {
+          "letra": "C",
+          "texto": "El Consejo General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 48 de la Ley N° 27.148 atribuye la elección al Poder Ejecutivo, no al Consejo General."
+        },
+        {
+          "letra": "D",
+          "texto": "El Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Senado presta el acuerdo (art. 48 de la Ley N° 27.148), pero la elección del candidato de la terna corresponde al Poder Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según la Ley N° 26.791, que sustituye el inc. 1 del art. 80 del Código Penal, se impone reclusión o prisión perpetua a quien matare:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a cualquier integrante del grupo familiar por afinidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 1 CP); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente a su cónyuge actual conviviente",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 1 CP); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo a su ascendiente o descendiente",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 1 CP); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "a su ascendiente, descendiente, cónyuge, ex cónyuge, o a la persona con quien mantiene o ha mantenido una relación de pareja, mediare o no convivencia",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 1 (art 80 inc 1 CP). Ley N° 26.791, art. 1 (art. 80 inc. 1 CP): 'A su ascendiente, descendiente, cónyuge, ex cónyuge, o a la persona con quien mantiene o ha mantenido una relación de pareja, mediare o no convivencia.'"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 5 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, los Estados Partes reconocen que la violencia contra la mujer:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Impide y anula el ejercicio de los derechos civiles, políticos, económicos, sociales y culturales",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 5, Convención de Belém do Pará (Ley N° 24.632): la violencia impide y anula el ejercicio de los derechos civiles, políticos, económicos, sociales y culturales."
+        },
+        {
+          "letra": "B",
+          "texto": "No tiene relación con los derechos humanos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 5, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un asunto exclusivamente privado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 5, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo afecta los derechos políticos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 5, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 14 bis de la Constitución Nacional, ¿qué carácter tienen los beneficios de la seguridad social que otorgará el Estado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Carácter parcial y renunciable",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 14 bis de la Constitución Nacional establece que los beneficios de la seguridad social son integrales e irrenunciables, no parciales ni renunciables."
+        },
+        {
+          "letra": "B",
+          "texto": "Carácter exclusivamente provincial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 14 bis de la Constitución Nacional no los limita al ámbito provincial; prevé incluso entidades nacionales o provinciales para el seguro social obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "Carácter integral e irrenunciable",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 14 bis de la Constitución Nacional dispone que el Estado otorgará los beneficios de la seguridad social, que tendrá carácter integral e irrenunciable."
+        },
+        {
+          "letra": "D",
+          "texto": "Carácter voluntario",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 14 bis de la Constitución Nacional no caracteriza los beneficios como voluntarios, sino como integrales e irrenunciables."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando V de la Resolución PGN N° 70/2022, el Equipo de Orientación y Seguimiento en Casos de Violencia de Género se crea en la órbita de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Oficina de Bienestar Laboral y Resolución de Conflictos (Res. PGN 623/13)",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando V: el Equipo de Orientación y Seguimiento se crea en la órbita de la Oficina de Bienestar Laboral y Resolución de Conflictos (Res. PGN 623/13)."
+        },
+        {
+          "letra": "B",
+          "texto": "La Secretaría Disciplinaria y Técnica",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando V: el Equipo de Orientación y Seguimiento se crea en la órbita de la Oficina de Bienestar Laboral y Resolución de Conflictos (Res. PGN 623/13)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Dirección General de Políticas de Género",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando V: el Equipo de Orientación y Seguimiento se crea en la órbita de la Oficina de Bienestar Laboral y Resolución de Conflictos (Res. PGN 623/13)."
+        },
+        {
+          "letra": "D",
+          "texto": "La Unidad Fiscal Especializada en Violencia contra las Mujeres (UFEM)",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando V; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando V: el Equipo de Orientación y Seguimiento se crea en la órbita de la Oficina de Bienestar Laboral y Resolución de Conflictos (Res. PGN 623/13)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 56 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), el Tribunal Evaluador podrá asignar en 'Técnico Jurídico':",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta 100 puntos por la prueba escrita",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 56, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Hasta 100 puntos por la prueba escrita»; lo correcto es: hasta 70 puntos por la prueba escrita y hasta 30 por antecedentes; mínimo 40 para aprobar la oposición."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta 50 puntos por antecedentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 56, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Hasta 50 puntos por antecedentes»; lo correcto es: hasta 70 puntos por la prueba escrita y hasta 30 por antecedentes; mínimo 40 para aprobar la oposición."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta setenta (70) puntos por la prueba escrita y hasta treinta (30) por antecedentes, exigiéndose mínimo cuarenta (40) para aprobar la oposición",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 56, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): hasta 70 puntos por la prueba escrita y hasta 30 por antecedentes; mínimo 40 para aprobar la oposición."
+        },
+        {
+          "letra": "D",
+          "texto": "Hasta 70 puntos por antecedentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 56, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Hasta 70 puntos por antecedentes»; lo correcto es: hasta 70 puntos por la prueba escrita y hasta 30 por antecedentes; mínimo 40 para aprobar la oposición."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 23 de la Constitución Nacional, ¿respecto de qué grupos en particular debe el Congreso legislar y promover medidas de acción positiva?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En particular respecto de los niños, las mujeres, los ancianos y las personas con discapacidad",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 23 de la Constitución Nacional dispone legislar y promover medidas de acción positiva en particular respecto de los niños, las mujeres, los ancianos y las personas con discapacidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo respecto de los extranjeros",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 23 de la Constitución Nacional no se circunscribe a los extranjeros; menciona a niños, mujeres, ancianos y personas con discapacidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo respecto de los trabajadores",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 23 de la Constitución Nacional no se limita a los trabajadores; alude en particular a niños, mujeres, ancianos y personas con discapacidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo respecto de los pueblos indígenas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La preexistencia étnica y cultural de los pueblos indígenas se reconoce en el art. 75 inc. 17 de la Constitución Nacional; el inc. 23 alude a niños, mujeres, ancianos y personas con discapacidad."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 25 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), ¿quién resuelve los planteos de recusación y excusación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La PGN, y la resolución no dará lugar a recurso alguno",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 25, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): los planteos los resuelve la PGN y la resolución no da lugar a recurso alguno."
+        },
+        {
+          "letra": "B",
+          "texto": "La autoridad de aplicación con recurso ante la PGN",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 25, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La autoridad de aplicación con recurso ante la PGN»; lo correcto es: los planteos los resuelve la PGN y la resolución no da lugar a recurso alguno."
+        },
+        {
+          "letra": "C",
+          "texto": "La Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 25, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La Corte Suprema»; lo correcto es: los planteos los resuelve la PGN y la resolución no da lugar a recurso alguno."
+        },
+        {
+          "letra": "D",
+          "texto": "El Tribunal Evaluador",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 25, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El Tribunal Evaluador»; lo correcto es: los planteos los resuelve la PGN y la resolución no da lugar a recurso alguno."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 110 de la Constitución Nacional, ¿puede ser disminuida la compensación de los jueces mientras permanezcan en sus funciones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No podrá ser disminuida en manera alguna, mientras permaneciesen en sus funciones",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 110 de la Constitución Nacional dispone que la compensación de los jueces no podrá ser disminuida en manera alguna mientras permaneciesen en sus funciones (intangibilidad)."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo con su consentimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 110 de la Constitución Nacional prohíbe la disminución en manera alguna, sin contemplar el consentimiento del juez."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en caso de emergencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 110 de la Constitución Nacional no prevé excepción por emergencia; la prohibición de disminuir es absoluta mientras permanezcan en funciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, por ley",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 110 de la Constitución Nacional prohíbe disminuir la compensación de los jueces en manera alguna mientras permanezcan en sus funciones; no la admite por ley."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Quiénes pueden aspirar a la función de fiscal coordinador de distrito, conforme el artículo 18 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los auxiliares fiscales con cuatro años de antigüedad",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 18 de la Ley N° 27.148 exige la condición de fiscal general del distrito, no de auxiliar fiscal."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier fiscal del MPF",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 18 de la Ley N° 27.148 restringe la aspiración a los fiscales generales del distrito, no a cualquier fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Los procuradores fiscales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 18 de la Ley N° 27.148 habilita a los fiscales generales del distrito, no a los procuradores fiscales."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo los fiscales generales del respectivo distrito fiscal, presentando un plan de trabajo ante el Procurador General",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 18 de la Ley N° 27.148 dispone que solo los fiscales generales del respectivo distrito fiscal podrán aspirar a esa función, debiendo presentar un plan de trabajo ante el Procurador General."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 6 de la Declaración ONU, nada de lo enunciado en dicha Declaración afectará a disposición de la legislación de un Estado o de cualquier instrumento internacional que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "restrinja la aplicación de la Declaración",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "sea anterior a la Declaración",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "haya sido ratificado por la Asamblea General",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "sea más conducente a la eliminación de la violencia contra la mujer",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 6 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU). Declaración ONU, art. 6: 'Nada de lo enunciado en la presente Declaración afectará a disposición alguna que pueda formar parte de la legislación de un Estado o de cualquier convención, tratado o instrumento internacional vigente en ese Estado y sea más conducente a la eliminación de la violencia contra la mujer.'"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Según el artículo 40 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), los recursos propios enumerados:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Requieren aprobación del Poder Ejecutivo para su uso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 40 de la Ley N° 27.148 no condiciona el uso de los recursos propios a la aprobación del Poder Ejecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Estarán exentos de toda contribución o impuestos nacionales",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 40 de la Ley N° 27.148 dispone que los recursos enumerados estarán exentos de toda contribución o impuestos nacionales."
+        },
+        {
+          "letra": "C",
+          "texto": "Deben transferirse al Tesoro nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 40 de la Ley N° 27.148 no obliga a transferir los recursos propios al Tesoro nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Están gravados con impuestos nacionales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 40 de la Ley N° 27.148 declara exentos esos recursos, no gravados con impuestos nacionales."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "El artículo 73 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal) prevé que los futuros funcionarios del Agrupamiento Técnico Jurídico podrán optar entre fórmulas de juramento. ¿Cuántas fórmulas se ofrecen?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una sola",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Res. PGN N° 128/2010 no contempla una sola fórmula."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuatro",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Res. PGN N° 128/2010 no ofrece cuatro fórmulas."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 73 de la Res. PGN N° 128/2010 enumera tres fórmulas de juramento."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 73 de la Res. PGN N° 128/2010 no ofrece dos fórmulas."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando II de la Resolución PGN N° 70/2022, ¿por qué ley fue incorporada al derecho argentino la Convención Interamericana para prevenir, erradicar y sancionar la violencia contra la mujer (Convención de Belém do Pará)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley 27499",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando II: la Convención de Belém do Pará fue incorporada al derecho argentino por la Ley 24632."
+        },
+        {
+          "letra": "B",
+          "texto": "Ley 27148",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando II: la Convención de Belém do Pará fue incorporada al derecho argentino por la Ley 24632."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley 26485",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'c'. Resolución PGN N° 70/2022, Considerando II: la Convención de Belém do Pará fue incorporada al derecho argentino por la Ley 24632."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley 24632",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando II: la Convención de Belém do Pará fue incorporada al derecho argentino por la Ley 24632."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo II (Protocolo) de la Resolución PGN N° 70/2022, las entrevistas con la persona consultante se realizarán por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un solo integrante del Equipo",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo II - Consulta o presentación; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo II: las entrevistas se realizarán por al menos dos integrantes del Equipo, en lo posible de distinta formación profesional."
+        },
+        {
+          "letra": "B",
+          "texto": "La totalidad del Equipo de manera obligatoria",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo II - Consulta o presentación; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo II: las entrevistas se realizarán por al menos dos integrantes del Equipo, en lo posible de distinta formación profesional."
+        },
+        {
+          "letra": "C",
+          "texto": "El titular de la Oficina de Bienestar Laboral",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo II - Consulta o presentación; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo II: las entrevistas se realizarán por al menos dos integrantes del Equipo, en lo posible de distinta formación profesional."
+        },
+        {
+          "letra": "D",
+          "texto": "Al menos dos integrantes del Equipo, en lo posible de distinta formación profesional",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo II: las entrevistas se realizarán por al menos dos integrantes del Equipo, en lo posible de distinta formación profesional."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según las Orientaciones del MPF, un ejemplo de violencia simbólica es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el maltrato durante el parto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "los empujones, puñetazos, golpes y quemaduras",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "la que se observa en las publicidades de artículos de limpieza, de autos, etc.",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme a las Orientaciones sobre perspectiva de género (MPF). Orientaciones MPF: 'Un ejemplo de este tipo de violencia es la que se observa en las publicidades de artículos de limpieza, de autos, etc.'"
+        },
+        {
+          "letra": "D",
+          "texto": "el control sobre los ingresos de la mujer",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "La protección judicial del art. 25 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, garantiza:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La doble instancia solo en materia civil",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 25.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente el recurso de apelación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 25.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "El acceso gratuito a la Corte Interamericana",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 25.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Un recurso sencillo y rápido o cualquier otro recurso efectivo ante jueces o tribunales competentes que ampare contra actos violatorios de derechos fundamentales",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 25.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): derecho a un recurso sencillo y rápido o efectivo que ampare contra violaciones de derechos fundamentales."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 8° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿cuál es la proporción mínima de personas con discapacidad que el Estado nacional está obligado a ocupar respecto de la totalidad de su personal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos por ciento (2%)",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 fija la proporción mínima en el 4%, no en el 2%."
+        },
+        {
+          "letra": "B",
+          "texto": "Siete por ciento (7%)",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 fija la proporción mínima en el 4%, no en el 7%."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco por ciento (5%)",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 fija la proporción mínima en el 4%, no en el 5%."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuatro por ciento (4%)",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 8° de la Ley N° 22.431 obliga a ocupar personas con discapacidad idóneas en proporción no inferior al cuatro por ciento (4%) del personal."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según la pauta 7 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), por título universitario se adiciona:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un punto más",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 adiciona un punto más por título universitario."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 no adiciona dos puntos por título universitario."
+        },
+        {
+          "letra": "C",
+          "texto": "Medio punto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 no adiciona medio punto por título universitario."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres puntos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 7 del art. 81 de la Res. PGN N° 128/2010 no adiciona tres puntos por título universitario."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Conforme al art. 12 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, la Comisión considerará las peticiones de acuerdo con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Estatuto de la Corte Internacional de Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 12, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Las normas y requisitos de procedimiento estipulados en la Convención Americana sobre Derechos Humanos y en el Estatuto y Reglamento de la Comisión Interamericana de Derechos Humanos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 12, Convención de Belém do Pará (Ley N° 24.632): remite a las normas de procedimiento de la CADH y del Estatuto y Reglamento de la Comisión IDH."
+        },
+        {
+          "letra": "C",
+          "texto": "Las normas internas de cada Estado denunciado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 12, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "El reglamento de la Comisión Interamericana de Mujeres",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 12, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 21 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué se entiende por barreras arquitectónicas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las existentes en las vías y espacios libres públicos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 21 de la Ley N° 22.431 reserva las vías y espacios libres públicos para las barreras urbanas del artículo 20."
+        },
+        {
+          "letra": "B",
+          "texto": "Las derivadas de la falta de señalización urbana",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 21 de la Ley N° 22.431 no define las barreras arquitectónicas por la falta de señalización urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "Las existentes en los medios de transporte",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 21 de la Ley N° 22.431 no se refiere a las barreras en los medios de transporte, propias del artículo 22."
+        },
+        {
+          "letra": "D",
+          "texto": "Las existentes en los edificios de uso público sea su propiedad pública o privada, y en los edificios de vivienda",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 21 de la Ley N° 22.431 define las barreras arquitectónicas como las existentes en edificios de uso público (propiedad pública o privada) y en edificios de vivienda."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Una mujer denuncia ante las autoridades de su país haber sido víctima reiterada de violencia física y psicológica por parte de su pareja, con quien comparte domicilio. Las autoridades no investigan, no adoptan medidas de protección y archivan la denuncia. Agotados los recursos internos sin respuesta efectiva, la víctima quiere acudir al sistema interamericano.",
+    "consigna": "Indique qué órgano interamericano es competente para recibir la petición, en qué condiciones y sobre qué disposición de la Convención de Belém do Pará puede fundarse la denuncia, así como las obligaciones estatales incumplidas.",
+    "resolucion_didactica": "(a) Respuesta: La petición puede presentarse ante la Comisión Interamericana de Derechos Humanos, fundada en la violación del art. 7 de la Convención de Belém do Pará, por incumplimiento del deber estatal de debida diligencia.\n(b) Razonamiento jurídico paso a paso: 1) El art. 12 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, habilita a cualquier persona, grupo o entidad no gubernamental legalmente reconocida a presentar peticiones ante la Comisión IDH por violación del art. 7 por un Estado Parte, considerándose conforme a las normas de procedimiento de la CADH y del Estatuto y Reglamento de la Comisión. 2) Los hechos (violencia física y psicológica en la unidad doméstica) encuadran en la definición de violencia del art. 1 y en la modalidad del art. 2.a de Belém do Pará. 3) Procesalmente rigen el agotamiento de los recursos internos y el plazo de seis meses (art. 46.1, CADH), con las excepciones del art. 46.2, CADH (entre ellas, retardo injustificado o falta de acceso efectivo a los recursos). 4) El Estado incumplió las obligaciones de actuar con debida diligencia para prevenir, investigar y sancionar (art. 7.b), de establecer procedimientos y medidas de protección eficaces (art. 7.f) y de asegurar acceso a resarcimiento y reparación (art. 7.g), todos de Belém do Pará.\n(c) Normas y conceptos aplicables: arts. 1, 2.a, 7.b, 7.f, 7.g y 12 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632; arts. 44 y 46 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054; deber de debida diligencia.",
+    "fundamento_normativo": "Arts. 1, 2.a, 7.b, 7.f, 7.g y 12, Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632; arts. 44 y 46, Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054."
+  }
+}

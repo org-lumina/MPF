@@ -1,0 +1,786 @@
+{
+  "examen_id": 16,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "En la violencia doméstica del art. 6 de la Ley N° 26.485, el grupo familiar incluye relaciones vigentes o finalizadas y:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "excluye los noviazgos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo abarca el matrimonio",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "no siendo requisito la convivencia",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 6 inc. a: 'Incluye las relaciones vigentes o finalizadas, no siendo requisito la convivencia.'"
+        },
+        {
+          "letra": "D",
+          "texto": "exige siempre la convivencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 6 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 2 inc. c de la Declaración ONU comprende como violencia contra la mujer la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ejercida exclusivamente por particulares",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "que sólo ocurre en instituciones educacionales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "perpetrada o tolerada por el Estado, dondequiera que ocurra",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 2 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU). Declaración ONU, art. 2 inc. c: 'La violencia física, sexual y sicológica perpetrada o tolerada por el Estado, dondequiera que ocurra.'"
+        },
+        {
+          "letra": "D",
+          "texto": "limitada al ámbito familiar",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 2 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 75 inciso 22 de la Constitución Nacional, ¿qué jerarquía tienen los instrumentos internacionales de derechos humanos enumerados, en las condiciones de su vigencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Jerarquía provincial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional les confiere jerarquía constitucional; no existe una jerarquía provincial en esta materia."
+        },
+        {
+          "letra": "B",
+          "texto": "Jerarquía legal ordinaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional les reconoce jerarquía constitucional, superior a la legal ordinaria."
+        },
+        {
+          "letra": "C",
+          "texto": "Jerarquía constitucional",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 inc. 22 de la Constitución Nacional dispone que los instrumentos de derechos humanos enumerados, en las condiciones de su vigencia, tienen jerarquía constitucional."
+        },
+        {
+          "letra": "D",
+          "texto": "Jerarquía reglamentaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional les asigna jerarquía constitucional, no reglamentaria."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El MPF podrá celebrar convenios con universidades con el fin de que, conforme el artículo 37 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los profesores dicten clases obligatorias",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 37 de la Ley N° 27.148 refiere a actividades voluntarias de estudiantes, no a clases obligatorias de profesores."
+        },
+        {
+          "letra": "B",
+          "texto": "Los estudiantes ejerzan como fiscales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 37 de la Ley N° 27.148 contempla actividades voluntarias de práctica profesional, no que los estudiantes ejerzan como fiscales."
+        },
+        {
+          "letra": "C",
+          "texto": "Las universidades financien al MPF",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 37 de la Ley N° 27.148 no tiene por fin que las universidades financien al MPF."
+        },
+        {
+          "letra": "D",
+          "texto": "Los estudiantes de los cursos superiores puedan desarrollar actividades voluntarias dentro del MPF como parte de su práctica profesional",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 37 de la Ley N° 27.148 prevé celebrar convenios con universidades para que los estudiantes de los cursos superiores puedan desarrollar actividades voluntarias dentro del MPF como parte de su práctica profesional."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo del documento institucional 'Qué es el Ministerio Público Fiscal', la jurisdicción de Bahía Blanca fue establecida por la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Res. PGN N° 65/24",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Jurisdicción Bahía Blanca; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): Bahía Blanca fue establecida por Res. PGN N° 42/25."
+        },
+        {
+          "letra": "B",
+          "texto": "Res. PGN N° 7/25",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Jurisdicción Bahía Blanca; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): Bahía Blanca fue establecida por Res. PGN N° 42/25."
+        },
+        {
+          "letra": "C",
+          "texto": "Res. PGN N° 42/25",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): Bahía Blanca fue establecida por Res. PGN N° 42/25."
+        },
+        {
+          "letra": "D",
+          "texto": "Res. PGN N° 72/24",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Jurisdicción Bahía Blanca; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): Bahía Blanca fue establecida por Res. PGN N° 42/25."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Qué dirección general tiene a su cargo los laboratorios forenses y el cuerpo de investigadores, conforme el artículo 35 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Dirección General de Investigaciones y Apoyo Tecnológico a la Investigación Penal",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 35 inc. c de la Ley N° 27.148 establece que la Dirección General de Investigaciones y Apoyo Tecnológico a la Investigación Penal tendrá a su cargo los laboratorios forenses y el cuerpo de investigadores."
+        },
+        {
+          "letra": "B",
+          "texto": "La Dirección General de Políticas de Género",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Dirección General de Políticas de Género tiene funciones de asesoramiento en género (art. 35 inc. d de la Ley N° 27.148), no los laboratorios forenses."
+        },
+        {
+          "letra": "C",
+          "texto": "La Dirección General de Acceso a la Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Dirección General de Acceso a la Justicia gestiona dependencias en territorios vulnerables (art. 35 inc. b de la Ley N° 27.148), no los laboratorios forenses."
+        },
+        {
+          "letra": "D",
+          "texto": "La Dirección General de Desempeño Institucional",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Dirección General de Desempeño Institucional produce indicadores de desempeño (art. 35 inc. i de la Ley N° 27.148), no los laboratorios forenses."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 25 de la Ley N° 26.485 admite la presencia de un acompañante como ayuda protectora:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "designado de oficio por el juez",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 25 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo en la etapa de juicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 25 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "con carácter remunerado por el Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 25 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "ad honórem, siempre que la mujer que padece violencia lo solicite",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 25 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 25: 'En toda instancia del proceso se admitirá la presencia de un/a acompañante como ayuda protectora ad honórem, siempre que la mujer que padece violencia lo solicite...'"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Cuando el ejercicio de los derechos no estuviere ya garantizado por disposiciones legislativas o de otro carácter, según la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, los Estados Partes se comprometen a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Suspender los derechos no garantizados hasta su regulación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Aplicar directamente el derecho internacional consuetudinario",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Adoptar, con arreglo a sus procedimientos constitucionales, las medidas legislativas o de otro carácter necesarias para hacer efectivos tales derechos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): deber de adoptar las medidas legislativas o de otro carácter necesarias para hacer efectivos los derechos."
+        },
+        {
+          "letra": "D",
+          "texto": "Solicitar asistencia a la Corte Interamericana",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 2, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según la Resolución PGN N° 3329/2016, que modifica el artículo 16 del Reglamento para el Ingreso Democrático e Igualitario al MPF, el postulante deberá declarar respecto del interés en vacantes:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo no permanentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve II (art. 16 inc. d) del Reglamento): la norma no dispone «Sólo no permanentes»; lo correcto es: el postulante declara interés en vacantes permanentes, no permanentes o ambas, modificable durante toda la vigencia del concurso."
+        },
+        {
+          "letra": "B",
+          "texto": "No se requiere tal declaración",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve II (art. 16 inc. d) del Reglamento): la norma no dispone «No se requiere tal declaración»; lo correcto es: el postulante declara interés en vacantes permanentes, no permanentes o ambas, modificable durante toda la vigencia del concurso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo permanentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve II (art. 16 inc. d) del Reglamento): la norma no dispone «Sólo permanentes»; lo correcto es: el postulante declara interés en vacantes permanentes, no permanentes o ambas, modificable durante toda la vigencia del concurso."
+        },
+        {
+          "letra": "D",
+          "texto": "Si está interesado en vacantes permanentes, no permanentes o ambas, declaración modificable durante toda la vigencia del concurso",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, resuelve II (art. 16 inc. d) del Reglamento): el postulante declara interés en vacantes permanentes, no permanentes o ambas, modificable durante toda la vigencia del concurso."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 24 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), ¿qué determinará anualmente el monto destinado a dar cumplimiento a lo previsto en el artículo 4° inciso c)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La ley de presupuesto",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 24 de la Ley N° 22.431 dispone que la ley de presupuesto determina anualmente el monto para cumplir el artículo 4° inciso c)."
+        },
+        {
+          "letra": "B",
+          "texto": "La Comisión Nacional Asesora",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 24 de la Ley N° 22.431 no atribuye esa determinación a la Comisión Nacional Asesora."
+        },
+        {
+          "letra": "C",
+          "texto": "El Ministerio de Desarrollo Social",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 24 de la Ley N° 22.431 no atribuye esa determinación al Ministerio de Desarrollo Social."
+        },
+        {
+          "letra": "D",
+          "texto": "La reglamentación del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 24 de la Ley N° 22.431 atribuye la determinación anual del monto a la ley de presupuesto, no a la reglamentación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Considerando I de la Resolución PGN N° 70/2022, los representantes del Ministerio Público Fiscal solicitaron dos tipos de reparaciones a las víctimas, que denominaron:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reparaciones individuales y colectivas",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando I; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando I: los representantes del MPF solicitaron dos tipos de reparaciones que denominaron reparaciones en general y reparaciones en particular."
+        },
+        {
+          "letra": "B",
+          "texto": "Reparaciones patrimoniales y morales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando I; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando I: los representantes del MPF solicitaron dos tipos de reparaciones que denominaron reparaciones en general y reparaciones en particular."
+        },
+        {
+          "letra": "C",
+          "texto": "Reparaciones en general y reparaciones en particular",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando I: los representantes del MPF solicitaron dos tipos de reparaciones que denominaron reparaciones en general y reparaciones en particular."
+        },
+        {
+          "letra": "D",
+          "texto": "Reparaciones directas e indirectas",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando I; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando I: los representantes del MPF solicitaron dos tipos de reparaciones que denominaron reparaciones en general y reparaciones en particular."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según la pauta 8 del artículo 81 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), el recurso de reconsideración deberá ser resuelto en el plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Treinta (30) días corridos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija treinta (30) días corridos para resolver la reconsideración."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. El plazo de tres (3) días hábiles es para interponer la reconsideración, no para resolverla, según la pauta 8 del art. 81 de la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez (10) días hábiles",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pauta 8 del art. 81 de la Res. PGN N° 128/2010 no fija diez (10) días hábiles para resolver la reconsideración."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco (5) días hábiles desde su presentación",
+          "correcta": true,
+          "explicacion": "Correcta. La pauta 8 inc. d) del art. 81 de la Res. PGN N° 128/2010 fija cinco (5) días hábiles desde su presentación para resolver la reconsideración."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 54 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), para ingresar al agrupamiento 'Técnico Jurídico' se exige, además de los requisitos generales:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Educación primaria completa",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 54, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Educación primaria completa»; lo correcto es: para Técnico Jurídico se exige ser abogado/a graduado/a en universidad reconocida o extranjera con título homologado."
+        },
+        {
+          "letra": "B",
+          "texto": "Ser abogado/a graduado/a en universidad nacional pública o privada reconocida o extranjera con título homologado por el Ministerio de Educación",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 54, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): para Técnico Jurídico se exige ser abogado/a graduado/a en universidad reconocida o extranjera con título homologado."
+        },
+        {
+          "letra": "C",
+          "texto": "Estudios secundarios completos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 54, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Estudios secundarios completos»; lo correcto es: para Técnico Jurídico se exige ser abogado/a graduado/a en universidad reconocida o extranjera con título homologado."
+        },
+        {
+          "letra": "D",
+          "texto": "Título de posgrado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 54, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «Título de posgrado»; lo correcto es: para Técnico Jurídico se exige ser abogado/a graduado/a en universidad reconocida o extranjera con título homologado."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "La jornada de trabajo prevista en la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal) es de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "8 horas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La jornada no es de 8 horas según la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "B",
+          "texto": "6 horas",
+          "correcta": true,
+          "explicacion": "Correcta. La Res. PGN N° 128/2010 establece una jornada de seis (6) horas (de 7:30 a 13:30)."
+        },
+        {
+          "letra": "C",
+          "texto": "4 horas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La jornada no es de 4 horas según la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "D",
+          "texto": "7 horas",
+          "correcta": false,
+          "explicacion": "Incorrecta. La jornada no es de 7 horas según la Res. PGN N° 128/2010."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 5 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, obliga a los Estados a tomar medidas apropiadas para modificar los patrones socioculturales de conducta de hombres y mujeres con miras a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Suprimir la educación mixta",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 5.a, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Eliminar los prejuicios y prácticas consuetudinarias basados en la idea de inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 5.a, CEDAW (Ley N° 23.179): modificar patrones socioculturales para eliminar prejuicios y estereotipos de inferioridad o superioridad de los sexos."
+        },
+        {
+          "letra": "C",
+          "texto": "Restringir la participación laboral de la mujer",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 5.a, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Imponer roles tradicionales de familia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 5.a, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 76 de la Constitución Nacional, ¿qué dispone sobre la delegación legislativa en el Poder Ejecutivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está permitida sin límites",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Constitución Nacional prohíbe en principio la delegación legislativa; no está permitida sin límites."
+        },
+        {
+          "letra": "B",
+          "texto": "Está permitida solo en materia penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Constitución Nacional no habilita la delegación en materia penal; la admite solo en administración o emergencia pública con plazo y bases."
+        },
+        {
+          "letra": "C",
+          "texto": "Se prohíbe, salvo en materias determinadas de administración o de emergencia pública, con plazo fijado y dentro de las bases de la delegación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 76 de la Constitución Nacional prohíbe la delegación legislativa, salvo en materias determinadas de administración o de emergencia pública, con plazo fijado y dentro de las bases que el Congreso establezca."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo la puede autorizar la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Constitución Nacional supone una delegación que el Congreso establece; no es la Corte Suprema quien la autoriza."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "El art. 10 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, obliga a los Estados a asegurar la igualdad en la esfera de la educación, incluyendo:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La separación de niños y niñas en todas las aulas",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 10.c, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "La prohibición de la educación técnica para mujeres",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 10.c, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "La eliminación de todo concepto estereotipado de los papeles masculino y femenino en todos los niveles y formas de enseñanza",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 10.c, CEDAW (Ley N° 23.179): eliminación de conceptos estereotipados de los papeles masculino y femenino en todos los niveles de enseñanza."
+        },
+        {
+          "letra": "D",
+          "texto": "Becas exclusivas para varones",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 10.c, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 28 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el examen para cargos letrados es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anónimo y escrito, fijado dentro de los siguientes treinta (30) días",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 28, Ley N° 26.861: el examen para cargos letrados es anónimo y escrito, dentro de los siguientes treinta (30) días."
+        },
+        {
+          "letra": "B",
+          "texto": "Una entrevista personal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 28, Ley N° 26.861: la norma no dispone «Una entrevista personal»; lo correcto es: el examen para cargos letrados es anónimo y escrito, dentro de los siguientes treinta (30) días."
+        },
+        {
+          "letra": "C",
+          "texto": "Oral y público",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 28, Ley N° 26.861: la norma no dispone «Oral y público»; lo correcto es: el examen para cargos letrados es anónimo y escrito, dentro de los siguientes treinta (30) días."
+        },
+        {
+          "letra": "D",
+          "texto": "De opción múltiple",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 28, Ley N° 26.861: la norma no dispone «De opción múltiple»; lo correcto es: el examen para cargos letrados es anónimo y escrito, dentro de los siguientes treinta (30) días."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 99 inciso 8 de la Constitución Nacional, ¿qué hace anualmente el Presidente respecto del Congreso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aprueba el presupuesto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La aprobación del presupuesto corresponde al Congreso (art. 75 inc. 8 de la Constitución Nacional); el art. 99 inc. 8 se refiere a la apertura de las sesiones."
+        },
+        {
+          "letra": "B",
+          "texto": "Hace la apertura de las sesiones del Congreso, dando cuenta del estado de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 99 inc. 8 de la Constitución Nacional dispone que el Presidente hace anualmente la apertura de las sesiones del Congreso, dando cuenta del estado de la Nación."
+        },
+        {
+          "letra": "C",
+          "texto": "Nombra a los legisladores",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 8 de la Constitución Nacional no atribuye al Presidente el nombramiento de legisladores; éstos son elegidos por el pueblo."
+        },
+        {
+          "letra": "D",
+          "texto": "Disuelve las Cámaras",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 8 de la Constitución Nacional no faculta al Presidente a disolver las Cámaras; le encomienda hacer anualmente la apertura de las sesiones."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Conforme al art. 33 de la Ley N° 26.485, la apelación contra resoluciones que concedan medidas preventivas urgentes se concederá:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "libremente y con efecto devolutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "libremente y con efecto suspensivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "en relación y con efecto suspensivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "en relación y con efecto devolutivo",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 33: 'La apelación contra resoluciones que concedan medidas preventivas urgentes se concederá en relación y con efecto devolutivo.'"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Los directores generales serán nombrados por, conforme el artículo 34 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Procurador General de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 34 de la Ley N° 27.148 dispone que los directores generales serán nombrados por el Procurador General de la Nación."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo General",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 de la Ley N° 27.148 atribuye el nombramiento de los directores generales al Procurador General, no al Consejo General."
+        },
+        {
+          "letra": "C",
+          "texto": "El Poder Ejecutivo con acuerdo del Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 de la Ley N° 27.148 atribuye el nombramiento al Procurador General, no al Poder Ejecutivo con acuerdo del Senado."
+        },
+        {
+          "letra": "D",
+          "texto": "Concurso público",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 de la Ley N° 27.148 no prevé concurso público para los directores generales."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento institucional 'Qué es el Ministerio Público Fiscal', el rol de los/as fiscales del MPF tiene como fin:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Defender los intereses generales de la sociedad",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): el rol de los/as fiscales tiene como fin defender los intereses generales de la sociedad."
+        },
+        {
+          "letra": "B",
+          "texto": "Administrar el presupuesto del Poder Judicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Definición; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): el rol de los/as fiscales tiene como fin defender los intereses generales de la sociedad."
+        },
+        {
+          "letra": "C",
+          "texto": "Defender al imputado",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Definición; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): el rol de los/as fiscales tiene como fin defender los intereses generales de la sociedad."
+        },
+        {
+          "letra": "D",
+          "texto": "Dictar sentencia en los procesos penales",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Definición; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Definición): el rol de los/as fiscales tiene como fin defender los intereses generales de la sociedad."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según la Resolución PGN N° 3329/2016, que modifica el artículo 4 del Reglamento para el Ingreso Democrático e Igualitario al MPF, ¿qué cargos no permanentes quedan exceptuados por licencias?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los generados por licencias por nacimiento de hijo/a de personas gestantes o adopción por el lapso de 110 días, o licencias de plazo inferior",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, resuelve I (art. 4 del Reglamento modificado): se exceptúan los cargos no permanentes por licencias por nacimiento o adopción por 110 días, o de plazo inferior."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los cargos no permanentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve I (art. 4 del Reglamento modificado): la norma no dispone «Todos los cargos no permanentes»; lo correcto es: se exceptúan los cargos no permanentes por licencias por nacimiento o adopción por 110 días, o de plazo inferior."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo los cargos letrados",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve I (art. 4 del Reglamento modificado): la norma no dispone «Sólo los cargos letrados»; lo correcto es: se exceptúan los cargos no permanentes por licencias por nacimiento o adopción por 110 días, o de plazo inferior."
+        },
+        {
+          "letra": "D",
+          "texto": "Los cargos por licencia anual ordinaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, resuelve I (art. 4 del Reglamento modificado): la norma no dispone «Los cargos por licencia anual ordinaria»; lo correcto es: se exceptúan los cargos no permanentes por licencias por nacimiento o adopción por 110 días, o de plazo inferior."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 13 inciso b) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), las normas de ingreso y egreso a establecimientos educacionales para personas discapacitadas se extenderán:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Exclusivamente a los educandos de escuelas especiales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso b) de la Ley N° 22.431 no se restringe a los educandos de escuelas especiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde la detección de los déficits hasta los casos de discapacidad profunda, aun cuando ésta no encuadre en el régimen de las escuelas de educación especial",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 13 inciso b) de la Ley N° 22.431 extiende las normas desde la detección de los déficits hasta la discapacidad profunda, aun fuera del régimen de escuelas especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "Desde la educación primaria hasta la universitaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso b) de la Ley N° 22.431 no acota el alcance a los niveles primario a universitario."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo a los casos de discapacidad leve",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso b) de la Ley N° 22.431 no limita el alcance a los casos de discapacidad leve."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Dentro de qué plazo debe interponerse el recurso contra la sentencia del Tribunal de Enjuiciamiento, conforme el artículo 80 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Treinta (30) días de notificado el fallo",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80 inc. i de la Ley N° 27.148 dispone que el recurso deberá interponerse fundadamente por escrito ante el Tribunal de Enjuiciamiento, dentro del plazo de treinta (30) días de notificado el fallo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (5) días de notificado el fallo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. i de la Ley N° 27.148 fija treinta días para el recurso; los cinco días son el plazo de elevación de las actuaciones a la Cámara."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez (10) días de notificado el fallo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. i de la Ley N° 27.148 fija treinta días, no diez."
+        },
+        {
+          "letra": "D",
+          "texto": "Quince (15) días de notificado el fallo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. i de la Ley N° 27.148 fija treinta días, no quince."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Un fiscal federal en una jurisdicción donde rige el sistema acusatorio investiga un presunto delito de corrupción atribuido a un funcionario público cometido en razón de su cargo. El defensor del imputado propone que el fiscal aplique un criterio de oportunidad y prescinda de la acusación para evitar el juicio.",
+    "consigna": "Resuelva si el fiscal puede prescindir de la acusación en este caso, fundando en el régimen de disponibilidad de la acción del Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482) y explicando los roles de fiscal y juez en el sistema acusatorio.",
+    "resolucion_didactica": "(a) Respuesta: el fiscal NO puede prescindir de la acusación, porque el imputado es funcionario público y se le atribuye un delito cometido en razón de su cargo.\n(b) Razonamiento jurídico paso a paso: 1) Conforme al Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), los/as fiscales pueden disponer de la acción penal pública según criterios de oportunidad, conversión de la acción, conciliación y suspensión del proceso a prueba. 2) Sin embargo, el mismo régimen establece que en ningún caso podrán prescindir de la acusación si el imputado fuera funcionario público y se le atribuyera un delito cometido en el ejercicio o en razón de su cargo, o ante violencia doméstica o motivada en razones discriminatorias; el supuesto del caso encuadra en esa prohibición. 3) En el sistema acusatorio la investigación queda a cargo del MPF, que promueve la acción penal, mientras que el juez garantiza el cumplimiento de la ley y el respeto de las garantías constitucionales; por ende, el fiscal debe continuar la persecución penal.\n(c) Normas y conceptos aplicables: Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), apartado El impulso de la acción pública (disponibilidad de la acción y prohibición de prescindir de la acusación) y apartado Sistema acusatorio (división de roles entre fiscal y juez).",
+    "fundamento_normativo": "Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482), El impulso de la acción pública: disponibilidad de la acción y prohibición de prescindir de la acusación cuando el imputado es funcionario público por delito en razón del cargo; apartado sistema acusatorio (división de roles entre fiscal y juez)."
+  }
+}

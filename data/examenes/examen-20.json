@@ -1,0 +1,786 @@
+{
+  "examen_id": 20,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 5 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, la designación directa procede excepcionalmente en los cargos de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fiscal y defensor",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Ley N° 26.861: la norma no dispone «Fiscal y defensor»; lo correcto es: la designación directa excepcional procede en los cargos de relator de Cámara y secretario privado de primera instancia."
+        },
+        {
+          "letra": "B",
+          "texto": "Secretario general de la PGN",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Ley N° 26.861: la norma no dispone «Secretario general de la PGN»; lo correcto es: la designación directa excepcional procede en los cargos de relator de Cámara y secretario privado de primera instancia."
+        },
+        {
+          "letra": "C",
+          "texto": "Relator de Cámara y secretario privado de primera instancia",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 5, Ley N° 26.861: la designación directa excepcional procede en los cargos de relator de Cámara y secretario privado de primera instancia."
+        },
+        {
+          "letra": "D",
+          "texto": "Empleado de maestranza",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Ley N° 26.861: la norma no dispone «Empleado de maestranza»; lo correcto es: la designación directa excepcional procede en los cargos de relator de Cámara y secretario privado de primera instancia."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento del Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482), ¿qué órgano dispuso, el 26 de marzo de 2019, la entrada en vigencia del nuevo código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Procurador General de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Entrada en vigencia; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): la Comisión Bicameral de Monitoreo e Implementación (Congreso Nacional), conforme el art. 2 de la Ley n° 27.150, dispuso la entrada en vigencia el 26 de marzo de 2019."
+        },
+        {
+          "letra": "B",
+          "texto": "La Comisión Bicameral de Monitoreo e Implementación que funciona en el Congreso Nacional",
+          "correcta": true,
+          "explicacion": "Correcta. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): la Comisión Bicameral de Monitoreo e Implementación (Congreso Nacional), conforme el art. 2 de la Ley n° 27.150, dispuso la entrada en vigencia el 26 de marzo de 2019."
+        },
+        {
+          "letra": "C",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Entrada en vigencia; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): la Comisión Bicameral de Monitoreo e Implementación (Congreso Nacional), conforme el art. 2 de la Ley n° 27.150, dispuso la entrada en vigencia el 26 de marzo de 2019."
+        },
+        {
+          "letra": "D",
+          "texto": "La UNISA",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Entrada en vigencia; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482): la Comisión Bicameral de Monitoreo e Implementación (Congreso Nacional), conforme el art. 2 de la Ley n° 27.150, dispuso la entrada en vigencia el 26 de marzo de 2019."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el documento del Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482), en el nuevo código la investigación preparatoria, desde su formalización, no podrá durar más de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos años; y en casos complejos hasta cuatro años",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Rol de fiscales y jueces; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), El rol de los fiscales y de los jueces: la investigación preparatoria no durará más de un año, y hasta tres años en delitos complejos."
+        },
+        {
+          "letra": "B",
+          "texto": "Un año; y en casos de delitos complejos podrá durar hasta tres años",
+          "correcta": true,
+          "explicacion": "Correcta. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), El rol de los fiscales y de los jueces: la investigación preparatoria no durará más de un año, y hasta tres años en delitos complejos."
+        },
+        {
+          "letra": "C",
+          "texto": "Seis meses; y en casos complejos hasta un año",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Rol de fiscales y jueces; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), El rol de los fiscales y de los jueces: la investigación preparatoria no durará más de un año, y hasta tres años en delitos complejos."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres años en todos los casos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), CPPF - Rol de fiscales y jueces; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), El rol de los fiscales y de los jueces: la investigación preparatoria no durará más de un año, y hasta tres años en delitos complejos."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "La función consultiva de la Corte, según el art. 64 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, permite a los Estados Miembros consultarla acerca de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La interpretación de la Convención o de otros tratados concernientes a la protección de los derechos humanos en los Estados Americanos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 64.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): consulta sobre interpretación de la Convención u otros tratados de DDHH en los Estados Americanos."
+        },
+        {
+          "letra": "B",
+          "texto": "Asuntos económicos internos",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 64.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente casos ya fallados",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 64.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Conflictos limítrofes",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 64.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "El art. 4 inc. i de la Declaración ONU dispone que los Estados adopten medidas para que las autoridades encargadas de hacer cumplir la ley y los funcionarios reciban:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inmunidad funcional plena",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "exclusivamente capacitación armamentística",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "una formación que los sensibilice respecto de las necesidades de la mujer",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU). Declaración ONU, art. 4 inc. i: '...reciban una formación que los sensibilice respecto de las necesidades de la mujer'."
+        },
+        {
+          "letra": "D",
+          "texto": "incentivos económicos por cada caso resuelto",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 4 de la Declaración sobre la Eliminación de la Violencia contra la Mujer (ONU); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 37 de la Constitución Nacional, ¿qué características tiene el sufragio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Universal, igual, secreto y obligatorio",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 37 de la Constitución Nacional establece que el sufragio es universal, igual, secreto y obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Calificado, igual y voluntario",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 37 de la Constitución Nacional caracteriza el sufragio como universal y obligatorio, no como calificado ni voluntario."
+        },
+        {
+          "letra": "C",
+          "texto": "Universal, público y voluntario",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 37 de la Constitución Nacional lo define como secreto y obligatorio, no público ni voluntario."
+        },
+        {
+          "letra": "D",
+          "texto": "Restringido, secreto y obligatorio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 37 de la Constitución Nacional lo define como universal, no restringido."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "En todos los casos, se extingue la potestad sancionadora si han transcurrido, conforme el artículo 75 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco (5) años desde la fecha de comisión de la falta",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 75 de la Ley N° 27.148 dispone que, en todos los casos, se extingue la potestad sancionadora si han transcurrido cinco (5) años desde la fecha de comisión de la falta."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez (10) años desde la comisión de la falta",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 de la Ley N° 27.148 fija cinco años, no diez."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres (3) años desde la comisión de la falta",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 de la Ley N° 27.148 fija el plazo de extinción total en cinco años, no en tres."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos (2) años desde la comisión de la falta",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 de la Ley N° 27.148 fija cinco años, no dos."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "Los jueces y tribunales solo podrán imponer a los miembros del MPF, conforme el artículo 66 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier sanción que estimen pertinente, incluido el arresto",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 66 de la Ley N° 27.148 excluye expresamente la sanción de arresto."
+        },
+        {
+          "letra": "B",
+          "texto": "La sanción de remoción",
+          "correcta": false,
+          "explicacion": "Incorrecta. La remoción corresponde al Tribunal de Enjuiciamiento (art. 76 de la Ley N° 27.148), no a los jueces conforme el art. 66."
+        },
+        {
+          "letra": "C",
+          "texto": "Las mismas sanciones disciplinarias que determinan las leyes para los litigantes por faltas contra su autoridad, salvo la sanción de arresto",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 66 de la Ley N° 27.148 dispone que los jueces y tribunales solo podrán imponer a los miembros del MPF las mismas sanciones disciplinarias que las leyes determinan para los litigantes por faltas cometidas contra su autoridad, salvo la sanción de arresto."
+        },
+        {
+          "letra": "D",
+          "texto": "Multas de hasta el 50% de sus remuneraciones",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 66 de la Ley N° 27.148 remite a las sanciones para los litigantes, sin habilitar multas del 50% de las remuneraciones."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "El Procurador General de la Nación recibirá una retribución equivalente a la de, conforme el artículo 61 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Juez de cámara",
+          "correcta": false,
+          "explicacion": "Incorrecta. La retribución equivalente a juez de cámara corresponde a los fiscales generales (art. 61 inc. d de la Ley N° 27.148), no al Procurador General."
+        },
+        {
+          "letra": "B",
+          "texto": "Juez de la Corte Suprema de Justicia de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 61 inc. a de la Ley N° 27.148 dispone que el Procurador General recibirá una retribución equivalente a la de Juez de la Corte Suprema de Justicia de la Nación."
+        },
+        {
+          "letra": "C",
+          "texto": "Juez de casación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La retribución equivalente a juez de casación corresponde a ciertos fiscales generales (art. 61 inc. c de la Ley N° 27.148), no al Procurador General."
+        },
+        {
+          "letra": "D",
+          "texto": "Juez de primera instancia",
+          "correcta": false,
+          "explicacion": "Incorrecta. La retribución equivalente a juez de primera instancia corresponde a los fiscales (art. 61 inc. e de la Ley N° 27.148), no al Procurador General."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 8° bis de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), los sujetos del primer párrafo del artículo 8° deben priorizar, a igual costo:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las compras de insumos y provisiones de aquellas empresas que contraten a personas con discapacidad, situación que deberá ser fehacientemente acreditada",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 8° bis de la Ley N° 22.431 dispone priorizar, a igual costo, las compras a empresas que contraten personas con discapacidad, fehacientemente acreditadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las compras a talleres protegidos exclusivamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° bis de la Ley N° 22.431 no limita la prioridad a los talleres protegidos."
+        },
+        {
+          "letra": "C",
+          "texto": "La contratación de empresas locales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° bis de la Ley N° 22.431 no prioriza a las empresas locales por su localización."
+        },
+        {
+          "letra": "D",
+          "texto": "La adquisición de bienes importados",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 8° bis de la Ley N° 22.431 no prioriza la adquisición de bienes importados."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 39 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), al producirse una vacante en 'Servicios Auxiliares', el sorteo para determinar el orden de selección lo realiza:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El titular de la dependencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 39, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El titular de la dependencia»; lo correcto es: el sorteo del orden de selección lo realiza la Lotería Nacional S.E."
+        },
+        {
+          "letra": "B",
+          "texto": "La Lotería Nacional S.E.",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 39, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): el sorteo del orden de selección lo realiza la Lotería Nacional S.E."
+        },
+        {
+          "letra": "C",
+          "texto": "La Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 39, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La Corte Suprema»; lo correcto es: el sorteo del orden de selección lo realiza la Lotería Nacional S.E."
+        },
+        {
+          "letra": "D",
+          "texto": "El CPE",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 39, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El CPE»; lo correcto es: el sorteo del orden de selección lo realiza la Lotería Nacional S.E."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 39 de la Ley N° 26.485, las actuaciones fundadas en la ley están exentas del pago de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aportes previsionales",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 39 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "costas en todos los casos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 39 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "honorarios profesionales únicamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 39 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "sellado, tasas, depósitos y cualquier otro impuesto",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 39 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 39: 'Las actuaciones fundadas en la presente ley estarán exentas del pago de sellado, tasas, depósitos y cualquier otro impuesto...'"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 85 de la Constitución Nacional, ¿a propuesta de quién será designado el presidente de la Auditoría General de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Del partido político oficialista",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 85 de la Constitución Nacional atribuye la propuesta al partido de oposición con más legisladores, no al oficialismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 85 de la Constitución Nacional no atribuye la propuesta al Poder Ejecutivo, sino al partido de oposición con más legisladores."
+        },
+        {
+          "letra": "C",
+          "texto": "Del partido político de oposición con mayor número de legisladores en el Congreso",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 85 de la Constitución Nacional dispone que el presidente de la Auditoría General de la Nación será designado a propuesta del partido político de oposición con mayor número de legisladores en el Congreso."
+        },
+        {
+          "letra": "D",
+          "texto": "De la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 85 de la Constitución Nacional no atribuye la propuesta a la Corte Suprema, sino al partido de oposición con más legisladores."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "El artículo 76 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal) dispone que el cargo de Contador Auditor solo podrá ser desempeñado por quien posea:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Título secundario con orientación contable",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Res. PGN N° 128/2010 no admite título secundario con orientación contable."
+        },
+        {
+          "letra": "B",
+          "texto": "Título universitario mayor de cuatro (4) años de una carrera del Consejo de Profesionales de Ciencias Económicas y cuatro (4) años de ejercicio comprobado",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 76 de la Res. PGN N° 128/2010 exige título universitario mayor de cuatro (4) años de una carrera del Consejo de Profesionales de las Ciencias Económicas y cuatro (4) años de ejercicio comprobado."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier título universitario y dos años de experiencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Res. PGN N° 128/2010 no acepta cualquier título universitario con dos años de experiencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Título de abogado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 76 de la Res. PGN N° 128/2010 no exige título de abogado para el cargo de Contador Auditor."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el artículo 99 inciso 3 de la Constitución Nacional, ¿en qué plazo el jefe de gabinete somete el decreto de necesidad y urgencia a la Comisión Bicameral Permanente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de los cinco días",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 3 de la Constitución Nacional fija el plazo en diez días, no en cinco."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de los quince días",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 3 de la Constitución Nacional fija el plazo en diez días, no en quince."
+        },
+        {
+          "letra": "C",
+          "texto": "Personalmente y dentro de los diez días",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 99 inc. 3 de la Constitución Nacional dispone que el jefe de gabinete de ministros, personalmente y dentro de los diez días, someterá la medida a consideración de la Comisión Bicameral Permanente."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentro de los treinta días",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 99 inc. 3 de la Constitución Nacional fija el plazo en diez días, no en treinta."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
+      "enunciado": "Según la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), el período de prueba del personal que ingresa al MPF es de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "6 meses",
+          "correcta": true,
+          "explicacion": "Correcta. La Res. PGN N° 128/2010 fija un período de prueba de seis (6) meses."
+        },
+        {
+          "letra": "B",
+          "texto": "3 meses",
+          "correcta": false,
+          "explicacion": "Incorrecta. El período de prueba no es de 3 meses según la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "C",
+          "texto": "2 años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El período de prueba no es de 2 años según la Res. PGN N° 128/2010."
+        },
+        {
+          "letra": "D",
+          "texto": "1 año",
+          "correcta": false,
+          "explicacion": "Incorrecta. El período de prueba no es de 1 año según la Res. PGN N° 128/2010."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según el art. 16 inc. i de la Ley N° 26.485, las mujeres tienen derecho a la amplitud probatoria para acreditar los hechos denunciados, teniendo en cuenta:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la confesión del agresor",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente la prueba documental",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "C",
+          "texto": "las circunstancias especiales en las que se desarrollan los actos de violencia y quiénes son sus naturales testigos",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 16 inc. i: '...teniendo en cuenta las circunstancias especiales en las que se desarrollan los actos de violencia y quienes son sus naturales testigos.'"
+        },
+        {
+          "letra": "D",
+          "texto": "el dictamen pericial obligatorio",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 16 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Según el art. 52 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, la Corte Interamericana de Derechos Humanos se compone de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco jueces",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 52.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Once jueces",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 52.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Siete jueces nacionales de los Estados Miembros de la Organización, elegidos a título personal",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 52.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): la Corte se compone de siete jueces nacionales de los Estados Miembros, elegidos a título personal."
+        },
+        {
+          "letra": "D",
+          "texto": "Nueve jueces",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 52.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
+      "enunciado": "Según el artículo 13 inciso c) de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), el Ministerio de Educación debe:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Otorgar subsidios escolares",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso c) de la Ley N° 22.431 no encomienda otorgar subsidios escolares."
+        },
+        {
+          "letra": "B",
+          "texto": "Crear talleres protegidos de producción",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso c) de la Ley N° 22.431 no encomienda crear talleres protegidos de producción."
+        },
+        {
+          "letra": "C",
+          "texto": "Crear centros de evaluación y orientación vocacional para los educandos discapacitados",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 13 inciso c) de la Ley N° 22.431 dispone crear centros de evaluación y orientación vocacional para los educandos discapacitados."
+        },
+        {
+          "letra": "D",
+          "texto": "Habilitar hogares con internación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 13 inciso c) de la Ley N° 22.431 no encomienda habilitar hogares con internación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
+      "enunciado": "¿Quién transferirá diariamente y de manera automática a una cuenta específica el monto de la recaudación que corresponde al MPF, conforme el artículo 39 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Banco de la Nación Argentina, sin percibir retribución alguna por los servicios que preste",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 39 de la Ley N° 27.148 dispone que el Banco de la Nación Argentina transferirá diariamente y de manera automática a una cuenta específica el monto de la recaudación que corresponde al MPF, sin percibir retribución alguna por los servicios que preste."
+        },
+        {
+          "letra": "B",
+          "texto": "El Ministerio de Economía",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 39 de la Ley N° 27.148 asigna esa transferencia al Banco de la Nación Argentina, no al Ministerio de Economía."
+        },
+        {
+          "letra": "C",
+          "texto": "La AFIP",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 39 de la Ley N° 27.148 asigna esa transferencia al Banco de la Nación Argentina, no a la AFIP."
+        },
+        {
+          "letra": "D",
+          "texto": "El Banco Central",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 39 de la Ley N° 27.148 asigna esa transferencia al Banco de la Nación Argentina, no al Banco Central."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Género y violencia contra la mujer",
+      "enunciado": "Según las Orientaciones del MPF, el patriarcado define a un sujeto hegemónico que se caracteriza por ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la mujer en el espacio doméstico",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "B",
+          "texto": "varón, blanco, heterosexual, sin discapacidad",
+          "correcta": true,
+          "explicacion": "Correcta. Conforme a las Orientaciones sobre perspectiva de género (MPF). Orientaciones MPF: 'El patriarcado define a un sujeto hegemónico (varón, blanco, heterosexual, sin discapacidad) y cuanto más nos \"alejamos\" de tales características, más bajo en la jerarquía social nos coloca.'"
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier persona adulta con recursos",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        },
+        {
+          "letra": "D",
+          "texto": "exclusivamente quien ejerce un cargo público",
+          "correcta": false,
+          "explicacion": "Incorrecta. La afirmacion no se ajusta a las Orientaciones sobre perspectiva de género (MPF); la opcion correcta es la \"a\"."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "Derechos humanos: sistema interamericano y CEDAW",
+      "enunciado": "Entre los derechos comprendidos en el art. 4 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer ('Convención de Belém do Pará'), aprobada por Ley N° 24.632, se encuentra:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a la propiedad privada",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 4.g, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a la doble nacionalidad",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 4.g, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a la objeción de conciencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 4.g, Convención de Belém do Pará (Ley N° 24.632); la opción correcta es la \"b\"."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a un recurso sencillo y rápido ante los tribunales competentes que la ampare contra actos que violen sus derechos",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 4.g, Convención de Belém do Pará (Ley N° 24.632): derecho a un recurso sencillo y rápido ante tribunales competentes."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Según el artículo 5 del Reglamento para el Ingreso Democrático e Igualitario al Ministerio Público Fiscal (Resolución PGN), ¿qué norma se aplica con carácter supletorio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Ley Orgánica del Poder Judicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «La Ley Orgánica del Poder Judicial»; lo correcto es: se aplica supletoriamente el Reglamento de Concursos para la Selección de Magistrados/as del MPF."
+        },
+        {
+          "letra": "B",
+          "texto": "El Reglamento de Licencias",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El Reglamento de Licencias»; lo correcto es: se aplica supletoriamente el Reglamento de Concursos para la Selección de Magistrados/as del MPF."
+        },
+        {
+          "letra": "C",
+          "texto": "El Código Procesal Penal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 5, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): la norma no dispone «El Código Procesal Penal»; lo correcto es: se aplica supletoriamente el Reglamento de Concursos para la Selección de Magistrados/as del MPF."
+        },
+        {
+          "letra": "D",
+          "texto": "El Reglamento de Concursos para la Selección de Magistrados/as del MPF, en tanto no se oponga a lo dispuesto",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 5, Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN): se aplica supletoriamente el Reglamento de Concursos para la Selección de Magistrados/as del MPF."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "Ingreso democrático e igualitario al MPF",
+      "enunciado": "Para los cargos letrados, según el artículo 8 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, se requiere ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Argentino nativo exclusivamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 8, Ley N° 26.861: la norma no dispone «Argentino nativo exclusivamente»; lo correcto es: para cargos letrados se requiere ser argentino o residente permanente, mayor de edad y abogado graduado en universidad reconocida o extranjera con título homologado."
+        },
+        {
+          "letra": "B",
+          "texto": "Argentino o residente permanente, mayor de edad y abogado graduado en universidad reconocida o extranjera con título homologado",
+          "correcta": true,
+          "explicacion": "Correcta. Art. 8, Ley N° 26.861: para cargos letrados se requiere ser argentino o residente permanente, mayor de edad y abogado graduado en universidad reconocida o extranjera con título homologado."
+        },
+        {
+          "letra": "C",
+          "texto": "Empleado con dos años de antigüedad",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 8, Ley N° 26.861: la norma no dispone «Empleado con dos años de antigüedad»; lo correcto es: para cargos letrados se requiere ser argentino o residente permanente, mayor de edad y abogado graduado en universidad reconocida o extranjera con título homologado."
+        },
+        {
+          "letra": "D",
+          "texto": "Mayor de edad con estudios secundarios",
+          "correcta": false,
+          "explicacion": "Incorrecta. Art. 8, Ley N° 26.861: la norma no dispone «Mayor de edad con estudios secundarios»; lo correcto es: para cargos letrados se requiere ser argentino o residente permanente, mayor de edad y abogado graduado en universidad reconocida o extranjera con título homologado."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Organización del MPF y proceso penal federal",
+      "enunciado": "Según el Anexo del documento institucional 'Qué es el Ministerio Público Fiscal', la Fiscalía de Distrito de Mar del Plata fue establecida por la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Res. PGN N° 3/25",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Mar del Plata; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Mar del Plata fue establecida por Res. PGN N° 7/25."
+        },
+        {
+          "letra": "B",
+          "texto": "Res. PGN N° 52/23",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Mar del Plata; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Mar del Plata fue establecida por Res. PGN N° 7/25."
+        },
+        {
+          "letra": "C",
+          "texto": "Res. PGN N° 7/25",
+          "correcta": true,
+          "explicacion": "Correcta. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Mar del Plata fue establecida por Res. PGN N° 7/25."
+        },
+        {
+          "letra": "D",
+          "texto": "Res. PGN N° 42/24",
+          "correcta": false,
+          "explicacion": "Incorrecta. No surge de documento institucional 'Qué es el Ministerio Público Fiscal', Anexo - Mar del Plata; la opción correcta es la 'b'. Documento institucional 'Qué es el Ministerio Público Fiscal' (Anexo, Jurisdicciones): la Fiscalía de Distrito de Mar del Plata fue establecida por Res. PGN N° 7/25."
+        }
+      ]
+    }
+  ],
+  "caso": {
+    "enunciado": "Un fiscal del MPF de la Nación es acusado, tras un sumario, de haber recibido dádivas con entidad material por la realización de sus funciones. El Procurador General entiende que la conducta amerita la sanción de remoción.",
+    "consigna": "Indique si la falta es grave o leve, qué órgano es competente para disponer la eventual remoción y la mayoría necesaria para una sentencia condenatoria.",
+    "resolucion_didactica": "(a) Respuesta: Es falta grave; el órgano competente para la remoción es el Tribunal de Enjuiciamiento del MPF y la sentencia condenatoria requiere el voto de cinco (5) de sus integrantes.\n(b) Razonamiento jurídico paso a paso: 1) Recibir dádivas con entidad material por la realización de las funciones constituye falta grave (art. 68, inc. n, de la Ley N° 27.148). 2) Como el Procurador General entiende que la conducta es pasible de remoción, debe elevar el caso al Tribunal de Enjuiciamiento del MPF (art. 74 de la Ley N° 27.148). 3) Ese Tribunal es el único órgano competente para remover magistrados del MPF (art. 76 de la Ley N° 27.148). 4) Sesiona con la totalidad de sus miembros y la sentencia condenatoria exige el voto de cinco (5) de sus siete integrantes (art. 80, inc. g, de la Ley N° 27.148). 5) La condena solo dispone la remoción (art. 80, inc. h) y es recurrible ante la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal dentro de los 30 días (art. 80, inc. i).\n(c) Normas y conceptos aplicables: art. 68 inc. n de la Ley N° 27.148 (falta grave); art. 74 (elevación al Tribunal de Enjuiciamiento); art. 76 (remoción solo por el Tribunal de Enjuiciamiento); art. 80 incs. g, h e i (mayoría de 5 votos, efecto de remoción y recurso).",
+    "fundamento_normativo": "Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), art. 68 inc. n (falta grave); art. 74 (elevación al Tribunal de Enjuiciamiento); art. 76 (remoción solo por el Tribunal de Enjuiciamiento); art. 80 incs. g, h e i (mayoría de 5 votos, efecto de remoción y recurso)."
+  }
+}
