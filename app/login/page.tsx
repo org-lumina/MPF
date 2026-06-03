@@ -1,12 +1,23 @@
 import { auth, signIn, signOut } from "@/auth";
 
-export default async function LoginPage() {
+export default async function LoginPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ motivo?: string }>;
+}) {
+  const { motivo } = await searchParams;
   const session = await auth();
   const user = session?.user;
 
   return (
     <section>
       <h1>Ingresar con Google</h1>
+
+      {motivo === "login" && !user && (
+        <p style={{ color: "#b35900", fontWeight: 600 }}>
+          Necesitás iniciar sesión para acceder a esa sección.
+        </p>
+      )}
 
       {user ? (
         <>
