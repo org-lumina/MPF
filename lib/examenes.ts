@@ -23,6 +23,10 @@ export interface Caso {
   consigna: string;
   resolucion_didactica: string;
   fundamento_normativo?: string;
+  // Campos estructurados del caso rediseñado (opcionales para compatibilidad).
+  planteo?: string;
+  preguntas?: string[];
+  aclaracion?: string;
 }
 
 export interface Examen {

@@ -80,3 +80,158 @@ button.cta {
   font: inherit;
   font-weight: 600;
 }
+
+/* ---- Motor de examen ---- */
+.examen-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.6rem;
+  margin-bottom: 1rem;
+}
+.examen-meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+.progress {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+.progress-bar {
+  display: block;
+  height: 6px;
+  background: var(--border);
+  border-radius: 4px;
+  margin-top: 0.3rem;
+  overflow: hidden;
+}
+.progress-fill {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+}
+.tema-chip {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 0 0 0.2rem;
+}
+.enunciado {
+  font-size: 1.1rem;
+  margin: 0.2rem 0 1rem;
+}
+.opciones {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.opcion {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  cursor: pointer;
+}
+.opcion-sel {
+  border-color: var(--accent);
+  background: #f1fbf6;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.nav button {
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+  font: inherit;
+}
+.nav button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.nav button.cta {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+/* ---- Resultados ---- */
+.nota-grande {
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 0.5rem 0;
+}
+.nota-grande span {
+  font-size: 1.2rem;
+  color: var(--muted);
+  font-weight: 600;
+}
+.por-tema {
+  list-style: none;
+  padding: 0;
+}
+.por-tema li {
+  padding: 0.2rem 0;
+}
+.repaso {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  margin-bottom: 1rem;
+}
+.op-result {
+  list-style: none;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid transparent;
+}
+.op-correcta {
+  background: #e8f8ef;
+  border-color: #1a9b56;
+}
+.op-incorrecta {
+  background: #fdeaea;
+  border-color: #c0392b;
+}
+.explicacion {
+  font-size: 0.9rem;
+  background: #f6f8fa;
+  border-left: 3px solid var(--accent);
+  padding: 0.5rem 0.7rem;
+  margin: 0.4rem 0 0;
+}
+.explicacion-mal {
+  border-left-color: #c0392b;
+}
+.caso-enunciado {
+  font-style: italic;
+}
+.caso-planteo {
+  margin: 0.4rem 0;
+}
+.caso-preguntas {
+  margin: 0.7rem 0;
+  padding: 0.4rem 0.8rem;
+  border-left: 3px solid var(--accent);
+  background: #f6f8fa;
+}
+.caso-preguntas p {
+  margin: 0.3rem 0;
+  font-weight: 600;
+}
+.reso-linea {
+  margin: 0.4rem 0;
+}

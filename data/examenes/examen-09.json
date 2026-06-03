@@ -3,784 +3,793 @@
   "preguntas": [
     {
       "id": 1,
-      "tema": "Constitución Nacional",
-      "enunciado": "Según el artículo 4 de la Constitución Nacional, ¿con qué fondos provee el Gobierno federal a los gastos de la Nación?",
+      "tema": "Ley N° 26.485 (Protección Integral a las Mujeres)",
+      "enunciado": "Conforme la Ley N° 26.485 (Protección Integral a las Mujeres), la violencia sexual incluye expresamente:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Con los fondos del Tesoro nacional, formado del producto de derechos de importación y exportación, entre otros",
-          "correcta": true,
-          "explicacion": "Correcta. El art. 4 de la Constitución Nacional dispone que el Gobierno federal provee a los gastos de la Nación con los fondos del Tesoro nacional, formado del producto de derechos de importación y exportación, de la venta o locación de tierras nacionales, de la renta de Correos, de las demás contribuciones y de los empréstitos."
+          "texto": "Únicamente la violencia ejercida por desconocidos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el art 5 inc 3 incluye relaciones vinculares y de parentesco, no solo desconocidos."
         },
         {
           "letra": "B",
-          "texto": "Únicamente con la renta de Correos",
-          "correcta": false,
-          "explicacion": "Incorrecta. El art. 4 de la Constitución Nacional menciona la renta de Correos como uno de los recursos, pero no como el único."
+          "texto": "La violación dentro del matrimonio o de otras relaciones vinculares, exista o no convivencia, la prostitución forzada, el abuso sexual y la trata de mujeres",
+          "correcta": true,
+          "explicacion": "Correcta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el art 5 inc 3 comprende la violación dentro del matrimonio o de otras relaciones vinculares o de parentesco, exista o no convivencia, la prostitución forzada, explotación, esclavitud, acoso, abuso sexual y trata de mujeres."
         },
         {
           "letra": "C",
-          "texto": "Con contribuciones provinciales exclusivamente",
+          "texto": "Solo los hechos con acceso genital",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 4 de la Constitución Nacional no funda el Tesoro en contribuciones provinciales exclusivas; los recursos son los allí enumerados de orden nacional."
+          "explicacion": "Incorrecta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el art 5 inc 3 abarca conductas con o sin acceso genital."
         },
         {
           "letra": "D",
-          "texto": "Solo con empréstitos",
+          "texto": "La percepción de un salario menor por igual tarea",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 4 de la Constitución Nacional incluye los empréstitos como uno de los recursos, pero no el único; el Tesoro nacional se forma con varios recursos."
+          "explicacion": "Incorrecta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el salario menor por igual tarea es violencia económica y patrimonial (art 5 inc 4 d)."
         }
       ]
     },
     {
       "id": 2,
-      "tema": "Constitución Nacional",
-      "enunciado": "Según el artículo 48 de la Constitución Nacional, ¿cuántos años de ciudadanía en ejercicio se requieren para ser diputado?",
+      "tema": "Código Penal (Ley N° 11.179)",
+      "enunciado": "Conforme al Código Penal (Ley N° 11.179), el que falsificare moneda que tenga curso legal en la República, y el que la introdujere, expendiere o pusiere en circulación, será reprimido con:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Dos años",
+          "texto": "Multa",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 48 de la Constitución Nacional exige cuatro años de ciudadanía en ejercicio para ser diputado, no dos."
+          "explicacion": "Incorrecta. Según el Código Penal (Ley N° 11.179), el art. 282 prevé pena privativa de libertad, no de multa."
         },
         {
           "letra": "B",
-          "texto": "Seis años",
+          "texto": "Prisión de seis meses a tres años",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 48 de la Constitución Nacional exige cuatro años; los seis años de ciudadanía corresponden al senador (art. 55)."
+          "explicacion": "Incorrecta. Según el Código Penal (Ley N° 11.179), la escala de seis meses a tres años corresponde al cambio de color de la moneda (art. 283), no a la falsificación del art. 282."
         },
         {
           "letra": "C",
-          "texto": "Cuatro años",
+          "texto": "Reclusión o prisión de tres a quince años",
           "correcta": true,
-          "explicacion": "Correcta. El art. 48 de la Constitución Nacional requiere tener cuatro años de ciudadanía en ejercicio para ser diputado."
+          "explicacion": "Correcta. El art. 282 del Código Penal (Ley N° 11.179) reprime la falsificación de moneda de curso legal y su introducción o circulación con reclusión o prisión de tres a quince años."
         },
         {
           "letra": "D",
-          "texto": "Ocho años",
+          "texto": "Reclusión o prisión de uno a cinco años",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 48 de la Constitución Nacional exige cuatro años de ciudadanía en ejercicio, no ocho."
+          "explicacion": "Incorrecta. Según el Código Penal (Ley N° 11.179), la escala de uno a cinco años corresponde al cercenamiento o alteración de moneda (art. 283), no a la falsificación del art. 282."
         }
       ]
     },
     {
       "id": 3,
-      "tema": "Ingreso democrático e igualitario al MPF",
-      "enunciado": "Según el artículo 17 inc. a) de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, no puede ingresar quien hubiera sido condenado por delitos dolosos en los últimos:",
+      "tema": "Código Penal (Ley N° 11.179)",
+      "enunciado": "Conforme al Código Penal (Ley N° 11.179), art. 34, inc. 2, no es punible:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Tres (3) años",
+          "texto": "El que obrare por error de derecho.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 17 inc. a), Ley N° 26.861: la norma no dispone «Tres (3) años»; lo correcto es: no puede ingresar quien hubiera sido condenado por delitos dolosos en los últimos cinco (5) años."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 34, inc. 2, no se refiere al error de derecho."
         },
         {
           "letra": "B",
-          "texto": "Dos (2) años",
+          "texto": "El que delinquiere por venganza.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 17 inc. a), Ley N° 26.861: la norma no dispone «Dos (2) años»; lo correcto es: no puede ingresar quien hubiera sido condenado por delitos dolosos en los últimos cinco (5) años."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 34, inc. 2, no ampara la venganza."
         },
         {
           "letra": "C",
-          "texto": "Cinco (5) años",
+          "texto": "El que obrare violentado por fuerza física irresistible o amenazas de sufrir un mal grave e inminente.",
           "correcta": true,
-          "explicacion": "Correcta. Art. 17 inc. a), Ley N° 26.861: no puede ingresar quien hubiera sido condenado por delitos dolosos en los últimos cinco (5) años."
+          "explicacion": "Correcta. El Código Penal (Ley N° 11.179), art. 34, inc. 2, declara no punible a quien obrare violentado por fuerza física irresistible o amenazas de sufrir un mal grave e inminente."
         },
         {
           "letra": "D",
-          "texto": "Diez (10) años",
+          "texto": "El que actuare bajo presión económica.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 17 inc. a), Ley N° 26.861: la norma no dispone «Diez (10) años»; lo correcto es: no puede ingresar quien hubiera sido condenado por delitos dolosos en los últimos cinco (5) años."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 34, inc. 2, no contempla la presión económica."
         }
       ]
     },
     {
       "id": 4,
-      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
-      "enunciado": "La prueba de oposición escrita del concurso, conforme el artículo 49 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "tema": "Ley N° 27.148 (Ley Orgánica del MPF)",
+      "enunciado": "Según el art. 68 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), ¿cuál de las siguientes constituye una falta grave?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "No será evaluada",
+          "texto": "Llegar habitualmente tarde al trabajo.",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 49 de la Ley N° 27.148 establece que la prueba escrita será evaluada por el tribunal con un sistema que garantice el anonimato."
+          "explicacion": "Incorrecta. Llegar habitualmente tarde es falta leve (art. 69 inc. c de la Ley N° 27.148)."
         },
         {
           "letra": "B",
-          "texto": "Versará sobre temas y/o casos elegidos por sorteo previo y será evaluada por el tribunal mediante un sistema que garantice el anonimato",
-          "correcta": true,
-          "explicacion": "Correcta. El art. 49 de la Ley N° 27.148 dispone que la prueba de oposición escrita versará sobre temas y/o casos elegidos por sorteo previo y será evaluada por el tribunal mediante un sistema que garantice el anonimato."
+          "texto": "Actuar en forma irrespetuosa con las partes en una sola ocasión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Actuar irrespetuosamente es falta leve (art. 69 inc. d de la Ley N° 27.148)."
         },
         {
           "letra": "C",
-          "texto": "Será pública y oral",
+          "texto": "Descuidar el uso de los muebles provistos para el ejercicio de la función.",
           "correcta": false,
-          "explicacion": "Incorrecta. La prueba pública y oral es la de oposición oral; el art. 49 de la Ley N° 27.148 prevé que la escrita garantice el anonimato."
+          "explicacion": "Incorrecta. Descuidar los muebles es falta leve (art. 69 inc. e de la Ley N° 27.148)."
         },
         {
           "letra": "D",
-          "texto": "Será evaluada por el Poder Ejecutivo",
-          "correcta": false,
-          "explicacion": "Incorrecta. El art. 49 de la Ley N° 27.148 atribuye la evaluación al tribunal del concurso, no al Poder Ejecutivo."
+          "texto": "Recibir dádivas, concesiones o gratificaciones de cualquier clase por la realización de sus funciones, en tanto revistan entidad en su valoración material.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 68 inc. n) de la Ley N° 27.148 califica como falta grave recibir dádivas, concesiones o gratificaciones por la realización de sus funciones cuando revistan entidad material."
         }
       ]
     },
     {
       "id": 5,
-      "tema": "Ingreso democrático e igualitario al MPF",
-      "enunciado": "Según el artículo 22 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, son causales de eliminación del aspirante:",
+      "tema": "Código Penal (Ley N° 11.179)",
+      "enunciado": "Según el Código Penal (Ley N° 11.179), art. 56, cuando concurrieren varios hechos independientes reprimidos con penas divisibles de reclusión o prisión:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Tener antecedentes laborales en el sector privado",
+          "texto": "Se sumarán todas sin límite.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 22, Ley N° 26.861: la norma no dispone «Tener antecedentes laborales en el sector privado»; lo correcto es: son causales de eliminación reprobar los exámenes, no asistir o tardanza injustificada y ausentarse del examen."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 56, no manda sumar sin límite las penas divisibles."
         },
         {
           "letra": "B",
-          "texto": "Residir a más de 70 km",
+          "texto": "Se aplicará la pena menor.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 22, Ley N° 26.861: la norma no dispone «Residir a más de 70 km»; lo correcto es: son causales de eliminación reprobar los exámenes, no asistir o tardanza injustificada y ausentarse del examen."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 56, aplica la pena más grave, no la menor."
         },
         {
           "letra": "C",
-          "texto": "Reprobar los exámenes, no asistir o tardanza injustificada, ausentarse del examen",
-          "correcta": true,
-          "explicacion": "Correcta. Art. 22, Ley N° 26.861: son causales de eliminación reprobar los exámenes, no asistir o tardanza injustificada y ausentarse del examen."
+          "texto": "Se impondrá siempre reclusión perpetua.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 56, no impone siempre reclusión perpetua."
         },
         {
           "letra": "D",
-          "texto": "No presentar publicaciones",
-          "correcta": false,
-          "explicacion": "Incorrecta. Art. 22, Ley N° 26.861: la norma no dispone «No presentar publicaciones»; lo correcto es: son causales de eliminación reprobar los exámenes, no asistir o tardanza injustificada y ausentarse del examen."
+          "texto": "Se aplicará la pena más grave, teniendo en cuenta los delitos de pena menor.",
+          "correcta": true,
+          "explicacion": "Correcta. El Código Penal (Ley N° 11.179), art. 56, dispone aplicar la pena más grave, teniendo en cuenta los delitos de pena menor."
         }
       ]
     },
     {
       "id": 6,
-      "tema": "Ingreso democrático e igualitario al MPF",
-      "enunciado": "Según el artículo 7 de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, para ingresar como empleado se requiere:",
+      "tema": "Código Procesal Penal Federal (Ley N° 27.063/27.150, mod. Ley N° 27.482)",
+      "enunciado": "Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), la propuesta de suspensión del proceso a prueba podrá formularse, como regla, hasta:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Estudios primarios completos",
+          "texto": "Únicamente antes de la formalización.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 7, Ley N° 26.861: la norma no dispone «Estudios primarios completos»; lo correcto es: para ingresar como empleado se requiere ser mayor de edad, estudios secundarios completos e idoneidad verificada por concurso público."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 35 admite la propuesta hasta el fin de la etapa preparatoria, no solo antes de la formalización."
         },
         {
           "letra": "B",
-          "texto": "Residir a menos de 70 km de la sede",
+          "texto": "El dictado de la sentencia.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 7, Ley N° 26.861: la norma no dispone «Residir a menos de 70 km de la sede»; lo correcto es: para ingresar como empleado se requiere ser mayor de edad, estudios secundarios completos e idoneidad verificada por concurso público."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 35 cierra la oportunidad, como regla, en la etapa preparatoria, no en la sentencia."
         },
         {
           "letra": "C",
-          "texto": "Ser mayor de edad, tener estudios secundarios completos y acreditar idoneidad para el cargo, verificada a través de concurso público",
-          "correcta": true,
-          "explicacion": "Correcta. Art. 7, Ley N° 26.861: para ingresar como empleado se requiere ser mayor de edad, estudios secundarios completos e idoneidad verificada por concurso público."
+          "texto": "El cierre de la discusión final.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 35 no extiende la propuesta hasta la discusión final."
         },
         {
           "letra": "D",
-          "texto": "Ser abogado",
-          "correcta": false,
-          "explicacion": "Incorrecta. Art. 7, Ley N° 26.861: la norma no dispone «Ser abogado»; lo correcto es: para ingresar como empleado se requiere ser mayor de edad, estudios secundarios completos e idoneidad verificada por concurso público."
+          "texto": "La finalización de la etapa preparatoria, salvo modificación de la calificación jurídica durante el juicio que habilite su aplicación en esa instancia.",
+          "correcta": true,
+          "explicacion": "Correcta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 35 del CPPF dispone que la propuesta de suspensión del proceso a prueba puede formularse hasta la finalización de la etapa preparatoria, salvo que una modificación de la calificación jurídica durante la audiencia de juicio habilite su aplicación en esa instancia."
         }
       ]
     },
     {
       "id": 7,
-      "tema": "Derechos humanos: sistema interamericano y CEDAW",
-      "enunciado": "Según el art. 67 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, el fallo de la Corte es:",
+      "tema": "Código Penal (Ley N° 11.179)",
+      "enunciado": "Conforme al Código Penal (Ley N° 11.179), art. 21, para fijar el monto de la multa el tribunal tendrá en cuenta, además de las causas generales del art. 40:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Apelable ante la Asamblea General",
+          "texto": "La nacionalidad del condenado.",
           "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 67, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 21, no atiende a la nacionalidad del condenado."
         },
         {
           "letra": "B",
-          "texto": "Sujeto a ratificación del Estado",
+          "texto": "La gravedad de la reincidencia.",
           "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 67, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 21, no toma la reincidencia como pauta de fijación de la multa."
         },
         {
           "letra": "C",
-          "texto": "Revisable por la Comisión",
-          "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 67, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+          "texto": "La situación económica del penado.",
+          "correcta": true,
+          "explicacion": "Correcta. El Código Penal (Ley N° 11.179), art. 21, manda atender, además de las causas del art. 40, la situación económica del penado."
         },
         {
           "letra": "D",
-          "texto": "Definitivo e inapelable, pudiendo interpretarse a solicitud de parte dentro de los noventa días de notificado",
-          "correcta": true,
-          "explicacion": "Correcta. Art. 67, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): el fallo es definitivo e inapelable; cabe interpretación a solicitud de parte dentro de los 90 días."
+          "texto": "El número de testigos del juicio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 21, no menciona el número de testigos."
         }
       ]
     },
     {
       "id": 8,
-      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
-      "enunciado": "El cupo del 4% del artículo 8° de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas) es de cumplimiento obligatorio para:",
+      "tema": "Ley N° 26.485 (Protección Integral a las Mujeres)",
+      "enunciado": "Según la Ley N° 26.485 (Protección Integral a las Mujeres), respecto del impulso del proceso, el/la juez/a tendrá amplias facultades para ordenarlo e impulsarlo, rigiendo el principio de:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "El personal de planta efectiva, los contratados cualquiera sea la modalidad de contratación y todas las situaciones en que hubiere tercerización de servicios",
-          "correcta": true,
-          "explicacion": "Correcta. El artículo 8° de la Ley N° 22.431 dispone que el cupo rige para planta efectiva, contratados de cualquier modalidad y supuestos de tercerización de servicios."
+          "texto": "Verdad formal y prueba tasada",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el art 30 rige por la verdad material, no por la verdad formal ni prueba tasada."
         },
         {
           "letra": "B",
-          "texto": "Solo el personal de planta efectiva",
+          "texto": "Estricta congruencia con la denuncia inicial",
           "correcta": false,
-          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no limita el cupo al personal de planta efectiva."
+          "explicacion": "Incorrecta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el art 30 otorga amplias facultades, sin limitarse a estricta congruencia con la denuncia."
         },
         {
           "letra": "C",
-          "texto": "Solo los contratados por tiempo indeterminado",
-          "correcta": false,
-          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no limita el cupo a los contratados por tiempo indeterminado."
+          "texto": "Obtención de la verdad material",
+          "correcta": true,
+          "explicacion": "Correcta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el art 30 confiere al juez amplias facultades para ordenar e impulsar el proceso, rigiendo el principio de obtención de la verdad material."
         },
         {
           "letra": "D",
-          "texto": "Solo las empresas privadas concesionarias",
+          "texto": "Disposición exclusiva de las partes",
           "correcta": false,
-          "explicacion": "Incorrecta. El artículo 8° de la Ley N° 22.431 no limita el cupo a las empresas privadas concesionarias."
+          "explicacion": "Incorrecta. Según la Ley N° 26.485 (Protección Integral a las Mujeres), el art 30 da impulso al juez, no la disposición exclusiva de las partes."
         }
       ]
     },
     {
       "id": 9,
-      "tema": "Ingreso democrático e igualitario al MPF",
-      "enunciado": "Según el artículo 30 inc. d) de la Ley N° 26.861 — Ley de Ingreso Democrático e Igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación, el ejercicio de la docencia en la especialidad otorga hasta:",
+      "tema": "Código Procesal Penal Federal (Ley N° 27.063/27.150, mod. Ley N° 27.482)",
+      "enunciado": "Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), recibido el auto de apertura, la audiencia de debate no se realizará antes de cinco (5) ni después de:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Tres (3) puntos",
-          "correcta": false,
-          "explicacion": "Incorrecta. Art. 30 inc. d), Ley N° 26.861: la norma no dispone «Tres (3) puntos»; lo correcto es: hasta siete (7) puntos por el ejercicio de la docencia en la especialidad del cargo."
+          "texto": "Treinta (30) días de recibidas las actuaciones.",
+          "correcta": true,
+          "explicacion": "Correcta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 281 inc. b del CPPF dispone que la audiencia de debate no se realizará antes de 5 ni después de 30 días de recibidas las actuaciones (salvo el art 327, donde debe realizarse antes de los 10 días)."
         },
         {
           "letra": "B",
-          "texto": "Dos (2) puntos",
+          "texto": "Veinte (20) días de recibidas las actuaciones.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 30 inc. d), Ley N° 26.861: la norma no dispone «Dos (2) puntos»; lo correcto es: hasta siete (7) puntos por el ejercicio de la docencia en la especialidad del cargo."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 281 prevé hasta 30 días."
         },
         {
           "letra": "C",
-          "texto": "Cinco (5) puntos",
+          "texto": "Sesenta (60) días de recibidas las actuaciones.",
           "correcta": false,
-          "explicacion": "Incorrecta. Art. 30 inc. d), Ley N° 26.861: la norma no dispone «Cinco (5) puntos»; lo correcto es: hasta siete (7) puntos por el ejercicio de la docencia en la especialidad del cargo."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el máximo del art 281 es de 30 días."
         },
         {
           "letra": "D",
-          "texto": "Siete (7) puntos",
-          "correcta": true,
-          "explicacion": "Correcta. Art. 30 inc. d), Ley N° 26.861: hasta siete (7) puntos por el ejercicio de la docencia en la especialidad del cargo."
+          "texto": "Quince (15) días de recibidas las actuaciones.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 281 inc. b fija un tope de 30 días, no 15."
         }
       ]
     },
     {
       "id": 10,
-      "tema": "Género y violencia contra la mujer",
-      "enunciado": "Conforme al art. 9 de la Ley N° 26.485, los modelos de abordaje que debe garantizar el Consejo Nacional de la Mujer:",
+      "tema": "Ingreso democrático e igualitario al MPF (Ley N° 26.861 y reglamentación)",
+      "enunciado": "¿Qué porcentaje mínimo de los cargos a cubrir debe ser ocupado por personas con discapacidad?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "exigen acuerdo previo entre las partes",
+          "texto": "El cinco por ciento (5%).",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+          "explicacion": "Incorrecta. El art. 9 de la Ley N° 26.861 fija el 4%, no el 5%."
         },
         {
           "letra": "B",
-          "texto": "deben incluir formas de mediación o negociación",
+          "texto": "El diez por ciento (10%).",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+          "explicacion": "Incorrecta. El art. 9 de la Ley N° 26.861 fija el 4%, no el 10%."
         },
         {
           "letra": "C",
-          "texto": "no admiten modelos que contemplen formas de mediación o negociación",
-          "correcta": true,
-          "explicacion": "Correcta. Conforme al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 9 inc. e: '...no admitiendo modelos que contemplen formas de mediación o negociación.'"
+          "texto": "El dos por ciento (2%).",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9 de la Ley N° 26.861 fija un mínimo del 4%, no del 2%."
         },
         {
           "letra": "D",
-          "texto": "se basan en la conciliación obligatoria",
-          "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 9 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"b\"."
+          "texto": "El cuatro por ciento (4%).",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 9 de la Ley N° 26.861 (Ingreso Democrático e Igualitario) establece que el cuatro por ciento (4%), como mínimo, de los cargos a cubrir debe ser ocupado por personas con discapacidad que reúnan los requisitos para el cargo."
         }
       ]
     },
     {
       "id": 11,
-      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
-      "enunciado": "Según el artículo 75 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), ¿puede dispensarse del requisito de título universitario para el cargo de Subdirector General?",
+      "tema": "Constitución Nacional",
+      "enunciado": "El art. 83 de la Constitución Nacional regula el veto. Si el Ejecutivo desecha un proyecto, las Cámaras pueden insistir con:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Sí, automáticamente con cinco años de antigüedad",
+          "texto": "Mayoría absoluta",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 75 de la Res. PGN N° 128/2010 no prevé una dispensa automática con cinco años de antigüedad."
+          "explicacion": "Incorrecta. Según la Constitución Nacional, no es mayoría absoluta sino dos tercios."
         },
         {
           "letra": "B",
-          "texto": "Sí, mediante examen de idoneidad",
+          "texto": "Mayoría simple",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 75 de la Res. PGN N° 128/2010 no condiciona la dispensa a un examen de idoneidad."
+          "explicacion": "Incorrecta. Según la Constitución Nacional, no basta la mayoría simple."
         },
         {
           "letra": "C",
-          "texto": "No, en ningún caso",
+          "texto": "El acuerdo del jefe de gabinete",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 75 de la Res. PGN N° 128/2010 sí admite la dispensa por vía de excepción."
+          "explicacion": "Incorrecta. Según la Constitución Nacional, el jefe de gabinete no participa en la insistencia."
         },
         {
           "letra": "D",
-          "texto": "Sí, excepcionalmente y por resolución fundada del PGN, a funcionarios con antigüedad computable mayor a quince (15) años y experiencia comprobada en funciones afines",
+          "texto": "Mayoría de dos tercios de votos en ambas Cámaras",
           "correcta": true,
-          "explicacion": "Correcta. El art. 75 de la Res. PGN N° 128/2010 permite la dispensa excepcional y por resolución fundada del PGN a funcionarios con antigüedad computable mayor a quince (15) años y experiencia comprobada en funciones afines."
+          "explicacion": "Correcta. Según la Constitución Nacional, el art. 83 exige que ambas Cámaras insistan con mayoría de dos tercios para que el proyecto sea ley."
         }
       ]
     },
     {
       "id": 12,
-      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
-      "enunciado": "Para ser procurador fiscal se requieren, conforme el artículo 45 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "tema": "Ley N° 22.431 (Protección Integral de Personas con Discapacidad)",
+      "enunciado": "Según el art. 12 de la Ley N° 22.431, en materia de talleres protegidos de producción, el Ministerio de Trabajo:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Las mismas condiciones previstas para ser fiscal",
-          "correcta": false,
-          "explicacion": "Incorrecta. El art. 45 de la Ley N° 27.148 remite a las condiciones del Procurador General, más exigentes que las del fiscal."
+          "texto": "Apoyará su creación y tendrá a su cargo su habilitación, registro y supervisión, y apoyará la labor a través del régimen de trabajo a domicilio.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 12 de la Ley N° 22.431 dispone que el Ministerio de Trabajo apoyará la creación de talleres protegidos de producción y tendrá a su cargo su habilitación, registro y supervisión, y apoyará la labor mediante el régimen de trabajo a domicilio."
         },
         {
           "letra": "B",
-          "texto": "Veinticinco años de edad y cuatro años de ejercicio",
+          "texto": "Debe administrarlos directamente con personal propio.",
           "correcta": false,
-          "explicacion": "Incorrecta. Veinticinco años y cuatro de ejercicio son los requisitos para ser fiscal (art. 47 de la Ley N° 27.148), no para procurador fiscal."
+          "explicacion": "Incorrecta. El art. 12 de la Ley N° 22.431 prevé apoyo, habilitación y supervisión, no administración directa."
         },
         {
           "letra": "C",
-          "texto": "Treinta años de edad y seis años de ejercicio",
+          "texto": "Solo puede clausurarlos por razones sanitarias.",
           "correcta": false,
-          "explicacion": "Incorrecta. Treinta años y seis de ejercicio son los requisitos para ser fiscal general (art. 46 de la Ley N° 27.148), no para procurador fiscal."
+          "explicacion": "Incorrecta. El art. 12 de la Ley N° 22.431 no limita su rol a la clausura."
         },
         {
           "letra": "D",
-          "texto": "Las mismas condiciones previstas para el cargo de Procurador General de la Nación",
-          "correcta": true,
-          "explicacion": "Correcta. El art. 45 de la Ley N° 27.148 dispone que para ser procurador fiscal se requieren las mismas condiciones previstas para el cargo de Procurador General de la Nación."
+          "texto": "Tiene prohibido intervenir en talleres protegidos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 de la Ley N° 22.431 prevé precisamente su intervención de apoyo y supervisión."
         }
       ]
     },
     {
       "id": 13,
-      "tema": "Constitución Nacional",
-      "enunciado": "Según el artículo 75 inciso 22 de la Constitución Nacional, ¿quién puede denunciar los instrumentos internacionales con jerarquía constitucional y con qué requisito?",
+      "tema": "Ley N° 27.148 (Ley Orgánica del MPF)",
+      "enunciado": "Según el art. 28 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), cuando resulten comprobadas transgresiones a normas administrativas, el Fiscal Nacional de Investigaciones Administrativas pasará las actuaciones con dictamen fundado a:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "El Poder Ejecutivo Nacional, previa aprobación de las dos terceras partes de la totalidad de los miembros de cada Cámara",
-          "correcta": true,
-          "explicacion": "Correcta. El art. 75 inc. 22 de la Constitución Nacional dispone que esos instrumentos solo podrán ser denunciados por el Poder Ejecutivo Nacional, previa aprobación de las dos terceras partes de la totalidad de los miembros de cada Cámara."
+          "texto": "El Tribunal de Enjuiciamiento del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 27.148 no remite al Tribunal de Enjuiciamiento."
         },
         {
           "letra": "B",
-          "texto": "La Corte Suprema",
+          "texto": "La Corte Suprema de Justicia de la Nación.",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional no atribuye la denuncia a la Corte Suprema, sino al Poder Ejecutivo previa aprobación legislativa agravada."
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 27.148 no remite a la CSJN."
         },
         {
           "letra": "C",
-          "texto": "El Congreso por mayoría simple",
-          "correcta": false,
-          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional exige la previa aprobación de dos tercios de la totalidad de los miembros de cada Cámara, no una mayoría simple del Congreso."
+          "texto": "La Procuración del Tesoro de la Nación o al funcionario de mayor jerarquía administrativa de la repartición de que se trate.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 28 de la Ley N° 27.148 dispone pasar las actuaciones a la Procuración del Tesoro o al funcionario de mayor jerarquía administrativa de la repartición."
         },
         {
           "letra": "D",
-          "texto": "El Ministerio Público",
+          "texto": "La Comisión Bicameral del Congreso.",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 75 inc. 22 de la Constitución Nacional no faculta al Ministerio Público a denunciar tales instrumentos; corresponde al Poder Ejecutivo previa aprobación de dos tercios de la totalidad de cada Cámara."
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 27.148 no remite a la Comisión Bicameral."
         }
       ]
     },
     {
       "id": 14,
-      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
-      "enunciado": "La composición del tribunal del concurso procurará garantizar, conforme el artículo 50 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "tema": "Constitución Nacional",
+      "enunciado": "Según el art. 63 de la Constitución Nacional, las sesiones ordinarias del Congreso se extienden:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "La paridad con el Poder Judicial",
+          "texto": "Del 1 de mayo al 30 de septiembre",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 50 de la Ley N° 27.148 no exige paridad con el Poder Judicial."
+          "explicacion": "Incorrecta. Según la Constitución Nacional, no es ese período."
         },
         {
           "letra": "B",
-          "texto": "La representación de los partidos políticos",
+          "texto": "Del 1 de abril al 31 de octubre",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 50 de la Ley N° 27.148 no busca la representación de partidos políticos."
+          "explicacion": "Incorrecta. Según la Constitución Nacional, no es ese período."
         },
         {
           "letra": "C",
-          "texto": "La diversidad geográfica, funcional y de género de quienes lo integren",
-          "correcta": true,
-          "explicacion": "Correcta. El art. 50 de la Ley N° 27.148 dispone que la composición del tribunal procurará garantizar la diversidad geográfica, funcional y de género de quienes lo integren."
+          "texto": "Del 1 de enero al 31 de diciembre",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según la Constitución Nacional, el art. 63 no abarca todo el año."
         },
         {
           "letra": "D",
-          "texto": "La presencia de jueces de la Corte",
-          "correcta": false,
-          "explicacion": "Incorrecta. El art. 50 de la Ley N° 27.148 no requiere la presencia de jueces de la Corte."
+          "texto": "Del 1 de marzo al 30 de noviembre",
+          "correcta": true,
+          "explicacion": "Correcta. Según la Constitución Nacional, el art. 63 fija las sesiones ordinarias desde el 1 de marzo hasta el 30 de noviembre."
         }
       ]
     },
     {
       "id": 15,
-      "tema": "Organización del MPF y proceso penal federal",
-      "enunciado": "Según la introducción al Código Procesal Penal Federal (Ley N° 27.150, con su modificatoria Ley N° 27.482), dictar los códigos de fondo (Civil, Comercial, Penal, etc.) es atribución constitucional del Congreso Nacional conforme el:",
+      "tema": "Código Procesal Penal Federal (Ley N° 27.063/27.150, mod. Ley N° 27.482)",
+      "enunciado": "Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), si la resolución hubiera sido impugnada solo por el imputado o en su favor:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Art. 120 CN",
+          "texto": "Podrá modificarse en su perjuicio si la prueba lo justifica.",
           "correcta": false,
-          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Distribución de competencias; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: dictar los códigos de fondo es atribución del Congreso Nacional conforme el art. 75 inc. 12 CN."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 351 prohíbe la modificación en perjuicio en ese supuesto."
         },
         {
           "letra": "B",
-          "texto": "Art. 75 inc. 12 CN",
-          "correcta": true,
-          "explicacion": "Correcta. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: dictar los códigos de fondo es atribución del Congreso Nacional conforme el art. 75 inc. 12 CN."
+          "texto": "Podrá agravarse la pena hasta el máximo legal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 351 impide agravar la situación del imputado cuando solo él recurrió."
         },
         {
           "letra": "C",
-          "texto": "Art. 18 CN",
+          "texto": "Deberá reenviarse a un nuevo juicio en todos los casos.",
           "correcta": false,
-          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Distribución de competencias; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: dictar los códigos de fondo es atribución del Congreso Nacional conforme el art. 75 inc. 12 CN."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el reenvío, además, está vedado como regla (art 365); el art 351 prohíbe la reforma peyorativa."
         },
         {
           "letra": "D",
-          "texto": "Art. 121 CN",
-          "correcta": false,
-          "explicacion": "Incorrecta. No surge de Código Procesal Penal Federal (Ley N° 27.150, mod. Ley N° 27.482), Introducción - Distribución de competencias; la opción correcta es la 'b'. Código Procesal Penal Federal (Ley N° 27.150 y mod. 27.482), Introducción: dictar los códigos de fondo es atribución del Congreso Nacional conforme el art. 75 inc. 12 CN."
+          "texto": "No podrá modificarse en su perjuicio (prohibición de reforma en perjuicio).",
+          "correcta": true,
+          "explicacion": "Correcta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 351 del CPPF consagra la prohibición de reforma en perjuicio: si la resolución fue impugnada solo por el imputado o en su favor, no podrá modificarse en su perjuicio."
         }
       ]
     },
     {
       "id": 16,
-      "tema": "Género y violencia contra la mujer",
-      "enunciado": "El inc. 11 del art. 80 del Código Penal, incorporado por la Ley N° 26.791 (femicidio), agrava el homicidio cuando la víctima es:",
+      "tema": "Constitución Nacional",
+      "enunciado": "El art. 40 de la Constitución Nacional regula la consulta popular. La ley de convocatoria a consulta popular vinculante:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "una mujer, sin importar quién lo cometa",
+          "texto": "Requiere dos tercios de ambas Cámaras",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 2 (art 80 inc 11 CP); la opcion correcta es la \"a\"."
+          "explicacion": "Incorrecta. Según la Constitución Nacional, el art. 40 no exige dos tercios para la convocatoria."
         },
         {
           "letra": "B",
-          "texto": "cualquier persona con quien se tuvo relación de pareja",
-          "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 2 (art 80 inc 11 CP); la opcion correcta es la \"a\"."
+          "texto": "No podrá ser vetada",
+          "correcta": true,
+          "explicacion": "Correcta. Según la Constitución Nacional, el art. 40 establece que la ley de convocatoria a consulta popular no podrá ser vetada."
         },
         {
           "letra": "C",
-          "texto": "una mujer y el hecho sea perpetrado por un hombre y mediare violencia de género",
-          "correcta": true,
-          "explicacion": "Correcta. Conforme a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 2 (art 80 inc 11 CP). Ley N° 26.791, art. 2 (art. 80 inc. 11 CP): 'A una mujer cuando el hecho sea perpetrado por un hombre y mediare violencia de género.'"
+          "texto": "Debe ser aprobada por las provincias",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según la Constitución Nacional, el art. 40 no requiere aprobación de las provincias."
         },
         {
           "letra": "D",
-          "texto": "un integrante del grupo familiar",
+          "texto": "Puede ser vetada por el Ejecutivo",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta a la Ley N° 26.791 (femicidio, art. 80 Código Penal), art 2 (art 80 inc 11 CP); la opcion correcta es la \"a\"."
+          "explicacion": "Incorrecta. Según la Constitución Nacional, el art. 40 dispone que la ley de convocatoria no podrá ser vetada."
         }
       ]
     },
     {
       "id": 17,
-      "tema": "Régimen de funcionarios y empleados del MPF (Res. PGN 128/2010)",
-      "enunciado": "Conforme al artículo 80 de la Resolución PGN N° 128/2010 (Reglamento de Funcionarios y Empleados del Ministerio Público Fiscal), ¿qué agentes deben ser calificados anualmente?",
+      "tema": "Ley N° 27.148 (Ley Orgánica del MPF)",
+      "enunciado": "Según el art. 3 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), respecto de los pedidos de extradición realizados por otros Estados, el MPF:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Todos los agentes con categoría igual o inferior a Prosecretario Jefe, con una antigüedad mayor a seis meses",
-          "correcta": true,
-          "explicacion": "Correcta. El art. 80 de la Res. PGN N° 128/2010 dispone calificar a todos los agentes con categoría igual o inferior a Prosecretario Jefe y antigüedad mayor a seis meses."
+          "texto": "No tiene intervención alguna.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 3 de la Ley N° 27.148 sí atribuye intervención al MPF en las extradiciones."
         },
         {
           "letra": "B",
-          "texto": "Únicamente los Fiscales",
+          "texto": "Solo dictamina cuando lo requiere la Corte Suprema.",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 80 de la Res. PGN N° 128/2010 no limita la calificación a los Fiscales."
+          "explicacion": "Incorrecta. El art. 3 de la Ley N° 27.148 no limita la intervención a un requerimiento de la CSJN."
         },
         {
           "letra": "C",
-          "texto": "Todos los agentes sin excepción",
-          "correcta": false,
-          "explicacion": "Incorrecta. El art. 80 de la Res. PGN N° 128/2010 no obliga a calificar a todos los agentes sin excepción, sino a los de categoría igual o inferior a Prosecretario Jefe."
+          "texto": "Interviene y gestiona en el país todos los pedidos de extradición.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 3 de la Ley N° 27.148 dispone que el MPF interviene y gestiona en el país todos los pedidos de extradición realizados por otros Estados."
         },
         {
           "letra": "D",
-          "texto": "Solo el personal con título universitario",
+          "texto": "Únicamente los traslada al Ministerio de Relaciones Exteriores.",
           "correcta": false,
-          "explicacion": "Incorrecta. El art. 80 de la Res. PGN N° 128/2010 no restringe la calificación al personal con título universitario."
+          "explicacion": "Incorrecta. El art. 3 de la Ley N° 27.148 atribuye gestión propia, no un mero traslado."
         }
       ]
     },
     {
       "id": 18,
-      "tema": "Género y violencia contra la mujer",
-      "enunciado": "Según el art. 33 de la Ley N° 26.485, la apelación contra resoluciones que dispongan la interrupción o el cese de las medidas se concederá:",
+      "tema": "Organización y régimen del MPF",
+      "enunciado": "Según la Resolución PGN N° 70/2022, ¿qué hecho originó el plan de reparación integral que motivó las medidas adoptadas?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "en relación y con efecto suspensivo",
-          "correcta": true,
-          "explicacion": "Correcta. Conforme al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres). Art. 33: 'La apelación contra resoluciones que dispongan la interrupción o el cese de tales medidas se concederá en relación y con efecto suspensivo.'"
+          "texto": "La creación de nuevas Fiscalías de Distrito en el interior.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según la Resolución PGN N° 70/2022, la creación de Fiscalías de Distrito no es el origen del plan de reparación integral de esta resolución."
         },
         {
           "letra": "B",
-          "texto": "en relación y con efecto devolutivo",
-          "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+          "texto": "La remoción de su cargo, por el Tribunal de Enjuiciamiento del MPF, del titular de la Fiscalía N° 13 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal, por mal desempeño y por no haber obrado con buena conducta.",
+          "correcta": true,
+          "explicacion": "Correcta. Los considerandos de la Resolución PGN N° 70/2022 parten de que el Tribunal de Enjuiciamiento removió de su cargo al titular de la Fiscalía N° 13 ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal, por mal desempeño y por no haber obrado con buena conducta, y de las medidas de reparación a las víctimas solicitadas."
         },
         {
           "letra": "C",
-          "texto": "libremente y sin efecto",
+          "texto": "Una auditoría general de las dependencias del MPF en todo el país.",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+          "explicacion": "Incorrecta. Según la Resolución PGN N° 70/2022, la resolución no se origina en una auditoría general, sino en una decisión del Tribunal de Enjuiciamiento y las reparaciones solicitadas."
         },
         {
           "letra": "D",
-          "texto": "con efecto diferido",
+          "texto": "La reforma del Código Procesal Penal Federal.",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 33 de la Ley N° 26.485 (Protección Integral a las Mujeres); la opcion correcta es la \"a\"."
+          "explicacion": "Incorrecta. Según la Resolución PGN N° 70/2022, la reforma del CPP Federal es ajena al origen de esta resolución."
         }
       ]
     },
     {
       "id": 19,
-      "tema": "Protección integral de personas con discapacidad (Ley N° 22.431)",
-      "enunciado": "Según el artículo 27 de la Ley N° 22.431 (Sistema de Protección Integral de las Personas Discapacitadas), en el acto de adhesión a la ley, cada provincia establecerá los organismos que tendrán a su cargo en el ámbito provincial las actividades previstas en los artículos:",
+      "tema": "Convenciones de Derechos Humanos (CADH, Belém do Pará, CEDAW, Declaración ONU)",
+      "enunciado": "Conforme al Pacto de San José (CADH, Ley N° 23.054), respecto de la protección a la familia:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "20, 21 y 22",
+          "texto": "El matrimonio puede celebrarse sin consentimiento de los contrayentes",
           "correcta": false,
-          "explicacion": "Incorrecta. El artículo 27 de la Ley N° 22.431 remite a los artículos 6°, 7° y 13, no a los artículos 20, 21 y 22."
+          "explicacion": "Incorrecta. El art. 17.3 CADH exige el libre y pleno consentimiento de los contrayentes."
         },
         {
           "letra": "B",
-          "texto": "4° y 5°",
-          "correcta": false,
-          "explicacion": "Incorrecta. El artículo 27 de la Ley N° 22.431 remite a los artículos 6°, 7° y 13, no a los artículos 4° y 5°."
+          "texto": "La familia es el elemento natural y fundamental de la sociedad y debe ser protegida por la sociedad y el Estado",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 17.1 de la CADH (Ley 23.054) declara que la familia es el elemento natural y fundamental de la sociedad y debe ser protegida por la sociedad y el Estado."
         },
         {
           "letra": "C",
-          "texto": "8° y 11",
+          "texto": "Los hijos nacidos fuera del matrimonio tienen menos derechos",
           "correcta": false,
-          "explicacion": "Incorrecta. El artículo 27 de la Ley N° 22.431 remite a los artículos 6°, 7° y 13, no a los artículos 8° y 11."
+          "explicacion": "Incorrecta. El art. 17.5 CADH reconoce iguales derechos a los hijos nacidos dentro y fuera del matrimonio."
         },
         {
           "letra": "D",
-          "texto": "6°, 7° y 13",
-          "correcta": true,
-          "explicacion": "Correcta. El artículo 27 de la Ley N° 22.431 dispone que cada provincia establezca los organismos a cargo de las actividades de los artículos 6°, 7° y 13."
+          "texto": "La familia no merece protección estatal especial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 17.1 CADH afirma expresamente la protección de la familia."
         }
       ]
     },
     {
       "id": 20,
-      "tema": "Derechos humanos: sistema interamericano y CEDAW",
-      "enunciado": "Según el art. 16 de la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), aprobada por Ley N° 23.179, respecto del matrimonio y las relaciones familiares, los Estados asegurarán en igualdad de condiciones:",
+      "tema": "Ley N° 26.743 (Identidad de Género)",
+      "enunciado": "Conforme al artículo 5° de la Ley N° 26.743 (Identidad de Género), respecto de personas menores de dieciocho años, la solicitud del trámite del artículo 4° deberá ser efectuada:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "El mismo derecho para elegir libremente cónyuge y contraer matrimonio solo por su libre albedrío y pleno consentimiento",
-          "correcta": true,
-          "explicacion": "Correcta. Art. 16.1.b, CEDAW (Ley N° 23.179): igual derecho a elegir libremente cónyuge y contraer matrimonio por libre albedrío y pleno consentimiento."
+          "texto": "Por la autoridad de aplicación del Plan Médico Obligatorio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 5 de la Ley N° 26.743 no asigna la solicitud a la autoridad de aplicación del PMO."
         },
         {
           "letra": "B",
-          "texto": "La administración de bienes por el marido",
-          "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 16.1.b, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+          "texto": "A través de sus representantes legales y con expresa conformidad del menor.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 5 de la Ley N° 26.743 exige que la solicitud se efectúe a través de los representantes legales y con expresa conformidad del menor."
         },
         {
           "letra": "C",
-          "texto": "La potestad exclusiva del padre sobre los hijos",
+          "texto": "Únicamente por el propio menor, sin intervención de terceros.",
           "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 16.1.b, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+          "explicacion": "Incorrecta. El art. 5 de la Ley N° 26.743 requiere intervención de los representantes legales."
         },
         {
           "letra": "D",
-          "texto": "El derecho del marido a decidir el domicilio conyugal",
+          "texto": "Exclusivamente por un juez de oficio.",
           "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 16.1.b, CEDAW (Ley N° 23.179); la opción correcta es la \"a\"."
+          "explicacion": "Incorrecta. El art. 5 de la Ley N° 26.743 prevé la vía sumarísima solo cuando no se obtiene el consentimiento de un representante."
         }
       ]
     },
     {
       "id": 21,
-      "tema": "Organización del MPF y proceso penal federal",
-      "enunciado": "Según el Considerando II de la Resolución PGN N° 70/2022, la Comisión recordó qué caso de la Corte Interamericana de Derechos Humanos sobre el concepto de reparación integral (restitutio in integrum):",
+      "tema": "Convenciones de Derechos Humanos (CADH, Belém do Pará, CEDAW, Declaración ONU)",
+      "enunciado": "Según la CADH (Pacto de San José, Ley N° 23.054), si el ejercicio de los derechos no estuviere ya garantizado por disposiciones legislativas o de otro carácter, los Estados Partes se comprometen a:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Caso 'Herrera Espinoza y otros vs. Ecuador'",
+          "texto": "Suspender los derechos hasta su reglamentación",
           "correcta": false,
-          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando II: cita el caso 'González y otras (Campo Algodonero) Vs. México' de la Corte IDH sobre la reparación integral (restitutio in integrum)."
+          "explicacion": "Incorrecta. El art. 2 CADH no autoriza suspender derechos pendiente su reglamentación."
         },
         {
           "letra": "B",
-          "texto": "Caso 'Velásquez Rodríguez vs. Honduras'",
+          "texto": "Esperar a que la Corte lo ordene en un caso concreto",
           "correcta": false,
-          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando II: cita el caso 'González y otras (Campo Algodonero) Vs. México' de la Corte IDH sobre la reparación integral (restitutio in integrum)."
+          "explicacion": "Incorrecta. El art. 2 CADH impone un deber autónomo de adecuación, no condicionado a una orden judicial."
         },
         {
           "letra": "C",
-          "texto": "Caso 'González y otras (Campo Algodonero) Vs. México'",
-          "correcta": true,
-          "explicacion": "Correcta. Resolución PGN N° 70/2022, Considerando II: cita el caso 'González y otras (Campo Algodonero) Vs. México' de la Corte IDH sobre la reparación integral (restitutio in integrum)."
+          "texto": "Aplicar la Convención solo a los nacionales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 1.1 CADH obliga a garantizar los derechos a toda persona sujeta a la jurisdicción, sin distinción de nacionalidad."
         },
         {
           "letra": "D",
-          "texto": "Caso 'Fontevecchia vs. Argentina'",
-          "correcta": false,
-          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Considerando II; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Considerando II: cita el caso 'González y otras (Campo Algodonero) Vs. México' de la Corte IDH sobre la reparación integral (restitutio in integrum)."
+          "texto": "Adoptar las medidas legislativas o de otro carácter necesarias para hacer efectivos tales derechos",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 2 de la CADH (Ley 23.054) obliga a adoptar, con arreglo a los procedimientos constitucionales, las medidas legislativas o de otro carácter necesarias para hacer efectivos los derechos."
         }
       ]
     },
     {
       "id": 22,
-      "tema": "Género y violencia contra la mujer",
-      "enunciado": "Según el art. 11 de la Ley N° 26.743, las personas mayores de dieciocho años podrán acceder a intervenciones quirúrgicas y/o tratamientos hormonales para adecuar su cuerpo a su identidad de género autopercibida:",
+      "tema": "Orientaciones sobre perspectiva de género (MPF)",
+      "enunciado": "Según el documento, ¿a quiénes afecta severamente la violencia de género, lo que debe tenerse presente en la actuación con perspectiva de género?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "exclusivamente en el sistema público",
+          "texto": "Solamente a quienes mantienen un vínculo matrimonial vigente.",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 11 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+          "explicacion": "Incorrecta. Según las Orientaciones sobre perspectiva de género (MPF), el documento no restringe el alcance al vínculo matrimonial vigente."
         },
         {
           "letra": "B",
-          "texto": "previa autorización judicial obligatoria",
+          "texto": "Únicamente a las personas que conviven en un mismo hogar.",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 11 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+          "explicacion": "Incorrecta. Según las Orientaciones sobre perspectiva de género (MPF), el documento no limita el alcance a quienes conviven; incluso aclara que la convivencia no es requisito en la modalidad doméstica."
         },
         {
           "letra": "C",
-          "texto": "sólo con dictamen de junta médica",
+          "texto": "Exclusivamente a las mujeres adultas.",
           "correcta": false,
-          "explicacion": "Incorrecta. La afirmacion no se ajusta al art. 11 de la Ley N° 26.743 (Identidad de Género); la opcion correcta es la \"a\"."
+          "explicacion": "Incorrecta. Según las Orientaciones sobre perspectiva de género (MPF), el documento no la circunscribe a las mujeres adultas."
         },
         {
           "letra": "D",
-          "texto": "sin necesidad de requerir autorización judicial o administrativa",
+          "texto": "A las mujeres, niñas, niños y a las personas LGBTI+.",
           "correcta": true,
-          "explicacion": "Correcta. Conforme al art. 11 de la Ley N° 26.743 (Identidad de Género). Art. 11: '...acceder a intervenciones quirúrgicas totales y parciales y/o tratamientos integrales hormonales para adecuar su cuerpo... a su identidad de género autopercibida, sin necesidad de requerir autorización judicial o administrativa.'"
+          "explicacion": "Correcta. Según las Orientaciones sobre perspectiva de género (MPF), el documento señala que la violencia de género afecta severamente a las mujeres, niñas, niños y a las personas LGBTI+, alcanzando también a quienes desafían las normas de género."
         }
       ]
     },
     {
       "id": 23,
-      "tema": "Derechos humanos: sistema interamericano y CEDAW",
-      "enunciado": "Para que una petición sea admitida por la Comisión, el art. 46 de la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica), aprobada por Ley N° 23.054, exige, entre otros requisitos:",
+      "tema": "Código Procesal Penal Federal (Ley N° 27.063/27.150, mod. Ley N° 27.482)",
+      "enunciado": "Conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), las facultades para restringir o limitar derechos reconocidos por la Constitución o por instrumentos internacionales deben ejercerse según los principios de:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Que se haya intentado una mediación previa",
+          "texto": "Celeridad, oralidad, publicidad y concentración.",
           "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 46.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), esos son principios del proceso acusatorio (art 2), no del art 16."
         },
         {
           "letra": "B",
-          "texto": "Que la víctima sea nacional del Estado denunciado",
+          "texto": "Oportunidad, conversión, conciliación y suspensión.",
           "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 46.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), esas son reglas de disponibilidad de la acción (art 30), no del art 16."
         },
         {
           "letra": "C",
-          "texto": "Que haya transcurrido un año desde la violación",
-          "correcta": false,
-          "explicacion": "Incorrecta. No se ajusta a lo dispuesto en el Art. 46.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054); la opción correcta es la \"b\"."
+          "texto": "Idoneidad, razonabilidad, proporcionalidad y necesariedad.",
+          "correcta": true,
+          "explicacion": "Correcta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), el art 16 enumera idoneidad, razonabilidad, proporcionalidad y necesariedad para la restricción de derechos fundamentales."
         },
         {
           "letra": "D",
-          "texto": "Que se hayan agotado los recursos de jurisdicción interna y que se presente dentro del plazo de seis meses desde la notificación de la decisión definitiva",
-          "correcta": true,
-          "explicacion": "Correcta. Art. 46.1, Convención Americana sobre Derechos Humanos (Pacto de San José, Ley N° 23.054): agotamiento de recursos internos y plazo de seis meses desde la notificación de la decisión definitiva."
+          "texto": "Inmediación, contradicción, simplicidad y desformalización.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), esos son principios del art 2, no los del art 16."
         }
       ]
     },
     {
       "id": 24,
-      "tema": "Organización del MPF y proceso penal federal",
-      "enunciado": "Según el artículo 20 del Régimen de Funcionarios y Empleados (Anexo III de la Resolución PGN N° 70/2022), ¿cuál fue incorporado como derecho del personal del MPF?",
+      "tema": "Ingreso democrático e igualitario al MPF (Ley N° 26.861 y reglamentación)",
+      "enunciado": "Según el Reglamento, el agrupamiento Técnico Jurídico está integrado por funcionarios/as que realizan:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Derecho a la jubilación anticipada",
-          "correcta": false,
-          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 20; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 20, inc. k): derecho a un ambiente de trabajo libre de discriminación por nacionalidad, religión, opinión política, género, orientación sexual o identidad de género."
+          "texto": "Labores jurídicas de dirección, supervisión, asesoramiento, estudio y elaboración de proyectos de dictámenes en asuntos judiciales.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 2 f) del Reglamento para el Ingreso Democrático e Igualitario al MPF (Resolución PGN) define al Técnico Jurídico como funcionarios/as que realizan labores jurídicas de dirección, supervisión, asesoramiento, estudio y elaboración de proyectos de dictámenes en asuntos judiciales."
         },
         {
           "letra": "B",
-          "texto": "Derecho a un salario mínimo garantizado",
+          "texto": "Tareas administrativas y de apoyo técnico.",
           "correcta": false,
-          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 20; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 20, inc. k): derecho a un ambiente de trabajo libre de discriminación por nacionalidad, religión, opinión política, género, orientación sexual o identidad de género."
+          "explicacion": "Incorrecta. Las tareas administrativas y de apoyo corresponden al Técnico Administrativo (art. 2 e del Reglamento)."
         },
         {
           "letra": "C",
-          "texto": "Ambiente de trabajo libre de discriminación por razones de nacionalidad, religión, opinión política, género, orientación sexual o identidad de género",
-          "correcta": true,
-          "explicacion": "Correcta. Resolución PGN N° 70/2022, Anexo III, art. 20, inc. k): derecho a un ambiente de trabajo libre de discriminación por nacionalidad, religión, opinión política, género, orientación sexual o identidad de género."
+          "texto": "Tareas de maestranza, limpieza y portería.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las tareas de maestranza corresponden a Servicios Auxiliares (art. 2 d del Reglamento)."
         },
         {
           "letra": "D",
-          "texto": "Derecho a la huelga",
+          "texto": "Funciones de la estructura central de gobierno de la PGN.",
           "correcta": false,
-          "explicacion": "Incorrecta. No surge de Resolución PGN N° 70/2022, Anexo III - Art. 20; la opción correcta es la 'b'. Resolución PGN N° 70/2022, Anexo III, art. 20, inc. k): derecho a un ambiente de trabajo libre de discriminación por nacionalidad, religión, opinión política, género, orientación sexual o identidad de género."
+          "explicacion": "Incorrecta. La estructura central de gobierno de la PGN está exceptuada del régimen (art. 4 del Reglamento)."
         }
       ]
     },
     {
       "id": 25,
-      "tema": "Ley Orgánica del MPF (Ley N° 27.148)",
-      "enunciado": "Entre las funciones del fiscal coordinador de distrito se encuentra, conforme el artículo 19 de la Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal):",
+      "tema": "Código Penal (Ley N° 11.179)",
+      "enunciado": "Según el Código Penal (Ley N° 11.179), art. 53, en los casos del art. 52, el tribunal podrá otorgar la libertad condicional transcurridos:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Designar a los procuradores fiscales",
+          "texto": "Dos años, sin informe alguno.",
           "correcta": false,
-          "explicacion": "Incorrecta. La designación de procuradores fiscales no corresponde al fiscal coordinador conforme el art. 19 de la Ley N° 27.148."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 53, exige cinco años y el informe penitenciario."
         },
         {
           "letra": "B",
-          "texto": "Fijar la política nacional de persecución penal",
-          "correcta": false,
-          "explicacion": "Incorrecta. La política nacional de persecución penal la fija el Procurador General (art. 12 de la Ley N° 27.148), no el fiscal coordinador."
+          "texto": "Cinco años del cumplimiento de la reclusión accesoria, previo informe de la autoridad penitenciaria.",
+          "correcta": true,
+          "explicacion": "Correcta. El Código Penal (Ley N° 11.179), art. 53, faculta a otorgar la libertad condicional transcurridos cinco años del cumplimiento de la reclusión accesoria, previo informe de la autoridad penitenciaria."
         },
         {
           "letra": "C",
-          "texto": "Organizar administrativamente la distribución de los casos que ingresen a la fiscalía de distrito, mediante reglas generales y objetivas",
-          "correcta": true,
-          "explicacion": "Correcta. El art. 19 inc. c de la Ley N° 27.148 incluye entre sus funciones organizar administrativamente la distribución de los casos que ingresen a la fiscalía de distrito, mediante reglas generales y objetivas."
+          "texto": "Un año desde la última condena.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 53, no fija un año desde la última condena."
         },
         {
           "letra": "D",
-          "texto": "Dictar las sentencias del distrito",
+          "texto": "Diez años en todos los casos.",
           "correcta": false,
-          "explicacion": "Incorrecta. Dictar sentencias es función jurisdiccional, ajena al fiscal coordinador de distrito según el art. 19 de la Ley N° 27.148."
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179), art. 53, fija cinco años, no diez."
         }
       ]
     }
   ],
   "caso": {
-    "enunciado": "Lucía, de 25 años, desea rectificar el sexo y el nombre de pila en su partida de nacimiento y DNI porque no coinciden con su identidad de género autopercibida. El empleado del registro le exige acreditar una cirugía de reasignación y la asistencia de un abogado.",
-    "consigna": "Indique si las exigencias del empleado son válidas y describa el trámite y los requisitos conforme a la Ley 26.743.",
-    "resolucion_didactica": "(a) Respuesta: Las exigencias del empleado son improcedentes; Lucía, mayor de 18 años, sólo debe presentar la solicitud ante el Registro Nacional de las Personas, en un trámite gratuito, personal y sin necesidad de cirugía, abogado ni intervención judicial.\n(b) Razonamiento jurídico paso a paso: 1) El art. 4 de la Ley N° 26.743 dispone que en ningún caso será requisito acreditar intervención quirúrgica de reasignación genital, terapias hormonales ni tratamiento psicológico o médico, por lo que la exigencia de cirugía es ilegítima. 2) Siendo mayor de 18 años, conforme al art. 4 de la Ley N° 26.743 basta presentar ante el Registro Nacional de las Personas la solicitud manifestando estar amparada por la ley y el nuevo nombre de pila elegido, conservándose el número de documento original. 3) El art. 6 de la Ley N° 26.743 establece que el trámite es gratuito y personal y no requiere intermediación de gestor ni abogado, por lo que esa exigencia también es improcedente. 4) Cumplidos los requisitos, el oficial público procede sin trámite judicial ni administrativo y se prohíbe toda referencia a la ley en la nueva partida y DNI (art. 6, Ley N° 26.743).\n(c) Normas y conceptos aplicables: Ley N° 26.743, arts. 3 (derecho a la rectificación por no coincidir con la identidad autopercibida), 4 (requisitos y prohibición de exigir cirugía u hormonas) y 6 (trámite gratuito y personal, sin gestor, abogado ni trámite judicial).",
-    "fundamento_normativo": "Ley N° 26.743, arts. 3, 4 y 6."
+    "enunciado": "Federico confeccionó desde cero un Documento Nacional de Identidad con sus propios datos falseados (cambió su nombre y fecha de nacimiento) imitando los formatos y sellos oficiales. Con ese documento se presentó luego en una concesionaria y celebró a su nombre falso la compra financiada de un automóvil, exhibiendo el DNI apócrifo para acreditar su identidad.\n\nConsigna (desarrollá en una hoja aparte):\n1. ¿Qué delito de falsificación cometió Federico al confeccionar el documento?\n2. ¿Cómo incide que se trate de un documento destinado a acreditar la identidad de las personas?\n3. ¿El uso posterior del documento falso configura un delito autónomo?\n4. ¿Cómo se resuelve la relación entre la falsificación y el uso?\n\nEl caso no se califica. Pensá y desarrollá tus respuestas en una hoja aparte; al finalizar vas a poder contrastarlas con la resolución modelo.",
+    "consigna": "1. ¿Qué delito de falsificación cometió Federico al confeccionar el documento?\n2. ¿Cómo incide que se trate de un documento destinado a acreditar la identidad de las personas?\n3. ¿El uso posterior del documento falso configura un delito autónomo?\n4. ¿Cómo se resuelve la relación entre la falsificación y el uso?",
+    "resolucion_didactica": "Pregunta 1: Federico cometió falsificación de documento, prevista en el artículo 292 del Código Penal, que reprime al que hiciere en todo o en parte un documento falso o adulterare uno verdadero, de modo que pueda resultar perjuicio. Confeccionar íntegramente un DNI apócrifo imitando formatos y sellos oficiales es 'hacer un documento falso' en su totalidad. El tipo exige la posibilidad de perjuicio, requisito satisfecho porque el documento estaba destinado a engañar en el tráfico jurídico.\nPregunta 2: Es determinante. El segundo párrafo del artículo 292 CP establece que, si el documento falsificado o adulterado fuere de los destinados a acreditar la identidad de las personas, la pena será de tres a ocho años. El DNI es, precisamente, un documento destinado a acreditar la identidad, por lo que se aplica esta escala agravada y no la del primer párrafo (uno a seis años para instrumentos públicos en general). El propio párrafo equipara a esos documentos las cédulas de identidad, libretas cívicas o de enrolamiento y los pasaportes.\nPregunta 3: Sí. El uso del documento falso está específicamente tipificado en el artículo 296 CP, que reprime al que hiciere uso de un documento o certificado falso o adulterado, castigándolo como si fuere autor de la falsedad. Al presentar el DNI apócrifo en la concesionaria, Federico realizó la conducta de uso.\nPregunta 4: Cuando una misma persona falsifica el documento y luego lo usa, el artículo 296 castiga al usuario 'como si fuere autor de la falsedad', equiparando las penas, de modo que el autoencubrimiento mediante el uso de lo que él mismo falsificó no multiplica la pena. Por otra parte, si con el documento falso obtuvo además la financiación del automóvil mediante engaño sobre su identidad, podría analizarse un concurso con la estafa (art. 172 CP), valorando si hubo perjuicio patrimonial para la concesionaria. Cabe señalar que la doctrina mayoritaria sostiene la absorción del uso por la falsificación cuando hay identidad de autor [CITA A VERIFICAR].",
+    "fundamento_normativo": "Código Penal (Ley N° 11.179), arts. 292, 296 y 172.",
+    "planteo": "Federico confeccionó desde cero un Documento Nacional de Identidad con sus propios datos falseados (cambió su nombre y fecha de nacimiento) imitando los formatos y sellos oficiales. Con ese documento se presentó luego en una concesionaria y celebró a su nombre falso la compra financiada de un automóvil, exhibiendo el DNI apócrifo para acreditar su identidad.",
+    "preguntas": [
+      "1. ¿Qué delito de falsificación cometió Federico al confeccionar el documento?",
+      "2. ¿Cómo incide que se trate de un documento destinado a acreditar la identidad de las personas?",
+      "3. ¿El uso posterior del documento falso configura un delito autónomo?",
+      "4. ¿Cómo se resuelve la relación entre la falsificación y el uso?"
+    ],
+    "aclaracion": "El caso no se califica. Pensá y desarrollá tus respuestas en una hoja aparte; al finalizar vas a poder contrastarlas con la resolución modelo.",
+    "tema": "Código Penal (Ley N° 11.179)"
   }
 }
