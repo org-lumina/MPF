@@ -16,7 +16,7 @@ export default function BotonPago() {
         setError(
           data.error === "No autenticado"
             ? "Tenés que iniciar sesión antes de pagar."
-            : data.detalle ?? data.error ?? "No se pudo iniciar el pago."
+            : "No se pudo iniciar el pago. Probá de nuevo en un momento."
         );
         setLoading(false);
         return;

@@ -1,0 +1,158 @@
+{
+  "caso_id": 9,
+  "eje": "Código Penal",
+  "planteo": "Pedro, en una misma noche y en lugares distintos de la ciudad, comete tres robos independientes contra tres víctimas diferentes. Cada uno de los tres hechos constituye, por sí solo, un delito autónomo de robo reprimido con pena de prisión. No hay relación de medio a fin entre ellos: son acciones separadas, con distinto designio criminal y dirigidas contra distintos bienes jurídicos de distintos titulares.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué clase de concurso de delitos se configura en el caso de Pedro?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Concurso ideal, porque todos los hechos se cometieron en una misma noche.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) regula el concurso ideal solo cuando 'un hecho' cae bajo más de una sanción penal; aquí hay varios hechos independientes, no uno solo. La unidad de noche no convierte tres acciones en un hecho único."
+        },
+        {
+          "letra": "B",
+          "texto": "Concurso real, porque concurren varios hechos independientes reprimidos con pena de la misma especie.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 55 del Código Penal (Ley N° 11.179) define el concurso real cuando concurren 'varios hechos independientes reprimidos con una misma especie de pena', supuesto que se da con los tres robos autónomos de Pedro."
+        },
+        {
+          "letra": "C",
+          "texto": "Concurso aparente, porque una sola figura penal desplaza a las demás.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El concurso aparente supone un único hecho encuadrable en varios tipos donde uno desplaza a los otros; aquí hay tres hechos independientes que se rigen por el art. 55 del Código Penal (Ley N° 11.179), no por desplazamiento de figuras."
+        },
+        {
+          "letra": "D",
+          "texto": "No hay concurso alguno: se juzga y pena cada robo en procesos totalmente separados sin regla de unificación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pluralidad de hechos independientes con pena de la misma especie configura concurso real y obliga a aplicar la regla de pena única del art. 55 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cómo se determina la escala penal aplicable a Pedro por los tres robos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se aplica solamente la pena del robo más grave, descartando los otros dos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa regla del art. 54 del Código Penal (Ley N° 11.179) corresponde al concurso ideal (absorción), no al concurso real de hechos con pena de la misma especie."
+        },
+        {
+          "letra": "B",
+          "texto": "Mínimo igual al mínimo mayor y máximo igual a la suma aritmética de los máximos de los tres robos.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 55 del Código Penal (Ley N° 11.179) fija, para el concurso real de penas de la misma especie, como mínimo el mínimo mayor y como máximo la suma aritmética de los máximos."
+        },
+        {
+          "letra": "C",
+          "texto": "Se suman los mínimos y los máximos de los tres robos sin límite alguno.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 del Código Penal (Ley N° 11.179) no suma los mínimos: el mínimo es el mínimo mayor. Solo los máximos se suman, y con tope."
+        },
+        {
+          "letra": "D",
+          "texto": "Cada robo se pena por separado y las penas se cumplen sucesivamente sin formar una escala única.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 del Código Penal (Ley N° 11.179) ordena construir una escala única para el reo, no penas autónomas acumuladas mecánicamente."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Existe un tope máximo a la pena que puede resultar de la suma del concurso real?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, la suma no puede exceder de cincuenta (50) años de reclusión o prisión.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 55, último párrafo, del Código Penal (Ley N° 11.179) establece que la suma aritmética de los máximos no podrá exceder de cincuenta (50) años de reclusión o prisión."
+        },
+        {
+          "letra": "B",
+          "texto": "No existe tope; la suma puede llegar a cualquier monto.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 del Código Penal (Ley N° 11.179) impone expresamente el tope de cincuenta (50) años."
+        },
+        {
+          "letra": "C",
+          "texto": "El tope es de veinticinco (25) años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El tope que fija el art. 55 del Código Penal (Ley N° 11.179) es de cincuenta (50) años, no de veinticinco."
+        },
+        {
+          "letra": "D",
+          "texto": "El tope se fija discrecionalmente por el juez en cada caso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El tope es legal y fijo: cincuenta (50) años según el art. 55 del Código Penal (Ley N° 11.179), no una decisión discrecional."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Los tres robos están reprimidos todos con prisión (penas divisibles de la misma especie). ¿Qué exige el art. 55 respecto de la especie de pena para aplicar su regla?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que los hechos estén reprimidos con una misma especie de pena.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 55 del Código Penal (Ley N° 11.179) condiciona su aplicación a que los varios hechos independientes estén reprimidos 'con una misma especie de pena'."
+        },
+        {
+          "letra": "B",
+          "texto": "Que los hechos estén reprimidos con penas de distinta especie.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Cuando concurren penas de distinta especie rige el art. 56 del Código Penal (Ley N° 11.179); el art. 55 supone una misma especie de pena."
+        },
+        {
+          "letra": "C",
+          "texto": "Que al menos uno de los hechos tenga pena perpetua.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 del Código Penal (Ley N° 11.179) opera con penas divisibles de la misma especie; la presencia de penas no divisibles remite al art. 56."
+        },
+        {
+          "letra": "D",
+          "texto": "Que los hechos se hayan cometido en el mismo lugar físico.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 del Código Penal (Ley N° 11.179) no exige unidad de lugar, sino pluralidad de hechos independientes con misma especie de pena."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si Pedro ya hubiera sido condenado por sentencia firme por uno de los robos y luego se lo juzgara por los otros dos, ¿qué norma permite unificar las penas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El art. 58 del Código Penal, sobre unificación de penas y condenas.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 del Código Penal (Ley N° 11.179) extiende las reglas del concurso al caso en que, tras una condena firme, se deba juzgar a la misma persona por otro hecho distinto, ordenando dictar única sentencia."
+        },
+        {
+          "letra": "B",
+          "texto": "El art. 42 del Código Penal, sobre tentativa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 del Código Penal (Ley N° 11.179) regula la tentativa, no la unificación de condenas firmes."
+        },
+        {
+          "letra": "C",
+          "texto": "El art. 54 del Código Penal, sobre concurso ideal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) regula el concurso ideal de un solo hecho; la unificación de condenas firmes se rige por el art. 58."
+        },
+        {
+          "letra": "D",
+          "texto": "Ninguna norma permite unificar: cada condena queda definitiva e inalterable.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) prevé expresamente la unificación dictando una única sentencia, sin alterar las declaraciones de hechos."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Tres robos autónomos contra distintas víctimas, sin relación de medio a fin, son varios hechos independientes con pena de la misma especie: concurso real (art. 55, Código Penal Ley N° 11.179). La escala se construye con mínimo igual al mínimo mayor y máximo igual a la suma de los máximos, con tope de 50 años. Si una condena ya estuviera firme, el art. 58 permite la unificación. Se distingue del concurso ideal del art. 54 (un solo hecho)."
+}

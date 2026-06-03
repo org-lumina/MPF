@@ -1,0 +1,158 @@
+{
+  "caso_id": 43,
+  "eje": "CPPF",
+  "planteo": "En una investigación por robo, personal policial requisa sin orden judicial a Pereyra en la vía pública y secuestra una billetera presuntamente sustraída. El fiscal forma legajo y, tras valoración inicial, formaliza la investigación preparatoria. La defensa plantea, en audiencia, que la requisa fue ilegal por ausencia de circunstancias objetivas previas y solicita la exclusión del secuestro y la nulidad de los actos consecutivos. Discutida la cuestión, debe analizarse la regla de exclusión, el saneamiento, la convalidación y el efecto de la nulidad sobre los actos derivados.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuál es la consecuencia que prevé el Código si se constata que la requisa se cumplió con inobservancia de los derechos y garantías constitucionales?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El acto no podrá ser valorado para fundar una decisión judicial ni utilizado como presupuesto de ella.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 129 (Principios generales) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que no podrán ser valorados para fundar una decisión judicial, ni utilizados como presupuesto de ella, los actos cumplidos con inobservancia de los derechos y garantías previstos en la Constitución, los instrumentos internacionales de DDHH y el Código."
+        },
+        {
+          "letra": "B",
+          "texto": "El acto conserva valor probatorio pleno si el imputado no se opuso al momento de la requisa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 129 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) veda la valoración del acto cumplido con inobservancia de garantías constitucionales con independencia de la oposición; no es un defecto disponible por la conducta del imputado."
+        },
+        {
+          "letra": "C",
+          "texto": "El acto solo se invalida si el fiscal lo consiente expresamente en la audiencia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 129 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no condiciona la prohibición de valoración al consentimiento del fiscal; la exclusión opera por la propia inobservancia de la garantía."
+        },
+        {
+          "letra": "D",
+          "texto": "El acto se mantiene válido y solo genera responsabilidad disciplinaria del personal policial.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Conforme al art. 129 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), la consecuencia es la imposibilidad de valorar el acto, sin perjuicio de eventuales responsabilidades; la sanción disciplinaria no sustituye la regla de exclusión."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Para que la requisa sin orden judicial en la vía pública sea legítima, ¿qué supuesto debe concurrir según el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que existan circunstancias previas que razonable y objetivamente permitan presumir que se ocultan cosas relacionadas con un delito, peligro de desaparición de pruebas y que se practique en la vía pública o lugar de acceso público.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 138 (Requisa sin orden judicial) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige la concurrencia de circunstancias previas objetivas, peligro cierto de desaparición de la prueba y que se practique en la vía pública o lugar de acceso público."
+        },
+        {
+          "letra": "B",
+          "texto": "Basta la mera sospecha subjetiva del agente sobre la peligrosidad de la persona.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 138 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere circunstancias previas que razonable y objetivamente permitan presumir el ocultamiento de cosas relacionadas con un delito, no una sospecha subjetiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Es suficiente con que el hecho ocurra en horario diurno.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El horario diurno es un recaudo del allanamiento de morada (art. 140 del Código Procesal Penal Federal, Ley N° 27.063, mod. Ley N° 27.482), no un presupuesto de la requisa sin orden del art. 138."
+        },
+        {
+          "letra": "D",
+          "texto": "Se requiere siempre autorización previa del juez de garantías por vía telefónica.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 138 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita expresamente la requisa sin orden judicial cuando concurren sus supuestos; la autorización telefónica del art. 144 rige otras medidas que sí requieren orden."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Declarada la nulidad del secuestro, ¿qué alcance tiene esa declaración sobre los actos posteriores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Invalida todos los efectos o los actos consecutivos que dependan directamente de él.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 132 (Declaración de nulidad) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que la nulidad de un acto invalida todos los efectos o los actos consecutivos que dependan directamente de éste."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo afecta al acto nulo, sin proyectarse jamás sobre ningún otro acto.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 132 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) extiende la invalidez a los actos consecutivos que dependan directamente del acto nulo."
+        },
+        {
+          "letra": "C",
+          "texto": "Invalida la totalidad del proceso, incluso los actos independientes y anteriores.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 132 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) limita la invalidación a los efectos y actos consecutivos que dependan directamente del acto nulo, no a los actos independientes."
+        },
+        {
+          "letra": "D",
+          "texto": "Obliga a retrotraer el procedimiento a etapas anteriores en todos los casos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 130 (Saneamiento) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe retrotraer el procedimiento cuando la invalidez se funda en una garantía a favor del imputado; el art. 132 no impone retroacción generalizada."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuándo quedan convalidados los defectos formales que afecten al fiscal o a la víctima?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si las partes no solicitaron su saneamiento mientras se realizaba el acto o dentro de los tres días de practicado, o si aceptaron expresa o tácitamente sus efectos.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 131 (Convalidación) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé esos dos supuestos de convalidación de los defectos formales que afecten al fiscal o a la víctima."
+        },
+        {
+          "letra": "B",
+          "texto": "Nunca; todos los defectos formales son insubsanables.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 131 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) admite expresamente la convalidación de defectos formales que afecten al fiscal o a la víctima."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando el juez lo declara de oficio mediante resolución fundada.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 131 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) hace operar la convalidación por la inacción o la aceptación de las partes, no por declaración oficiosa del juez."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando la invalidez se funda en una garantía establecida a favor del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ese supuesto se rige por el art. 130 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), que impide retrotraer el procedimiento; la convalidación del art. 131 alcanza defectos formales que afecten al fiscal o a la víctima."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Mediante qué vía deben resolverse las solicitudes de saneamiento o declaración de nulidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En audiencia, resueltas por el juez con intervención de todas las partes interesadas.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 133 (Audiencia) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ordena que las solicitudes de saneamiento o declaración de nulidad sean resueltas por el juez en audiencia, con intervención de todas las partes interesadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Por escrito y sin sustanciación, resueltas de plano por el fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 133 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige resolución en audiencia por el juez, no una decisión escrita y de plano del fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Mediante dictamen vinculante de la oficina judicial.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 133 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) atribuye la decisión al juez en audiencia; la oficina judicial cumple funciones de organización, no de resolución del planteo."
+        },
+        {
+          "letra": "D",
+          "texto": "En forma diferida, recién en la sentencia definitiva.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 133 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la resolución en audiencia con intervención de las partes, sin diferir la cuestión a la sentencia."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El planteo se ordena con la regla de exclusión del art. 129 (no valoración de actos cumplidos con inobservancia de garantías) y la legalidad de la requisa sin orden del art. 138 (circunstancias previas objetivas, peligro de desaparición de prueba y vía pública). Si la requisa carece de esos presupuestos, el secuestro se excluye y, por el art. 132, la nulidad se proyecta a los actos consecutivos directamente dependientes; el art. 130 impide retrotraer el procedimiento por afectarse una garantía del imputado. La convalidación del art. 131 solo alcanza defectos formales que afecten al fiscal o a la víctima, y toda la incidencia se resuelve en audiencia conforme el art. 133, todos del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

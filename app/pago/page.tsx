@@ -1,6 +1,16 @@
+import Link from "next/link";
 import { auth } from "@/auth";
 import { obtenerAcceso } from "@/lib/acceso";
 import BotonPago from "@/components/BotonPago";
+
+const BENEFICIOS = [
+  "Acceso a los 30 exámenes completos: 25 preguntas de opción múltiple + 1 caso práctico cada uno.",
+  "Corrección automática con la explicación de cada respuesta citando la norma y el artículo.",
+  "Devolución por tema: ves de un vistazo qué dominás y qué reforzar, y la descargás en PDF.",
+  "Exámenes y casos basados en el material oficial del concurso.",
+  "Modo “Solo casos” penales y procesales (a medida que se vaya habilitando).",
+  "6 meses de acceso, con intentos ilimitados.",
+];
 
 export default async function PagoPage({
   searchParams,
@@ -14,50 +24,58 @@ export default async function PagoPage({
     ? await obtenerAcceso(email)
     : { vigente: false, vence: null as Date | null };
 
-  // Ya tiene acceso vigente: no mostramos el botón de pago.
   if (acceso.vigente && acceso.vence) {
-    const hasta = new Intl.DateTimeFormat("es-AR", { dateStyle: "long" }).format(
-      acceso.vence
-    );
+    const hasta = new Intl.DateTimeFormat("es-AR", { dateStyle: "long" }).format(acceso.vence);
     return (
-      <section>
-        <h1>Pago</h1>
-        <p>
-          Ya tenés acceso hasta <strong>{hasta}</strong>.
+      <section className="panel">
+        <h1>¡Ya tenés acceso! 🎉</h1>
+        <p>Tu acceso está activo hasta <strong>{hasta}</strong>.</p>
+        <p style={{ marginTop: "1.2rem" }}>
+          <Link href="/examen" className="cta">Hacer un examen</Link>
         </p>
-        <a href="/examen" className="cta">
-          Hacer un examen
-        </a>
       </section>
     );
   }
 
   return (
-    <section>
-      <h1>Pago único (AR$5000) — acceso por 6 meses</h1>
+    <section className="panel pago-panel">
+      <p className="res-kicker">Acceso completo</p>
+      <h1>Acceso completo · 6 meses</h1>
 
       {motivo === "acceso" && (
-        <p style={{ color: "#b35900", fontWeight: 600 }}>
-          Necesitás acceso para hacer los exámenes.
-        </p>
+        <p className="aviso-acceso">Necesitás acceso para practicar los exámenes.</p>
       )}
 
-      <p>
-        Un solo pago habilita el acceso a los 30 exámenes durante 6 meses. Al
-        vencer, se vuelve a pagar (no es una suscripción automática).
-      </p>
+      <div className="pago-precio">
+        <span className="precio-num">$5000</span>
+        <span className="precio-sub">pago único · 6 meses · todo incluido</span>
+      </div>
 
-      {!email ? (
-        <p>
-          Primero <a href="/login">iniciá sesión</a> para poder pagar.
-        </p>
-      ) : (
-        <BotonPago />
-      )}
+      <h2>Qué incluye</h2>
+      <ul className="pago-benes">
+        {BENEFICIOS.map((b, i) => (
+          <li key={i}>
+            <span className="bene-check" aria-hidden>
+              <svg viewBox="0 0 24 24" fill="none"><path d="M4 13l5 5 11-12" stroke="#1C1B33" strokeWidth="3.2" strokeLinecap="round" strokeLinejoin="round" /></svg>
+            </span>
+            <span>{b}</span>
+          </li>
+        ))}
+      </ul>
 
-      <p className="placeholder-note">
-        Tras aprobar el pago, Mercado Pago redirige a <code>/examen</code> y
-        notifica al webhook, que registra el acceso por 6 meses.
+      <div className="pago-cta">
+        {!email ? (
+          <p>
+            Primero <Link href="/login" className="volver-inicio">iniciá sesión</Link> para activar tu acceso.
+          </p>
+        ) : (
+          <BotonPago />
+        )}
+      </div>
+
+      <p className="pago-nota">
+        Pago único. El acceso dura 6 meses; al vencer, podés renovarlo. No es una
+        suscripción automática. Después de pagar, tu acceso se activa al instante.
       </p>
     </section>
   );

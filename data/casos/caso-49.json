@@ -1,0 +1,158 @@
+{
+  "caso_id": 49,
+  "eje": "CPPF",
+  "planteo": "El 3 de junio a las 22:00 hs personal policial sorprende a Damián mientras sustrae mercadería de un local comercial; es perseguido inmediatamente y aprehendido a una cuadra con los objetos en su poder. La pena máxima del delito atribuido no supera los QUINCE (15) años. Tomado conocimiento de la aprehensión, el representante del Ministerio Público Fiscal declara el caso como flagrante y dispone someterlo al trámite especial. Durante el traslado, Damián manifiesta que quiere designar un defensor particular. En la audiencia oral inicial, su defensa objeta la aplicabilidad del procedimiento de flagrancia, sosteniendo que la complejidad de la investigación lo torna improcedente. Sobre estos hechos se plantean las siguientes cuestiones procesales.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿En qué plazo, contado desde la detención, debe llevarse a cabo la audiencia oral inicial de flagrancia, y es prorrogable?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de las 24 horas desde la detención, prorrogable por otras 24 horas en supuestos tasados.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 329 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que el detenido será trasladado ante el juez para una audiencia oral inicial de flagrancia que deberá llevarse a cabo dentro de las VEINTICUATRO (24) horas desde la detención, prorrogable por otras VEINTICUATRO (24) horas cuando no hubiere podido realizarse por motivos de organización del tribunal, del fiscal o de la defensa, o cuando el imputado lo solicitare para designar un defensor particular."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de las 48 horas desde la detención, improrrogable.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El plazo base de la audiencia inicial conforme el artículo 329 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) es de 24 horas y sí admite prórroga; las 48 horas corresponden a otra etapa (notificación de la constitución del tribunal, artículo 333 del mismo Código)."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro de las 72 horas desde la detención, prorrogable por única vez.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 329 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija 24 horas prorrogables por otras 24, no 72 horas; este último plazo no surge de la norma."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentro de las 24 horas desde la detención, en ningún caso prorrogable.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Si bien el plazo base es de 24 horas, el artículo 329 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) admite expresamente la prórroga por otras 24 horas en los supuestos allí previstos, entre ellos el pedido del imputado de designar defensor particular."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "El procedimiento para casos de flagrancia, ¿a qué hechos resulta aplicable en cuanto a su escala penal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A todos los hechos dolosos del artículo 217 cuya pena máxima no supere los 15 años (o 20 años en los supuestos del art. 119, 4° párr. y art. 166, penúltimo párr. del Código Penal).",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 328 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el procedimiento se aplica a todos los hechos dolosos en que se verifiquen las circunstancias del artículo 217 y cuya pena máxima no supere los QUINCE (15) años de prisión, o VEINTE (20) años en los supuestos del artículo 119, cuarto párrafo, y del artículo 166, penúltimo párrafo, del Código Penal de la Nación."
+        },
+        {
+          "letra": "B",
+          "texto": "A todos los hechos, dolosos o culposos, sin tope de pena.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 328 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) lo limita a hechos dolosos y fija topes de pena (15 o 20 años según el caso); no comprende delitos culposos ni carece de tope."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo a delitos cuya pena máxima no supere los 6 años de prisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El límite de 6 años no corresponde a la flagrancia sino al acuerdo pleno del procedimiento abreviado (artículo 323 del Código Procesal Penal Federal, Ley N° 27.063, mod. Ley N° 27.482). El tope de flagrancia es de 15/20 años conforme el artículo 328 del mismo Código."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente a los delitos de acción privada cometidos en la vía pública.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 328 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no restringe el procedimiento a delitos de acción privada; lo refiere a hechos dolosos con las circunstancias del artículo 217 dentro de los topes de pena."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Frente a la objeción de la defensa sobre la aplicabilidad del procedimiento de flagrancia, ¿cuándo y cómo debe resolver el juez, y qué efectos tiene la decisión?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El juez resuelve la objeción en ese momento; la decisión es impugnable, el recurso tiene efecto suspensivo y la revisión se resuelve dentro de los 3 días, con carácter definitivo.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé que las objeciones a la aplicabilidad del procedimiento deben ser resueltas por el juez en ese momento; esa decisión es impugnable, el recurso tiene efecto suspensivo, la revisión se resuelve de manera unipersonal dentro de los TRES (3) días de recibido el expediente y la resolución tiene carácter de definitiva y no es impugnable."
+        },
+        {
+          "letra": "B",
+          "texto": "El juez debe diferir la resolución a la audiencia de clausura; el recurso carece de efecto suspensivo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ordena resolver las objeciones en ese mismo momento (no en la clausura) y reconoce expresamente efecto suspensivo al recurso."
+        },
+        {
+          "letra": "C",
+          "texto": "La objeción no es recurrible y la revisión, si procediera, se resuelve en 10 días.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) admite la impugnación de la decisión y fija un plazo de revisión de 3 días, no de 10; el plazo de 10 días corresponde a la producción de medidas con detención en ese mismo artículo."
+        },
+        {
+          "letra": "D",
+          "texto": "El juez resuelve en ese momento, pero la decisión de la instancia de revisión puede a su vez ser impugnada por las partes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Si bien el juez resuelve en ese momento, el artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que la resolución de la instancia de revisión tiene carácter de definitiva y no es impugnable."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si en la audiencia inicial se resuelve mantener la detención de Damián, ¿en qué plazo máximo deben llevarse a cabo las medidas de investigación dispuestas por el fiscal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En un plazo máximo de 10 días (20 días si se hubiere otorgado la libertad), extensible a 20 días para el detenido cuando sea indispensable al derecho de defensa.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que las medidas deben cumplirse en un plazo máximo de DIEZ (10) o VEINTE (20) días según se hubiere mantenido la detención u otorgado la libertad, respectivamente, y que el plazo de producción de prueba para el imputado detenido podrá extenderse por VEINTE (20) días cuando fuere indispensable para el correcto ejercicio del derecho de defensa."
+        },
+        {
+          "letra": "B",
+          "texto": "En un plazo único e improrrogable de 30 días, cualquiera sea la situación de libertad del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) distingue entre 10 días (con detención) y 20 días (con libertad) y prevé una extensión, no un plazo único de 30 días."
+        },
+        {
+          "letra": "C",
+          "texto": "En un plazo de 20 días si está detenido y de 10 días si está en libertad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) asigna los plazos a la inversa: 10 días si se mantiene la detención y 20 días si se otorga la libertad."
+        },
+        {
+          "letra": "D",
+          "texto": "No existe plazo legal; queda librado a la fijación judicial conforme la complejidad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 330 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija expresamente plazos máximos de 10 o 20 días, de modo que no queda librado enteramente a la fijación judicial."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Recibido el caso en el órgano de debate y tratándose de un delito cuya pena es menor a 15 años, ¿qué plazos y composición rigen para la constitución del tribunal y la fecha de debate?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se notifica la constitución del tribunal dentro de las 48 horas, el debate se fija en un plazo no mayor a 20 días desde la radicación y el juzgamiento lo realiza un único magistrado.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 333 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que dentro de un término no superior a las CUARENTA Y OCHO (48) horas de recibido el caso se notifica la constitución del tribunal, que la fecha de debate no podrá exceder de VEINTE (20) días desde la radicación y que, en los casos cuya pena sea menor a QUINCE (15) años, el juzgamiento lo realizará un único magistrado."
+        },
+        {
+          "letra": "B",
+          "texto": "Se notifica la constitución dentro de las 24 horas y el debate se fija en un plazo no mayor a 30 días, con tribunal colegiado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 333 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé 48 horas (no 24) para la notificación, un máximo de 20 días (no 30) para el debate y juzgamiento unipersonal cuando la pena es menor a 15 años."
+        },
+        {
+          "letra": "C",
+          "texto": "Se notifica la constitución dentro de las 48 horas y el debate se fija en un plazo no mayor a 20 días, pero siempre con tribunal colegiado de tres jueces.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Aunque los plazos de 48 horas y 20 días son correctos, el artículo 333 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que en los casos de pena menor a 15 años el juzgamiento lo realiza un único magistrado, no un tribunal colegiado."
+        },
+        {
+          "letra": "D",
+          "texto": "No hay plazo para fijar el debate; el tribunal lo establece según su agenda y juzga colegiadamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 333 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija un plazo máximo de 20 días desde la radicación para el debate y prevé juzgamiento unipersonal cuando la pena es menor a 15 años."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El procedimiento de flagrancia (Título III, arts. 328 a 333 del Código Procesal Penal Federal, Ley N° 27.063, mod. Ley N° 27.482) opera ante hechos dolosos del art. 217 dentro de topes de pena de 15/20 años, con decisiones orales en audiencia. Sus plazos perentorios articulados son: audiencia inicial dentro de 24 hs prorrogables 24 (art. 329); resolución inmediata de objeciones de aplicabilidad, recurribles con efecto suspensivo y revisión definitiva en 3 días (art. 330); medidas de investigación en 10 o 20 días según haya detención o libertad, con extensión de 20 días para el detenido (art. 330); y, ya en el órgano de debate, notificación de la constitución del tribunal en 48 hs, fijación de debate en hasta 20 días y juzgamiento unipersonal si la pena es menor a 15 años (art. 333). El caso ejercita la lógica de plazos breves y concentración propia de este trámite especial."
+}

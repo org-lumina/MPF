@@ -1,0 +1,158 @@
+{
+  "caso_id": 7,
+  "eje": "Código Penal",
+  "planteo": "Aprovechando que la víctima, de 25 años, se encontraba completamente inconsciente por intoxicación alcohólica y no podía consentir, Ariel realiza sobre ella tocamientos de carácter sexual, sin que medie acceso carnal. Ariel es mayor de edad e imputable y no tiene con la víctima vínculo de parentesco ni de guarda.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué tipo penal corresponde a la conducta de Ariel?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Abuso sexual simple.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 119, primer párrafo, del Código Penal (Ley N° 11.179) reprime el abuso sexual cuando la víctima, por cualquier causa, no haya podido consentir libremente la acción."
+        },
+        {
+          "letra": "B",
+          "texto": "Abuso sexual con acceso carnal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El tercer párrafo del art. 119 del Código Penal (Ley N° 11.179) exige acceso carnal, que el planteo descarta expresamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Lesiones leves.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 89 del Código Penal (Ley N° 11.179) protege la integridad física; la conducta afecta la integridad sexual, regida por el art. 119."
+        },
+        {
+          "letra": "D",
+          "texto": "Corrupción de menores.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 125 del Código Penal (Ley N° 11.179) exige víctima menor; la del caso tiene 25 años."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es el bien jurídico protegido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La integridad sexual.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 119 integra el Título III 'Delitos contra la integridad sexual' del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "B",
+          "texto": "El honor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El honor se tutela en el Título II del Código Penal (Ley N° 11.179), ajeno al abuso sexual."
+        },
+        {
+          "letra": "C",
+          "texto": "La propiedad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La propiedad corresponde al Título VI del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "La libertad de trabajo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ese bien jurídico se ubica en el Título V del Código Penal (Ley N° 11.179), no aquí."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Por qué se configura el abuso pese a no haber violencia física?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque la víctima no pudo consentir libremente la acción.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 119, primer párrafo, del Código Penal (Ley N° 11.179) incluye el aprovechamiento de que la víctima, por cualquier causa, no haya podido consentir libremente."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque siempre se presume la violencia en estos delitos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 119 del Código Penal (Ley N° 11.179) no presume violencia; prevé como supuesto autónomo la imposibilidad de consentir."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque la víctima era menor de trece años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La víctima tiene 25 años; el supuesto aplicable es la imposibilidad de consentir del art. 119 del Código Penal (Ley N° 11.179), no la edad."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque hubo amenaza con armas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No hubo armas; el fundamento es la falta de consentimiento válido (art. 119 del Código Penal -Ley N° 11.179-)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál es la escala penal del abuso sexual simple?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reclusión o prisión de seis meses a cuatro años.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 119, primer párrafo, del Código Penal (Ley N° 11.179) prevé reclusión o prisión de seis meses a cuatro años."
+        },
+        {
+          "letra": "B",
+          "texto": "Reclusión o prisión de seis a quince años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa escala corresponde al abuso con acceso carnal del tercer párrafo del art. 119 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión o prisión de cuatro a diez años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa pena corresponde al abuso gravemente ultrajante del segundo párrafo del art. 119 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "Prisión de un mes a un año.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la pena de las lesiones leves del art. 89 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si el hecho hubiera incluido acceso carnal por vía vaginal, ¿qué figura correspondería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Abuso sexual con acceso carnal, con escala de seis a quince años.",
+          "correcta": true,
+          "explicacion": "Correcta. El tercer párrafo del art. 119 del Código Penal (Ley N° 11.179) eleva la pena a seis a quince años cuando hubiere acceso carnal por vía anal, vaginal u oral."
+        },
+        {
+          "letra": "B",
+          "texto": "Abuso sexual simple, con la misma pena.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El acceso carnal desplaza el primer párrafo del art. 119 del Código Penal (Ley N° 11.179) al tercer párrafo, con pena mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "Lesiones gravísimas del art. 91.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 91 del Código Penal (Ley N° 11.179) protege la integridad física; la figura aplicable es el abuso del art. 119."
+        },
+        {
+          "letra": "D",
+          "texto": "Estupro del art. 120.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 120 del Código Penal (Ley N° 11.179) requiere víctima menor de dieciséis años aprovechando su inmadurez; aquí la víctima tiene 25 años."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Ariel realizó tocamientos sexuales aprovechando que la víctima no podía consentir por su estado de inconsciencia, conducta que encuadra en el abuso sexual simple del art. 119, primer párrafo, del Código Penal (Ley N° 11.179). El bien jurídico es la integridad sexual (Título III). El abuso se configura sin violencia física porque la víctima no pudo consentir libremente la acción. La pena es reclusión o prisión de seis meses a cuatro años (art. 119, primer párrafo). De haber mediado acceso carnal por vía vaginal, correspondería el tercer párrafo del art. 119, con reclusión o prisión de seis a quince años."
+}

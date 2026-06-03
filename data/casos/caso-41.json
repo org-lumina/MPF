@@ -1,0 +1,158 @@
+{
+  "caso_id": 41,
+  "eje": "CPPF",
+  "planteo": "En una causa por delitos de acción pública cometidos en un contexto de violencia contra la mujer (modalidad doméstica), la víctima manifiesta su intención de impulsar la persecución penal. Pretende constituirse en parte querellante, requerir medidas de protección para su seguridad y la de los testigos, y evitar la repetición de informes que la revictimicen.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿A quién considera víctima el Código Procesal Penal Federal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A la persona ofendida directamente por el delito y, en los delitos cuyo resultado sea la muerte o una afectación que le impida ejercer sus derechos, a su cónyuge, conviviente, padres, hijos, hermanos, tutores o guardadores.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 79 del Código Procesal Penal Federal (Ley N° 27.063) considera víctima a la persona ofendida directamente por el delito (inc. a) y, en los supuestos de muerte o afectación que impida ejercer derechos, a los familiares y allegados que enumera (inc. b)."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente a la persona ofendida directamente, sin extensión a familiares en ningún caso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 79, inc. b, del Código Procesal Penal Federal (Ley N° 27.063) extiende la calidad de víctima a familiares y allegados en los supuestos de muerte o afectación que impida ejercer derechos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo a quien se haya constituido previamente en querellante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 79 del Código Procesal Penal Federal (Ley N° 27.063) define la calidad de víctima con independencia de la constitución como querellante, que es una facultad ulterior (art. 80, inc. k)."
+        },
+        {
+          "letra": "D",
+          "texto": "A cualquier persona que se sienta afectada por el delito, sin requisito alguno.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 79 del Código Procesal Penal Federal (Ley N° 27.063) precisa quiénes son víctimas (ofendido directo y, en ciertos casos, familiares enumerados), por lo que no comprende a cualquier persona sin requisito."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué derecho de protección reconoce el Código a la víctima respecto de su seguridad y la de los testigos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A requerir medidas de protección para su seguridad, la de sus familiares y la de los testigos que declaren en su interés, y a ser asistida en forma especializada para su recuperación psíquica, física y social.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80, inc. c, del Código Procesal Penal Federal (Ley N° 27.063) reconoce el derecho a requerir medidas de protección para la seguridad de la víctima, sus familiares y los testigos que declaren en su interés, y a ser asistida en forma especializada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo a recibir protección si lo ordena el fiscal de oficio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. c, del Código Procesal Penal Federal (Ley N° 27.063) reconoce a la víctima el derecho a requerir las medidas de protección; no las supedita a la sola iniciativa oficiosa del fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "A obtener protección únicamente después de la sentencia condenatoria.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. c, del Código Procesal Penal Federal (Ley N° 27.063) habilita requerir las medidas de protección durante el proceso, no recién tras la condena."
+        },
+        {
+          "letra": "D",
+          "texto": "A la protección de sus bienes, pero no de su integridad física.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. c, del Código Procesal Penal Federal (Ley N° 27.063) abarca la seguridad de la víctima y de los testigos; la protección de la persona, familia y bienes también surge del art. 12. La opción restringe indebidamente el derecho."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Respecto del impulso de la persecución penal en delitos de acción pública, ¿qué prevé el Código sobre el querellante?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La víctima o su representante legal podrán provocar la persecución penal o intervenir en la ya iniciada por el fiscal, sin que ello altere las facultades de este último.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 87 del Código Procesal Penal Federal (Ley N° 27.063) regula el querellante autónomo: la víctima o su representante legal podrán provocar la persecución penal o intervenir en la ya iniciada por el fiscal, sin alterar las facultades de este."
+        },
+        {
+          "letra": "B",
+          "texto": "La víctima sólo puede acompañar al fiscal, sin facultad de provocar la persecución.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 87 del Código Procesal Penal Federal (Ley N° 27.063) habilita a la víctima a provocar la persecución penal, no a un rol de mero acompañamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "La intervención de la víctima como querellante exime al fiscal de sus responsabilidades.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 87 del Código Procesal Penal Federal (Ley N° 27.063) aclara que la participación de la víctima como querellante no altera las facultades del fiscal ni lo exime de sus responsabilidades."
+        },
+        {
+          "letra": "D",
+          "texto": "En los delitos de acción pública la víctima no puede ser querellante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 87 del Código Procesal Penal Federal (Ley N° 27.063) prevé precisamente el querellante en delitos de acción pública, habilitando a la víctima a constituirse como tal."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Para evitar la repetición de informes que revictimicen, ¿qué garantía contempla la legislación de protección integral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El juez puede considerar los informes ya elaborados por equipos interdisciplinarios de la administración pública, evitando producir nuevos informes que la revictimicen.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 29 de la Ley N° 26.485 (Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres) habilita al juez a considerar los informes ya elaborados por equipos interdisciplinarios de la administración pública, evitando producir nuevos informes que la revictimicen."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe repetirse todo informe en cada instancia, aunque ello implique nuevos exámenes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 29 de la Ley N° 26.485 busca precisamente evitar la producción de nuevos informes que revictimicen, por lo que no impone repetirlos en cada instancia."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo se admiten informes producidos por peritos de parte del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 29 de la Ley N° 26.485 habilita considerar informes de equipos interdisciplinarios de la administración pública e incluso de organizaciones idóneas de la sociedad civil; no los limita a peritos del imputado."
+        },
+        {
+          "letra": "D",
+          "texto": "Queda prohibida toda prueba sobre los daños sufridos por la mujer.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 29 de la Ley N° 26.485 no prohíbe la prueba de los daños; al contrario, prevé informes interdisciplinarios y rige amplitud probatoria (arts. 16, inc. i, y 31), evitando sólo la revictimización por informes innecesarios."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Conforme la Convención de Belém do Pará, ¿qué debe garantizar el Estado en el procedimiento para la mujer sometida a violencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Procedimientos legales justos y eficaces que incluyan medidas de protección, un juicio oportuno y el acceso efectivo a tales procedimientos.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 7, inc. f, de la Convención de Belém do Pará (Ley N° 24.632, Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer) obliga a establecer procedimientos legales justos y eficaces que incluyan medidas de protección, un juicio oportuno y el acceso efectivo a tales procedimientos."
+        },
+        {
+          "letra": "B",
+          "texto": "Un procedimiento exclusivamente conciliatorio que evite el juicio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7, inc. f, de la Convención de Belém do Pará (Ley N° 24.632) exige procedimientos justos y eficaces con juicio oportuno; en concordancia con el art. 28 de la Ley N° 26.485, la conciliación está vedada en estos casos."
+        },
+        {
+          "letra": "C",
+          "texto": "La sustitución de las medidas de protección por una indemnización.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7, inc. f, de la Convención de Belém do Pará (Ley N° 24.632) incluye expresamente medidas de protección; el resarcimiento del art. 7, inc. g, es adicional y no las sustituye."
+        },
+        {
+          "letra": "D",
+          "texto": "El acceso a la justicia sólo en el ámbito público, no en el privado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7, inc. f, de la Convención de Belém do Pará (Ley N° 24.632), leído con su art. 3, garantiza una vida libre de violencia tanto en el ámbito público como en el privado, sin esa limitación."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "La denunciante es víctima en los términos del art. 79, CPPF (Ley N° 27.063) y puede constituirse en querellante autónoma en delitos de acción pública (arts. 80, inc. k, y 87), formalizando la pretensión por escrito y con asistencia letrada (art. 83). Tiene derecho a requerir medidas de protección para su seguridad y la de los testigos (art. 80, inc. c), reforzado por el deber estatal de procedimientos justos y eficaces con medidas de protección (art. 7, inc. f, Convención de Belém do Pará, Ley N° 24.632). Para evitar la revictimización, el juez puede valerse de informes interdisciplinarios ya producidos, sin repetir exámenes (art. 29, Ley N° 26.485)."
+}

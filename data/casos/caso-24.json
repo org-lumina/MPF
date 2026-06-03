@@ -1,0 +1,158 @@
+{
+  "caso_id": 24,
+  "eje": "Código Penal",
+  "planteo": "Sofía mantenía una relación de pareja con Diego, sin convivencia. Diego, que durante meses la había hostigado por redes sociales, vigilaba sus movimientos y la humillaba públicamente, decidió 'castigarla' por haberlo dejado. Para lograr el mayor sufrimiento, secuestró al hijo de ambos y, frente a Sofía, dio muerte al niño. No existían denuncias previas formales, pero testigos confirman el hostigamiento sostenido. El fiscal analiza el encuadre del homicidio del niño y de la situación de Sofía.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "El homicidio del niño, ejecutado para causar sufrimiento a Sofía (con quien Diego mantiene relación de pareja), encuadra principalmente en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Art. 80 inc. 12, por matar con el propósito de causar sufrimiento a una persona con quien se mantiene una relación del inciso 1.",
+          "correcta": true,
+          "explicacion": "El art. 80 inc. 12 del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, agrava el homicidio cometido 'Con el propósito de causar sufrimiento a una persona con la que se mantiene o ha mantenido una relación en los términos del inciso 1°'. La muerte del hijo para hacer sufrir a la pareja configura esta hipótesis (femicidio vinculado)."
+        },
+        {
+          "letra": "B",
+          "texto": "Art. 80 inc. 11, porque toda víctima en contexto de género es femicidio directo.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 11 del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, exige que la víctima sea una mujer; aquí la víctima del homicidio es un niño, por lo que el encuadre directo es el inc. 12 (homicidio para causar sufrimiento a la pareja)."
+        },
+        {
+          "letra": "C",
+          "texto": "Art. 80 inc. 7, por matar para preparar u ocultar otro delito.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 7 del Código Penal (Ley N° 11.179) supone matar para preparar, facilitar, consumar u ocultar otro delito o asegurar impunidad; aquí el fin no es ocultar otro delito sino causar sufrimiento a la pareja, propio del inc. 12."
+        },
+        {
+          "letra": "D",
+          "texto": "Homicidio simple del art. 79.",
+          "correcta": false,
+          "explicacion": "El art. 79 del Código Penal (Ley N° 11.179) rige solo en ausencia de agravantes; aquí concurre el propósito de causar sufrimiento a la pareja, agravante del art. 80 inc. 12 incorporado por la Ley N° 26.791."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Por qué el inc. 12 del art. 80 se conoce como 'femicidio vinculado' y cómo se relaciona con la perspectiva de género?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque la muerte de un tercero se utiliza como instrumento para dañar a la persona vinculada (la pareja), expresando una relación de poder y dominación analizada por las Orientaciones del MPF.",
+          "correcta": true,
+          "explicacion": "El art. 80 inc. 12 del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, castiga el homicidio cometido para causar sufrimiento a la persona del inc. 1. Las Orientaciones sobre perspectiva de género (MPF) explican que la violencia es una manifestación de relaciones de poder desiguales y de la creencia en un 'derecho a privilegios' del varón, que aquí se canaliza dañando a un tercero."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque solo se aplica si la víctima directa es también mujer.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 12 del Código Penal (Ley N° 11.179), incorporado por la Ley N° 26.791, no exige que la víctima directa sea mujer; lo decisivo es el propósito de causar sufrimiento a la persona con quien se mantiene o mantuvo la relación del inc. 1."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque requiere siempre que exista convivencia entre autor y persona vinculada.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 1 del Código Penal (Ley N° 11.179), al que remite el inc. 12 (Ley N° 26.791), abarca relaciones de pareja 'mediare o no convivencia', de modo que la convivencia no es requisito."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque es un atenuante del homicidio agravado.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 12 del Código Penal (Ley N° 11.179), incorporado por la Ley N° 26.791, es un agravante que conlleva pena perpetua según el encabezado del art. 80, no un atenuante."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El hostigamiento por redes, la vigilancia de movimientos y la humillación pública previa, según las Orientaciones del MPF, configuran principalmente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Violencia psicológica y violencia digital o telemática.",
+          "correcta": true,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) describen la violencia psicológica como la que degrada o controla mediante acoso, hostigamiento, vigilancia constante y humillación, y la violencia digital o telemática como la ejercida con asistencia de las tecnologías de la información y la comunicación. Ambas se verifican."
+        },
+        {
+          "letra": "B",
+          "texto": "Violencia obstétrica.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) limitan la violencia obstétrica al maltrato de personal de salud en torno al parto o post aborto, ajeno al caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Violencia política.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) definen la violencia política como la dirigida a menoscabar la participación política de las mujeres, supuesto que no concurre."
+        },
+        {
+          "letra": "D",
+          "texto": "Violencia económica.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) caracterizan la violencia económica/patrimonial por el daño a los recursos o bienes de la mujer; el hostigamiento y la vigilancia descriptos no afectan su patrimonio sino su integridad psíquica."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "La ausencia de denuncias formales previas, ¿impide tener por acreditado el contexto de violencia de género?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No; el contexto puede acreditarse por otros medios, como testimonios del hostigamiento sostenido, valorados con perspectiva de género.",
+          "correcta": true,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) sostienen que la violencia de género es un fenómeno que debe valorarse en su contexto y que sus formas suelen presentarse de manera concomitante; la prueba no se restringe a la denuncia formal, pudiendo acreditarse por testimonios y otros indicios."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí; sin denuncia previa formal el hecho nunca puede encuadrarse en el art. 80.",
+          "correcta": false,
+          "explicacion": "Ni el art. 80 del Código Penal (Ley N° 11.179) ni la Ley N° 26.791 exigen denuncia previa como condición del tipo; las Orientaciones del MPF admiten la acreditación del contexto por diversos medios."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí; solo la denuncia formal acredita la violencia económica.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) no condicionan la acreditación de ningún tipo de violencia a la denuncia formal; además, en el caso lo relevante es la violencia psicológica y digital, no la económica."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí; la falta de denuncia obliga a aplicar el art. 79.",
+          "correcta": false,
+          "explicacion": "El art. 79 del Código Penal (Ley N° 11.179) solo rige sin agravantes; la falta de denuncia formal no neutraliza el agravante del art. 80 inc. 12 ni obliga a recalificar, pudiendo acreditarse el contexto por otros medios."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si el fiscal sostuviera además que el homicidio se cometió con ensañamiento por el modo y el escenario elegidos, ¿qué relación habría entre los incisos del art. 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Podrían concurrir varios incisos del art. 80 (p. ej. 2 y 12) sin alterar la pena, que sigue siendo perpetua.",
+          "correcta": true,
+          "explicacion": "El art. 80 del Código Penal (Ley N° 11.179) prevé una única consecuencia (reclusión o prisión perpetua) para todos sus incisos; la concurrencia de varias agravantes -p. ej. ensañamiento del inc. 2 y propósito de causar sufrimiento del inc. 12 (este último incorporado por la Ley N° 26.791)- no modifica esa escala, aunque puede ponderarse en la individualización."
+        },
+        {
+          "letra": "B",
+          "texto": "La concurrencia de dos incisos eleva automáticamente la pena por encima de la perpetua.",
+          "correcta": false,
+          "explicacion": "El art. 80 del Código Penal (Ley N° 11.179) establece pena perpetua como máximo legal; no existe agravamiento por encima de la perpetua por sumar incisos, sin perjuicio de la eventual aplicación del art. 52."
+        },
+        {
+          "letra": "C",
+          "texto": "Si concurren dos incisos debe elegirse el art. 81.",
+          "correcta": false,
+          "explicacion": "El art. 81 del Código Penal (Ley N° 11.179) regula homicidios atenuados (emoción violenta y preterintencional); no procede ante la concurrencia de agravantes del art. 80."
+        },
+        {
+          "letra": "D",
+          "texto": "El ensañamiento desplaza y excluye al inciso 12.",
+          "correcta": false,
+          "explicacion": "El art. 80 del Código Penal (Ley N° 11.179) no establece que el inc. 2 desplace al inc. 12; ambas agravantes pueden coexistir en un mismo hecho con idéntica consecuencia de pena perpetua."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "La muerte del hijo, ejecutada para hacer sufrir a la pareja, encuadra en el art. 80 inc. 12 (femicidio vinculado) del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, con remisión al vínculo del inc. 1. El contexto de violencia de género (psicológica y digital, según los tipos de la Ley 26.485 recogidos por las Orientaciones del MPF) se acredita por testimonios, sin necesidad de denuncia formal. La pena es perpetua y la eventual concurrencia con otros incisos (p. ej. ensañamiento, inc. 2) no la altera. No se plantea atenuación porque el inc. 12 no la admite."
+}

@@ -1,0 +1,158 @@
+{
+  "caso_id": 27,
+  "eje": "Código Penal",
+  "planteo": "Gómez es funcionario público a cargo de la habilitación de comercios en un municipio. Un comerciante le ofrece y entrega una suma de dinero para que apruebe rápidamente un expediente que, en rigor, no reunía todos los requisitos. Gómez recibe el dinero por intermedio de su secretario y firma la habilitación. La fiscalía analiza las responsabilidades de Gómez, del comerciante y del secretario.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "La conducta de Gómez de recibir dinero, por intermedio de su secretario, para hacer algo relativo a sus funciones, encuadra en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cohecho pasivo, art. 256 del Código Penal.",
+          "correcta": true,
+          "explicacion": "El art. 256 del Código Penal (Ley N° 11.179) reprime al funcionario público que 'por sí o por persona interpuesta, recibiere dinero o cualquier otra dádiva o aceptare una promesa... para hacer, retardar o dejar de hacer algo relativo a sus funciones', con reclusión o prisión de uno a seis años e inhabilitación especial perpetua. Gómez recibió dinero por persona interpuesta para habilitar el expediente."
+        },
+        {
+          "letra": "B",
+          "texto": "Tráfico de influencias, art. 256 bis del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 256 bis del Código Penal (Ley N° 11.179) sanciona a quien recibe dinero para 'hacer valer indebidamente su influencia ante un funcionario público'; aquí Gómez no intermedia ante otro funcionario, sino que actúa en el ámbito de sus propias funciones, lo que configura cohecho del art. 256."
+        },
+        {
+          "letra": "C",
+          "texto": "Malversación de caudales públicos, art. 260 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 260 del Código Penal (Ley N° 11.179) reprime al funcionario que da a los caudales que administra una aplicación diferente de la debida; no contempla recibir dádivas, conducta propia del cohecho del art. 256."
+        },
+        {
+          "letra": "D",
+          "texto": "Abuso de autoridad, art. 248 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 248 del Código Penal (Ley N° 11.179) castiga al funcionario que dicta resoluciones u órdenes contrarias a las leyes o no ejecuta las que le incumben; la nota distintiva del caso es la recepción de dinero a cambio del acto, lo que desplaza la conducta al cohecho del art. 256."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "La conducta del comerciante que ofreció y entregó el dinero encuadra en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cohecho activo, art. 258 del Código Penal.",
+          "correcta": true,
+          "explicacion": "El art. 258 del Código Penal (Ley N° 11.179) reprime con prisión de uno a seis años al que 'directa o indirectamente diere u ofreciere dádivas en procura de alguna de las conductas reprimidas por los artículos 256 y 256 bis, primer párrafo'. El comerciante ofreció y entregó dinero para obtener la conducta del art. 256."
+        },
+        {
+          "letra": "B",
+          "texto": "Cohecho pasivo, art. 256 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 256 del Código Penal (Ley N° 11.179) tipifica la conducta del funcionario que recibe la dádiva, no la del particular que la ofrece o entrega; el comerciante no es funcionario y su conducta encuadra en el art. 258."
+        },
+        {
+          "letra": "C",
+          "texto": "Admisión de dádivas, art. 259 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 259 del Código Penal (Ley N° 11.179) reprime al funcionario que admite dádivas entregadas en consideración a su oficio (y, en su segundo párrafo, a quien las ofrece sin contraprestación funcional específica). En el caso la dádiva fue entregada para un acto concreto, lo que configura cohecho (arts. 256 y 258), no la mera admisión del art. 259."
+        },
+        {
+          "letra": "D",
+          "texto": "No comete delito por ser un particular.",
+          "correcta": false,
+          "explicacion": "El art. 258 del Código Penal (Ley N° 11.179) alcanza expresamente a cualquier persona que dé u ofrezca dádivas para obtener las conductas de los arts. 256 y 256 bis; la condición de particular no exime de responsabilidad."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El secretario que actuó como intermediario para recibir el dinero:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puede responder por el cohecho, pues el art. 256 contempla la recepción 'por persona interpuesta'.",
+          "correcta": true,
+          "explicacion": "El art. 256 del Código Penal (Ley N° 11.179) prevé que el funcionario reciba la dádiva 'por sí o por persona interpuesta'; el secretario que actúa como persona interpuesta participa en la maniobra de cohecho, sin perjuicio del grado de participación que corresponda según las reglas generales."
+        },
+        {
+          "letra": "B",
+          "texto": "No tiene ninguna responsabilidad porque no firmó la habilitación.",
+          "correcta": false,
+          "explicacion": "El art. 256 del Código Penal (Ley N° 11.179) abarca la recepción 'por persona interpuesta', de modo que la intervención del intermediario es jurídicamente relevante aunque no haya firmado el acto."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo responde por malversación, art. 261 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 261 del Código Penal (Ley N° 11.179) reprime al funcionario que sustrae caudales cuya administración le fue confiada; no describe la intermediación para recibir una dádiva, propia del cohecho del art. 256."
+        },
+        {
+          "letra": "D",
+          "texto": "Responde por abuso de autoridad, art. 248 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 248 del Código Penal (Ley N° 11.179) sanciona el dictado de resoluciones contrarias a la ley; la conducta del secretario fue la intermediación en la recepción del dinero, encuadrable en el cohecho del art. 256."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Respecto de la multa adicional aplicable a los delitos de cohecho de este capítulo:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se impone conjuntamente una multa de dos a cinco veces el monto del beneficio o dádiva, conforme el art. 259 bis del Código Penal.",
+          "correcta": true,
+          "explicacion": "El art. 259 bis del Código Penal (Ley N° 11.179), incorporado por el art. 31 de la Ley N° 27.401, dispone que respecto de los delitos del capítulo (cohecho y tráfico de influencias) 'se impondrá conjuntamente una multa de dos (2) a cinco (5) veces del monto o valor del dinero, dádiva, beneficio indebido o ventaja pecuniaria ofrecida o entregada'."
+        },
+        {
+          "letra": "B",
+          "texto": "No corresponde multa, solo prisión e inhabilitación.",
+          "correcta": false,
+          "explicacion": "El art. 259 bis del Código Penal (Ley N° 11.179), incorporado por la Ley N° 27.401, prevé expresamente una multa conjunta para los delitos del capítulo, además de las penas de prisión e inhabilitación."
+        },
+        {
+          "letra": "C",
+          "texto": "La multa es del veinte al cincuenta por ciento de la cantidad distraída.",
+          "correcta": false,
+          "explicacion": "Esa multa porcentual corresponde al art. 260 del Código Penal (Ley N° 11.179), sobre malversación, no al cohecho; la multa del cohecho es la del art. 259 bis (dos a cinco veces el valor)."
+        },
+        {
+          "letra": "D",
+          "texto": "La multa solo se aplica al particular, no al funcionario.",
+          "correcta": false,
+          "explicacion": "El art. 259 bis del Código Penal (Ley N° 11.179) se refiere a 'los delitos previstos en este Capítulo' sin distinguir entre funcionario y particular, por lo que alcanza a ambos."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "La pena de inhabilitación prevista para el funcionario en el cohecho pasivo del art. 256 es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inhabilitación especial perpetua.",
+          "correcta": true,
+          "explicacion": "El art. 256 del Código Penal (Ley N° 11.179) reprime el cohecho pasivo con 'reclusión o prisión de uno a seis años e inhabilitación especial perpetua'."
+        },
+        {
+          "letra": "B",
+          "texto": "Inhabilitación especial de un mes a un año.",
+          "correcta": false,
+          "explicacion": "Esa inhabilitación temporal corresponde a otras figuras (p. ej. el art. 249 del Código Penal -Ley N° 11.179- sobre omisión de actos de oficio), no al cohecho del art. 256, que prevé inhabilitación especial perpetua."
+        },
+        {
+          "letra": "C",
+          "texto": "Inhabilitación absoluta de uno a seis años.",
+          "correcta": false,
+          "explicacion": "La inhabilitación absoluta de uno a seis años es la prevista en el art. 259 del Código Penal (Ley N° 11.179) para la admisión de dádivas, no en el cohecho del art. 256, que establece inhabilitación especial perpetua."
+        },
+        {
+          "letra": "D",
+          "texto": "Inhabilitación especial por doble tiempo de la condena.",
+          "correcta": false,
+          "explicacion": "La inhabilitación 'por doble tiempo' es típica de figuras como el art. 248 del Código Penal (Ley N° 11.179); el art. 256 prevé inhabilitación especial perpetua."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Gómez comete cohecho pasivo (art. 256 del Código Penal, Ley N° 11.179) al recibir, por persona interpuesta, dinero para un acto de su función; el comerciante comete cohecho activo (art. 258); el secretario, como persona interpuesta, queda alcanzado por el art. 256 según su grado de participación. A las penas de prisión e inhabilitación especial perpetua del art. 256 se suma la multa conjunta de dos a cinco veces el valor de la dádiva (art. 259 bis, incorporado por la Ley N° 27.401)."
+}

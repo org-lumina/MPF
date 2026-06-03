@@ -1,0 +1,158 @@
+{
+  "caso_id": 15,
+  "eje": "Código Penal",
+  "planteo": "Daniel quiere matar a su rival. Apunta y dispara su arma, pero el cartucho estaba descargado y resulta absolutamente inidóneo para producir la muerte; en realidad nunca pudo haber matado con ese medio. Daniel creía que el arma funcionaba. Se discute el tratamiento del llamado delito imposible.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué norma del Código Penal regula el delito imposible?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El art. 44, último párrafo, del Código Penal.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 44, último párrafo, del Código Penal (Ley N° 11.179) regula el delito imposible: si el delito fuera imposible la pena se disminuirá en la mitad y podrá reducírsela al mínimo legal o eximirse de ella."
+        },
+        {
+          "letra": "B",
+          "texto": "El art. 54 del Código Penal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) regula el concurso ideal, no el delito imposible."
+        },
+        {
+          "letra": "C",
+          "texto": "El art. 43 del Código Penal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) trata el desistimiento voluntario; el delito imposible está en el art. 44, último párrafo."
+        },
+        {
+          "letra": "D",
+          "texto": "El art. 55 del Código Penal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 del Código Penal (Ley N° 11.179) regula el concurso real, no el delito imposible."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Según el art. 44, ¿qué tratamiento de pena prevé el delito imposible?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La pena se disminuirá en la mitad y podrá reducírsela al mínimo legal o eximirse de ella, según el grado de peligrosidad revelada.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 44, último párrafo, del Código Penal (Ley N° 11.179) dispone exactamente eso: disminución a la mitad, posible reducción al mínimo legal o exención, según el grado de peligrosidad revelada por el delincuente."
+        },
+        {
+          "letra": "B",
+          "texto": "La pena íntegra del delito consumado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) prevé una fuerte atenuación para el delito imposible, no la pena íntegra."
+        },
+        {
+          "letra": "C",
+          "texto": "La pena se duplica por la peligrosidad del autor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) atenúa la pena en el delito imposible; no la duplica."
+        },
+        {
+          "letra": "D",
+          "texto": "La pena siempre se elimina de modo automático.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) permite eximir de pena, pero no de forma automática: depende del grado de peligrosidad revelada por el delincuente."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué pauta utiliza el art. 44 para graduar la pena (o la exención) en el delito imposible?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El grado de peligrosidad revelada por el delincuente.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 44, último párrafo, del Código Penal (Ley N° 11.179) remite al 'grado de peligrosidad revelada por el delincuente' para reducir al mínimo o eximir de pena."
+        },
+        {
+          "letra": "B",
+          "texto": "El monto del daño efectivamente causado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. En el delito imposible no hay daño efectivo; el art. 44 del Código Penal (Ley N° 11.179) atiende a la peligrosidad revelada, no al daño."
+        },
+        {
+          "letra": "C",
+          "texto": "El número de partícipes en el hecho.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) no gradúa el delito imposible por el número de partícipes, sino por la peligrosidad del autor."
+        },
+        {
+          "letra": "D",
+          "texto": "La reincidencia del autor exclusivamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) usa la peligrosidad revelada como pauta general; no se limita a la reincidencia."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál es la diferencia entre el delito imposible y la tentativa común del art. 42?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el delito imposible el medio o el objeto eran inidóneos para consumar; en la tentativa común la consumación no se logra por circunstancias ajenas pese a ser posible.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 42 del Código Penal (Ley N° 11.179) supone una ejecución apta que no se consuma por causas ajenas; el delito imposible (art. 44, último párrafo) parte de la inidoneidad que impedía consumar desde el inicio."
+        },
+        {
+          "letra": "B",
+          "texto": "No hay diferencia: ambos reciben pena íntegra.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ambos se atenúan respecto del consumado, y el delito imposible tiene un régimen aún más benigno (art. 44, Código Penal Ley N° 11.179); ninguno recibe pena íntegra."
+        },
+        {
+          "letra": "C",
+          "texto": "El delito imposible siempre se castiga más que la tentativa común.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) prevé para el delito imposible una atenuación mayor (mitad, mínimo legal o exención), no un castigo más severo que la tentativa común."
+        },
+        {
+          "letra": "D",
+          "texto": "El delito imposible exige desistimiento voluntario.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El desistimiento voluntario es el art. 43 del Código Penal (Ley N° 11.179); el delito imposible del art. 44 se basa en la inidoneidad, no en el desistimiento."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si el tribunal entendiera que la peligrosidad revelada por Daniel fue mínima, ¿qué solución habilita el art. 44?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir la pena al mínimo legal o incluso eximir de ella.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 44, último párrafo, del Código Penal (Ley N° 11.179) permite, según el grado de peligrosidad, reducir la pena al mínimo legal o eximir de ella en el delito imposible."
+        },
+        {
+          "letra": "B",
+          "texto": "Aplicar la suma aritmética de penas del art. 55.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La suma aritmética es del concurso real (art. 55, Código Penal Ley N° 11.179) y nada tiene que ver con el delito imposible del art. 44."
+        },
+        {
+          "letra": "C",
+          "texto": "Aplicar la pena de reclusión perpetua.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) atenúa la pena del delito imposible; no habilita reclusión perpetua, menos con peligrosidad mínima."
+        },
+        {
+          "letra": "D",
+          "texto": "Unificar condenas conforme al art. 58.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) regula la unificación de penas y condenas, ajeno a la graduación del delito imposible del art. 44."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Daniel disparó con un medio absolutamente inidóneo: delito imposible (art. 44, último párrafo, Código Penal Ley N° 11.179). La pena se disminuye en la mitad y, según el grado de peligrosidad revelada, puede reducirse al mínimo legal o eximirse. Se distingue de la tentativa común del art. 42 (medio idóneo, no consumación por causa ajena) y del desistimiento del art. 43 (abandono voluntario)."
+}

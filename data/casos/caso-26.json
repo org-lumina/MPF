@@ -1,0 +1,158 @@
+{
+  "caso_id": 26,
+  "eje": "Código Penal",
+  "planteo": "Andrés mató a su madre, Marta, a quien venía maltratando y de quien controlaba la pensión y los movimientos bancarios. El hecho ocurrió tras una negativa de Marta a entregarle dinero. La defensa pretende encuadrar el hecho como homicidio simple y, subsidiariamente, alega 'circunstancias extraordinarias de atenuación' por el supuesto deterioro de la convivencia. El fiscal debe determinar el encuadre y los agravantes aplicables.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "El homicidio de la madre por el hijo encuadra, en cuanto al vínculo, en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Art. 80 inc. 1, por ser la víctima ascendiente del autor.",
+          "correcta": true,
+          "explicacion": "El art. 80 inc. 1 del Código Penal (Ley N° 11.179), sustituido por el art. 1° de la Ley N° 26.791, agrava el homicidio del 'ascendiente'. La madre es ascendiente del autor, por lo que rige este inciso."
+        },
+        {
+          "letra": "B",
+          "texto": "Art. 80 inc. 11, porque toda víctima mujer configura femicidio.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 11 del Código Penal (Ley N° 11.179), incorporado por la Ley N° 26.791, requiere no solo que la víctima sea mujer sino que medie violencia de género en los términos de las Orientaciones del MPF; el vínculo aplicable de base es el inc. 1 (ascendiente)."
+        },
+        {
+          "letra": "C",
+          "texto": "Art. 80 inc. 12, por causar sufrimiento a un tercero.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 12 del Código Penal (Ley N° 11.179), incorporado por la Ley N° 26.791, supone matar a alguien para hacer sufrir a la persona del inc. 1; aquí la víctima directa es la propia ascendiente, lo que encuadra en el inc. 1."
+        },
+        {
+          "letra": "D",
+          "texto": "Homicidio simple del art. 79.",
+          "correcta": false,
+          "explicacion": "El art. 79 del Código Penal (Ley N° 11.179) rige sin agravantes; matar a un ascendiente activa el agravante del art. 80 inc. 1, por lo que no es homicidio simple."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Puede además calificarse como femicidio (art. 80 inc. 11)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se acredita que un hombre mató a una mujer mediando violencia de género, lo que puede concurrir con el inc. 1.",
+          "correcta": true,
+          "explicacion": "El art. 80 inc. 11 del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, no exige relación de pareja: basta que un hombre mate a una mujer mediando violencia de género. El maltrato y el control patrimonial sobre la madre son violencia de género según las Orientaciones del MPF, y el inc. 11 puede concurrir con el inc. 1."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el inc. 11 solo se aplica entre parejas o ex parejas.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 11 del Código Penal (Ley N° 11.179), incorporado por la Ley N° 26.791, no se limita a parejas; alude genéricamente a 'una mujer' víctima de un hombre mediando violencia de género, lo que abarca el vínculo materno-filial."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque entre familiares solo rige el inc. 1.",
+          "correcta": false,
+          "explicacion": "El art. 80 del Código Penal (Ley N° 11.179) admite la concurrencia de varios incisos; el vínculo (inc. 1) y el femicidio (inc. 11, Ley N° 26.791) no se excluyen entre sí."
+        },
+        {
+          "letra": "D",
+          "texto": "No, porque el control patrimonial no es violencia de género.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) reconocen expresamente la violencia económica/patrimonial (control sobre los ingresos y bienes de la mujer) como un tipo de violencia de género, de modo que sí puede sustentar el inc. 11."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El control de la pensión y de los movimientos bancarios de Marta corresponde, según las Orientaciones del MPF, a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Violencia económica y patrimonial.",
+          "correcta": true,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) definen la violencia económica y patrimonial como la dirigida a ocasionar daño en los recursos de la mujer, incluyendo el control sobre sus ingresos y la limitación de los recursos destinados a sus necesidades, lo que abarca el manejo de la pensión y de las cuentas."
+        },
+        {
+          "letra": "B",
+          "texto": "Violencia sexual.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) circunscriben la violencia sexual a la vulneración del derecho a decidir sobre la vida sexual o reproductiva, ajena al control patrimonial del caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Violencia institucional.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) reservan la violencia institucional para la ejercida por funcionarios o agentes públicos; el autor es el hijo, no un funcionario en ejercicio de funciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Violencia política.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) definen la violencia política por el menoscabo de la participación política de las mujeres, supuesto inexistente en el caso."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "La pretensión subsidiaria de aplicar la atenuación del art. 80 in fine por el 'deterioro de la convivencia':",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No prospera, porque hubo actos de violencia previos contra la víctima y el hecho se inscribe en un contexto de violencia de género.",
+          "correcta": true,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según art. 3° de la Ley N° 26.791, excluye la atenuación respecto de quien hubiera realizado actos de violencia contra la mujer víctima; el maltrato y el control patrimonial son tales actos, según las Orientaciones del MPF, por lo que la atenuante no procede."
+        },
+        {
+          "letra": "B",
+          "texto": "Prospera, porque la atenuante se aplica a todos los incisos del art. 80.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), según la Ley N° 26.791, restringe la atenuación al caso del inc. 1 y la condiciona a la inexistencia de violencia previa contra la mujer víctima; no es de aplicación general."
+        },
+        {
+          "letra": "C",
+          "texto": "Prospera, porque la negativa a dar dinero es una circunstancia extraordinaria.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según la Ley N° 26.791, no procede ante violencia de género previa; además, la negativa de la víctima a entregar dinero -en un cuadro de violencia económica descripto por las Orientaciones del MPF- no constituye una circunstancia extraordinaria de atenuación."
+        },
+        {
+          "letra": "D",
+          "texto": "Prospera parcialmente, reduciendo la pena a la mitad.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179) no prevé una reducción 'a la mitad' sino una escala de ocho a veinticinco años, y solo cuando procede; en el caso no procede por la violencia previa."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Frente a la concurrencia del inc. 1 (ascendiente) y, en su caso, del inc. 11 (femicidio), la pena que corresponde es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reclusión o prisión perpetua, pudiendo aplicarse el art. 52.",
+          "correcta": true,
+          "explicacion": "El encabezado del art. 80 del Código Penal (Ley N° 11.179) impone reclusión o prisión perpetua para todos sus incisos, incluidos el inc. 1 (sustituido por el art. 1° de la Ley N° 26.791) y el inc. 11 (incorporado por el art. 2° de la misma ley), con posible aplicación del art. 52."
+        },
+        {
+          "letra": "B",
+          "texto": "Prisión de uno a tres años.",
+          "correcta": false,
+          "explicacion": "Esa escala corresponde a figuras atenuadas como el art. 81 inc. a) del Código Penal (Ley N° 11.179), no al homicidio agravado del art. 80."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión de ocho a veinticinco años.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según la Ley N° 26.791, contempla esa escala solo para el inc. 1 con circunstancias extraordinarias; aquí la atenuante no procede, por lo que rige la pena perpetua."
+        },
+        {
+          "letra": "D",
+          "texto": "Multa e inhabilitación especial.",
+          "correcta": false,
+          "explicacion": "La multa e inhabilitación son penas previstas para otros delitos (p. ej. ciertos delitos contra la administración pública); el art. 80 del Código Penal (Ley N° 11.179) prevé pena privativa de libertad perpetua."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El homicidio de la madre por el hijo encuadra en el art. 80 inc. 1 (ascendiente) del Código Penal (Ley N° 11.179), sustituido por el art. 1° de la Ley N° 26.791, y puede concurrir con el inc. 11 (femicidio) -incorporado por el art. 2° de la misma ley- pues el inc. 11 no exige relación de pareja y el maltrato y control patrimonial constituyen violencia de género (económica/patrimonial, según las Orientaciones del MPF). La atenuación del art. 80 in fine (art. 3° de la Ley N° 26.791) no procede por la violencia previa. Pena perpetua."
+}

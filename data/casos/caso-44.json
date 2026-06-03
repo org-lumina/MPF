@@ -1,0 +1,158 @@
+{
+  "caso_id": 44,
+  "eje": "CPPF",
+  "planteo": "Recibida una denuncia por administración fraudulenta, el fiscal forma su legajo de investigación y realiza diligencias. La defensa, ya formalizada la investigación, pretende compulsar el legajo y cuestiona que el juez no haya tenido acceso a él. Paralelamente, en otro hecho conexo, el fiscal entiende que no se pudo individualizar al autor y dispone el archivo, que la víctima pretende revisar. Deben analizarse el régimen del legajo, su valor probatorio, la valoración inicial y la revisión de la decisión fiscal.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Respecto del legajo de investigación del fiscal, ¿qué afirmación es correcta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pertenece al fiscal, no está sujeto a formalidad alguna y en ningún caso podrá ser consultado por el órgano jurisdiccional.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 230 (Legajo de investigación) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que el legajo pertenece al fiscal, no está sujeto a formalidad alguna y en ningún caso podrá ser consultado por el órgano jurisdiccional."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe ser remitido íntegramente al juez para su control formal antes de cada audiencia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 230 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe expresamente que el órgano jurisdiccional consulte el legajo del fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Está sujeto a las formalidades de las actas judiciales bajo pena de nulidad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 230 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el legajo no está sujeto a formalidad alguna, salvo las normas prácticas de registro del Procurador General."
+        },
+        {
+          "letra": "D",
+          "texto": "La defensa nunca puede acceder a la información recolectada en él.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 230 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) garantiza que la defensa acceda a toda la información recolectada en el legajo luego de la formalización."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué valor tienen las actuaciones de la investigación preparatoria?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No tienen valor para fundar la condena, pero pueden invocarse para una medida cautelar, plantear excepciones e instar el sobreseimiento.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 231 (Valor probatorio) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que las actuaciones de la investigación preparatoria no tienen valor para fundar la condena, aunque pueden invocarse para medidas cautelares, excepciones y para instar el sobreseimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Tienen pleno valor probatorio para fundar la condena del acusado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 231 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) niega valor a esas actuaciones para fundar la condena, que se basa en la prueba producida en el debate."
+        },
+        {
+          "letra": "C",
+          "texto": "Carecen de todo valor para cualquier finalidad del proceso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 231 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) permite invocarlas para fundar medidas cautelares, plantear excepciones e instar el sobreseimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo sirven para fundar la pena, no la declaración de culpabilidad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 231 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no distingue entre culpabilidad y pena: las actuaciones no fundan la condena, sin perjuicio de los usos cautelares y de excepciones que autoriza."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Recibida la denuncia, ¿cuál de las siguientes decisiones puede adoptar o proponer el fiscal en la valoración inicial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La desestimación por inexistencia de delito, el archivo, la aplicación de un criterio de oportunidad, iniciar la investigación previa a la formalización, formalizar o aplicar un procedimiento especial.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 248 (Valoración inicial) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) enumera precisamente esas decisiones que el fiscal puede adoptar o proponer en el plazo de quince días tras formar el legajo."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente formalizar la investigación, sin otras alternativas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 248 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ofrece varias alternativas además de la formalización, como la desestimación, el archivo o el criterio de oportunidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Dictar directamente el sobreseimiento del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El sobreseimiento es una decisión jurisdiccional posterior (arts. 269 y siguientes del Código Procesal Penal Federal, Ley N° 27.063, mod. Ley N° 27.482); en la valoración inicial del art. 248 el fiscal adopta o propone las decisiones allí enumeradas."
+        },
+        {
+          "letra": "D",
+          "texto": "Imponer una pena en forma abreviada sin intervención del juez.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 248 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no contempla la imposición de pena por el fiscal; las decisiones enumeradas son de inicio o desestimación, no condenatorias."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Dispuesto el archivo por no haberse individualizado al autor, ¿qué puede hacer la víctima respecto de esa decisión fiscal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Requerir fundadamente, dentro del plazo de tres días, su revisión ante el superior del fiscal.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 252 (Control de la decisión fiscal) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita a la víctima a requerir fundadamente, dentro de los tres días, la revisión del archivo, desestimación o criterio de oportunidad ante el superior del fiscal."
+        },
+        {
+          "letra": "B",
+          "texto": "Apelar directamente ante los jueces con funciones de revisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 252 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) canaliza la revisión ante el superior del fiscal, no mediante recurso ante los jueces de revisión."
+        },
+        {
+          "letra": "C",
+          "texto": "Nada, porque la decisión de archivo es absolutamente irrecurrible para la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 252 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la revisión de la víctima ante el superior del fiscal; lo irrecurrible es la decisión que rechaza la aplicación del criterio (primer párrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "Solicitar al juez de garantías que dicte el sobreseimiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 252 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la revisión ante el superior del fiscal; no habilita a la víctima a pedir el sobreseimiento ante el juez."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "En qué consiste la formalización de la investigación preparatoria?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es el acto por el cual el fiscal comunica en audiencia al imputado, en presencia del juez, el hecho atribuido, su calificación jurídica, su grado de participación y los elementos de prueba con que cuenta.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 254 (Concepto) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) define la formalización como ese acto de comunicación en audiencia, a partir del cual comienza a correr el plazo de duración del proceso."
+        },
+        {
+          "letra": "B",
+          "texto": "Es la resolución del juez que ordena la apertura del juicio oral.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La apertura del juicio se dispone por el auto del art. 280 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482); la formalización del art. 254 es un acto previo del fiscal en audiencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Es el escrito de acusación que el fiscal presenta al cierre de la investigación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La acusación se regula en el art. 274 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482); la formalización del art. 254 es un acto anterior de comunicación de la imputación en audiencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Es la mera anotación del hecho en el legajo del fiscal sin comunicación al imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 254 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige la comunicación al imputado en audiencia y en presencia del juez, no una simple anotación interna en el legajo."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso integra el régimen del legajo (art. 230: pertenece al fiscal, sin formalidad, no consultable por el juez, accesible a la defensa tras la formalización) con el valor de las actuaciones preparatorias (art. 231: no fundan la condena, pero sí cautelares, excepciones y sobreseimiento). La valoración inicial del art. 248 fija el menú de decisiones del fiscal y, frente al archivo, la víctima cuenta con la revisión del art. 252 ante el superior del fiscal dentro de tres días. La formalización del art. 254 es el acto que comunica la imputación en audiencia y dispara el plazo del proceso, todo conforme el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

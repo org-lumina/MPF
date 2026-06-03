@@ -1,0 +1,158 @@
+{
+  "caso_id": 4,
+  "eje": "Código Penal",
+  "planteo": "Marcos intercepta a Paula en la vereda, la sujeta del brazo, la empuja contra una pared y le arrebata por la fuerza su cartera, dándose a la fuga. Paula no sufre lesiones de los arts. 90 o 91. Marcos no portaba armas ni actuó en banda ni en despoblado.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué tipo penal corresponde a la conducta de Marcos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hurto simple.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 162 del Código Penal (Ley N° 11.179) presupone ausencia de violencia; aquí Marcos empleó fuerza física sobre Paula."
+        },
+        {
+          "letra": "B",
+          "texto": "Robo simple.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 164 del Código Penal (Ley N° 11.179) reprime el apoderamiento ilegítimo de cosa mueble ajena con violencia física en las personas, como el empujón y la sujeción."
+        },
+        {
+          "letra": "C",
+          "texto": "Extorsión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 168 del Código Penal (Ley N° 11.179) exige intimidación para que la víctima entregue la cosa; aquí hubo apoderamiento directo con violencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Robo agravado con armas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 166 inc. 2 del Código Penal (Ley N° 11.179) requiere el uso de armas, que Marcos no portaba."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué elemento distingue al robo del hurto en este caso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El valor de la cosa sustraída.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ni el art. 162 ni el art. 164 del Código Penal (Ley N° 11.179) distinguen por el valor de la cosa."
+        },
+        {
+          "letra": "B",
+          "texto": "La violencia física ejercida sobre la persona.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 164 del Código Penal (Ley N° 11.179) añade al apoderamiento del art. 162 la fuerza en las cosas o la violencia en las personas, presente aquí."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la víctima sea mayor de edad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La edad de la víctima no es elemento típico del robo en el art. 164 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "El lugar público donde ocurrió.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El lugar no diferencia el robo del hurto; el dato relevante es la violencia (art. 164 del Código Penal -Ley N° 11.179-)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es la escala penal del robo simple?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prisión de un mes a seis años.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 164 del Código Penal (Ley N° 11.179) prevé prisión de un mes a seis años."
+        },
+        {
+          "letra": "B",
+          "texto": "Prisión de un mes a dos años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la pena del hurto simple del art. 162 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión o prisión de cinco a quince años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa escala corresponde al robo agravado del art. 166 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "Reclusión o prisión de diez a veinticinco años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa pena es la del robo seguido de homicidio del art. 165 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si Marcos hubiera amenazado a Paula con un arma de fuego para llevarse la cartera, ¿qué figura correspondería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Robo agravado por el uso de armas.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 166 inc. 2 del Código Penal (Ley N° 11.179) agrava el robo cometido con armas, elevándose la escala si el arma fuera de fuego."
+        },
+        {
+          "letra": "B",
+          "texto": "Robo simple, igual que sin arma.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El uso de armas desplaza la figura del art. 164 a la agravada del art. 166 inc. 2 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Amenazas del art. 149 bis.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 149 bis del Código Penal (Ley N° 11.179) cede frente al robo, donde la intimidación es medio para el apoderamiento (art. 166)."
+        },
+        {
+          "letra": "D",
+          "texto": "Extorsión del art. 168.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La extorsión del art. 168 del Código Penal (Ley N° 11.179) supone que la víctima entrega la cosa; en el robo el autor se apodera directamente."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si durante el robo, a raíz de la violencia, hubiera resultado la muerte de Paula, ¿qué calificación correspondería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Robo simple en concurso con homicidio culposo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 165 del Código Penal (Ley N° 11.179) prevé una figura específica para el robo con resultado de homicidio, desplazando esa solución."
+        },
+        {
+          "letra": "B",
+          "texto": "Robo seguido de homicidio del art. 165.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 165 del Código Penal (Ley N° 11.179) impone reclusión o prisión de diez a veinticinco años si con motivo u ocasión del robo resultare un homicidio."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo homicidio simple del art. 79.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Mediando el robo, rige la figura específica del art. 165 del Código Penal (Ley N° 11.179), no el homicidio simple aislado."
+        },
+        {
+          "letra": "D",
+          "texto": "Lesiones gravísimas del art. 91.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 91 del Código Penal (Ley N° 11.179) supone que la víctima sobrevive; habiendo muerte en ocasión del robo, aplica el art. 165."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Marcos se apoderó de la cartera con violencia física sobre Paula, lo que configura robo simple del art. 164 del Código Penal (Ley N° 11.179). El elemento que lo distingue del hurto (art. 162) es justamente la violencia en las personas. La pena es prisión de un mes a seis años (art. 164). De haber usado un arma de fuego, sería robo agravado del art. 166 inc. 2, con escala de cinco a quince años elevada en un tercio. Si de la violencia resultara la muerte de la víctima, aplicaría el robo seguido de homicidio del art. 165, con reclusión o prisión de diez a veinticinco años."
+}

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import type { SanitExamen, Letra } from "@/lib/tipos";
 
@@ -49,13 +50,17 @@ export default function RendirExamen({
   }
 
   return (
-    <section>
+    <section className="panel">
       <div className="examen-top">
-        <strong>Examen N° {examen.examen_id}</strong>
+        <span>
+          <Link href="/" className="volver-inicio">← Inicio</Link>
+          {"  ·  "}
+          <strong>Ingreso Democrático MPF — Examen N° {examen.examen_id}</strong>
+        </span>
         <span className="examen-meta">
           {respondidas}/{total} respondidas · {restantes} sin hacer
           {" · "}
-          <a href={`/examen?excluir=${examen.examen_id}`}>Otro examen</a>
+          <Link href={`/examen?excluir=${examen.examen_id}`}>Otro examen</Link>
         </span>
       </div>
 

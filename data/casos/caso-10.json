@@ -1,0 +1,158 @@
+{
+  "caso_id": 10,
+  "eje": "Código Penal",
+  "planteo": "Juan dispara un único disparo de arma de fuego que atraviesa a dos personas que estaban paradas una detrás de otra, hiriendo a ambas. Con una sola acción (un solo disparo) produce dos lesiones. La conducta encuadra simultáneamente en más de una sanción penal por la pluralidad de resultados, pero todo deriva de un único hecho.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué clase de concurso corresponde, en principio, cuando un solo hecho cae bajo más de una sanción penal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Concurso real, regido por el art. 55 del Código Penal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 55 del Código Penal (Ley N° 11.179) exige 'varios hechos independientes'; aquí hay un solo hecho (un disparo), por lo que rige el concurso ideal del art. 54."
+        },
+        {
+          "letra": "B",
+          "texto": "Concurso ideal, regido por el art. 54 del Código Penal.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 54 del Código Penal (Ley N° 11.179) define el concurso ideal: cuando 'un hecho' cae bajo más de una sanción penal se aplica solamente la que fije pena mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "Concurso aparente, resuelto por especialidad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El concurso aparente supone que una figura desplaza a otra por especialidad/consunción; aquí ambas sanciones concurren efectivamente sobre un hecho, lo que activa el art. 54 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "No hay concurso porque hubo una sola acción.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La unidad de acción no excluye el concurso: el art. 54 del Código Penal (Ley N° 11.179) regula precisamente el caso de un hecho bajo más de una sanción penal."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Según el art. 54, ¿cómo se determina la pena en el concurso ideal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se aplica solamente la sanción que fije pena mayor.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 54 del Código Penal (Ley N° 11.179) establece el principio de absorción: se aplica solamente la sanción que fije pena mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "Se suman aritméticamente las penas de cada figura.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La suma de máximos corresponde al concurso real (art. 55, Código Penal Ley N° 11.179); en el concurso ideal del art. 54 rige la absorción por la pena mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "Se aplica la pena menor de las figuras concurrentes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) manda aplicar la que fije pena MAYOR, no la menor."
+        },
+        {
+          "letra": "D",
+          "texto": "Se promedian las penas de ambas figuras.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) no prevé promediar penas: aplica solamente la sanción mayor."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es el elemento decisivo que distingue el concurso ideal (art. 54) del concurso real (art. 55)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El concurso ideal supone un solo hecho; el concurso real, varios hechos independientes.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 54 del Código Penal (Ley N° 11.179) habla de 'un hecho' y el art. 55 de 'varios hechos independientes': la unidad o pluralidad de hechos es el criterio distintivo."
+        },
+        {
+          "letra": "B",
+          "texto": "El concurso ideal solo se da en delitos dolosos y el real solo en culposos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ni el art. 54 ni el art. 55 del Código Penal (Ley N° 11.179) distinguen por la forma de culpabilidad; el criterio es la unidad o pluralidad de hechos."
+        },
+        {
+          "letra": "C",
+          "texto": "El concurso ideal requiere reincidencia previa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) no exige reincidencia; solo requiere un hecho bajo más de una sanción penal."
+        },
+        {
+          "letra": "D",
+          "texto": "El concurso ideal solo aplica a delitos con pena de multa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) no se limita a la pena de multa; rige cualquier hecho que caiga bajo más de una sanción penal."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si en lugar de un disparo Juan hubiera disparado dos veces, en momentos distintos y con decisiones separadas, hiriendo a una persona cada vez, ¿qué concurso habría?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seguiría siendo concurso ideal del art. 54.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Con dos acciones independientes hay pluralidad de hechos, lo que excluye el art. 54 del Código Penal (Ley N° 11.179) y configura concurso real."
+        },
+        {
+          "letra": "B",
+          "texto": "Concurso real del art. 55, por tratarse de varios hechos independientes.",
+          "correcta": true,
+          "explicacion": "Correcta. Dos disparos con decisiones separadas son varios hechos independientes: el art. 55 del Código Penal (Ley N° 11.179) rige el concurso real."
+        },
+        {
+          "letra": "C",
+          "texto": "Concurso aparente, porque ambos disparos son la misma figura.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La repetición de una misma figura en hechos distintos es concurso real (art. 55, Código Penal Ley N° 11.179), no concurso aparente."
+        },
+        {
+          "letra": "D",
+          "texto": "No habría concurso porque ambas víctimas sufrieron el mismo tipo de lesión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La identidad del tipo de resultado no borra la pluralidad de hechos independientes que activa el art. 55 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "En el concurso ideal del art. 54, la regla de aplicar 'la que fijare pena mayor' responde al principio de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Absorción de la pena menor por la mayor.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 54 del Código Penal (Ley N° 11.179) consagra el principio de absorción: la sanción mayor absorbe a la menor y se aplica solo aquélla."
+        },
+        {
+          "letra": "B",
+          "texto": "Acumulación material de todas las penas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La acumulación (suma de máximos) corresponde al concurso real del art. 55 del Código Penal (Ley N° 11.179), no al concurso ideal."
+        },
+        {
+          "letra": "C",
+          "texto": "Aspersión o combinación con un recargo proporcional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El sistema de aspersión es propio del concurso real (escala combinada del art. 55, Código Penal Ley N° 11.179); el art. 54 aplica pura absorción."
+        },
+        {
+          "letra": "D",
+          "texto": "Indeterminación de la pena hasta sentencia. [REVISIÓN HUMANA]",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) fija un criterio determinado (sanción mayor); no deja la pena indeterminada."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Un único disparo que hiere a dos personas es un solo hecho que cae bajo más de una sanción penal: concurso ideal (art. 54, Código Penal Ley N° 11.179), resuelto por absorción aplicando solo la pena mayor. El criterio que lo separa del concurso real (art. 55) es la unidad versus pluralidad de hechos: dos disparos con decisiones separadas habrían sido concurso real."
+}

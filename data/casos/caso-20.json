@@ -1,0 +1,158 @@
+{
+  "caso_id": 20,
+  "eje": "Código Penal",
+  "planteo": "Néstor planea un robo a una joyería. Hugo y Bruno ingresan juntos al local: Hugo reduce con un arma al empleado mientras Bruno fuerza las vitrinas y toma las joyas; ambos ejecutan de propia mano partes esenciales del apoderamiento. Sergio, ajeno al local, había proporcionado previamente las llaves maestras y el plano de la alarma, elementos sin los cuales el golpe no habría podido cometerse. Quique, un conocido, los alentó verbalmente desde afuera pero no aportó nada indispensable.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cómo se califica la intervención conjunta de Hugo y Bruno, que ejecutan de propia mano partes esenciales del hecho, según el art. 45 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Coautores, por tomar parte en la ejecución del hecho.",
+          "correcta": true,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) prevé la pena del delito para los que toman parte en la ejecución del hecho; Hugo y Bruno, que ejecutan de propia mano, son coautores."
+        },
+        {
+          "letra": "B",
+          "texto": "Cómplices secundarios, por cooperar de otro modo.",
+          "correcta": false,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) regula a quien coopera 'de cualquier otro modo'; quien ejecuta el hecho no es cómplice secundario sino coautor del art. 45."
+        },
+        {
+          "letra": "C",
+          "texto": "Instigadores, por determinar a otro a cometer el delito.",
+          "correcta": false,
+          "explicacion": "El art. 45 in fine del Código Penal (Ley N° 11.179) reserva la instigación a quien determina a otro; Hugo y Bruno ejecutan personalmente, no instigan."
+        },
+        {
+          "letra": "D",
+          "texto": "Encubridores del hecho ya consumado.",
+          "correcta": false,
+          "explicacion": "El encubrimiento es un delito autónomo posterior; quienes ejecutan el apoderamiento son coautores conforme al art. 45 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué rol cumple Sergio, que aportó las llaves maestras y el plano de la alarma sin los cuales el golpe no podía cometerse, según el art. 45 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cómplice primario (necesario), por prestar un auxilio sin el cual no habría podido cometerse el hecho.",
+          "correcta": true,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) equipara en pena a quienes prestan al autor un auxilio o cooperación 'sin los cuales no habría podido cometerse', supuesto de la complicidad primaria de Sergio."
+        },
+        {
+          "letra": "B",
+          "texto": "Cómplice secundario, por una cooperación prescindible.",
+          "correcta": false,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) abarca cooperaciones prescindibles; aquí el aporte fue indispensable, lo que lo ubica en el art. 45 (complicidad primaria)."
+        },
+        {
+          "letra": "C",
+          "texto": "Coautor, por ejecutar parte del hecho.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) distingue ejecutar el hecho de prestar auxilio necesario; Sergio no ingresó al local ni ejecutó el apoderamiento, por lo que no es coautor."
+        },
+        {
+          "letra": "D",
+          "texto": "Instigador, por aportar el plano.",
+          "correcta": false,
+          "explicacion": "El art. 45 in fine del Código Penal (Ley N° 11.179) define al instigador como quien determina a otro a cometer el delito; aportar medios no es determinar la voluntad."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Según el art. 45 del Código Penal (Ley N° 11.179), ¿qué pena corresponde al cómplice primario y al instigador?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La misma pena establecida para el delito (la del autor).",
+          "correcta": true,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) dispone que el cómplice necesario tendrá la pena establecida para el delito y que en la misma pena incurren quienes determinaron directamente a otro a cometerlo."
+        },
+        {
+          "letra": "B",
+          "texto": "La pena del delito disminuida de un tercio a la mitad.",
+          "correcta": false,
+          "explicacion": "Esa disminución corresponde a la complicidad secundaria del art. 46 del Código Penal (Ley N° 11.179), no al cómplice primario ni al instigador del art. 45."
+        },
+        {
+          "letra": "C",
+          "texto": "La pena del delito culposo.",
+          "correcta": false,
+          "explicacion": "La pena culposa corresponde al exceso del art. 35 del Código Penal (Ley N° 11.179), ajeno a la participación criminal del art. 45."
+        },
+        {
+          "letra": "D",
+          "texto": "La mitad del mínimo legal de la escala.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) no fija 'la mitad del mínimo'; impone la misma pena del delito al cómplice necesario y al instigador."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cómo describe el art. 45 del Código Penal (Ley N° 11.179) al instigador?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El que hubiese determinado directamente a otro a cometer el delito.",
+          "correcta": true,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) establece que en la misma pena incurren 'los que hubiesen determinado directamente a otro a cometerlo'."
+        },
+        {
+          "letra": "B",
+          "texto": "El que presta una ayuda posterior cumpliendo promesas anteriores.",
+          "correcta": false,
+          "explicacion": "Esa conducta corresponde al cómplice secundario del art. 46 del Código Penal (Ley N° 11.179), no al instigador del art. 45."
+        },
+        {
+          "letra": "C",
+          "texto": "El que toma parte en la ejecución del hecho.",
+          "correcta": false,
+          "explicacion": "Tomar parte en la ejecución define al coautor en el art. 45 del Código Penal (Ley N° 11.179); el instigador no ejecuta, determina a otro."
+        },
+        {
+          "letra": "D",
+          "texto": "El que coopera de cualquier otro modo a la ejecución.",
+          "correcta": false,
+          "explicacion": "Cooperar 'de cualquier otro modo' corresponde a la complicidad secundaria del art. 46 del Código Penal (Ley N° 11.179), no a la instigación."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Quique solo alentó verbalmente desde afuera sin aportar nada indispensable ni determinar la decisión ya tomada. ¿Cuál es el encuadre más ajustado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cómplice secundario del art. 46, por cooperar de otro modo no indispensable.",
+          "correcta": true,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) reprime a quienes 'cooperen de cualquier otro modo a la ejecución', con pena disminuida; el aliento prescindible a un plan ya resuelto encuadra como complicidad secundaria. [REVISIÓN HUMANA]"
+        },
+        {
+          "letra": "B",
+          "texto": "Instigador del art. 45, por alentar el hecho.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) exige determinar directamente la voluntad de otro; si la decisión ya estaba tomada, el aliento no constituye instigación."
+        },
+        {
+          "letra": "C",
+          "texto": "Coautor del art. 45, por su presencia en las inmediaciones.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) requiere tomar parte en la ejecución; la mera presencia exterior sin aporte ejecutivo no constituye coautoría."
+        },
+        {
+          "letra": "D",
+          "texto": "Cómplice primario del art. 45, por su aporte.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) reserva la complicidad primaria al auxilio 'sin el cual no habría podido cometerse'; el aliento prescindible no cumple ese estándar."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Hugo y Bruno son coautores: toman parte en la ejecución del hecho (art. 45 del Código Penal, Ley N° 11.179) (P1). Sergio es cómplice primario o necesario, pues prestó un auxilio sin el cual el delito no habría podido cometerse (art. 45) (P2), y tanto el cómplice necesario como el instigador reciben la misma pena del delito (art. 45) (P3). El instigador se define como quien determina directamente a otro a cometerlo (art. 45) (P4). Quique, que solo alentó de modo prescindible un plan ya resuelto, encuadra mejor como cómplice secundario del art. 46, con pena disminuida de un tercio a la mitad (P5)."
+}

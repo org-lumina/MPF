@@ -1,0 +1,158 @@
+{
+  "caso_id": 17,
+  "eje": "Código Penal",
+  "planteo": "Lucía, médica, presencia cómo un hombre desconocido golpea brutalmente a una mujer (Sofía) en la vía pública intentando arrastrarla a un auto. Lucía interviene, empuja al agresor y le quita las llaves del vehículo, lesionándolo levemente en el forcejeo. Sofía no había provocado de modo alguno al agresor. Lucía es totalmente ajena al conflicto previo entre ambos.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué inciso del art. 34 del Código Penal (Ley N° 11.179) ampara la intervención de Lucía en favor de Sofía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inc. 6, legítima defensa propia.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 6 del Código Penal (Ley N° 11.179) regula la defensa propia o de los propios derechos; Lucía no se defiende a sí misma sino a un tercero."
+        },
+        {
+          "letra": "B",
+          "texto": "Inc. 7, legítima defensa de la persona o derechos de otro.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) ampara a quien obra en defensa de la persona o derechos de otro, que es exactamente la situación de Lucía respecto de Sofía."
+        },
+        {
+          "letra": "C",
+          "texto": "Inc. 3, estado de necesidad.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) supone un conflicto entre bienes sin agresor; aquí hay una agresión ilegítima de una persona, propia de la defensa de terceros."
+        },
+        {
+          "letra": "D",
+          "texto": "Inc. 4, cumplimiento de un deber.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 4 del Código Penal (Ley N° 11.179) requiere un deber jurídico o el ejercicio de autoridad o cargo; la intervención espontánea de un particular se rige por el inc. 7."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué circunstancias exige el art. 34 inc. 7 del Código Penal (Ley N° 11.179) para la defensa de un tercero?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las circunstancias a) y b) del inc. 6 y, de haber mediado provocación del agredido, que el tercero defensor no haya participado en ella.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) remite a las letras a) y b) del inc. 6 y agrega que, de haber habido provocación del agredido, el tercero no haya participado en ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Las tres circunstancias del inc. 6 sin excepción alguna respecto del tercero.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) no exige la letra c) tal cual; admite que el agredido haya provocado, siempre que el tercero defensor no haya participado en la provocación."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente la agresión ilegítima, sin importar el medio empleado.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) también exige la necesidad racional del medio (letra b del inc. 6), no solo la agresión ilegítima."
+        },
+        {
+          "letra": "D",
+          "texto": "Que el tercero sea funcionario público o tenga deber de actuar.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) no requiere condición de funcionario; cualquier persona puede defender a otro cumpliendo los requisitos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Suponiendo que Sofía hubiera provocado suficientemente al agresor, ¿podría aun así Lucía ampararse en la defensa de tercero?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, la provocación del agredido siempre excluye la defensa de cualquiera.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) admite la defensa del tercero pese a la provocación del agredido, siempre que el defensor no haya participado en ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que Lucía no haya participado en la provocación del agredido.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) prevé expresamente que, habiendo provocación del agredido, el tercero defensor igualmente queda amparado si no participó en ella."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, sin condición alguna, pues la provocación solo afecta al provocador.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) sí impone una condición: que el tercero no haya participado en la provocación; no es incondicional."
+        },
+        {
+          "letra": "D",
+          "texto": "No, porque debería reconducirse al estado de necesidad del inc. 3.",
+          "correcta": false,
+          "explicacion": "Hay agresión ilegítima de una persona, por lo que la situación se mantiene en el art. 34 inc. 7 del Código Penal (Ley N° 11.179) y no en el estado de necesidad del inc. 3."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Las lesiones leves que Lucía causó al agresor en el forcejeo necesario para liberar a Sofía, ¿qué consecuencia penal tienen?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Son punibles como lesiones dolosas porque excedió su rol de médica.",
+          "correcta": false,
+          "explicacion": "Mediando defensa legítima conforme al art. 34 inc. 7 del Código Penal (Ley N° 11.179), la conducta no es punible aunque cause lesiones, si el medio fue racionalmente necesario."
+        },
+        {
+          "letra": "B",
+          "texto": "Son no punibles si el medio fue racionalmente necesario, por la causa de justificación del inc. 7.",
+          "correcta": true,
+          "explicacion": "El encabezado del art. 34 del Código Penal (Ley N° 11.179) dice 'No son punibles', y el inc. 7 justifica la defensa de tercero; con medio racionalmente necesario, las lesiones quedan amparadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Son punibles a título de culpa por el art. 35.",
+          "correcta": false,
+          "explicacion": "El art. 35 del Código Penal (Ley N° 11.179) solo se aplica si hubo exceso; si el medio fue racionalmente necesario, no hay exceso y rige la no punibilidad del art. 34."
+        },
+        {
+          "letra": "D",
+          "texto": "Quedan impunes por estado de necesidad del inc. 3.",
+          "correcta": false,
+          "explicacion": "Aunque el resultado sea la impunidad, el fundamento correcto es la defensa de tercero del art. 34 inc. 7 del Código Penal (Ley N° 11.179), no el estado de necesidad del inc. 3."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si Lucía, tras dominar al agresor ya reducido en el suelo, continuara golpeándolo sin necesidad, ¿qué figura aplicaría?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seguiría amparada por el art. 34 inc. 7 como un solo acto defensivo.",
+          "correcta": false,
+          "explicacion": "Cesada la agresión que exige el art. 34 inc. 7 del Código Penal (Ley N° 11.179), no subsiste necesidad de defensa, por lo que la justificación no cubre los golpes posteriores."
+        },
+        {
+          "letra": "B",
+          "texto": "El exceso del art. 35, sancionado con la pena del delito culposo.",
+          "correcta": true,
+          "explicacion": "El art. 35 del Código Penal (Ley N° 11.179) castiga el exceso de los límites de la necesidad con la pena del delito por culpa o imprudencia, que es lo que ocurriría al golpear al agresor ya reducido."
+        },
+        {
+          "letra": "C",
+          "texto": "Obediencia debida del inc. 5.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 5 del Código Penal (Ley N° 11.179) requiere una orden de un superior, inexistente aquí; no se vincula al exceso defensivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Inimputabilidad del inc. 1.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 1 del Código Penal (Ley N° 11.179) requiere incapacidad de comprender o dirigir las acciones, que no surge del planteo."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "La intervención de Lucía se rige por la legítima defensa de terceros del art. 34 inc. 7 del Código Penal (Ley N° 11.179) (P1), que exige las letras a) y b) del inc. 6 y, de haber provocación del agredido, que el defensor no haya participado en ella (P2). Por ello, aun si Sofía hubiera provocado, Lucía quedaría amparada si no intervino en esa provocación (P3). Mientras el medio sea racionalmente necesario, las lesiones causadas no son punibles por la fórmula 'No son punibles' del art. 34 (P4). Pero si Lucía siguiera golpeando al agresor ya reducido, cesaría la necesidad de defensa y se configuraría el exceso del art. 35, penado con la escala culposa (P5)."
+}

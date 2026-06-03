@@ -1,0 +1,158 @@
+{
+  "caso_id": 40,
+  "eje": "CPPF",
+  "planteo": "Una mujer denuncia a su ex pareja por hechos de violencia ejercidos en el marco de la modalidad de violencia doméstica (lesiones y amenazas reiteradas, vínculo finalizado, sin convivencia). La defensa propone celebrar una audiencia de conciliación y, subsidiariamente, un acuerdo que ponga fin al proceso. La fiscalía analiza la disponibilidad de la acción y los deberes de protección hacia la víctima.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Puede el MINISTERIO PÚBLICO FISCAL prescindir total o parcialmente de la acción penal en este caso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el hecho aparece como un episodio dentro de un contexto de violencia doméstica, supuesto en el que el Código prohíbe prescindir de la acción.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) prohíbe prescindir total o parcialmente del ejercicio de la acción cuando el hecho aparece como un episodio dentro de un contexto de violencia doméstica o motivado en razones discriminatorias."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, sin restricciones, porque la disponibilidad de la acción es discrecional del fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) establece prohibiciones expresas, entre ellas el contexto de violencia doméstica, de modo que la disponibilidad no es irrestricta."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que la víctima preste su consentimiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) prohíbe prescindir de la acción en contexto de violencia doméstica, sin habilitar una excepción por consentimiento de la víctima."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, porque las amenazas tienen pena baja y resultan insignificantes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Aun cuando pudiera invocarse insignificancia (art. 31, inc. a), el art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) veda prescindir de la acción en contexto de violencia doméstica, lo que prevalece sobre la escasa cuantía punitiva."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Respecto de la audiencia de conciliación o mediación propuesta por la defensa, ¿qué establece la legislación de protección integral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Están prohibidas las audiencias de mediación o conciliación.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 28, último párrafo, de la Ley N° 26.485 (Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres) dispone expresamente que quedan prohibidas las audiencias de mediación o conciliación."
+        },
+        {
+          "letra": "B",
+          "texto": "Son obligatorias antes de cualquier resolución que afecte al imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 26.485 prohíbe las audiencias de mediación o conciliación; no las impone como obligatorias en casos de violencia contra las mujeres."
+        },
+        {
+          "letra": "C",
+          "texto": "Son facultativas y dependen del acuerdo de las partes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 26.485 prohíbe la mediación o conciliación; no las deja libradas al acuerdo de partes en estos casos."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo proceden si las dirige un equipo interdisciplinario.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 26.485 prohíbe las audiencias de mediación o conciliación con independencia de quién las dirija; la intervención del equipo interdisciplinario se vincula a los informes del art. 29, no a habilitar la conciliación."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Como precepto rector de políticas estatales en la materia, ¿qué se prohíbe expresamente respecto de los modelos de abordaje?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Garantizar modelos de abordaje que empoderen a la mujer, no admitiendo modelos que contemplen formas de mediación o negociación.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 9, inc. e, de la Ley N° 26.485 (Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres) impone garantizar modelos de abordaje que empoderen a la mujer, no admitiendo modelos que contemplen formas de mediación o negociación."
+        },
+        {
+          "letra": "B",
+          "texto": "Promover prioritariamente la mediación como vía de resolución del conflicto.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9, inc. e, de la Ley N° 26.485 expresamente no admite modelos que contemplen formas de mediación o negociación, de modo que no se promueve la mediación."
+        },
+        {
+          "letra": "C",
+          "texto": "Imponer a la mujer la obligación de negociar con el agresor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9, inc. e, de la Ley N° 26.485 descarta los modelos de mediación o negociación; mal podría imponerse a la mujer una negociación con el agresor."
+        },
+        {
+          "letra": "D",
+          "texto": "Sustituir la intervención judicial por la conciliación administrativa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 9, inc. e, de la Ley N° 26.485 no admite la mediación ni la negociación como modelo de abordaje, por lo que no habilita sustituir la vía judicial por una conciliación administrativa."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Conforme la Convención de Belém do Pará, ¿qué deber asume el Estado frente a la violencia contra la mujer?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Actuar con la debida diligencia para prevenir, investigar y sancionar la violencia contra la mujer.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 7, inc. b, de la Convención de Belém do Pará (Ley N° 24.632, Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer) obliga a los Estados a actuar con la debida diligencia para prevenir, investigar y sancionar la violencia contra la mujer."
+        },
+        {
+          "letra": "B",
+          "texto": "Promover acuerdos privados entre la víctima y el agresor para descongestionar tribunales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7, inc. b, de la Convención de Belém do Pará (Ley N° 24.632) impone el deber de debida diligencia en la investigación y sanción, no la promoción de acuerdos privados con el agresor."
+        },
+        {
+          "letra": "C",
+          "texto": "Abstenerse de intervenir cuando el conflicto se desarrolla en el ámbito privado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7, inc. b, de la Convención de Belém do Pará (Ley N° 24.632), en concordancia con su art. 3, abarca la violencia tanto en el ámbito público como en el privado, sin habilitar la abstención estatal."
+        },
+        {
+          "letra": "D",
+          "texto": "Limitar su actuación a la reparación económica del daño.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 7, inc. b, de la Convención de Belém do Pará (Ley N° 24.632) impone prevenir, investigar y sancionar; el resarcimiento (art. 7, inc. g) es adicional y no agota los deberes estatales."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Como base general del proceso penal, ¿qué deber pesa sobre las autoridades frente a la denuncia de la víctima?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No pueden, bajo pretexto alguno, dejar de recibir sus denuncias o reclamos y deben poner en funcionamiento de inmediato los mecanismos legales para su tutela efectiva.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 12 del Código Procesal Penal Federal (Ley N° 27.063) establece que las autoridades no podrán, bajo pretexto alguno, dejar de recibir las denuncias o reclamos de la víctima y deben poner inmediatamente en funcionamiento los mecanismos legales previstos para su tutela efectiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Pueden derivar la denuncia a mediación antes de recibirla formalmente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 del Código Procesal Penal Federal (Ley N° 27.063) obliga a recibir la denuncia sin pretextos; además, el art. 28 de la Ley N° 26.485 prohíbe la mediación en violencia contra las mujeres."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo deben recibir la denuncia si la víctima se constituye en querellante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 del Código Procesal Penal Federal (Ley N° 27.063) impone recibir la denuncia sin condicionarla a la constitución como querellante."
+        },
+        {
+          "letra": "D",
+          "texto": "Pueden postergar la recepción hasta contar con prueba suficiente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 12 del Código Procesal Penal Federal (Ley N° 27.063) prohíbe dejar de recibir la denuncia bajo pretexto alguno y exige poner en marcha de inmediato los mecanismos de tutela; no admite postergar la recepción."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Tratándose de un episodio de violencia doméstica, el fiscal no puede prescindir de la acción (art. 30, segundo párrafo, CPPF, Ley N° 27.063). La conciliación o mediación propuesta por la defensa es improcedente: están prohibidas las audiencias de mediación o conciliación (art. 28, Ley N° 26.485) y no se admiten modelos de mediación o negociación (art. 9, inc. e). Ello se funda en el deber estatal de debida diligencia para prevenir, investigar y sancionar (art. 7, inc. b, Convención de Belém do Pará, Ley N° 24.632) y en el deber de tutela efectiva e inmediata de la víctima (art. 12, CPPF)."
+}

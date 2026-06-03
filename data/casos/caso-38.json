@@ -1,0 +1,158 @@
+{
+  "caso_id": 38,
+  "eje": "CPPF",
+  "planteo": "En una causa por defraudación con contenido patrimonial, cometida sin grave violencia sobre las personas, el imputado y la víctima alcanzan un acuerdo conciliatorio. La defensa, alternativamente, evalúa proponer la suspensión del proceso a prueba. El delito prevé un máximo de pena de tres años de prisión y el imputado no registra condenas anteriores.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿En qué casos pueden el imputado y la víctima realizar acuerdos conciliatorios conforme el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En delitos con contenido patrimonial cometidos sin grave violencia sobre las personas, o en delitos culposos sin lesiones gravísimas ni resultado de muerte.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) admite acuerdos conciliatorios en delitos con contenido patrimonial cometidos sin grave violencia sobre las personas o en delitos culposos si no existieran lesiones gravísimas o resultado de muerte."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier delito, sin importar la modalidad de comisión ni el bien jurídico afectado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) limita la conciliación a delitos patrimoniales sin grave violencia y a ciertos delitos culposos, por lo que no procede en cualquier delito."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo en delitos de acción privada.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) regula la conciliación dentro de las reglas de disponibilidad de la acción pública, sin limitarla a la acción privada."
+        },
+        {
+          "letra": "D",
+          "texto": "En delitos con grave violencia sobre las personas, siempre que medie reparación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) excluye los delitos con grave violencia sobre las personas, de modo que la reparación no habilita la conciliación en esos casos."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué efecto produce la acreditación del cumplimiento del acuerdo conciliatorio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Extingue la acción penal; hasta tanto no se acredite el cumplimiento, el legajo debe ser reservado.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) dispone que la acreditación del cumplimiento del acuerdo extingue la acción penal y que, hasta tanto no se acredite, el legajo debe ser reservado."
+        },
+        {
+          "letra": "B",
+          "texto": "Extingue la acción de manera inmediata con la sola firma del acuerdo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) exige la acreditación del cumplimiento para extinguir la acción; la mera firma no basta, y entretanto el legajo se reserva."
+        },
+        {
+          "letra": "C",
+          "texto": "Suspende la acción por cinco años antes de extinguirla.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) no prevé un plazo de suspensión de cinco años; el efecto es la extinción de la acción una vez acreditado el cumplimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Convierte la acción pública en privada de pleno derecho.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La conversión es un instituto distinto del art. 33 del Código Procesal Penal Federal (Ley N° 27.063); el art. 34 prevé que el cumplimiento del acuerdo extingue la acción, no que la convierta."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Ante el incumplimiento de lo acordado en la conciliación, ¿qué pueden solicitar la víctima o el fiscal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La reapertura de la investigación.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) prevé que, ante el incumplimiento de lo acordado, la víctima o el representante del MINISTERIO PÚBLICO FISCAL podrán solicitar la reapertura de la investigación."
+        },
+        {
+          "letra": "B",
+          "texto": "La condena directa del imputado sin más trámite.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) habilita la reapertura de la investigación ante el incumplimiento, no una condena directa sin trámite."
+        },
+        {
+          "letra": "C",
+          "texto": "La conversión automática de la acción en privada.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) prevé la reapertura de la investigación, no una conversión automática de la acción ante el incumplimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Nada, pues la conciliación extingue la acción de modo irreversible.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 34 del Código Procesal Penal Federal (Ley N° 27.063) contempla expresamente la posibilidad de reapertura ante el incumplimiento, por lo que el efecto no es irreversible mientras no se acredite el cumplimiento."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Respecto de la suspensión del proceso a prueba, ¿en qué supuesto procede según el máximo de pena?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el delito prevea un máximo de pena de tres años de prisión y el imputado no hubiere sido condenado a pena de prisión, o hubieran transcurrido cinco años desde el vencimiento de la pena.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 35, inc. a, del Código Procesal Penal Federal (Ley N° 27.063) habilita la suspensión cuando el delito prevé un máximo de tres años de prisión y el imputado no hubiere sido condenado a pena de prisión o hubieran transcurrido cinco años desde el vencimiento de la pena."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el delito prevea un mínimo de pena de tres años de prisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35, inc. a, del Código Procesal Penal Federal (Ley N° 27.063) se refiere al máximo de pena de tres años, no al mínimo; el mínimo de tres años aparece sólo en el supuesto especial de persona extranjera en flagrancia (art. 35, párrafo segundo)."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando el delito prevea un máximo de pena de seis años de prisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35, inc. a, del Código Procesal Penal Federal (Ley N° 27.063) fija el tope del máximo en tres años de prisión, no en seis."
+        },
+        {
+          "letra": "D",
+          "texto": "En cualquier delito, siempre que el imputado lo solicite.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) condiciona la suspensión a los supuestos de sus incisos a a c (entre ellos, el tope de tres años de pena), por lo que no procede en cualquier delito por la sola voluntad del imputado."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "A pedido de la víctima, ¿en qué casos puede convertirse la acción penal pública en acción privada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si se aplica un criterio de oportunidad; si el fiscal solicita el sobreseimiento al concluir la investigación preparatoria; o si se trata de un delito que requiera instancia de parte o de lesiones culposas, con autorización fiscal y sin interés público gravemente comprometido.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 33 del Código Procesal Penal Federal (Ley N° 27.063) enumera estos tres supuestos de conversión a pedido de la víctima (incs. a, b y c)."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier momento del proceso, por la sola voluntad de la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 33 del Código Procesal Penal Federal (Ley N° 27.063) acota la conversión a los supuestos de sus tres incisos, sin admitirla por la sola voluntad de la víctima en cualquier momento."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando exista una sentencia condenatoria firme.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 33 del Código Procesal Penal Federal (Ley N° 27.063) prevé la conversión en etapas anteriores (aplicación de criterio de oportunidad, pedido de sobreseimiento al concluir la investigación, etc.), no recién con sentencia condenatoria firme."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando lo solicite el imputado, aunque la víctima se oponga.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 33 del Código Procesal Penal Federal (Ley N° 27.063) reserva el pedido de conversión a la víctima; además, si hay pluralidad de víctimas se exige el consentimiento de todas. No procede a pedido del imputado contra la voluntad de la víctima."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El acuerdo conciliatorio es procedente por tratarse de un delito con contenido patrimonial cometido sin grave violencia (art. 34, CPPF, Ley N° 27.063); acreditado su cumplimiento se extingue la acción, y el incumplimiento habilita la reapertura. Alternativamente, la suspensión del proceso a prueba procede por tratarse de un delito con máximo de pena de tres años y un imputado sin condenas previas (art. 35, inc. a). La víctima, además, podría pedir la conversión de la acción en privada en los supuestos del art. 33."
+}

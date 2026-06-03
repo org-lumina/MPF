@@ -1,0 +1,158 @@
+{
+  "caso_id": 37,
+  "eje": "CPPF",
+  "planteo": "En el marco de una investigación preparatoria por un hurto simple de escaso monto, sin violencia sobre las personas, el representante del MINISTERIO PÚBLICO FISCAL evalúa aplicar un criterio de oportunidad por insignificancia. El imputado no es funcionario público y el hecho no se inserta en ningún contexto de violencia doméstica ni motivado en razones discriminatorias. La víctima manifiesta su disconformidad con la eventual decisión.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuáles son los supuestos en los que el MINISTERIO PÚBLICO FISCAL puede disponer de la acción penal pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Criterios de oportunidad, conversión de la acción, conciliación y suspensión del proceso a prueba.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 30 del Código Procesal Penal Federal (Ley N° 27.063, modif. por Ley N° 27.482) enumera taxativamente estos cuatro supuestos de disponibilidad de la acción penal pública (incs. a a d)."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente criterios de oportunidad y suspensión del proceso a prueba.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 30 del Código Procesal Penal Federal (Ley N° 27.063) incluye además la conversión de la acción (inc. b) y la conciliación (inc. c), por lo que la enumeración propuesta es incompleta."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier supuesto, ya que la disposición de la acción es una facultad discrecional sin límites del fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 30 del Código Procesal Penal Federal (Ley N° 27.063) acota la disposición a supuestos determinados y establece prohibiciones expresas en su segundo párrafo, de modo que no es una facultad ilimitada."
+        },
+        {
+          "letra": "D",
+          "texto": "Criterios de oportunidad, conversión de la acción y desistimiento de la querella.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El desistimiento de la querella (art. 86 del Código Procesal Penal Federal, Ley N° 27.063) no es un supuesto de disponibilidad de la acción del art. 30; este último prevé conciliación y suspensión del proceso a prueba, no el desistimiento."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Conforme al supuesto de insignificancia, ¿qué requisito exige el Código para prescindir de la acción?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el hecho, por su insignificancia, no afecte gravemente el interés público.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 31, inc. a, del Código Procesal Penal Federal (Ley N° 27.063) habilita prescindir total o parcialmente de la acción cuando se trate de un hecho que por su insignificancia no afectara gravemente el interés público."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el imputado repare íntegramente el daño antes de la decisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 31, inc. a, del Código Procesal Penal Federal (Ley N° 27.063) no condiciona el criterio de insignificancia a la reparación previa del daño; ese supuesto corresponde más bien a la conciliación del art. 34."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la víctima preste su consentimiento expreso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 31, inc. a, del Código Procesal Penal Federal (Ley N° 27.063) no requiere el consentimiento de la víctima para aplicar el criterio de oportunidad; la víctima conserva la facultad de requerir revisión (art. 80, inc. j)."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la pena del delito no supere los tres años de prisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El tope de tres años de pena corresponde a la suspensión del proceso a prueba (art. 35, inc. a, del Código Procesal Penal Federal, Ley N° 27.063), no al criterio de oportunidad por insignificancia del art. 31, inc. a."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué efecto produce la decisión que prescinde de la persecución penal por aplicación de un criterio de oportunidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Permite declarar extinguida la acción pública respecto de la persona en cuyo favor se decide, salvo lo previsto en el último párrafo del art. 252.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 32 del Código Procesal Penal Federal (Ley N° 27.063) establece que la decisión permite declarar extinguida la acción pública con relación a la persona en cuyo favor se decide, con la salvedad del último párrafo del art. 252."
+        },
+        {
+          "letra": "B",
+          "texto": "Suspende la acción por un año, transcurrido el cual se reanuda automáticamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 32 del Código Procesal Penal Federal (Ley N° 27.063) habilita declarar extinguida la acción, no una suspensión temporal con reanudación automática."
+        },
+        {
+          "letra": "C",
+          "texto": "Extiende sus efectos a todos los imputados del hecho, hayan o no sido favorecidos por la decisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 32 del Código Procesal Penal Federal (Ley N° 27.063) limita el efecto a la persona en cuyo favor se decide, de modo que no se extiende automáticamente a los demás intervinientes."
+        },
+        {
+          "letra": "D",
+          "texto": "Convierte de pleno derecho la acción pública en acción privada.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La conversión de la acción es un instituto distinto regulado en el art. 33 del Código Procesal Penal Federal (Ley N° 27.063) y requiere pedido de la víctima; el art. 32 sólo regula los efectos del criterio de oportunidad."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Frente a la disconformidad de la víctima con la aplicación del criterio de oportunidad solicitado por el fiscal, ¿qué facultad tiene?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Requerir la revisión de la aplicación del criterio de oportunidad, aun si no hubiera intervenido como querellante.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80, inc. j, del Código Procesal Penal Federal (Ley N° 27.063) reconoce a la víctima el derecho a requerir la revisión de la aplicación de un criterio de oportunidad solicitado por el fiscal, aun si no hubiera intervenido como querellante."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna, pues la disposición de la acción es exclusiva del fiscal y no admite revisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. j, del Código Procesal Penal Federal (Ley N° 27.063) habilita expresamente a la víctima a requerir la revisión, por lo que sí tiene una facultad de control."
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar directamente al juez que condene al imputado prescindiendo del fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ninguna norma del material habilita a la víctima a obtener una condena directa sin acusación; el art. 80, inc. j, del Código Procesal Penal Federal (Ley N° 27.063) sólo prevé el derecho a requerir la revisión de la decisión."
+        },
+        {
+          "letra": "D",
+          "texto": "Apelar la decisión ante la Corte Interamericana de Derechos Humanos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. j, del Código Procesal Penal Federal (Ley N° 27.063) prevé un mecanismo interno de revisión; el acceso a la Comisión o Corte Interamericana corresponde a otra vía y no es la respuesta a este planteo."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Antes de qué tipo de decisiones tiene la víctima derecho a ser escuchada, siempre que lo solicite expresamente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes de cada decisión que implique la extinción o suspensión de la acción penal.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) reconoce a la víctima el derecho a ser escuchada antes de cada decisión que implique la extinción o suspensión de la acción penal, siempre que lo solicite expresamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente antes del dictado de la sentencia definitiva.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) no limita el derecho a la sentencia definitiva, sino que lo refiere a las decisiones de extinción o suspensión de la acción."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si se constituyó previamente como querellante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) reconoce el derecho a toda víctima que lo solicite, sin exigir la previa constitución como querellante."
+        },
+        {
+          "letra": "D",
+          "texto": "Antes de cualquier acto procesal, sin necesidad de solicitud.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) condiciona el derecho a que la víctima lo solicite expresamente y lo refiere a decisiones de extinción o suspensión de la acción, no a cualquier acto procesal."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El fiscal puede aplicar el criterio de oportunidad por insignificancia (art. 31, inc. a, CPPF, Ley N° 27.063) porque el hecho no afecta gravemente el interés público y no concurre ninguna de las prohibiciones del art. 30, segundo párrafo (no es funcionario público ni hay contexto de violencia doméstica o discriminatoria). La decisión permitirá declarar extinguida la acción respecto del imputado (art. 32). La víctima, aun sin ser querellante, debe ser escuchada si lo solicita (art. 80, inc. h) y puede requerir la revisión de la aplicación del criterio (art. 80, inc. j)."
+}

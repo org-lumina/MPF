@@ -1,0 +1,158 @@
+{
+  "caso_id": 13,
+  "eje": "Código Penal",
+  "planteo": "Roberto, con el fin de robar en una vivienda, fuerza la ventana e ingresa al inmueble. Cuando ya está adentro buscando objetos de valor, suena la alarma y es sorprendido por la policía que lo detiene antes de que pudiera apoderarse de cosa alguna. Roberto comenzó la ejecución del robo pero no logró consumarlo por la intervención policial.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿El robo de Roberto está consumado o tentado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Consumado, porque ya había ingresado a la vivienda.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El ingreso no completa el robo; al no haberse apoderado de cosa alguna por circunstancias ajenas a su voluntad, hay tentativa conforme al art. 42 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "B",
+          "texto": "Tentado, porque comenzó la ejecución pero no consumó por circunstancias ajenas a su voluntad.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 42 del Código Penal (Ley N° 11.179) define la tentativa: comenzar la ejecución del delito y no consumarlo por circunstancias ajenas a la voluntad del autor, como la detención policial."
+        },
+        {
+          "letra": "C",
+          "texto": "No hay delito alguno porque no se llevó nada.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El comienzo de ejecución con fin de cometer el delito ya es punible como tentativa según el art. 42 del Código Penal (Ley N° 11.179), aunque no haya apoderamiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Hubo desistimiento voluntario y por ello no es punible.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No hubo desistimiento: Roberto fue detenido por la policía (circunstancia ajena), por lo que no aplica el art. 43 del Código Penal (Ley N° 11.179) sino el art. 42."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Según el art. 42, ¿cuáles son los elementos de la tentativa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fin de cometer un delito determinado, comienzo de ejecución y falta de consumación por circunstancias ajenas a la voluntad.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 42 del Código Penal (Ley N° 11.179) exige: fin de cometer un delito determinado, comienzo de su ejecución y no consumación por circunstancias ajenas a la voluntad del autor."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo la intención de delinquir, sin acto exterior alguno.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 del Código Penal (Ley N° 11.179) requiere comienzo de ejecución; la mera intención sin actos exteriores no es punible como tentativa."
+        },
+        {
+          "letra": "C",
+          "texto": "La consumación efectiva del delito.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La consumación excluye la tentativa; el art. 42 del Código Penal (Ley N° 11.179) supone justamente que el delito NO se consuma."
+        },
+        {
+          "letra": "D",
+          "texto": "El desistimiento voluntario del autor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El desistimiento voluntario está en el art. 43 del Código Penal (Ley N° 11.179) y excluye la pena; no es un elemento de la tentativa del art. 42."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué escala penal corresponde a la tentativa de Roberto, suponiendo que el robo tiene pena divisible?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La pena que correspondería al consumado, disminuida de un tercio a la mitad.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 44, primer párrafo, del Código Penal (Ley N° 11.179) dispone que la pena que correspondería al agente si hubiere consumado el delito se disminuirá de un tercio a la mitad."
+        },
+        {
+          "letra": "B",
+          "texto": "La misma pena que el delito consumado, sin reducción.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) ordena disminuir la pena de un tercio a la mitad respecto del delito consumado."
+        },
+        {
+          "letra": "C",
+          "texto": "El doble de la pena del delito consumado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) reduce la pena, nunca la agrava."
+        },
+        {
+          "letra": "D",
+          "texto": "Una multa fija, cualquiera sea la pena del delito consumado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) parte de la pena del delito consumado y la disminuye de un tercio a la mitad, sin convertirla en multa fija."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si el delito tentado tuviera pena de reclusión perpetua, ¿qué pena prevé el art. 44 para la tentativa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reclusión de quince a veinte años.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 44 del Código Penal (Ley N° 11.179) establece que si la pena fuere de reclusión perpetua, la pena de la tentativa será reclusión de quince a veinte años."
+        },
+        {
+          "letra": "B",
+          "texto": "Reclusión de diez a quince años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Diez a quince años corresponde a la prisión perpetua según el art. 44 del Código Penal (Ley N° 11.179); para reclusión perpetua es de quince a veinte años."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión perpetua, sin reducción.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) reemplaza la perpetua por una pena temporal (quince a veinte años) en la tentativa."
+        },
+        {
+          "letra": "D",
+          "texto": "Prisión de cinco a diez años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) prevé reclusión de quince a veinte años para la reclusión perpetua, no prisión de cinco a diez años."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Roberto alega que, de haber querido, habría desistido. ¿El desistimiento del art. 43 puede aplicarse cuando el autor fue detenido por la policía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el desistimiento debe ser voluntario y aquí la interrupción provino de una circunstancia ajena (la detención).",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 43 del Código Penal (Ley N° 11.179) exime de pena solo cuando el autor desiste 'voluntariamente'; si la no consumación se debe a circunstancias ajenas (art. 42), no hay desistimiento y subsiste la tentativa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque cualquier interrupción equivale a desistimiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) exige voluntariedad; una interrupción forzada por terceros no es desistimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no se produjo el resultado lesivo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La ausencia de resultado por causa ajena configura tentativa (art. 42), no el desistimiento voluntario del art. 43 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "No, porque el desistimiento solo procede en delitos culposos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) no distingue por culpabilidad: el motivo del rechazo es la falta de voluntariedad, no la naturaleza culposa del delito."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Roberto comenzó la ejecución del robo y no lo consumó por la detención policial: hay tentativa (art. 42, Código Penal Ley N° 11.179), no consumación ni desistimiento. La escala es la del delito consumado disminuida de un tercio a la mitad (art. 44), y para perpetuas el art. 44 fija reclusión de quince a veinte o prisión de diez a quince años. El desistimiento del art. 43 no aplica porque la interrupción fue ajena a su voluntad, no voluntaria."
+}

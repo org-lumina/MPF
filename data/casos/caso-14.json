@@ -1,0 +1,158 @@
+{
+  "caso_id": 14,
+  "eje": "Código Penal",
+  "planteo": "Sofía decide envenenar a su tío para heredarlo. Comienza a verter el veneno en la bebida de la víctima, pero antes de que el tío beba, Sofía se arrepiente espontáneamente, retira la bebida envenenada y la descarta, evitando por completo cualquier daño. Nadie la descubrió ni la obligó: abandonó el plan por su propia decisión.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué figura del Código Penal contempla la situación de Sofía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El desistimiento voluntario de la tentativa.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 43 del Código Penal (Ley N° 11.179) regula el desistimiento voluntario: el autor de tentativa que desiste voluntariamente del delito no queda sujeto a pena, como hizo Sofía al arrepentirse por sí misma."
+        },
+        {
+          "letra": "B",
+          "texto": "El delito imposible.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El delito imposible (art. 44, último párrafo, Código Penal Ley N° 11.179) supone inidoneidad del medio o del objeto; aquí el medio era idóneo y la causa fue el arrepentimiento voluntario, que remite al art. 43."
+        },
+        {
+          "letra": "C",
+          "texto": "El concurso ideal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El concurso ideal (art. 54, Código Penal Ley N° 11.179) trata la concurrencia de sanciones sobre un hecho; no se relaciona con el arrepentimiento del autor."
+        },
+        {
+          "letra": "D",
+          "texto": "La consumación del delito.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No hubo consumación: Sofía evitó todo daño desistiendo voluntariamente, lo que activa el art. 43 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Según el art. 43, ¿cuál es la consecuencia del desistimiento voluntario?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El autor de tentativa no estará sujeto a pena.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 43 del Código Penal (Ley N° 11.179) dispone que el autor de tentativa no estará sujeto a pena cuando desistiere voluntariamente del delito."
+        },
+        {
+          "letra": "B",
+          "texto": "El autor recibe la pena del delito consumado reducida a la mitad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa reducción es la de la tentativa no desistida (art. 44, Código Penal Ley N° 11.179); el desistimiento voluntario del art. 43 exime de pena."
+        },
+        {
+          "letra": "C",
+          "texto": "El autor recibe la pena íntegra del delito consumado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) exime de pena al que desiste voluntariamente; no aplica la pena íntegra."
+        },
+        {
+          "letra": "D",
+          "texto": "El autor recibe solo pena de inhabilitación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) no impone inhabilitación: el desistimiento voluntario excluye la pena por la tentativa."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué requisito esencial debe reunir el desistimiento para eximir de pena conforme al art. 43?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que sea voluntario, es decir, decidido por el propio autor y no impuesto por circunstancias ajenas.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 43 del Código Penal (Ley N° 11.179) exige que el desistimiento sea 'voluntario'; el arrepentimiento espontáneo de Sofía cumple ese requisito."
+        },
+        {
+          "letra": "B",
+          "texto": "Que sea consecuencia de la intervención de la policía.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Si la interrupción proviene de un tercero, no es voluntario y se aplica el art. 42 del Código Penal (Ley N° 11.179) (tentativa punible), no la exención del art. 43."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el delito fuera imposible de cometer.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El delito imposible se rige por el art. 44 del Código Penal (Ley N° 11.179); el art. 43 exige voluntariedad del desistimiento, no imposibilidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la víctima perdone al autor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) no requiere perdón de la víctima, sino que el desistimiento provenga voluntariamente del autor."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Variante: si Sofía hubiera retirado la bebida solo porque escuchó la sirena policial acercándose, ¿habría desistimiento voluntario?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el abandono provendría de una circunstancia ajena y no de su libre decisión.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 43 del Código Penal (Ley N° 11.179) requiere voluntariedad; el abandono motivado por la inminente intervención policial no es voluntario, por lo que subsistiría la tentativa del art. 42."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque igualmente retiró la bebida.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Lo decisivo para el art. 43 del Código Penal (Ley N° 11.179) no es el acto material de retirar, sino que la decisión sea voluntaria y no impuesta por factores externos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no hubo resultado lesivo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La ausencia de resultado por causa ajena configura tentativa (art. 42), no el desistimiento voluntario del art. 43 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "No, porque el desistimiento nunca es admisible en delitos contra la vida.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) no excluye los delitos contra la vida; el problema en la variante es la falta de voluntariedad, no la naturaleza del delito."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "En el caso original (arrepentimiento espontáneo), ¿qué relación existe entre el art. 42 y el art. 43?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El hecho fue tentativa en su comienzo (art. 42), pero el desistimiento voluntario (art. 43) excluye la pena.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 42 del Código Penal (Ley N° 11.179) define el comienzo de ejecución; cuando el autor desiste voluntariamente, el art. 43 lo libera de pena pese a haber iniciado la tentativa."
+        },
+        {
+          "letra": "B",
+          "texto": "El art. 43 agrava la pena de la tentativa del art. 42.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) no agrava: exime de pena al que desiste voluntariamente."
+        },
+        {
+          "letra": "C",
+          "texto": "El art. 42 y el art. 43 regulan el concurso de delitos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El concurso se regula en los arts. 54 a 58 del Código Penal (Ley N° 11.179); los arts. 42 y 43 tratan la tentativa y su desistimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "El art. 43 obliga a aplicar la escala reducida del art. 44.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La escala reducida del art. 44 del Código Penal (Ley N° 11.179) rige la tentativa no desistida; el desistimiento voluntario del art. 43 excluye la pena, no la reduce."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Sofía comenzó la ejecución (art. 42, Código Penal Ley N° 11.179) pero se arrepintió espontáneamente y evitó el daño: hay desistimiento voluntario (art. 43), que excluye la pena. El requisito esencial es la voluntariedad: si el abandono respondiera a una circunstancia ajena (la sirena policial), no habría desistimiento y subsistiría la tentativa punible del art. 42 con la escala reducida del art. 44."
+}

@@ -1,0 +1,158 @@
+{
+  "caso_id": 42,
+  "eje": "CPPF",
+  "planteo": "En una causa por amenazas y lesiones leves contra una mujer, perpetradas por su pareja en el ámbito doméstico, la defensa solicita la suspensión del proceso a prueba ofreciendo reparación, y subsidiariamente un acuerdo conciliatorio. La víctima reclama que se respete su intimidad, ser oída antes de cualquier decisión sobre la acción y que se adopten con urgencia medidas de protección para impedir la continuación del delito.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Frente a la propuesta de conciliación de la defensa en este contexto, ¿qué corresponde resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Rechazarla, pues quedan prohibidas las audiencias de mediación o conciliación en casos de violencia contra las mujeres.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 28, último párrafo, de la Ley N° 26.485 (Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres) prohíbe las audiencias de mediación o conciliación, lo que impide acoger la propuesta de la defensa en este contexto."
+        },
+        {
+          "letra": "B",
+          "texto": "Acogerla, porque las lesiones leves admiten conciliación sin restricciones.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Más allá del art. 34 del Código Procesal Penal Federal (Ley N° 27.063), el art. 28 de la Ley N° 26.485 prohíbe la conciliación en casos de violencia contra las mujeres, por lo que no procede aunque las lesiones sean leves."
+        },
+        {
+          "letra": "C",
+          "texto": "Acogerla si el agresor repara el daño, pues ello extingue la acción.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 26.485 veda la conciliación en estos casos; la reparación no habilita un acuerdo conciliatorio prohibido por la ley de protección integral."
+        },
+        {
+          "letra": "D",
+          "texto": "Diferir la decisión a una mediación administrativa previa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 28 de la Ley N° 26.485 prohíbe las audiencias de mediación o conciliación, de modo que no puede derivarse el caso a una mediación administrativa."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Al analizar la disponibilidad de la acción y eventuales salidas alternativas, ¿qué límite impone el Código por tratarse de violencia doméstica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El fiscal no puede prescindir total ni parcialmente del ejercicio de la acción cuando el hecho aparece como un episodio dentro de un contexto de violencia doméstica.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) prohíbe prescindir total o parcialmente del ejercicio de la acción cuando el hecho aparece como un episodio dentro de un contexto de violencia doméstica o motivado en razones discriminatorias."
+        },
+        {
+          "letra": "B",
+          "texto": "Ningún límite: la violencia doméstica no incide en la disponibilidad de la acción.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) prevé expresamente la violencia doméstica como supuesto en el que no se puede prescindir de la acción."
+        },
+        {
+          "letra": "C",
+          "texto": "El fiscal debe necesariamente aplicar un criterio de oportunidad por insignificancia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) prohíbe prescindir de la acción en contexto de violencia doméstica; no impone aplicar un criterio de oportunidad, sino que lo veda."
+        },
+        {
+          "letra": "D",
+          "texto": "El límite sólo rige si el imputado es funcionario público.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 30, segundo párrafo, del Código Procesal Penal Federal (Ley N° 27.063) prevé como supuestos autónomos tanto el del funcionario público como el del contexto de violencia doméstica; este último opera con independencia de la condición de funcionario."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "La víctima solicita ser escuchada antes de cualquier decisión sobre la acción penal. ¿Qué derecho la ampara?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a ser escuchada antes de cada decisión que implique la extinción o suspensión de la acción penal, siempre que lo solicite expresamente.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) reconoce el derecho de la víctima a ser escuchada antes de cada decisión que implique la extinción o suspensión de la acción penal, siempre que lo solicite expresamente."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a vetar cualquier decisión del fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) reconoce el derecho a ser escuchada, no un derecho de veto sobre las decisiones del fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a ser oída sólo en la audiencia de juicio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) vincula el derecho a las decisiones de extinción o suspensión de la acción, no exclusivamente a la audiencia de juicio."
+        },
+        {
+          "letra": "D",
+          "texto": "Ningún derecho, salvo que sea querellante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. h, del Código Procesal Penal Federal (Ley N° 27.063) reconoce el derecho a toda víctima que lo solicite expresamente, sin exigir su constitución como querellante."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "La víctima reclama medidas urgentes para impedir la continuación del delito. ¿Qué derecho del Código las sustenta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A que se adopten prontamente las medidas de coerción o cautelares procedentes para impedir que el delito continúe en ejecución o alcance consecuencias ulteriores.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 80, inc. l, del Código Procesal Penal Federal (Ley N° 27.063) reconoce el derecho de la víctima a que se adopten prontamente las medidas de coerción o cautelares procedentes para impedir que el delito continúe en ejecución o alcance consecuencias ulteriores."
+        },
+        {
+          "letra": "B",
+          "texto": "A que el imputado sea condenado de inmediato sin juicio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. l, del Código Procesal Penal Federal (Ley N° 27.063) habilita medidas de coerción o cautelares para impedir la continuación del delito; no prevé una condena inmediata sin juicio."
+        },
+        {
+          "letra": "C",
+          "texto": "A reclamar daños y perjuicios, pero no medidas cautelares.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. l, del Código Procesal Penal Federal (Ley N° 27.063) reconoce el derecho a que se adopten medidas de coerción o cautelares; el reclamo resarcitorio es una vía distinta y no excluye estas medidas."
+        },
+        {
+          "letra": "D",
+          "texto": "A ninguna medida hasta que se dicte el auto de procesamiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80, inc. l, del Código Procesal Penal Federal (Ley N° 27.063) exige que las medidas se adopten prontamente para impedir la continuación del delito, sin supeditarlas a un acto procesal posterior."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Conforme la Convención de Belém do Pará, ¿qué derecho de toda mujer enmarca la obligación de adoptar medidas de protección?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a una vida libre de violencia, tanto en el ámbito público como en el privado.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 3 de la Convención de Belém do Pará (Ley N° 24.632, Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer) reconoce que toda mujer tiene derecho a una vida libre de violencia, tanto en el ámbito público como en el privado, marco en el que se inscriben las medidas de protección."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a una reparación económica que sustituye toda protección.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 3 de la Convención de Belém do Pará (Ley N° 24.632) reconoce el derecho a una vida libre de violencia; la reparación (art. 7, inc. g) es complementaria y no sustituye las medidas de protección."
+        },
+        {
+          "letra": "C",
+          "texto": "Un derecho que rige sólo cuando hay convivencia con el agresor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 3 de la Convención de Belém do Pará (Ley N° 24.632) rige en el ámbito público y privado y no exige convivencia; el art. 2, inc. a, comprende incluso casos sin convivencia actual o pasada."
+        },
+        {
+          "letra": "D",
+          "texto": "Un derecho limitado al ámbito laboral.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 3 de la Convención de Belém do Pará (Ley N° 24.632) consagra el derecho a una vida libre de violencia en el ámbito público y privado, sin limitarlo al ámbito laboral."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "En este contexto de violencia doméstica, la conciliación propuesta es improcedente porque quedan prohibidas las audiencias de mediación o conciliación (art. 28, Ley N° 26.485) y el fiscal no puede prescindir de la acción (art. 30, segundo párrafo, CPPF, Ley N° 27.063). La víctima debe ser escuchada antes de cualquier decisión sobre la acción (art. 80, inc. h) y tiene derecho a que se adopten con prontitud medidas de coerción o cautelares para impedir la continuación del delito (art. 80, inc. l). Todo ello se enmarca en el derecho a una vida libre de violencia en el ámbito público y privado (art. 3, Convención de Belém do Pará, Ley N° 24.632)."
+}

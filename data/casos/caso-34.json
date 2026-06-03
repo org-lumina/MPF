@@ -1,0 +1,158 @@
+{
+  "caso_id": 34,
+  "eje": "CPPF",
+  "planteo": "El fiscal solicita la prisión preventiva de Romina G., invocando exclusivamente el peligro de entorpecimiento. Funda su pedido en que la imputada conoce a varios testigos. La defensa replica que no hay indicios concretos de que vaya a destruir prueba ni a hostigar testigos, y propone que, en su caso, se adopten medidas menos gravosas como la presentación periódica y la prohibición de acercarse a los testigos.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué exige el Código para tener por configurado el peligro de entorpecimiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que existan indicios que justifiquen la grave sospecha de conductas como destruir prueba u hostigar testigos.",
+          "correcta": true,
+          "explicacion": "El artículo 222 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere indicios que justifiquen la grave sospecha de que el imputado destruirá u ocultará prueba, hostigará a víctima o testigos, influirá en peritos o inducirá a otros a tales conductas."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el imputado simplemente conozca a algún testigo de la causa.",
+          "correcta": false,
+          "explicacion": "El artículo 222 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige indicios de grave sospecha sobre conductas concretas; el mero conocimiento de testigos no satisface ese estándar."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la pena en expectativa supere cierto monto.",
+          "correcta": false,
+          "explicacion": "El artículo 222 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no mide el entorpecimiento por la pena en expectativa, sino por indicios de conductas que afecten la prueba o a los testigos."
+        },
+        {
+          "letra": "D",
+          "texto": "Que el fiscal lo afirme bajo su responsabilidad funcional.",
+          "correcta": false,
+          "explicacion": "El artículo 222 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige indicios objetivos de grave sospecha, no la sola afirmación del fiscal."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Frente a la propuesta de la defensa, ¿qué relación guardan la prisión preventiva y las medidas menos gravosas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La prisión preventiva procede sólo si las medidas menos gravosas no fueren suficientes para asegurar los fines.",
+          "correcta": true,
+          "explicacion": "El artículo 210 inciso k del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la prisión preventiva en caso de que las medidas anteriores del catálogo no fueren suficientes para asegurar los fines indicados, consagrando su carácter de última opción."
+        },
+        {
+          "letra": "B",
+          "texto": "La prisión preventiva es la regla y las medidas menos gravosas la excepción.",
+          "correcta": false,
+          "explicacion": "El artículo 209 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) y el artículo 210 inciso k invierten esa lógica: la coerción es excepcional y la prisión preventiva sólo procede si las demás medidas resultan insuficientes."
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas son intercambiables a criterio del fiscal.",
+          "correcta": false,
+          "explicacion": "El artículo 210 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ordena las medidas de menor a mayor injerencia y reserva la prisión preventiva para cuando las anteriores no basten, de modo que no son intercambiables a mero criterio."
+        },
+        {
+          "letra": "D",
+          "texto": "La presentación periódica no es una medida de coerción válida.",
+          "correcta": false,
+          "explicacion": "El artículo 210 inciso c del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la obligación de presentarse periódicamente como medida de coerción válida y menos gravosa."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "La prohibición de acercarse a los testigos que propone la defensa, ¿está prevista como medida de coerción?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo puede imponerse en casos de violencia doméstica.",
+          "correcta": false,
+          "explicacion": "El artículo 210 inciso g del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé el abandono del domicilio para violencia doméstica, pero la prohibición de acercarse o comunicarse con personas está contemplada de modo general en el inciso f."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, como prohibición de comunicarse o acercarse a determinadas personas, siempre que no afecte la defensa.",
+          "correcta": true,
+          "explicacion": "El artículo 210 inciso f del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la prohibición de comunicarse o acercarse a determinadas personas, siempre que no se afecte el derecho de defensa."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque equivale a una incomunicación encubierta.",
+          "correcta": false,
+          "explicacion": "El artículo 211 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula la incomunicación, distinta de la prohibición de acercarse del artículo 210 inciso f, que sí es una medida de coerción válida."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, pero sólo combinada con prisión preventiva.",
+          "correcta": false,
+          "explicacion": "El artículo 210 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) permite imponer las medidas en forma individual o combinada, sin exigir que la prohibición de acercarse vaya unida a la prisión preventiva."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si finalmente se impone una medida de coerción, ¿qué debe contener la resolución?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bastará con mencionar la norma aplicada y la firma del juez.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que la resolución individualice al imputado, enuncie los hechos, su calificación legal, las circunstancias que fundan la medida y fije el plazo, más allá de la norma y la firma."
+        },
+        {
+          "letra": "B",
+          "texto": "Individualizar al imputado, enunciar los hechos y su calificación, fundar la medida y fijar el plazo.",
+          "correcta": true,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que la resolución que imponga una medida debe individualizar al imputado, enunciar los hechos atribuidos, su calificación legal, expresar las circunstancias que la fundan y fijar el plazo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo la indicación del establecimiento de detención.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere un contenido más amplio (imputado, hechos, calificación, fundamentos y plazo), no únicamente el lugar de detención."
+        },
+        {
+          "letra": "D",
+          "texto": "La transcripción íntegra del legajo de investigación.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no exige transcribir el legajo, sino los elementos esenciales que individualizan y fundan la medida con su plazo."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Dictada la prisión preventiva, ¿qué posibilidad de revisión inmediata tiene la defensa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna hasta el dictado de la sentencia.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé que la resolución que imponga, renueve o rechace la prisión preventiva u otra medida de coerción es revisable dentro de las 72 horas, sin esperar la sentencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Es revisable, sin efecto suspensivo, dentro del plazo de 72 horas.",
+          "correcta": true,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que la resolución que imponga, renueve o rechace la prisión preventiva o cualquier medida de coerción será revisable, sin efecto suspensivo, dentro del plazo de 72 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo puede revisarse con efecto suspensivo de la medida.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) expresamente prevé la revisión sin efecto suspensivo, de modo que la medida no se suspende por el solo planteo de revisión."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo el fiscal puede pedir la revisión de la medida.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita a las partes a solicitar la revisión de la medida en cualquier momento, incluida la defensa, no sólo el fiscal."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso trabaja excepcionalidad y proporcionalidad. El peligro de entorpecimiento exige indicios de grave sospecha sobre conductas concretas (artículo 222), no el mero conocimiento de testigos. La prisión preventiva es ultima ratio: sólo procede si las medidas del catálogo no bastan (artículo 210 inciso k), entre ellas la presentación periódica (inciso c) y la prohibición de acercarse a personas sin afectar la defensa (inciso f). La resolución debe individualizar, calificar, fundar y fijar plazo (artículo 223), que además consagra la revisión sin efecto suspensivo dentro de 72 horas. Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

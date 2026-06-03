@@ -1,0 +1,158 @@
+{
+  "caso_id": 18,
+  "eje": "Código Penal",
+  "planteo": "Durante una crecida repentina, Tomás conduce su auto por una zona rural y queda atrapado por el agua. Para salvar su vida y la de su hijo, fuerza la puerta de una cabaña ajena deshabitada, ingresa, rompe una ventana y utiliza provisiones del propietario. Tomás es completamente ajeno a la causa de la inundación. El daño a la cabaña y las provisiones es notoriamente menor que la vida de las dos personas en peligro.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué causa de justificación del art. 34 del Código Penal (Ley N° 11.179) ampara a Tomás?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estado de necesidad del inc. 3: causar un mal por evitar otro mayor inminente al que se ha sido extraño.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) declara no punible a quien causa un mal por evitar otro mayor inminente al que ha sido extraño, supuesto que describe la conducta de Tomás."
+        },
+        {
+          "letra": "B",
+          "texto": "Legítima defensa propia del inc. 6.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 6 del Código Penal (Ley N° 11.179) presupone una agresión ilegítima de una persona; aquí el peligro proviene de un fenómeno natural, propio del estado de necesidad del inc. 3."
+        },
+        {
+          "letra": "C",
+          "texto": "Cumplimiento de un deber del inc. 4.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 4 del Código Penal (Ley N° 11.179) exige un deber jurídico o ejercicio de autoridad o cargo, ajeno a la situación de Tomás."
+        },
+        {
+          "letra": "D",
+          "texto": "Fuerza física irresistible del inc. 2.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 2 del Código Penal (Ley N° 11.179) refiere a fuerza física irresistible o amenazas humanas que anulan la voluntad, no al conflicto de bienes ante un peligro natural."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál de los siguientes es un requisito del estado de necesidad justificante del art. 34 inc. 3 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el mal evitado sea mayor que el mal causado.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) exige que se cause un mal para evitar otro mayor, es decir, la ponderación a favor del bien salvado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que exista agresión ilegítima de una persona.",
+          "correcta": false,
+          "explicacion": "La agresión ilegítima es requisito de la legítima defensa (art. 34 incs. 6 y 7 del Código Penal, Ley N° 11.179), no del estado de necesidad del inc. 3."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el autor haya provocado el peligro.",
+          "correcta": false,
+          "explicacion": "Por el contrario, el art. 34 inc. 3 del Código Penal (Ley N° 11.179) exige que el autor haya sido extraño al mal, es decir, que no lo haya provocado."
+        },
+        {
+          "letra": "D",
+          "texto": "Que el bien salvado sea exclusivamente la propiedad.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) no limita el bien salvado a la propiedad; precisamente en el caso se salvan vidas frente a un daño patrimonial menor."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El requisito de que Tomás haya sido 'extraño' al mal, según el art. 34 inc. 3 del Código Penal (Ley N° 11.179), significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No debe haber provocado ni ser responsable de la situación de peligro.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) exige que el autor sea extraño al mal inminente, esto es, que no lo haya causado ni provocado, como ocurre con la crecida natural."
+        },
+        {
+          "letra": "B",
+          "texto": "No debe conocer al dueño del bien sacrificado.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) no alude al conocimiento del dueño del bien, sino a la ajenidad respecto del origen del peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe ser un tercero ajeno a las dos personas en peligro.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) no exige ajenidad respecto de las personas salvadas; de hecho, puede salvarse a sí mismo y a su hijo."
+        },
+        {
+          "letra": "D",
+          "texto": "Debe carecer de domicilio en la zona afectada.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) no menciona el domicilio; la 'ajenidad' se refiere a no haber generado el peligro."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si el mal causado por Tomás hubiera sido igual o mayor que el evitado (por ejemplo, provocando la muerte de un ocupante de la cabaña), ¿qué sucedería con la justificación del art. 34 inc. 3 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se mantendría intacta, porque basta la inminencia del peligro.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) exige que el mal evitado sea mayor; si el mal causado es igual o superior, falta el requisito y no opera la justificación."
+        },
+        {
+          "letra": "B",
+          "texto": "No operaría la justificación, por faltar el requisito de evitar un mal mayor.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) condiciona la impunidad a que el mal causado sea menor que el evitado; si no lo es, decae la causa de justificación."
+        },
+        {
+          "letra": "C",
+          "texto": "Se convertiría automáticamente en legítima defensa del inc. 6.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 6 del Código Penal (Ley N° 11.179) requiere agresión ilegítima humana, inexistente ante un peligro natural; no hay reconversión automática."
+        },
+        {
+          "letra": "D",
+          "texto": "Se aplicaría siempre el art. 35 sin más análisis.",
+          "correcta": false,
+          "explicacion": "El art. 35 del Código Penal (Ley N° 11.179) presupone una situación justificante cuyos límites se exceden; primero debe verificarse si concurren los presupuestos del inc. 3, lo que aquí no ocurre. [REVISIÓN HUMANA]"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "El art. 34 del Código Penal (Ley N° 11.179) encabeza la enumeración de sus incisos con la fórmula:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "\"Serán reprimidos con prisión...\".",
+          "correcta": false,
+          "explicacion": "Esa es una fórmula típica de los tipos penales de la parte especial, no del art. 34 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"No son punibles:\".",
+          "correcta": true,
+          "explicacion": "El art. 34 del Código Penal (Ley N° 11.179) comienza literalmente con 'No son punibles:' y a continuación enumera sus incisos, incluido el estado de necesidad."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Se considerará reincidente...\".",
+          "correcta": false,
+          "explicacion": "Esa fórmula corresponde al art. 50 del Código Penal (Ley N° 11.179), sobre reincidencia, no al art. 34."
+        },
+        {
+          "letra": "D",
+          "texto": "\"La pena se disminuirá de un tercio a la mitad...\".",
+          "correcta": false,
+          "explicacion": "Esa expresión pertenece al art. 44 (tentativa) y al art. 46 (complicidad secundaria) del Código Penal (Ley N° 11.179), no al art. 34."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "La conducta de Tomás encuadra en el estado de necesidad justificante del art. 34 inc. 3 del Código Penal (Ley N° 11.179) (P1), cuyo requisito central es que el mal evitado sea mayor que el causado (P2) y que el autor sea extraño al peligro, es decir, no lo haya provocado (P3). Si el mal causado fuese igual o mayor que el evitado, decaería la justificación por faltar la ponderación favorable (P4). Todo ello se enmarca en la fórmula con que el art. 34 encabeza sus incisos: 'No son punibles' (P5)."
+}

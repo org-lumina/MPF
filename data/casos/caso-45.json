@@ -1,0 +1,158 @@
+{
+  "caso_id": 45,
+  "eje": "CPPF",
+  "planteo": "Durante la investigación preparatoria, el fiscal advierte que un testigo clave padece una enfermedad terminal y probablemente no podrá declarar en el juicio. Solicita el anticipo jurisdiccional de prueba. La defensa cuestiona la procedencia y el control del acto. Asimismo, el fiscal pretende realizar un allanamiento de morada y discute si necesita orden judicial y en qué horario. Deben analizarse las reglas sobre la prueba, el anticipo jurisdiccional y los recaudos del allanamiento.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Según las reglas sobre la prueba, respecto de la incorporación oficiosa por los jueces, ¿qué dispone el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los jueces no podrán de oficio incorporar prueba alguna.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 135, inciso c (Reglas sobre la prueba) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que los jueces no podrán de oficio incorporar prueba alguna, en consonancia con el principio acusatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Los jueces deben incorporar de oficio toda prueba útil para la verdad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 135, inc. c del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe expresamente la incorporación oficiosa de prueba por los jueces."
+        },
+        {
+          "letra": "C",
+          "texto": "Los jueces pueden incorporar prueba de oficio solo en favor del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 135, inc. c del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no admite excepción a favor del imputado: veda toda incorporación oficiosa de prueba."
+        },
+        {
+          "letra": "D",
+          "texto": "La incorporación de prueba está exclusivamente a cargo del juez de garantías.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 135, inc. a del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) pone la recolección a cargo del fiscal; el inc. c prohíbe la incorporación oficiosa por los jueces."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿En cuál de estos supuestos procede el anticipo jurisdiccional de prueba?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se trata de una declaración que probablemente no pudiera recibirse durante el juicio.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 262, inciso b (Anticipo de prueba) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) contempla expresamente la declaración que probablemente no pudiera recibirse durante el juicio como supuesto de anticipo jurisdiccional de prueba."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre que el fiscal lo estime conveniente para agilizar la investigación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 262 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) limita el anticipo a los supuestos taxativos que enumera, no a la mera conveniencia del fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando el imputado preste conformidad con la calificación legal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La conformidad con la calificación no es un supuesto del art. 262 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), que enumera casos vinculados a la irreproducibilidad o pérdida de la prueba."
+        },
+        {
+          "letra": "D",
+          "texto": "En cualquier caso, con tal de que la víctima lo solicite.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 262 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) supedita el anticipo a los supuestos legales enumerados, no a la sola petición de la víctima."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Si el juez hace lugar al anticipo de prueba, ¿cómo debe realizarse el acto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con citación de todas las partes.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 262 (Anticipo de prueba) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que, admitido el pedido, el juez ordenará la realización del acto con citación de todas las partes, para garantizar el contradictorio."
+        },
+        {
+          "letra": "B",
+          "texto": "En forma reservada y sin notificación a la defensa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 262 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige la citación de todas las partes; la realización reservada frustraría el control del acto."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente con presencia del fiscal y del testigo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 262 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ordena la citación de todas las partes, no solo del fiscal y el testigo."
+        },
+        {
+          "letra": "D",
+          "texto": "Sin documentación, ya que se reproducirá íntegramente en el debate.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 262 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) manda documentar la diligencia en acta u otro medio idóneo, bajo custodia del fiscal, precisamente porque puede no reproducirse en el debate."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Respecto del allanamiento de un lugar destinado a habitación particular, ¿qué establece el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Será ordenado por el juez, no puede suplirse por el consentimiento de quien habita el lugar y, por regla, debe realizarse en horario diurno.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 140 (Allanamiento de morada) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone la orden judicial, la regla del horario diurno y que el allanamiento no puede ser suplido por el consentimiento de quien habita el lugar."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede practicarse sin orden judicial si el morador presta su consentimiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 140 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que el allanamiento no podrá ser suplido por el consentimiento de quien habita el lugar."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe realizarse siempre en horario nocturno para preservar el factor sorpresa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 140 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija como regla el horario diurno; el horario distinto es excepcional y exige peligro en la demora explicitado en la orden."
+        },
+        {
+          "letra": "D",
+          "texto": "Lo ordena el fiscal sin intervención del juez en todos los casos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 140 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) atribuye al juez la orden de allanamiento de morada; el fiscal lo requiere, pero no lo dispone por sí."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Excepcionalmente, ¿en qué condición puede realizarse el allanamiento de morada en horario no diurno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando exista peligro en la demora, debiendo la orden explicitar tales circunstancias extraordinarias.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 140 (Allanamiento de morada) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) admite el horario no diurno cuando exista peligro en la demora y exige que la orden explicite esas circunstancias extraordinarias."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre que el operativo sea de gran envergadura, sin necesidad de fundamentación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 140 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere peligro en la demora y la explicitación de las circunstancias extraordinarias en la orden, no la mera envergadura del operativo."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando lo decida unilateralmente la fuerza de seguridad actuante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 140 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que la orden judicial disponga el horario excepcional explicitando las circunstancias; no queda librado a la fuerza de seguridad."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente si media autorización por escrito de la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 140 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no condiciona el horario excepcional a la autorización de la víctima, sino al peligro en la demora explicitado en la orden."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso articula las reglas probatorias del art. 135 (recolección a cargo del fiscal y prohibición de incorporación oficiosa por los jueces, inc. c) con el anticipo jurisdiccional del art. 262, que solo procede en los supuestos taxativos —entre ellos la declaración irreproducible en el juicio (inc. b)— y exige citación de todas las partes y documentación bajo custodia fiscal. Para el allanamiento de morada rige el art. 140: orden judicial indelegable, no suplible por el consentimiento del morador, regla del horario diurno y excepción del horario no diurno solo ante peligro en la demora explicitado en la orden, todo conforme el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

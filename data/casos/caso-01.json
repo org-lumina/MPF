@@ -1,0 +1,158 @@
+{
+  "caso_id": 1,
+  "eje": "Código Penal",
+  "planteo": "Durante una discusión callejera, Tomás toma un cuchillo de cocina que llevaba consigo y, sin que mediara provocación previa ni vínculo familiar con la víctima, apuñala en el pecho a Damián, quien fallece minutos después. No se acreditan circunstancias de premeditación, ensañamiento ni alevosía, ni emoción violenta excusable. Tomás es mayor de edad e imputable.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué tipo penal corresponde, en principio, a la conducta de Tomás?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Homicidio simple, por matar a otro sin que concurra otra figura especial.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 79 del Código Penal (Ley N° 11.179) reprime al que matare a otro siempre que no se estableciere otra pena; al no concurrir agravantes ni atenuantes, la figura base es el homicidio simple."
+        },
+        {
+          "letra": "B",
+          "texto": "Homicidio agravado por el vínculo, por tratarse de una muerte dolosa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 80 inc. 1 del Código Penal (Ley N° 11.179) exige una relación de parentesco o pareja con la víctima, inexistente en el caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Homicidio en estado de emoción violenta.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 81 inc. a) del Código Penal (Ley N° 11.179) requiere un estado de emoción violenta excusable por las circunstancias, que el planteo descarta."
+        },
+        {
+          "letra": "D",
+          "texto": "Homicidio culposo por imprudencia en el manejo de un arma blanca.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 84 del Código Penal (Ley N° 11.179) supone culpa; aquí hay una agresión dolosa dirigida a la víctima."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es el bien jurídico protegido por la figura aplicable?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La propiedad de la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La propiedad se tutela en el Título VI del Código Penal (Ley N° 11.179), ajeno al homicidio del art. 79."
+        },
+        {
+          "letra": "B",
+          "texto": "La integridad sexual.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La integridad sexual se protege en el Título III del Código Penal (Ley N° 11.179), que no rige aquí."
+        },
+        {
+          "letra": "C",
+          "texto": "La vida humana.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 79 del Código Penal (Ley N° 11.179) integra el Capítulo I 'Delitos contra la vida' del Título I, cuyo bien jurídico es la vida humana."
+        },
+        {
+          "letra": "D",
+          "texto": "El honor de la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El honor es objeto del Título II del Código Penal (Ley N° 11.179), no del homicidio."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es la escala penal prevista para el homicidio simple?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reclusión o prisión de ocho a veinticinco años.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 79 del Código Penal (Ley N° 11.179) establece reclusión o prisión de ocho a veinticinco años."
+        },
+        {
+          "letra": "B",
+          "texto": "Reclusión o prisión perpetua.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La pena perpetua corresponde al homicidio agravado del art. 80 del Código Penal (Ley N° 11.179), no al simple."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión de tres a seis años o prisión de uno a tres años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa escala corresponde al homicidio atenuado del art. 81 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "Prisión de uno a cinco años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa pena corresponde al homicidio culposo del art. 84 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Como Damián falleció, ¿en qué grado de realización se encuentra el delito?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tentado, porque hubo una sola puñalada.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 del Código Penal (Ley N° 11.179) reserva la tentativa para cuando el delito no se consuma; aquí se produjo la muerte."
+        },
+        {
+          "letra": "B",
+          "texto": "Consumado, porque se produjo el resultado de muerte exigido por el tipo.",
+          "correcta": true,
+          "explicacion": "Correcta. El homicidio del art. 79 del Código Penal (Ley N° 11.179) se consuma con la muerte de la víctima, que efectivamente ocurrió."
+        },
+        {
+          "letra": "C",
+          "texto": "Tentativa inidónea o delito imposible.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El último párrafo del art. 44 del Código Penal (Ley N° 11.179) regula el delito imposible; aquí el medio fue idóneo y el resultado se produjo."
+        },
+        {
+          "letra": "D",
+          "texto": "Acto preparatorio impune.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Conforme al art. 42 del Código Penal (Ley N° 11.179), ya hubo ejecución y consumación, superando todo acto preparatorio."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si por una circunstancia ajena Damián hubiera sobrevivido pese a la puñalada dirigida a matarlo, ¿qué consecuencia tendría sobre la pena?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La pena sería idéntica a la del delito consumado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) ordena disminuir la pena de la tentativa respecto del consumado."
+        },
+        {
+          "letra": "B",
+          "texto": "Quedaría impune por no haberse producido la muerte.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 del Código Penal (Ley N° 11.179) castiga la tentativa; solo el desistimiento voluntario del art. 43 exime de pena, y aquí la no consumación fue ajena a la voluntad."
+        },
+        {
+          "letra": "C",
+          "texto": "Habría tentativa de homicidio, con la pena disminuida de un tercio a la mitad.",
+          "correcta": true,
+          "explicacion": "Correcta. Los arts. 42 y 44 del Código Penal (Ley N° 11.179) configuran la tentativa y disponen disminuir la pena del delito consumado de un tercio a la mitad."
+        },
+        {
+          "letra": "D",
+          "texto": "Se aplicaría la pena de las lesiones culposas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Subsistiendo el dolo de matar, rige la tentativa de homicidio (arts. 42 y 79 del Código Penal -Ley N° 11.179-), no una figura culposa."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "La conducta de Tomás encuadra en el homicidio simple del art. 79 del Código Penal (Ley N° 11.179): mató a otro sin que concurra agravante (art. 80) ni atenuante (art. 81). El bien jurídico tutelado es la vida humana, ubicado en el Capítulo I 'Delitos contra la vida'. La pena es reclusión o prisión de ocho a veinticinco años (art. 79). Como la víctima falleció, el delito está consumado (a diferencia de la tentativa del art. 42). Si hubiera sobrevivido por causas ajenas a la voluntad del agente, mediando dolo de matar, habría tentativa de homicidio (arts. 42 y 79) con pena disminuida de un tercio a la mitad (art. 44)."
+}

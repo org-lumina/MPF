@@ -1,0 +1,158 @@
+{
+  "caso_id": 48,
+  "eje": "CPPF",
+  "planteo": "El fiscal impugnó la sentencia absolutoria de Suárez y los jueces con funciones de revisión la revocaron, dictando condena. La defensa sostiene que asiste al imputado el derecho a una nueva revisión (doble conforme) y discute si el tribunal de revisión podía reenviar la causa o debía resolver sin reenvío. Asimismo, durante el trámite de la impugnación interpuesta por la defensa, un coimputado pretende adherir. Deben analizarse el doble conforme, la prohibición de reenvío, la adhesión, el efecto suspensivo y el efecto extensivo.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Si la impugnación de la sentencia fue promovida por el fiscal o el querellante y resultó adversa para el imputado, ¿qué garantía le asiste?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Podrá solicitar la revisión de esa decisión (doble conforme).",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 364 (Doble conforme) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que si la impugnación fue promovida por el fiscal o el querellante y fue adversa para el imputado, este podrá solicitar su revisión."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna; la decisión de los jueces de revisión es definitiva e irrevisable.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 364 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reconoce al imputado el derecho a solicitar la revisión cuando la decisión adversa provino de la impugnación de los acusadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo podrá recurrir ante la Corte por recurso extraordinario.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 364 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra la revisión del doble conforme dentro del proceso, sin perjuicio de las vías extraordinarias que correspondan."
+        },
+        {
+          "letra": "D",
+          "texto": "Deberá esperar a la etapa de ejecución para cuestionar la condena.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 364 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita la revisión del doble conforme frente a la decisión adversa, sin diferirla a la ejecución."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Respecto del reenvío, ¿qué regla establece el Código para los jueces de revisión?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Deberán resolver sin reenvío.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 365 (Prohibición de reenvío) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que los jueces deberán resolver sin reenvío."
+        },
+        {
+          "letra": "B",
+          "texto": "Deberán reenviar siempre la causa a un nuevo tribunal de juicio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 365 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe el reenvío y ordena resolver directamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Podrán reenviar solo si la pena supera cierto monto.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 365 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no condiciona la prohibición de reenvío al monto de la pena; impone resolver sin reenvío."
+        },
+        {
+          "letra": "D",
+          "texto": "El reenvío queda librado a la discrecionalidad del tribunal de revisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 365 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone como deber resolver sin reenvío, sin dejarlo a la discrecionalidad del tribunal."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El coimputado que pretende sumarse a la impugnación de la defensa, ¿qué debe observar para adherir?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tener derecho a impugnar, adherir durante el trámite previsto en el art. 360 y expresar los motivos en que se funda.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 345 (Adhesión) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que quien adhiere tenga derecho a impugnar, lo haga durante el trámite del art. 360 y exprese los motivos en que se funde."
+        },
+        {
+          "letra": "B",
+          "texto": "Adherir sin expresar motivo alguno, ya que se suma al recurso ajeno.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 345 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere que el adherente exprese los motivos en que se funda."
+        },
+        {
+          "letra": "C",
+          "texto": "Esperar al dictado de la sentencia de revisión para sumarse.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 345 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) limita la adhesión al trámite previsto en el art. 360, no después del dictado de la decisión revisora."
+        },
+        {
+          "letra": "D",
+          "texto": "Contar con autorización expresa del impugnante original.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 345 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no exige autorización del impugnante original, sino derecho propio a impugnar, oportunidad y expresión de motivos."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Qué efecto tiene, por regla, la interposición de la impugnación sobre la ejecución de la decisión?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las decisiones no serán ejecutadas durante el plazo para impugnar y mientras tramite la instancia de control, salvo disposición en contrario.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 347 (Efecto suspensivo) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que las decisiones no serán ejecutadas durante el plazo para impugnar ni mientras tramite la instancia de control, salvo disposición en contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "La impugnación nunca suspende la ejecución de la decisión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 347 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra como regla el efecto suspensivo durante el plazo para impugnar y la tramitación del control."
+        },
+        {
+          "letra": "C",
+          "texto": "La suspensión depende exclusivamente de la voluntad del fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 347 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija el efecto suspensivo como regla legal, no como decisión discrecional del fiscal."
+        },
+        {
+          "letra": "D",
+          "texto": "Se suspende incluso la libertad ya ordenada del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 347 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) aclara que no se suspende la ejecución cuando se hubiera ordenado la libertad del imputado o condiciones menos gravosas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si hubiera varios imputados, ¿qué prevé el efecto extensivo del recurso interpuesto por uno de ellos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Favorecerá a los demás, siempre que los motivos en que se fundara no fueran exclusivamente personales.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 348 (Efecto extensivo) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el recurso interpuesto en interés de un imputado favorecerá a los demás, salvo que los motivos sean exclusivamente personales."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo beneficia a quien efectivamente interpuso el recurso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 348 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) extiende el beneficio a los demás coimputados cuando los motivos no son exclusivamente personales."
+        },
+        {
+          "letra": "C",
+          "texto": "Perjudica a los coimputados que no recurrieron.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 348 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé un efecto que favorece, no que perjudica, a los demás coimputados."
+        },
+        {
+          "letra": "D",
+          "texto": "Se extiende incluso cuando los motivos son exclusivamente personales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 348 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) excluye expresamente del efecto extensivo los motivos exclusivamente personales."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso integra las garantías recursivas. Frente a la condena dictada al revocarse la absolución por impugnación de los acusadores, opera el doble conforme del art. 364: el imputado puede solicitar la revisión de la decisión adversa. Los jueces de revisión deben resolver sin reenvío (art. 365), disponiendo el cese de medidas de coerción si correspondiere. La adhesión del coimputado exige derecho propio a impugnar, oportunidad del art. 360 y expresión de motivos (art. 345). Como regla, la impugnación tiene efecto suspensivo (art. 347), salvo cuando se ordenó la libertad, y el recurso de un imputado se extiende a los demás si los motivos no son exclusivamente personales (art. 348), todo conforme el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

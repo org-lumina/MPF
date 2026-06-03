@@ -1,0 +1,158 @@
+{
+  "caso_id": 2,
+  "eje": "Código Penal",
+  "planteo": "En una pelea de bar, Rodrigo golpea a Luciano con un palo. El parte médico determina que Luciano sufrió la pérdida total y permanente de la visión de un ojo. No hubo intención de matar ni concurren las circunstancias del art. 80, ni emoción violenta excusable. Rodrigo es imputable.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué tipo de lesiones corresponde según el resultado producido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lesiones leves.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 89 del Código Penal (Ley N° 11.179) abarca daños que no producen los resultados graves o gravísimos; la pérdida de un sentido excede ese marco."
+        },
+        {
+          "letra": "B",
+          "texto": "Lesiones gravísimas.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 91 del Código Penal (Ley N° 11.179) tipifica como gravísima la lesión que produce la pérdida de un sentido, como la visión de un ojo."
+        },
+        {
+          "letra": "C",
+          "texto": "Lesiones graves.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 90 del Código Penal (Ley N° 11.179) prevé debilitación permanente de un sentido, no su pérdida total como aquí."
+        },
+        {
+          "letra": "D",
+          "texto": "Lesiones culposas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 94 del Código Penal (Ley N° 11.179) exige imprudencia o negligencia; el golpe fue doloso."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es el bien jurídico protegido por las lesiones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La integridad corporal y la salud de la persona.",
+          "correcta": true,
+          "explicacion": "Correcta. El Capítulo II 'Lesiones' del Título I del Código Penal (Ley N° 11.179) protege el cuerpo y la salud, conforme surge del art. 89."
+        },
+        {
+          "letra": "B",
+          "texto": "La libertad individual.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La libertad se tutela en el Título V del Código Penal (Ley N° 11.179), ajeno a las lesiones."
+        },
+        {
+          "letra": "C",
+          "texto": "La vida humana exclusivamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La vida es objeto del Capítulo I; las lesiones protegen la integridad y salud (art. 89 del Código Penal -Ley N° 11.179-)."
+        },
+        {
+          "letra": "D",
+          "texto": "El patrimonio de la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El patrimonio se protege en el Título VI del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es la escala penal prevista para esta clase de lesiones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prisión de un mes a un año.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa pena corresponde a las lesiones leves del art. 89 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "B",
+          "texto": "Reclusión o prisión de uno a seis años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa escala corresponde a las lesiones graves del art. 90 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión o prisión de tres a diez años.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 91 del Código Penal (Ley N° 11.179) reprime las lesiones gravísimas con reclusión o prisión de tres a diez años."
+        },
+        {
+          "letra": "D",
+          "texto": "Reclusión o prisión de ocho a veinticinco años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la pena del homicidio simple del art. 79 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si la lesión hubiera causado solo una debilitación permanente del sentido de la vista (no su pérdida total), ¿qué figura correspondería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lesiones graves del art. 90.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 90 del Código Penal (Ley N° 11.179) prevé la debilitación permanente de un sentido como lesión grave."
+        },
+        {
+          "letra": "B",
+          "texto": "Lesiones leves del art. 89.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 89 del Código Penal (Ley N° 11.179) no abarca debilitaciones permanentes de un sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Lesiones gravísimas del art. 91.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 91 del Código Penal (Ley N° 11.179) exige la pérdida del sentido, no su mera debilitación."
+        },
+        {
+          "letra": "D",
+          "texto": "Tentativa de homicidio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Sin dolo de matar no hay tentativa de homicidio (arts. 42 y 79 del Código Penal -Ley N° 11.179-); se trata de lesiones."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si la víctima hubiera sido la cónyuge de Rodrigo, ¿qué efecto tendría sobre la calificación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguno, las lesiones no admiten agravantes por el vínculo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 92 del Código Penal (Ley N° 11.179) agrava las lesiones cuando concurre alguna circunstancia del art. 80, que incluye el vínculo conyugal."
+        },
+        {
+          "letra": "B",
+          "texto": "Se agravaría la pena por concurrir una circunstancia del art. 80.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 92 del Código Penal (Ley N° 11.179) remite al art. 80; siendo cónyuge (inc. 1), la lesión gravísima pasa a reclusión o prisión de tres a quince años."
+        },
+        {
+          "letra": "C",
+          "texto": "Se convertiría en homicidio agravado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No habiendo muerte, no cabe el homicidio del art. 80 del Código Penal (Ley N° 11.179); rige la agravante de lesiones del art. 92."
+        },
+        {
+          "letra": "D",
+          "texto": "Quedaría exenta de pena por tratarse de violencia intrafamiliar.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Código Penal (Ley N° 11.179) no exime de pena en estos casos; el art. 92 precisamente agrava la sanción."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "La pérdida total y permanente de la visión de un ojo configura lesiones gravísimas del art. 91 del Código Penal (Ley N° 11.179), que incluye la pérdida de un sentido. El bien jurídico es la integridad corporal y la salud (Capítulo II del Título I). La pena es reclusión o prisión de tres a diez años (art. 91). Si la afectación hubiera sido solo una debilitación permanente del sentido, correspondería la lesión grave del art. 90. Si la víctima fuese cónyuge, operaría la agravante del art. 92 por remisión al art. 80, elevando la escala a tres a quince años."
+}

@@ -1,0 +1,158 @@
+{
+  "caso_id": 11,
+  "eje": "Código Penal",
+  "planteo": "Carlos, para cometer una estafa, falsifica previamente un documento privado que luego utiliza como ardid para engañar a la víctima y obtener la disposición patrimonial. La doctrina discute si la relación entre la falsificación y la estafa configura un concurso (ideal o real) o un concurso aparente de leyes en el que una figura desplaza a la otra. El planteo se centra en cómo encuadrar la concurrencia entre ambas figuras.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué se entiende por concurso aparente de leyes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El supuesto en que un mismo hecho parece encuadrar en varias figuras, pero una desplaza a las otras y se aplica una sola sanción.",
+          "correcta": true,
+          "explicacion": "Correcta. El concurso aparente (interpretación de los arts. 54 a 56 del Código Penal Ley N° 11.179) se da cuando varias figuras parecen aplicables pero, por especialidad, consunción o subsidiariedad, solo una rige el hecho."
+        },
+        {
+          "letra": "B",
+          "texto": "El supuesto en que se suman todas las penas de las figuras aplicables.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La suma de penas pertenece al concurso real (art. 55, Código Penal Ley N° 11.179); el concurso aparente implica que solo una figura subsiste, no la suma."
+        },
+        {
+          "letra": "C",
+          "texto": "El supuesto de varios hechos independientes con pena de la misma especie.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ese es el concurso real del art. 55 del Código Penal (Ley N° 11.179); el concurso aparente recae sobre un único hecho con figuras que se desplazan."
+        },
+        {
+          "letra": "D",
+          "texto": "El supuesto en que el delito no llega a consumarse.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La no consumación es materia de tentativa (art. 42, Código Penal Ley N° 11.179), ajena al concurso aparente de leyes."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "A diferencia del concurso aparente, en el concurso ideal del art. 54 las distintas sanciones:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Concurren efectivamente y se resuelve aplicando solamente la que fije pena mayor.",
+          "correcta": true,
+          "explicacion": "Correcta. En el concurso ideal del art. 54 del Código Penal (Ley N° 11.179) las sanciones concurren de verdad sobre un hecho y se aplica solamente la que fije pena mayor; no hay desplazamiento como en el aparente."
+        },
+        {
+          "letra": "B",
+          "texto": "Se descartan todas salvo la de pena menor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) aplica la pena MAYOR, no la menor."
+        },
+        {
+          "letra": "C",
+          "texto": "Se suman como en el concurso real.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La suma corresponde al art. 55 del Código Penal (Ley N° 11.179); el concurso ideal del art. 54 funciona por absorción."
+        },
+        {
+          "letra": "D",
+          "texto": "Una figura desplaza definitivamente a la otra, que se considera no aplicable.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El desplazamiento de figuras es lo propio del concurso aparente; en el concurso ideal del art. 54 del Código Penal (Ley N° 11.179) ambas concurren y solo se elige la pena mayor para aplicar."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Si se concluyera que entre la falsificación y la estafa hay relación de medio a fin pero son hechos distintos, ¿qué norma del concurso real regiría la unificación de la escala penal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El art. 55 del Código Penal, si ambas figuras tienen pena de la misma especie.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 55 del Código Penal (Ley N° 11.179) rige el concurso real cuando concurren varios hechos independientes reprimidos con una misma especie de pena, fijando la escala con mínimo mayor y suma de máximos."
+        },
+        {
+          "letra": "B",
+          "texto": "El art. 43 del Código Penal, sobre desistimiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) trata el desistimiento de la tentativa, no la unificación de penas en el concurso real."
+        },
+        {
+          "letra": "C",
+          "texto": "El art. 54 del Código Penal, porque siempre se absorbe la pena menor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La absorción del art. 54 del Código Penal (Ley N° 11.179) corresponde al concurso ideal de un solo hecho; con hechos distintos rige el concurso real (art. 55 o 56)."
+        },
+        {
+          "letra": "D",
+          "texto": "Ninguna; cada figura se penaría sin relación entre sí.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Frente a varios hechos independientes el Código Penal (Ley N° 11.179) ordena unificar mediante las reglas de los arts. 55 y 56, no penar de modo aislado."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si las penas de las dos figuras fueran de distinta especie (p. ej. reclusión y prisión, ambas divisibles), ¿qué norma del concurso real correspondería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El art. 56 del Código Penal, que para penas divisibles de reclusión o prisión aplica la más grave teniendo en cuenta los delitos de pena menor.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 56 del Código Penal (Ley N° 11.179) regula el concurso real cuando concurren penas divisibles de reclusión o prisión: se aplica la pena más grave, teniendo en cuenta los delitos de pena menor."
+        },
+        {
+          "letra": "B",
+          "texto": "El art. 54 del Código Penal, por absorción simple.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) regula el concurso ideal de un hecho único, no el concurso real de penas de distinta especie."
+        },
+        {
+          "letra": "C",
+          "texto": "El art. 42 del Código Penal, por tratarse de tentativa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 42 del Código Penal (Ley N° 11.179) regula la tentativa, sin vínculo con la concurrencia de penas de distinta especie."
+        },
+        {
+          "letra": "D",
+          "texto": "El art. 58 del Código Penal, exclusivo de delitos imposibles.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) trata la unificación de penas y condenas firmes, no los delitos imposibles (que están en el art. 44), ni reemplaza la regla del art. 56."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "A los efectos del art. 56, ¿cómo se determina la gravedad relativa de las penas de diferente naturaleza?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el orden en que se hallan enumeradas en el art. 5° del Código Penal.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 57 del Código Penal (Ley N° 11.179) dispone que, a los efectos del art. 56, la gravedad relativa de las penas de diferente naturaleza se determina por el orden en que se enumeran en el art. 5°."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la antigüedad de la condena de cada figura.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 57 del Código Penal (Ley N° 11.179) remite al orden del art. 5°, no a la antigüedad de las condenas."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la cuantía de la multa prevista en cada figura.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 57 del Código Penal (Ley N° 11.179) fija el orden del art. 5° como criterio de gravedad relativa, no la cuantía de la multa."
+        },
+        {
+          "letra": "D",
+          "texto": "Por decisión discrecional del tribunal sin pauta legal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 57 del Código Penal (Ley N° 11.179) establece una pauta legal expresa: el orden del art. 5°."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El concurso aparente (un hecho, una figura desplaza a otra por especialidad/consunción) se distingue del concurso ideal del art. 54 (las figuras concurren y se aplica la pena mayor por absorción) y del concurso real (varios hechos: arts. 55 y 56, Código Penal Ley N° 11.179). Con penas de la misma especie rige el art. 55; con penas divisibles de distinta especie, el art. 56, y la gravedad relativa se mide por el orden del art. 5° (art. 57)."
+}

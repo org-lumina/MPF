@@ -1,0 +1,158 @@
+{
+  "caso_id": 35,
+  "eje": "CPPF",
+  "planteo": "Sebastián V. lleva varios meses en prisión preventiva. Su defensa advierte que el tiempo cumplido ya equivale al que, de existir condena, le habría permitido solicitar la libertad condicional. Plantea, además, que han desaparecido los presupuestos que fundaron la medida y solicita su revocación; ante la falta de respuesta del juez, evalúa qué herramientas tiene frente a la demora.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué ocurre con la prisión preventiva cuando el imputado cumplió en ella un tiempo que le habría permitido solicitar la libertad condicional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se mantiene hasta la sentencia, sin incidencia del tiempo cumplido.",
+          "correcta": false,
+          "explicacion": "El artículo 224 inciso c del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé el cese de la prisión preventiva cuando el imputado permaneció un tiempo que, de haber existido condena, le habría permitido solicitar la libertad condicional o asistida."
+        },
+        {
+          "letra": "B",
+          "texto": "La prisión preventiva cesa por imperio del límite legal.",
+          "correcta": true,
+          "explicacion": "El artículo 224 inciso c del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que la prisión preventiva cesará si el imputado permaneció en ella un tiempo que, de haber existido condena, le habría permitido solicitar la libertad condicional o la libertad asistida."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cesa si lo solicita el fiscal.",
+          "correcta": false,
+          "explicacion": "El artículo 224 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija el cese como límite legal de la medida, sin condicionarlo a un pedido del fiscal."
+        },
+        {
+          "letra": "D",
+          "texto": "Se transforma automáticamente en arresto domiciliario.",
+          "correcta": false,
+          "explicacion": "El artículo 224 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone el cese de la prisión preventiva, no su conversión automática en arresto domiciliario."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Cesada la prisión preventiva por alcanzarse ese límite, ¿puede volver a imponerse en el mismo proceso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que reaparezca el peligro de fuga.",
+          "correcta": false,
+          "explicacion": "El artículo 224 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe imponer nuevamente la prisión preventiva en el mismo proceso si una anterior cesó por las razones de límite allí enunciadas, sin perjuicio de otras medidas de coerción."
+        },
+        {
+          "letra": "B",
+          "texto": "No puede imponerse nuevamente en el mismo proceso si cesó por esas razones, sin perjuicio de otras medidas de coerción.",
+          "correcta": true,
+          "explicacion": "El artículo 224 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que no podrá imponerse nuevamente la prisión preventiva en el mismo proceso si una anterior hubiese cesado por esas razones, sin perjuicio de hacer comparecer al imputado o aplicar otras medidas de coerción."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con autorización de la cámara de apelaciones.",
+          "correcta": false,
+          "explicacion": "El artículo 224 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no prevé una reimposición autorizada por la cámara; la veda es para el mismo proceso cuando la medida cesó por el límite legal."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, cuantas veces lo solicite el querellante.",
+          "correcta": false,
+          "explicacion": "El artículo 224 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impide reimponerla en el mismo proceso si cesó por esas razones, con independencia de los pedidos del querellante."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Si la defensa sostiene que desaparecieron los presupuestos que fundaron la medida, ¿qué corresponde solicitar y cómo se resuelve?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La revocación o sustitución, resuelta en audiencia en un plazo no mayor a 72 horas.",
+          "correcta": true,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el juez, de oficio o a pedido del imputado o su defensa, revocará o sustituirá la medida cuando desaparezcan sus presupuestos, resolviendo en audiencia en un plazo que nunca podrá ser mayor a 72 horas."
+        },
+        {
+          "letra": "B",
+          "texto": "Un recurso de casación contra la prisión preventiva.",
+          "correcta": false,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) canaliza la desaparición de los presupuestos mediante la revocación o sustitución en audiencia, no por la vía de la casación."
+        },
+        {
+          "letra": "C",
+          "texto": "Una nueva acusación que reemplace la anterior.",
+          "correcta": false,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula la revocación o sustitución de la medida, sin relación con una nueva acusación."
+        },
+        {
+          "letra": "D",
+          "texto": "La revisión de la sentencia firme dictada en su contra.",
+          "correcta": false,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) atiende a la medida de coerción vigente; la revisión de sentencia firme es un instituto distinto y aquí no hay sentencia firme."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si el pedido de revocación es rechazado, ¿en qué plazo es revisable esa resolución?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de 72 horas, igual que la imposición de la medida.",
+          "correcta": false,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé específicamente que la resolución que rechace el pedido de revocación o sustitución es revisable dentro de las 24 horas, no de 72."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de 24 horas.",
+          "correcta": true,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que la resolución que rechace el pedido de revocación o sustitución será revisable dentro del plazo de 24 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro de 5 días hábiles.",
+          "correcta": false,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija el plazo de revisión del rechazo en 24 horas, no en 5 días."
+        },
+        {
+          "letra": "D",
+          "texto": "No es revisable, por tratarse de una decisión discrecional.",
+          "correcta": false,
+          "explicacion": "El artículo 226 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé expresamente la revisión del rechazo dentro de 24 horas, descartando que sea irrecurrible."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si planteada la revisión de la medida privativa de libertad el juez no resuelve en los plazos del Código, ¿qué puede hacer el imputado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Urgir pronto despacho y, si en 24 horas no obtiene resolución, el juez incurre en falta grave y causal de mal desempeño.",
+          "correcta": true,
+          "explicacion": "El artículo 227 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) permite al imputado urgir pronto despacho y, si dentro de las 24 horas no obtuviese resolución, el juez incurrirá en falta grave y causal de mal desempeño."
+        },
+        {
+          "letra": "B",
+          "texto": "Recusar de inmediato al juez por la demora.",
+          "correcta": false,
+          "explicacion": "El artículo 227 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé el pronto despacho y la responsabilidad del juez por falta grave, no la recusación como remedio frente a la demora."
+        },
+        {
+          "letra": "C",
+          "texto": "Quedar automáticamente en libertad sin resolución alguna.",
+          "correcta": false,
+          "explicacion": "El artículo 227 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita urgir pronto despacho y genera responsabilidad del juez, pero no dispone una libertad automática por la sola demora."
+        },
+        {
+          "letra": "D",
+          "texto": "Esperar al vencimiento del plazo de la investigación preparatoria.",
+          "correcta": false,
+          "explicacion": "El artículo 227 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ofrece una herramienta inmediata frente a la demora; no obliga a esperar el plazo de la investigación preparatoria."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso aborda límites, revisión y demora. El cumplimiento de un tiempo equivalente al que habilitaría la libertad condicional hace cesar la prisión preventiva (artículo 224 inciso c), que además no puede reimponerse en el mismo proceso si cesó por esas razones. La desaparición de los presupuestos habilita revocación o sustitución resuelta en audiencia en plazo no mayor a 72 horas, con revisión del rechazo en 24 horas (artículo 226). Ante la demora del juez, el imputado puede urgir pronto despacho con la responsabilidad del artículo 227. Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

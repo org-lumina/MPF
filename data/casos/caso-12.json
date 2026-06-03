@@ -1,0 +1,158 @@
+{
+  "caso_id": 12,
+  "eje": "Código Penal",
+  "planteo": "Marta es condenada por sentencia firme a pena de prisión por un robo. Mientras cumple esa pena, se descubre que con anterioridad había cometido otro delito distinto, reprimido también con prisión, por el que ahora se la juzga. Se plantea cómo articular ambas penas sin alterar las declaraciones de hechos ya firmes.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué norma regula el caso en que, después de una condena firme, debe juzgarse a la misma persona que cumple pena por otro hecho distinto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El art. 58 del Código Penal, sobre unificación de penas y condenas.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 del Código Penal (Ley N° 11.179) aplica las reglas del concurso cuando, después de una condena firme, debe juzgarse a la misma persona que cumple pena por otro hecho distinto."
+        },
+        {
+          "letra": "B",
+          "texto": "El art. 54 del Código Penal, sobre concurso ideal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 54 del Código Penal (Ley N° 11.179) regula el concurso ideal de un solo hecho; la unificación tras condena firme es materia del art. 58."
+        },
+        {
+          "letra": "C",
+          "texto": "El art. 43 del Código Penal, sobre desistimiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 43 del Código Penal (Ley N° 11.179) regula el desistimiento de la tentativa, ajeno a la unificación de condenas."
+        },
+        {
+          "letra": "D",
+          "texto": "El art. 44 del Código Penal, sobre escala de la tentativa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 44 del Código Penal (Ley N° 11.179) fija la escala de la tentativa, no las reglas de unificación tras condena firme."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Al unificar, ¿qué límite impone el art. 58 respecto de las declaraciones de hechos de las sentencias anteriores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El juez dicta única sentencia sin alterar las declaraciones de hechos contenidas en las otras.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 del Código Penal (Ley N° 11.179) ordena que el juez que aplicó la pena mayor dicte única sentencia, a pedido de parte, sin alterar las declaraciones de hechos contenidas en las otras."
+        },
+        {
+          "letra": "B",
+          "texto": "El juez puede revisar y modificar los hechos ya declarados.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) prohíbe alterar las declaraciones de hechos de las sentencias anteriores."
+        },
+        {
+          "letra": "C",
+          "texto": "El juez debe absolver por el hecho más antiguo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) regula la unificación de penas, no una absolución del hecho más antiguo."
+        },
+        {
+          "letra": "D",
+          "texto": "El juez ordena cumplir ambas penas íntegras de modo sucesivo sin unificar.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) manda dictar una única sentencia unificadora, no la ejecución sucesiva sin unificación."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué juez debe dictar la sentencia única de unificación según el art. 58?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El juez que haya aplicado la pena mayor, a pedido de parte.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 del Código Penal (Ley N° 11.179) dispone que corresponde al juez que haya aplicado la pena mayor dictar, a pedido de parte, su única sentencia."
+        },
+        {
+          "letra": "B",
+          "texto": "El juez que dictó la primera sentencia cronológicamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) atiende a la pena mayor, no a la fecha de la primera sentencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier juez federal de turno, de oficio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) asigna la tarea al juez que aplicó la pena mayor y a pedido de parte; solo subsidiariamente prevé la intervención de otra justicia."
+        },
+        {
+          "letra": "D",
+          "texto": "El juez que dictó la pena menor, de oficio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) designa al juez de la pena mayor, no al de la pena menor, y exige pedido de parte."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "El art. 58 también se aplica cuando se hubieren dictado dos o más sentencias firmes con violación de las reglas del concurso. En la unificación de condenas, ¿cómo se determina la pena resultante?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Será la suma aritmética de las penas impuestas en las sentencias consideradas.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 del Código Penal (Ley N° 11.179) dispone que, en la unificación de condenas, la pena resultante será la suma aritmética de las penas impuestas en las sentencias consideradas para el dictado de la pena única."
+        },
+        {
+          "letra": "B",
+          "texto": "Será únicamente la pena mayor, descartando las demás.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La absorción por la pena mayor corresponde al art. 54 del Código Penal (Ley N° 11.179); en la unificación de condenas del art. 58 la pena es la suma aritmética."
+        },
+        {
+          "letra": "C",
+          "texto": "Será el promedio de las penas impuestas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) ordena la suma aritmética, no un promedio."
+        },
+        {
+          "letra": "D",
+          "texto": "Será la pena menor de las sentencias firmes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) prevé la suma aritmética de las penas, no la aplicación de la menor."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si por cualquier causa la justicia federal no pudiera aplicar la regla de unificación, ¿quién lo hará según el art. 58?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La justicia ordinaria nacional o provincial que conoció de la infracción penal, según el caso.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 58 del Código Penal (Ley N° 11.179) prevé que, cuando la justicia federal no pueda aplicar la regla, lo hará la justicia ordinaria nacional o provincial que conoció de la infracción, según el caso."
+        },
+        {
+          "letra": "B",
+          "texto": "La Corte Suprema de Justicia de la Nación de oficio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) remite a la justicia ordinaria nacional o provincial, no a la Corte Suprema de oficio."
+        },
+        {
+          "letra": "C",
+          "texto": "Ningún tribunal: la unificación queda sin efecto.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) asegura la unificación mediante la justicia ordinaria cuando la federal no puede; no la deja sin efecto."
+        },
+        {
+          "letra": "D",
+          "texto": "El Ministerio Público Fiscal mediante resolución administrativa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 58 del Código Penal (Ley N° 11.179) atribuye la función a un órgano judicial (justicia ordinaria nacional o provincial), no a una resolución administrativa del MPF."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Cuando tras una condena firme debe juzgarse a la misma persona por otro hecho distinto, o existen sentencias firmes dictadas con violación de las reglas del concurso, rige el art. 58 del Código Penal (Ley N° 11.179): el juez que aplicó la pena mayor dicta única sentencia a pedido de parte, sin alterar los hechos ya declarados; en la unificación de condenas la pena resultante es la suma aritmética, y si la justicia federal no puede actuar, lo hace la justicia ordinaria nacional o provincial."
+}

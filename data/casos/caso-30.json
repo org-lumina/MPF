@@ -1,0 +1,158 @@
+{
+  "caso_id": 30,
+  "eje": "CPPF",
+  "planteo": "Lucía F. es detenida y conducida a sede policial. Sin presencia de defensor, personal policial la interroga sobre los hechos y obtiene una manifestación que luego el fiscal pretende incorporar como prueba de cargo. En una audiencia posterior, Lucía decide guardar silencio, y el fiscal sostiene que ese silencio debe interpretarse como un indicio de culpabilidad. La defensa cuestiona ambos extremos.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Es válido que la policía haya interrogado a Lucía sobre los hechos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que se haya labrado acta de lo declarado.",
+          "correcta": false,
+          "explicacion": "El artículo 73 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe a la policía interrogar al imputado, con independencia de que se labre o no acta."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la policía no puede interrogar al imputado, sólo requerir datos de identidad.",
+          "correcta": true,
+          "explicacion": "El artículo 73 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que la policía no podrá interrogar al imputado y sólo podrá requerirle datos de identidad; si éste deseara declarar, debe avisarse al Ministerio Público Fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si Lucía prestó consentimiento verbal ante los agentes.",
+          "correcta": false,
+          "explicacion": "El artículo 73 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) veda el interrogatorio policial aun mediando consentimiento; el deseo de declarar debe canalizarse ante el Ministerio Público Fiscal."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, en casos urgentes la policía puede interrogar sin defensor.",
+          "correcta": false,
+          "explicacion": "El artículo 73 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no prevé excepción de urgencia que habilite a la policía a interrogar al imputado."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "La manifestación obtenida sin defensor y mediante interrogatorio policial, ¿puede utilizarse en contra de Lucía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si posteriormente Lucía la ratifica con su defensor.",
+          "correcta": false,
+          "explicacion": "El artículo 74 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impide utilizar en contra del imputado la declaración tomada con inobservancia de las reglas, aun cuando hubiera mediado consentimiento, por lo que la ratificación no sanea el vicio originario."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la inobservancia de las reglas de la declaración impide utilizarla en su contra.",
+          "correcta": true,
+          "explicacion": "El artículo 74 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que la inobservancia de los preceptos relativos a la declaración del imputado impedirá utilizarla en su contra, aun con su consentimiento; concordante con el artículo 70 que exige presencia del defensor."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque las actuaciones de investigación tienen pleno valor probatorio.",
+          "correcta": false,
+          "explicacion": "El artículo 231 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) niega valor a las actuaciones de la investigación para fundar la condena, y el artículo 74 veda emplear una declaración viciada en contra del imputado."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, valorándola con prudencia conforme la sana crítica.",
+          "correcta": false,
+          "explicacion": "El artículo 10 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que la prueba se obtenga e incorpore conforme a la Constitución y al Código; una declaración viciada no ingresa a la sana crítica y el artículo 74 prohíbe su uso en contra del imputado."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El fiscal pretende valorar el silencio de Lucía como indicio de culpabilidad. ¿Es admisible?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el silencio frente a la imputación funciona como presunción en contra.",
+          "correcta": false,
+          "explicacion": "El artículo 4 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe valorar el ejercicio del derecho a no autoincriminarse como admisión de los hechos o indicio de culpabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el ejercicio del derecho a no autoincriminarse no puede valorarse como admisión ni indicio de culpabilidad.",
+          "correcta": true,
+          "explicacion": "El artículo 4 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que nadie puede ser obligado a declarar contra sí mismo y que el ejercicio de ese derecho no puede valorarse como admisión ni indicio de culpabilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, salvo que el imputado haya declarado antes en la causa.",
+          "correcta": false,
+          "explicacion": "El artículo 4 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no condiciona la prohibición a declaraciones previas; el silencio nunca puede valorarse como indicio de culpabilidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Depende de la gravedad del delito imputado.",
+          "correcta": false,
+          "explicacion": "El artículo 4 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no admite gradación según la gravedad del delito; la prohibición de valorar el silencio es absoluta."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Antes de recibir declaración a Lucía en debida forma, ¿qué advertencia previa corresponde efectuarle?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que debe prestar juramento de decir verdad sobre los hechos.",
+          "correcta": false,
+          "explicacion": "El artículo 72 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe exigir al imputado juramento o promesa de decir verdad, de modo que esa advertencia sería ilegal."
+        },
+        {
+          "letra": "B",
+          "texto": "Que tiene derecho a declarar y a abstenerse total o parcialmente, sin que el silencio lo perjudique.",
+          "correcta": true,
+          "explicacion": "El artículo 71 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone advertir, antes de la declaración, que el imputado puede declarar o abstenerse total o parcialmente sin que ello pueda usarse en su perjuicio, y se le informarán los demás derechos."
+        },
+        {
+          "letra": "C",
+          "texto": "Que su negativa a declarar habilitará la prisión preventiva.",
+          "correcta": false,
+          "explicacion": "El artículo 71 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ordena advertir el derecho a abstenerse sin perjuicio; vincular el silencio a la prisión preventiva contradice además el artículo 4."
+        },
+        {
+          "letra": "D",
+          "texto": "Que sus respuestas pueden serle exigidas perentoriamente.",
+          "correcta": false,
+          "explicacion": "El artículo 72 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe que las respuestas sean exigidas perentoriamente y veda toda fuerza o coacción sobre el imputado."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Para que la declaración que Lucía decida prestar tenga valor, ¿qué requisito esencial debe cumplirse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se realice ante dos testigos hábiles.",
+          "correcta": false,
+          "explicacion": "El artículo 70 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no exige testigos para la validez de la declaración, sino la presencia del defensor."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se realice en presencia de su defensor o, si es escrita, lleve su firma.",
+          "correcta": true,
+          "explicacion": "El artículo 70 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que la declaración del imputado sólo tendrá valor si la realiza en presencia de su defensor o, en caso de ser escrita, si lleva la firma de éste."
+        },
+        {
+          "letra": "C",
+          "texto": "Que sea autorizada previamente por el juez de garantías.",
+          "correcta": false,
+          "explicacion": "El artículo 70 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) permite declarar ante el fiscal o el juez, pero el requisito de validez es la presencia del defensor, no una autorización judicial previa."
+        },
+        {
+          "letra": "D",
+          "texto": "Que se grabe íntegramente en soporte audiovisual.",
+          "correcta": false,
+          "explicacion": "El artículo 70 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) admite reemplazar el acta por otra forma de registro, pero la condición de validez es la presencia o firma del defensor, no necesariamente un soporte audiovisual."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso articula no autoincriminación y defensa técnica. El interrogatorio policial es nulo por el artículo 73, y la declaración tomada sin defensor no puede usarse en contra de la imputada por el artículo 74, concordante con el requisito de validez del artículo 70 (presencia o firma del defensor). El silencio jamás se valora como indicio de culpabilidad (artículo 4). Antes de declarar corresponde la advertencia del artículo 71 y rigen los métodos prohibidos del artículo 72 (sin juramento ni coacción). Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

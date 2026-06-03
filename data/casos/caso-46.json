@@ -1,0 +1,158 @@
+{
+  "caso_id": 46,
+  "eje": "CPPF",
+  "planteo": "En el juicio oral seguido contra Gómez por lesiones, durante el debate un testigo revela una circunstancia del hecho de la acusación no contenida en ella, relevante para la calificación legal. El fiscal pretende ampliar la acusación. Al deliberar, el tribunal evalúa tener por acreditados hechos no descriptos en la acusación y aplicar una calificación más gravosa, además de imponer una pena superior a la pedida por los acusadores. Deben analizarse la ampliación de la acusación, la inmediación, la publicidad del debate y la correlación entre acusación y sentencia.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿En qué supuesto el fiscal o el querellante pueden ampliar la acusación durante el debate?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando, por una revelación o retractación, se tuviera conocimiento de una circunstancia del hecho de la acusación no contenida en ella, relevante para la calificación legal.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 295 (Ampliación de la acusación) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita la ampliación cuando, por revelación o retractación, surge una circunstancia del hecho de la acusación no contenida en ella y relevante para la calificación legal."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el tribunal lo ordene de oficio para completar la imputación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 295 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) atribuye la ampliación al fiscal o al querellante, no al tribunal de oficio."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando la defensa lo solicite para mejorar su estrategia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 295 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reserva la facultad de ampliar la acusación a los acusadores; la defensa puede pedir la suspensión del debate para ofrecer prueba o preparar la defensa."
+        },
+        {
+          "letra": "D",
+          "texto": "Para incorporar hechos totalmente nuevos y ajenos a la acusación originaria.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 295 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) refiere a una circunstancia del hecho de la acusación no contenida en ella; los hechos enteramente nuevos exceden el marco de la ampliación."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Ampliada la acusación, ¿qué derecho asiste a las partes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pedir la suspensión del debate para ofrecer nuevas pruebas o preparar la defensa, y si la nueva circunstancia modifica sustancialmente la acusación, la defensa podrá solicitar un nuevo juicio.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 295 (Ampliación de la acusación) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reconoce el derecho a pedir la suspensión del debate y, si la modificación es sustancial, la defensa puede solicitar la realización de un nuevo juicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguno; la ampliación se incorpora sin posibilidad de defensa adicional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 295 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) garantiza el derecho a pedir la suspensión del debate y, en su caso, un nuevo juicio, en resguardo de la defensa."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo recurrir la sentencia una vez dictada, sin medidas durante el debate.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 295 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé remedios durante el propio debate (suspensión y eventual nuevo juicio), no solo la impugnación posterior."
+        },
+        {
+          "letra": "D",
+          "texto": "Exigir la absolución automática del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 295 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no prevé absolución automática; otorga el derecho a suspender el debate y, en su caso, a un nuevo juicio."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Sobre la publicidad del debate, ¿qué establece el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El debate será oral y público, bajo pena de nulidad, sin perjuicio de las restricciones que el tribunal pueda disponer fundadamente para proteger la intimidad o seguridad.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 285 (Publicidad) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el debate será oral y público bajo pena de nulidad, admitiendo restricciones fundadas para proteger la intimidad o seguridad o evitar la divulgación de un secreto."
+        },
+        {
+          "letra": "B",
+          "texto": "El debate es siempre secreto para preservar la presunción de inocencia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 285 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra la regla de publicidad del debate bajo pena de nulidad; el secreto es excepcional y fundado."
+        },
+        {
+          "letra": "C",
+          "texto": "La publicidad es una mera recomendación sin sanción procesal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 285 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone la oralidad y publicidad bajo pena de nulidad, no como simple recomendación."
+        },
+        {
+          "letra": "D",
+          "texto": "El tribunal puede excluir al público sin necesidad de fundamentación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 285 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que las restricciones a la publicidad se dispongan fundadamente y solo si no existiere medio alternativo."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Al dictar sentencia, ¿qué límite impone el principio de correlación entre acusación y sentencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La sentencia no podrá tener por acreditados otros hechos o circunstancias que los descriptos en la acusación y, en su caso, en su ampliación.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 307 (Correlación entre acusación y sentencia) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe tener por acreditados hechos o circunstancias distintos de los descriptos en la acusación y su ampliación."
+        },
+        {
+          "letra": "B",
+          "texto": "El tribunal puede fallar sobre cualquier hecho que surja del debate aunque no haya sido acusado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 307 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) limita la sentencia a los hechos descriptos en la acusación y, en su caso, en su ampliación; no autoriza fallar sobre hechos no acusados."
+        },
+        {
+          "letra": "C",
+          "texto": "El tribunal puede dar al hecho una calificación más gravosa no debatida.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 307 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) solo permite una calificación distinta si es en beneficio del imputado y fue objeto de debate; no admite agravarla por sorpresa."
+        },
+        {
+          "letra": "D",
+          "texto": "La correlación solo vincula la calificación jurídica, nunca los hechos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 307 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) vincula tanto los hechos y circunstancias como la calificación jurídica del fallo a la acusación."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Respecto de la pena, ¿qué prohibición pesa sobre el tribunal al fallar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No podrá imponer una pena más grave que la solicitada por los acusadores y deberá absolver si ambos lo requieren.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 307 (Correlación entre acusación y sentencia) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que los jueces no podrán imponer una pena más grave que la solicitada por los acusadores y deberán absolver cuando ambos así lo requieran."
+        },
+        {
+          "letra": "B",
+          "texto": "Podrá imponer la pena máxima legal aunque exceda la pedida por los acusadores.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 307 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe imponer una pena más grave que la solicitada por los acusadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Podrá condenar pese al pedido de absolución de todos los acusadores.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 307 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) obliga a absolver cuando ambos acusadores lo requieren."
+        },
+        {
+          "letra": "D",
+          "texto": "Está facultado a fijar la pena con total independencia de lo pedido.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 307 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) limita el quantum punitivo al máximo solicitado por los acusadores; el tribunal no falla con independencia del pedido."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso ordena las reglas del debate y la congruencia. La ampliación de la acusación del art. 295 solo procede ante una circunstancia del hecho de la acusación revelada en el debate, relevante para la calificación, y habilita a las partes a pedir la suspensión y, si la modificación es sustancial, a un nuevo juicio. La publicidad del art. 285 rige bajo pena de nulidad, con restricciones fundadas excepcionales. El núcleo es el art. 307: la sentencia no puede tener por acreditados hechos ajenos a la acusación, no puede agravar la calificación fuera del beneficio del imputado debatido, no puede imponer pena más grave que la pedida y debe absolver si ambos acusadores lo requieren, todo conforme el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

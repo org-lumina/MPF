@@ -1,0 +1,158 @@
+{
+  "caso_id": 29,
+  "eje": "CPPF",
+  "planteo": "Manuel R. es imputado por un presunto fraude. Durante una audiencia, el juez con funciones de garantías advierte que el fiscal pretende fundar la acusación en un hecho distinto del que originó la investigación, invocando una analogía con una ley penal sancionada DESPUÉS de la conducta atribuida. La defensa objeta que se pretende juzgar y, eventualmente, condenar a su asistido por un hecho sin un juicio previo regular y con base en una ley posterior. Plantea, además, que aún no existe sentencia firme y que su asistido viene siendo aludido en los registros del legajo como 'el estafador'.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué garantía resulta directamente vulnerada si se pretendiera condenar a Manuel sin un juicio regular y fundado en ley anterior al hecho?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La garantía de imparcialidad e independencia del juzgador.",
+          "correcta": false,
+          "explicacion": "El artículo 8 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula la imparcialidad e independencia de los jueces, pero el agravio planteado se refiere a la exigencia de juicio previo y de ley anterior, no a la actuación parcial del juez."
+        },
+        {
+          "letra": "B",
+          "texto": "La garantía de juicio previo fundado en ley anterior al hecho del proceso.",
+          "correcta": true,
+          "explicacion": "El artículo 1 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que nadie puede ser condenado sin un juicio previo, fundado en ley anterior al hecho del proceso y conforme a la Constitución y los instrumentos internacionales, que es exactamente lo que se pretende soslayar."
+        },
+        {
+          "letra": "C",
+          "texto": "La garantía de defensa en juicio del imputado.",
+          "correcta": false,
+          "explicacion": "El artículo 6 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra el derecho de defensa, que aquí está en juego de modo indirecto, pero el núcleo del planteo es la condena sin juicio previo y sin ley anterior al hecho, propio del artículo 1."
+        },
+        {
+          "letra": "D",
+          "texto": "La garantía del juez natural designado con anterioridad al hecho.",
+          "correcta": false,
+          "explicacion": "El artículo 7 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) refiere al juez natural; sin embargo, el planteo no cuestiona qué juez interviene, sino la ausencia de juicio previo y de ley anterior al hecho."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "El uso de una analogía con una ley penal para extender su alcance a la conducta de Manuel, ¿cómo debe ser tratado a la luz de las reglas de interpretación del Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está permitido, porque las normas penales pueden aplicarse por analogía cuando favorecen la persecución.",
+          "correcta": false,
+          "explicacion": "El artículo 14 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe expresamente la analogía respecto de normas que limiten derechos, de modo que no puede usarse para ampliar la persecución en contra del imputado."
+        },
+        {
+          "letra": "B",
+          "texto": "Está prohibido, porque las normas que limitan derechos se interpretan restrictivamente, sin analogía ni interpretación extensiva.",
+          "correcta": true,
+          "explicacion": "El artículo 14 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que las disposiciones que coarten la libertad o limiten un derecho se interpretan restrictivamente y prohíbe la interpretación extensiva y la analogía de dichas normas."
+        },
+        {
+          "letra": "C",
+          "texto": "Es válido siempre que el juez lo funde en la sana crítica racional.",
+          "correcta": false,
+          "explicacion": "El artículo 10 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) refiere a la valoración de la prueba según la sana crítica racional, regla ajena a la prohibición de analogía que rige la interpretación de normas limitativas (artículo 14)."
+        },
+        {
+          "letra": "D",
+          "texto": "Depende de que la ley posterior sea más gravosa, en cuyo caso se aplica retroactivamente.",
+          "correcta": false,
+          "explicacion": "El artículo 11 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) sólo admite retroactividad de la norma procesal cuando es más favorable al imputado, nunca cuando es más gravosa, lo que descarta esta opción."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Respecto de las inscripciones en el legajo que aluden a Manuel como 'el estafador', ¿qué principio resulta lesionado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El principio de inocencia, que prohíbe tratar como culpable e incluir inscripciones estigmatizantes antes de sentencia firme.",
+          "correcta": true,
+          "explicacion": "El artículo 3 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que nadie puede ser tratado como culpable hasta sentencia firme y prohíbe que registros y legajos contengan inscripciones estigmatizantes que desvirtúen el estado de inocencia."
+        },
+        {
+          "letra": "B",
+          "texto": "El principio de motivación de las decisiones judiciales.",
+          "correcta": false,
+          "explicacion": "El artículo 20 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula la motivación de las decisiones; una calificación estigmatizante en el legajo no es un déficit de fundamentación, sino una afectación del estado de inocencia (artículo 3)."
+        },
+        {
+          "letra": "C",
+          "texto": "El principio de in dubio pro imputado.",
+          "correcta": false,
+          "explicacion": "El artículo 11 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone resolver la duda a favor del imputado, regla de decisión que no se identifica con la prohibición de inscripciones estigmatizantes prevista en el artículo 3."
+        },
+        {
+          "letra": "D",
+          "texto": "El principio de protección de la intimidad y privacidad.",
+          "correcta": false,
+          "explicacion": "El artículo 13 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) protege la intimidad, el domicilio y las comunicaciones; el agravio aquí es el trato como culpable mediante inscripciones estigmatizantes, propio del artículo 3."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si el debate sobre la responsabilidad de Manuel arrojara una duda razonable insuperable, ¿cómo debe resolverse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A favor de la víctima, por su derecho a la tutela judicial efectiva.",
+          "correcta": false,
+          "explicacion": "El artículo 12 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reconoce derechos de la víctima, pero no altera la regla de que la duda se resuelve a favor del imputado, prevista en el artículo 11."
+        },
+        {
+          "letra": "B",
+          "texto": "A favor de lo que sea más favorable para el imputado.",
+          "correcta": true,
+          "explicacion": "El artículo 11 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra el in dubio pro imputado: en caso de duda se estará a lo más favorable para el imputado."
+        },
+        {
+          "letra": "C",
+          "texto": "Postergando la decisión hasta obtener nueva prueba de cargo.",
+          "correcta": false,
+          "explicacion": "El artículo 19 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe a los jueces abstenerse de decidir o retardar indebidamente; ante la duda corresponde resolver conforme al artículo 11, no postergar."
+        },
+        {
+          "letra": "D",
+          "texto": "A favor de la acusación, si la prueba de cargo es mayoritaria aunque no concluyente.",
+          "correcta": false,
+          "explicacion": "El artículo 11 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone resolver la duda a favor del imputado, de modo que una prueba de cargo no concluyente no habilita la condena."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "La defensa de Manuel decide ejercerse en parte por el propio imputado y en parte por su abogado, surgiendo una discrepancia sobre la estrategia. ¿Cómo se resuelve?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prevalece siempre la decisión técnica del defensor por su idoneidad profesional.",
+          "correcta": false,
+          "explicacion": "El artículo 6 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé que, en caso de colisión, prima la voluntad del imputado expresada clara y libremente, no la del defensor."
+        },
+        {
+          "letra": "B",
+          "texto": "En caso de colisión prima la voluntad del imputado, expresada clara y libremente.",
+          "correcta": true,
+          "explicacion": "El artículo 6 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el derecho de defensa puede ejercerse por el imputado o su defensor indistintamente y que, en caso de colisión, primará la voluntad del imputado expresada clara y libremente."
+        },
+        {
+          "letra": "C",
+          "texto": "El juez designa de oficio un defensor público que dirima la estrategia.",
+          "correcta": false,
+          "explicacion": "El artículo 6 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no faculta al juez a imponer un defensor para dirimir la estrategia; la colisión se resuelve por la voluntad del imputado."
+        },
+        {
+          "letra": "D",
+          "texto": "Se suspende el proceso hasta que imputado y defensor unifiquen criterio.",
+          "correcta": false,
+          "explicacion": "El artículo 6 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no contempla una suspensión por discrepancia interna de la defensa; la colisión se zanja con la voluntad del imputado."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso integra las garantías basales del Libro Primero. El núcleo es el artículo 1 (juicio previo y ley anterior al hecho), reforzado por la prohibición de analogía e interpretación extensiva del artículo 14 y la regla de retroactividad sólo benigna del artículo 11. La aludida estigmatización en el legajo lesiona el principio de inocencia del artículo 3. Ante duda insuperable rige el in dubio pro imputado (artículo 11) y, en lo organizativo, la defensa material y técnica conviven, primando ante colisión la voluntad del imputado (artículo 6). Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

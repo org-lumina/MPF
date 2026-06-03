@@ -1,0 +1,158 @@
+{
+  "caso_id": 25,
+  "eje": "Código Penal",
+  "planteo": "Carla fue asesinada por su ex cónyuge, Roberto, de quien estaba divorciada desde hacía dos años. Roberto la mató de un disparo durante una discusión por el régimen de visitas de sus hijos. No hay constancia de violencia física previa, pero peritos sociales señalan un patrón de control y desvalorización sostenido. La defensa plantea dos líneas: (i) que al estar divorciados no rige el agravante del vínculo, y (ii) que de todos modos correspondería la atenuación por circunstancias extraordinarias.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿El estado de divorcio excluye el agravante del vínculo del art. 80 inc. 1?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No; el inciso alcanza expresamente al ex cónyuge.",
+          "correcta": true,
+          "explicacion": "El art. 80 inc. 1 del Código Penal (Ley N° 11.179), sustituido por el art. 1° de la Ley N° 26.791, comprende a 'su ascendiente, descendiente, cónyuge, ex cónyuge, o a la persona con quien mantiene o ha mantenido una relación de pareja'. El divorcio no excluye al ex cónyuge."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí; el divorcio extingue el vínculo y el agravante.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 1 del Código Penal (Ley N° 11.179), texto según art. 1° de la Ley N° 26.791, fue precisamente reformado para incluir al 'ex cónyuge', de modo que el divorcio no elimina el agravante."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, salvo que existan hijos en común.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 1 del Código Penal (Ley N° 11.179) no condiciona el agravante a la existencia de hijos; el ex cónyuge queda comprendido por su sola condición de tal según la reforma de la Ley N° 26.791."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo rige si hubo convivencia durante el matrimonio.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 1 del Código Penal (Ley N° 11.179), según la Ley N° 26.791, incluye al ex cónyuge sin exigir convivencia previa; la convivencia solo se menciona para la 'relación de pareja', y aun allí como indiferente ('mediare o no convivencia')."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Si se acredita que Roberto, hombre, mató a Carla, mujer, en un contexto de violencia de género (control y desvalorización), ¿qué inciso adicional resulta aplicable?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inciso 11 (femicidio), que concurre con el inciso 1.",
+          "correcta": true,
+          "explicacion": "El art. 80 inc. 11 del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, se aplica cuando un hombre mata a una mujer mediando violencia de género; el control y la desvalorización sostenidos son violencia psicológica según las Orientaciones del MPF. Concurre con el agravante del vínculo del inc. 1."
+        },
+        {
+          "letra": "B",
+          "texto": "Inciso 3 (precio o promesa remuneratoria).",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 3 del Código Penal (Ley N° 11.179) exige que el homicidio se cometa por precio o promesa remuneratoria, circunstancia inexistente en el caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Inciso 5 (medio idóneo para crear peligro común).",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 5 del Código Penal (Ley N° 11.179) requiere un medio idóneo para crear un peligro común (p. ej. incendio, explosión); un disparo dirigido a la víctima no genera ese peligro común."
+        },
+        {
+          "letra": "D",
+          "texto": "Ningún inciso adicional; basta el inciso 1.",
+          "correcta": false,
+          "explicacion": "Si se acredita la violencia de género, también concurre el art. 80 inc. 11 del Código Penal (Ley N° 11.179), incorporado por la Ley N° 26.791; afirmar que solo rige el inc. 1 ignora el contexto femicida valorable según las Orientaciones del MPF."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "La defensa pide la atenuación del art. 80 in fine alegando que no hubo violencia física previa. ¿Es viable si el hecho se califica como femicidio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es viable; calificado el hecho como femicidio en contexto de violencia de género, la atenuación por circunstancias extraordinarias no procede.",
+          "correcta": true,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según art. 3° de la Ley N° 26.791, limita la atenuación al inc. 1 y la excluye respecto de quien hubiera realizado actos de violencia contra la mujer víctima; las Orientaciones del MPF refuerzan que el control y la desvalorización son actos de violencia, por lo que tratándose de un femicidio la atenuante no procede."
+        },
+        {
+          "letra": "B",
+          "texto": "Es viable, porque la atenuante exige golpes y aquí no los hubo.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), según la Ley N° 26.791, alude a 'actos de violencia' sin reducirlos a la violencia física; las Orientaciones del MPF incluyen la violencia psicológica (control, desvalorización), por lo que el antecedente existe."
+        },
+        {
+          "letra": "C",
+          "texto": "Es viable, porque la discusión por las visitas es una circunstancia extraordinaria.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según la Ley N° 26.791, no procede cuando el hecho constituye femicidio en contexto de violencia de género; una discusión por el régimen de visitas no neutraliza ese contexto conforme las Orientaciones del MPF."
+        },
+        {
+          "letra": "D",
+          "texto": "Es viable solo si el juez lo considera, sin límite legal alguno.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), según el art. 3° de la Ley N° 26.791, contiene un límite legal expreso: no aplica a quien realizó actos de violencia previos contra la mujer víctima, de modo que la facultad judicial no es ilimitada."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "El 'patrón de control y desvalorización sostenido' señalado por los peritos corresponde, según las Orientaciones del MPF, a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Violencia psicológica.",
+          "correcta": true,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) definen la violencia psicológica como la que busca degradar o controlar acciones, comportamientos y decisiones mediante humillación, descrédito, vigilancia y exigencia de sumisión, lo que comprende el control y la desvalorización del caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Violencia física.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) reservan la violencia física para la empleada contra el cuerpo (golpes, empujones); el patrón descripto es de naturaleza psíquica, no corporal."
+        },
+        {
+          "letra": "C",
+          "texto": "Violencia simbólica.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) circunscriben la violencia simbólica a patrones, mensajes o íconos sociales que reproducen dominación; el control directo sobre la víctima es violencia psicológica."
+        },
+        {
+          "letra": "D",
+          "texto": "Violencia mediática.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) ubican la violencia mediática en la difusión por medios de comunicación de mensajes estereotipados, ajena al control interpersonal del caso."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Considerando que concurren el inc. 1 y el inc. 11, la calificación correcta y su pena son:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Homicidio agravado por el vínculo y por femicidio (art. 80, incs. 1 y 11), con pena perpetua.",
+          "correcta": true,
+          "explicacion": "El art. 80 incs. 1 y 11 del Código Penal (Ley N° 11.179), incs. sustituido e incorporado respectivamente por los arts. 1° y 2° de la Ley N° 26.791, califican el hecho como homicidio agravado por el vínculo (ex cónyuge) y femicidio; el encabezado del art. 80 impone reclusión o prisión perpetua."
+        },
+        {
+          "letra": "B",
+          "texto": "Homicidio simple (art. 79), con pena de ocho a veinticinco años.",
+          "correcta": false,
+          "explicacion": "El art. 79 del Código Penal (Ley N° 11.179) rige sin agravantes y prevé una escala de ocho a veinticinco años; aquí concurren agravantes del art. 80 que imponen pena perpetua."
+        },
+        {
+          "letra": "C",
+          "texto": "Homicidio atenuado del art. 80 in fine, con pena de ocho a veinticinco años.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según la Ley N° 26.791, no procede en el femicidio con violencia de género previa, por lo que no corresponde esa escala atenuada."
+        },
+        {
+          "letra": "D",
+          "texto": "Homicidio en emoción violenta (art. 81 inc. a), con pena de tres a seis años de reclusión.",
+          "correcta": false,
+          "explicacion": "El art. 81 inc. a) del Código Penal (Ley N° 11.179) exige emoción violenta excusable; las Orientaciones del MPF descartan como excusa las reacciones ante la autonomía de la mujer en contexto de control, por lo que no corresponde la atenuación."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El homicidio de la ex cónyuge encuadra en el art. 80 incs. 1 (vínculo, que comprende al ex cónyuge) y 11 (femicidio) del Código Penal (Ley N° 11.179), conforme los arts. 1° y 2° de la Ley N° 26.791. El control y la desvalorización son violencia psicológica (Orientaciones del MPF), que constituyen 'actos de violencia' y, por tratarse de femicidio, vedan la atenuación del art. 80 in fine (texto según art. 3° de la Ley N° 26.791). La pena es perpetua."
+}

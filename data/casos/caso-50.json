@@ -1,0 +1,158 @@
+{
+  "caso_id": 50,
+  "eje": "CPPF",
+  "planteo": "En una investigación preparatoria ya formalizada, el representante del Ministerio Público Fiscal estima suficiente la imposición de una pena privativa de la libertad inferior a SEIS (6) años respecto de Lucía, imputada por un delito contra la propiedad. Fiscal y defensa negocian un acuerdo pleno: Lucía está dispuesta a aceptar los hechos y la pena. El fiscal solicita una pena que es inferior a la mitad de la prevista para el caso. Existe un querellante constituido. Las partes solicitan la audiencia respectiva. Sobre los presupuestos, requisitos y control judicial del acuerdo se formulan las siguientes preguntas.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuál es el presupuesto de procedencia del acuerdo pleno en cuanto a la pena estimada por el fiscal y la oportunidad para acordarlo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el fiscal estime suficiente una pena privativa de la libertad inferior a 6 años; el acuerdo puede pactarse desde la formalización de la investigación preparatoria y hasta la fijación de fecha de audiencia de debate.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el acuerdo pleno se aplica a hechos respecto de los cuales el fiscal estime suficiente la imposición de una pena privativa de la libertad inferior a SEIS (6) años, y que podrá acordarse desde la formalización de la investigación preparatoria y hasta la fijación de fecha de audiencia de debate."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el fiscal estime suficiente una pena inferior a 3 años; solo puede acordarse antes de la formalización.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija el umbral en una pena inferior a 6 años, no a 3, y habilita el acuerdo desde la formalización hasta la fijación de fecha de debate, no antes de la formalización."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el fiscal estime suficiente una pena inferior a 15 años; puede acordarse en cualquier etapa, incluso durante el debate.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El umbral de 15 años corresponde a la flagrancia (artículo 328 del Código Procesal Penal Federal, Ley N° 27.063, mod. Ley N° 27.482), no al acuerdo pleno; el artículo 323 del mismo Código establece menos de 6 años y limita la oportunidad hasta la fijación de fecha de debate."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la pena en abstracto del delito no supere los 6 años, con independencia de lo que estime el fiscal, y solo en la audiencia de control de la acusación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) atiende a la pena que el fiscal estime suficiente (inferior a 6 años), no a la escala en abstracto, y habilita el acuerdo desde la formalización hasta la fijación de fecha de debate, no únicamente en la audiencia de control."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Dado que el fiscal solicita una pena inferior a la mitad de la prevista para el caso, ¿qué recaudo adicional exige la ley?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe requerir el acuerdo del fiscal superior.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que, si el fiscal solicitare menos de la mitad de la pena prevista para el caso, deberá requerir el acuerdo del fiscal superior."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe obtener la conformidad expresa del querellante, que en este punto es vinculante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El recaudo que exige el artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ante un pedido inferior a la mitad de la pena es el acuerdo del fiscal superior, no la conformidad vinculante del querellante."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe requerir autorización del juez de revisión antes de presentar la acusación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige el acuerdo del fiscal superior, no una autorización previa del juez de revisión."
+        },
+        {
+          "letra": "D",
+          "texto": "No se exige recaudo alguno; basta la sola voluntad del fiscal interviniente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone expresamente requerir el acuerdo del fiscal superior cuando se solicite menos de la mitad de la pena prevista."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué debe aceptar el imputado de forma expresa para la validez del acuerdo pleno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los hechos materia de la acusación, su participación en ellos, los antecedentes probatorios en que se funda la acusación, la tipificación legal de los hechos y la pena requerida por el fiscal.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que el imputado acepte de forma expresa los hechos materia de la acusación, su participación en ellos, los antecedentes probatorios en que se funda la acusación, la tipificación legal de los hechos y la pena requerida por el fiscal."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente la pena requerida por el fiscal, sin necesidad de aceptar los hechos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere la aceptación expresa de los hechos, la participación, los antecedentes probatorios y la tipificación, además de la pena; no basta aceptar solo la pena."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo los hechos y su participación, quedando la calificación legal librada a la decisión del juez.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) incluye también la aceptación expresa de la tipificación legal y de la pena requerida, no solo de los hechos y la participación."
+        },
+        {
+          "letra": "D",
+          "texto": "Una confesión de culpabilidad que servirá por sí sola para fundar la condena.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 323 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige aceptar hechos, participación, antecedentes, tipificación y pena, pero el artículo 325 del mismo Código aclara que la admisión de los hechos no se considera reconocimiento de culpabilidad y que la condena no puede fundarse exclusivamente en esa aceptación."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "En la audiencia, ¿en qué condición puede oponerse el querellante al acuerdo pleno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si sostiene una calificación jurídica o una responsabilidad penal diferente a la de la acusación fiscal y, como consecuencia, la pena aplicable excediera el límite del artículo 323.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 324 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el querellante solo podrá oponerse si sostuviera una calificación jurídica o una responsabilidad penal diferente a la de la acusación fiscal y, como consecuencia de ello, la pena aplicable excediera el límite establecido en el artículo 323 del mismo Código."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede oponerse libremente y su oposición impide sin más la homologación del acuerdo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 324 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) acota la oposición del querellante al supuesto de distinta calificación o responsabilidad que haga exceder el límite del artículo 323; no es una facultad libre ni de efecto automático."
+        },
+        {
+          "letra": "C",
+          "texto": "Puede oponerse solo si discrepa con el monto de la pena, aunque no varíe la calificación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 324 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) condiciona la oposición a una calificación o responsabilidad diferentes que hagan exceder el límite del artículo 323; la mera discrepancia con el monto, sin variar la calificación, no habilita la oposición."
+        },
+        {
+          "letra": "D",
+          "texto": "No puede oponerse en ningún caso, pues el acuerdo es exclusivo del fiscal y el imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 324 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reconoce al querellante una posibilidad de oposición acotada, de modo que no es exacto que no pueda oponerse en ningún caso."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Al dictar sentencia en la audiencia del acuerdo pleno, ¿qué límites y reglas debe observar el juez?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La condena no puede fundarse exclusivamente en la aceptación de los hechos; la pena no puede superar la acordada ni modificar su forma de ejecución, sin perjuicio de imponer una pena menor; y si el acuerdo no cumple los requisitos legales, debe declarar su inadmisibilidad.",
+          "correcta": true,
+          "explicacion": "Correcta. El artículo 325 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que la sentencia condenatoria no puede fundarse exclusivamente en la aceptación de los hechos por el acusado, que la pena impuesta no puede superar la acordada ni modificar su forma de ejecución (sin perjuicio de una pena menor) y que, si el juez estima que el acuerdo no cumple los requisitos legales, declarará su inadmisibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "El juez puede imponer una pena mayor a la acordada si considera que el hecho es más grave, ya que no está vinculado por el acuerdo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 325 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe que la pena supere la acordada por las partes; el juez puede imponer una pena menor, nunca una mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "El juez debe homologar el acuerdo sin control sustancial, limitándose a registrar lo pactado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 325 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482), junto con el artículo 324 del mismo Código, impone al juez un control sustancial: verificar la conformidad libre y voluntaria, que la condena no se funde solo en la aceptación de hechos y declarar la inadmisibilidad si no se cumplen los requisitos."
+        },
+        {
+          "letra": "D",
+          "texto": "El juez solo puede dictar sentencia condenatoria; no está habilitado a absolver en este trámite.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El artículo 325 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita expresamente al juez a dictar sentencia absolutoria si los reconocimientos del acusado resultaren inconsistentes con las pruebas sobre las que se basa la acusación."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El acuerdo pleno (arts. 323 a 325 del Código Procesal Penal Federal, Ley N° 27.063, mod. Ley N° 27.482) procede cuando el fiscal estima suficiente una pena privativa de la libertad inferior a 6 años, requiere acuerdo del fiscal superior si se pide menos de la mitad de la pena prevista (art. 323) y exige aceptación expresa del imputado sobre hechos, participación, antecedentes probatorios, tipificación y pena. La oportunidad va desde la formalización hasta la fijación de fecha de debate (art. 323). El querellante solo puede oponerse si su calificación o atribución de responsabilidad haría exceder el límite del art. 323 (art. 324). El control judicial es sustancial: el juez verifica la voluntad libre del imputado (art. 324), no puede fundar la condena solo en la aceptación de hechos ni superar la pena acordada, puede imponer pena menor o absolver y debe declarar inadmisible el acuerdo que no cumpla los requisitos legales (art. 325). El caso integra presupuestos, requisitos y control del abreviado."
+}

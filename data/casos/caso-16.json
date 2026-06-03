@@ -1,0 +1,158 @@
+{
+  "caso_id": 16,
+  "eje": "Código Penal",
+  "planteo": "Esa noche, Marcos regresa a su departamento habitado y, al abrir la puerta, encuentra a un extraño (Damián) dentro de su living revolviendo cajones. Marcos le ordena detenerse; Damián, en lugar de huir, se abalanza sobre él esgrimiendo un destornillador y forcejean. Marcos toma un palo y le propina un golpe en el brazo que lo neutraliza, y luego un segundo golpe en la cabeza cuando Damián ya estaba caído e inmóvil, causándole lesiones graves. Marcos no había provocado en modo alguno la presencia de Damián.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Bajo qué inciso del art. 34 del Código Penal (Ley N° 11.179) se analiza primariamente la conducta de Marcos al repeler a quien encontró dentro de su hogar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inc. 3 (estado de necesidad), porque causó un mal para evitar otro mayor.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) exige ser extraño al mal que se evita y un conflicto entre bienes; aquí hay una agresión actual de un tercero, supuesto propio de la legítima defensa, no del estado de necesidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Inc. 6 (defensa propia o de sus derechos), que prevé expresamente el hallazgo de un extraño dentro del hogar con resistencia.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 6 del Código Penal (Ley N° 11.179) regula la defensa propia y presume las circunstancias respecto de quien encuentra a un extraño dentro de su hogar siempre que haya resistencia, supuesto que encuadra el caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Inc. 4 (legítimo ejercicio de un derecho), porque Marcos defendía su propiedad.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 4 del Código Penal (Ley N° 11.179) cubre el cumplimiento de un deber o ejercicio de autoridad, derecho o cargo, pero la reacción defensiva frente a una agresión ilegítima tiene regla específica en el inc. 6."
+        },
+        {
+          "letra": "D",
+          "texto": "Inc. 7 (defensa de terceros), pues Marcos protegía a los demás ocupantes.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 7 del Código Penal (Ley N° 11.179) regula la defensa de la persona o derechos de otro; Marcos se defiende a sí mismo y a sus bienes, supuesto del inc. 6."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuáles son las tres circunstancias que el art. 34 inc. 6 del Código Penal (Ley N° 11.179) exige para la legítima defensa propia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Agresión ilegítima; necesidad racional del medio empleado; falta de provocación suficiente por parte del que se defiende.",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 6 del Código Penal (Ley N° 11.179) enumera las letras a) agresión ilegítima, b) necesidad racional del medio empleado para impedirla o repelerla y c) falta de provocación suficiente por parte del que se defiende."
+        },
+        {
+          "letra": "B",
+          "texto": "Agresión ilegítima; proporcionalidad exacta del daño causado; ausencia de testigos.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 6 del Código Penal (Ley N° 11.179) no exige proporcionalidad matemática del daño ni ausencia de testigos, sino necesidad racional del medio empleado."
+        },
+        {
+          "letra": "C",
+          "texto": "Mal inminente; ser extraño al mal; imposibilidad de evitarlo de otro modo.",
+          "correcta": false,
+          "explicacion": "Esos requisitos pertenecen al estado de necesidad del art. 34 inc. 3 del Código Penal (Ley N° 11.179), no a la legítima defensa del inc. 6."
+        },
+        {
+          "letra": "D",
+          "texto": "Fuerza física irresistible; amenaza de un mal grave; falta de provocación.",
+          "correcta": false,
+          "explicacion": "La fuerza física irresistible y la amenaza de mal grave corresponden al art. 34 inc. 2 del Código Penal (Ley N° 11.179) (coacción), no a la legítima defensa del inc. 6."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El segundo golpe que Marcos dio en la cabeza cuando Damián ya estaba caído e inmóvil, ¿cómo se valora jurídicamente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sigue amparado por la legítima defensa del art. 34 inc. 6, porque toda la secuencia es un único acto defensivo.",
+          "correcta": false,
+          "explicacion": "Cesada la agresión ilegítima exigida por el art. 34 inc. 6 del Código Penal (Ley N° 11.179), no subsiste la necesidad de defensa; la causa de justificación no cubre el golpe posterior."
+        },
+        {
+          "letra": "B",
+          "texto": "Es un supuesto de estado de necesidad del art. 34 inc. 3, por persistir el peligro.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 3 del Código Penal (Ley N° 11.179) requiere un mal inminente; con el agresor inmóvil no hay peligro actual que justifique el segundo golpe."
+        },
+        {
+          "letra": "C",
+          "texto": "Constituye un exceso en la defensa, regido por el art. 35, pues se traspasaron los límites de la necesidad.",
+          "correcta": true,
+          "explicacion": "El art. 35 del Código Penal (Ley N° 11.179) castiga a quien excede los límites impuestos por la necesidad con la pena del delito por culpa o imprudencia; el golpe tras cesar la agresión es exceso en la defensa."
+        },
+        {
+          "letra": "D",
+          "texto": "Queda impune por obediencia debida según el art. 34 inc. 5.",
+          "correcta": false,
+          "explicacion": "El art. 34 inc. 5 del Código Penal (Ley N° 11.179) refiere a obediencia debida a una orden, inexistente aquí; no guarda relación con el exceso defensivo."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Según el art. 35 del Código Penal (Ley N° 11.179), ¿con qué pena se castiga al que excede los límites impuestos por la necesidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con la pena fijada para el delito por culpa o imprudencia.",
+          "correcta": true,
+          "explicacion": "El art. 35 del Código Penal (Ley N° 11.179) dispone expresamente que el exceso se castiga con la pena fijada para el delito por culpa o imprudencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Con la pena del delito doloso disminuida de un tercio a la mitad.",
+          "correcta": false,
+          "explicacion": "Esa reducción corresponde a la tentativa (art. 44) y a la complicidad secundaria (art. 46) del Código Penal (Ley N° 11.179), no al exceso del art. 35."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la pena del delito doloso en su mínimo legal.",
+          "correcta": false,
+          "explicacion": "El art. 35 del Código Penal (Ley N° 11.179) no remite al mínimo del delito doloso, sino a la escala del delito culposo correspondiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Resulta no punible por aplicación del art. 34 inc. 6.",
+          "correcta": false,
+          "explicacion": "El exceso no es impunidad: el art. 35 del Código Penal (Ley N° 11.179) prevé una pena atenuada (la culposa), por lo que no se aplica la no punibilidad del art. 34 inc. 6."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si Marcos hubiera provocado deliberadamente la presencia de Damián incitándolo a entrar para luego golpearlo, ¿qué requisito del art. 34 inc. 6 del Código Penal (Ley N° 11.179) faltaría?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La agresión ilegítima (letra a).",
+          "correcta": false,
+          "explicacion": "La agresión ilegítima del art. 34 inc. 6.a del Código Penal (Ley N° 11.179) seguiría existiendo: el extraño igualmente atacaría; lo que se vería afectado es otro requisito."
+        },
+        {
+          "letra": "B",
+          "texto": "La necesidad racional del medio empleado (letra b).",
+          "correcta": false,
+          "explicacion": "La racionalidad del medio (art. 34 inc. 6.b del Código Penal, Ley N° 11.179) se evalúa por la entidad de la reacción, no por la conducta previa de quien defiende."
+        },
+        {
+          "letra": "C",
+          "texto": "La falta de provocación suficiente por parte del que se defiende (letra c).",
+          "correcta": true,
+          "explicacion": "El art. 34 inc. 6.c del Código Penal (Ley N° 11.179) exige falta de provocación suficiente por parte del que se defiende; si Marcos provocó la situación, falta este requisito y se excluye la justificación."
+        },
+        {
+          "letra": "D",
+          "texto": "La condición de que el hecho ocurra durante la noche.",
+          "correcta": false,
+          "explicacion": "La nocturnidad no es un requisito autónomo: en el art. 34 inc. 6 del Código Penal (Ley N° 11.179) opera como presunción de las circunstancias, no como condición que excluya la defensa por provocación."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso encuadra en la legítima defensa propia del art. 34 inc. 6 del Código Penal (Ley N° 11.179), que además contempla el hallazgo nocturno de un extraño dentro del hogar con resistencia (P1). Sus tres requisitos son agresión ilegítima, necesidad racional del medio y falta de provocación suficiente (P2). El primer golpe que neutraliza a Damián está justificado; el segundo, asestado cuando el agresor ya estaba inmóvil, cesa la agresión y configura exceso del art. 35 (P3), castigado con la pena del delito por culpa o imprudencia (P4). Finalmente, de haber existido provocación deliberada de Marcos, faltaría el requisito de la letra c) del inc. 6 (falta de provocación suficiente), excluyendo la justificación (P5)."
+}

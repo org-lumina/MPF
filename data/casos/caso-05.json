@@ -1,0 +1,158 @@
+{
+  "caso_id": 5,
+  "eje": "Código Penal",
+  "planteo": "Sergio se presenta ante Carla diciéndose gerente de una financiera inexistente y exhibiendo documentación apócrifa. Convencida por esa apariencia, Carla le entrega $2.000.000 para una supuesta inversión que nunca existió. Sergio se queda con el dinero y desaparece.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué tipo penal corresponde a la conducta de Sergio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hurto.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 162 del Código Penal (Ley N° 11.179) supone apoderamiento sin consentimiento; aquí Carla entregó el dinero voluntariamente, inducida por engaño."
+        },
+        {
+          "letra": "B",
+          "texto": "Estafa.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 172 del Código Penal (Ley N° 11.179) reprime al que defraudare con calidad simulada, falsos títulos o ardid que provoca la disposición patrimonial de la víctima."
+        },
+        {
+          "letra": "C",
+          "texto": "Robo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 164 del Código Penal (Ley N° 11.179) requiere fuerza o violencia, inexistentes en una entrega voluntaria por engaño."
+        },
+        {
+          "letra": "D",
+          "texto": "Extorsión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 168 del Código Penal (Ley N° 11.179) exige intimidación; aquí el medio fue el ardid o engaño, no la amenaza."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es el medio comisivo característico de esta figura?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El ardid o engaño que induce un error en la víctima.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 172 del Código Penal (Ley N° 11.179) enumera nombre supuesto, calidad simulada, falsos títulos y cualquier otro ardid o engaño como medio de la estafa."
+        },
+        {
+          "letra": "B",
+          "texto": "La fuerza en las cosas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La fuerza en las cosas es propia del robo (art. 164 del Código Penal -Ley N° 11.179-), no de la estafa."
+        },
+        {
+          "letra": "C",
+          "texto": "La intimidación con simulación de autoridad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ese medio corresponde a la extorsión del art. 168 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "El apoderamiento clandestino.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El apoderamiento clandestino caracteriza al hurto del art. 162 del Código Penal (Ley N° 11.179), no a la estafa."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es la escala penal de la estafa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prisión de un mes a seis años.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 172 del Código Penal (Ley N° 11.179) reprime la estafa con prisión de un mes a seis años."
+        },
+        {
+          "letra": "B",
+          "texto": "Prisión de un mes a dos años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la pena del hurto simple del art. 162 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión o prisión de cinco a diez años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa escala corresponde a la extorsión del art. 168 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "Prisión de quince días a un año.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa pena corresponde al daño del art. 183 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál es el bien jurídico protegido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La propiedad o patrimonio de la víctima.",
+          "correcta": true,
+          "explicacion": "Correcta. La estafa del art. 172 integra el Título VI 'Delitos contra la propiedad' del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "B",
+          "texto": "La fe pública únicamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Aunque haya documentación apócrifa, la figura del art. 172 del Código Penal (Ley N° 11.179) protege el patrimonio."
+        },
+        {
+          "letra": "C",
+          "texto": "La libertad de la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La libertad se tutela en el Título V del Código Penal (Ley N° 11.179), ajeno a la estafa."
+        },
+        {
+          "letra": "D",
+          "texto": "La administración pública.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La estafa entre particulares no afecta la administración pública; protege el patrimonio (art. 172 del Código Penal -Ley N° 11.179-)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si Sergio hubiera recibido el dinero legítimamente en administración y luego se negara a restituirlo apropiándoselo, ¿qué figura correspondería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Defraudación por administración fraudulenta o retención indebida.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 173 incs. 2 y 7 del Código Penal (Ley N° 11.179) prevén la retención indebida y la administración fraudulenta como casos especiales de defraudación con la pena del art. 172."
+        },
+        {
+          "letra": "B",
+          "texto": "Estafa por ardid inicial.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Si el dinero se recibió legítimamente y el perjuicio surge después, no hay ardid previo; rige la defraudación del art. 173 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Hurto del art. 162.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 162 del Código Penal (Ley N° 11.179) supone apoderamiento de cosa ajena, no la indebida retención de lo recibido por título legítimo."
+        },
+        {
+          "letra": "D",
+          "texto": "Robo del art. 164.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 164 del Código Penal (Ley N° 11.179) requiere fuerza o violencia, ausentes en una retención indebida."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Sergio defraudó a Carla mediante calidad simulada, falsos títulos y un ardid que la indujo a entregar el dinero, configurando estafa del art. 172 del Código Penal (Ley N° 11.179). El medio característico es el ardid o engaño generador de error. La pena es prisión de un mes a seis años (art. 172) y el bien jurídico es la propiedad (Título VI). Si en cambio hubiera recibido el dinero legítimamente y luego lo retuviera o lo administrara fraudulentamente, correspondería la defraudación especial del art. 173 incs. 2 y 7, con la misma pena del art. 172."
+}

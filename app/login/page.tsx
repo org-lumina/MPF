@@ -10,7 +10,7 @@ export default async function LoginPage({
   const user = session?.user;
 
   return (
-    <section>
+    <section className="panel">
       <h1>Ingresar con Google</h1>
 
       {motivo === "login" && !user && (
@@ -52,10 +52,6 @@ export default async function LoginPage({
               Iniciar sesión con Google
             </button>
           </form>
-          <p className="placeholder-note">
-            Requiere configurar AUTH_GOOGLE_ID y AUTH_GOOGLE_SECRET en
-            <code> .env.local</code>.
-          </p>
         </>
       )}
     </section>

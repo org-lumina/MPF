@@ -1,0 +1,158 @@
+{
+  "caso_id": 39,
+  "eje": "CPPF",
+  "planteo": "Concluida la etapa preparatoria de una causa por un delito de escasa cuantía punitiva, el imputado propone al fiscal la suspensión del proceso a prueba. Se celebra audiencia con citación de las partes y de la víctima para debatir las reglas de conducta. Durante el plazo de suspensión, el imputado incumple las reglas impuestas.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Hasta qué momento puede el imputado proponer al fiscal la suspensión del proceso a prueba?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta la finalización de la etapa preparatoria, salvo que una modificación de la calificación jurídica durante el juicio habilite su aplicación en esa instancia.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) establece que la propuesta podrá formularse hasta la finalización de la etapa preparatoria, salvo que una modificación de la calificación jurídica durante la audiencia de juicio habilite su aplicación en dicha instancia."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier momento, incluso después de la sentencia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) fija como límite la finalización de la etapa preparatoria, con la excepción del cambio de calificación en juicio; no admite proponerla tras la sentencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente en la primera audiencia ante el juez de garantías.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) no limita la propuesta a la primera audiencia, sino que la habilita hasta la finalización de la etapa preparatoria."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo antes de la formalización de la investigación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) extiende la oportunidad hasta la finalización de la etapa preparatoria, no la limita al momento anterior a la formalización."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "En el trámite de la suspensión del proceso a prueba, ¿qué prevé el Código respecto de la audiencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se celebra una audiencia a la que se cita a las partes y a la víctima, quienes debatirán sobre las reglas de conducta a imponer.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) dispone que se celebrará una audiencia a la que se citará a las partes y a la víctima, quienes debatirán sobre las reglas de conducta a imponer."
+        },
+        {
+          "letra": "B",
+          "texto": "La audiencia se celebra sólo entre el fiscal y el imputado, sin participación de la víctima.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) exige la citación de la víctima a la audiencia para debatir las reglas de conducta, por lo que no se la excluye."
+        },
+        {
+          "letra": "C",
+          "texto": "No se celebra audiencia; el juez resuelve por escrito sin oír a las partes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) prevé expresamente la celebración de una audiencia con las partes y la víctima."
+        },
+        {
+          "letra": "D",
+          "texto": "La audiencia es facultativa y sólo se celebra si la víctima lo solicita.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) establece la audiencia como parte del trámite, no como un acto facultativo supeditado a la solicitud de la víctima."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué derecho específico reconoce el Código a la víctima durante el cumplimiento de las reglas de conducta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a ser informada respecto del cumplimiento de las reglas de conducta.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) reconoce que la víctima tiene derecho a ser informada respecto del cumplimiento de las reglas de conducta."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a controlar personalmente al imputado en su domicilio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) asigna el control del cumplimiento a una oficina judicial específica; a la víctima le reconoce el derecho a ser informada, no a controlar personalmente."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a imponer por sí misma nuevas reglas de conducta.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) prevé que las reglas se debaten en audiencia y las fija el juez; la víctima tiene derecho a ser informada, no a imponer reglas por sí."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a percibir una indemnización tarifada por la suspensión.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) no prevé una indemnización tarifada; reconoce a la víctima el derecho a ser informada del cumplimiento de las reglas de conducta."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Ante el incumplimiento de las condiciones por el imputado, ¿qué corresponde según el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El fiscal o la querella solicitarán al juez una audiencia para que las partes expongan sobre la continuidad, modificación o revocación del juicio a prueba.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) dispone que, ante el incumplimiento, el representante del MINISTERIO PÚBLICO FISCAL o la querella solicitarán al juez una audiencia para debatir la continuidad, modificación o revocación del juicio a prueba."
+        },
+        {
+          "letra": "B",
+          "texto": "La suspensión se revoca de pleno derecho y se dicta condena automáticamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) requiere una audiencia para debatir la continuidad, modificación o revocación; no prevé revocación de pleno derecho ni condena automática."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo el juez, de oficio, puede revisar la suspensión sin intervención de las partes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) prevé que el fiscal o la querella soliciten la audiencia y que las partes expongan sus fundamentos, de modo que no es una revisión oficiosa sin intervención de partes."
+        },
+        {
+          "letra": "D",
+          "texto": "El incumplimiento carece de consecuencias si la víctima no se presenta.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) prevé consecuencias ante el incumplimiento (audiencia para continuidad, modificación o revocación) y la legitimación para instarla recae también en el fiscal, no sólo en la víctima."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿En qué otro supuesto se revoca la suspensión del juicio a prueba según el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si el imputado fuera condenado por un delito cometido durante el plazo de suspensión.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) prevé que la suspensión del juicio a prueba también se revocará si el imputado fuera condenado por un delito cometido durante el plazo de suspensión."
+        },
+        {
+          "letra": "B",
+          "texto": "Si la víctima cambia de domicilio durante el plazo de prueba.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) no contempla el cambio de domicilio de la víctima como causal de revocación; sí lo es la condena por un delito cometido durante el plazo."
+        },
+        {
+          "letra": "C",
+          "texto": "Si transcurre un año sin que el fiscal controle el cumplimiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) asigna el control a una oficina judicial específica y no prevé la revocación por falta de control fiscal durante un año."
+        },
+        {
+          "letra": "D",
+          "texto": "Si el imputado es extranjero en situación regular.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 35 del Código Procesal Penal Federal (Ley N° 27.063) prevé que los extranjeros en situación regular podrán solicitar la aplicación de una regla de conducta en el país; esa condición no es causal de revocación."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "La propuesta de suspensión a prueba es tempestiva si se formula hasta la finalización de la etapa preparatoria (art. 35, CPPF, Ley N° 27.063). El trámite exige audiencia con citación de las partes y de la víctima para debatir las reglas de conducta, y la víctima tiene derecho a ser informada de su cumplimiento. Ante el incumplimiento, el fiscal o la querella deben solicitar una audiencia para resolver la continuidad, modificación o revocación; la suspensión también se revoca si el imputado es condenado por un delito cometido durante el plazo."
+}

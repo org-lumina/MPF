@@ -1,0 +1,158 @@
+{
+  "caso_id": 33,
+  "eje": "CPPF",
+  "planteo": "En la audiencia de coerción, el juez de garantías, advirtiendo que el imputado Pablo T. registra una causa anterior, decide de oficio imponerle prisión preventiva, sin que el fiscal ni el querellante lo hubieran solicitado. La defensa cuestiona el modo en que se dispuso la medida y recuerda que el delito atribuido admitiría una eventual condena de ejecución condicional.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Puede el juez imponer la prisión preventiva de oficio como lo hizo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el juez puede ordenarla de oficio cuando advierte antecedentes.",
+          "correcta": false,
+          "explicacion": "El artículo 209 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que las medidas de coerción son excepcionales y no pueden imponerse de oficio por el juez."
+        },
+        {
+          "letra": "B",
+          "texto": "No, las medidas de coerción son excepcionales y no pueden imponerse de oficio.",
+          "correcta": true,
+          "explicacion": "El artículo 209 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que las medidas de coerción tienen carácter excepcional y no podrán ser impuestas de oficio por el juez."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que luego lo convalide el fiscal.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige expreso pedido del fiscal o el querellante para aplicar una medida de coerción; no admite una imposición de oficio convalidada después."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, porque la prisión preventiva no es una medida de coerción.",
+          "correcta": false,
+          "explicacion": "El artículo 210 inciso k del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) incluye la prisión preventiva entre las medidas de coerción, sujetas por ello a la prohibición de oficio del artículo 209."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Quién y cómo debe instar una medida de coerción como la prisión preventiva?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El juez, mediante resolución fundada, sin pedido de parte.",
+          "correcta": false,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe aplicar una medida de coerción sin expreso pedido del fiscal o del querellante, descartando la actuación oficiosa del juez."
+        },
+        {
+          "letra": "B",
+          "texto": "El fiscal o el querellante, mediante expreso pedido resuelto en audiencia.",
+          "correcta": true,
+          "explicacion": "El artículo 223 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que el requerimiento se formula y decide en audiencia y que no puede aplicarse sin expreso pedido del fiscal o del querellante; en igual sentido el artículo 210."
+        },
+        {
+          "letra": "C",
+          "texto": "La policía interviniente, dando luego aviso al juez.",
+          "correcta": false,
+          "explicacion": "El artículo 210 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) legitima a solicitar medidas de coerción al fiscal o al querellante, no a la policía."
+        },
+        {
+          "letra": "D",
+          "texto": "Cualquiera de las partes, incluso la defensa del imputado.",
+          "correcta": false,
+          "explicacion": "El artículo 210 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reserva la solicitud al fiscal o al querellante; la defensa no insta la coerción contra su asistido."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Si el hecho podría dar lugar a una condena de ejecución condicional, ¿qué incidencia tiene sobre la prisión preventiva?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna, la condena condicional es indiferente para la prisión preventiva.",
+          "correcta": false,
+          "explicacion": "El artículo 218 inciso a del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé que no procede la prisión preventiva si pudiere resultar de aplicación una condena condicional, por lo que no es indiferente."
+        },
+        {
+          "letra": "B",
+          "texto": "No procede la prisión preventiva si por el hecho y las condiciones del imputado pudiera aplicarse una condena condicional.",
+          "correcta": true,
+          "explicacion": "El artículo 218 inciso a del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que no procederá la prisión preventiva si por las características del hecho y las condiciones personales pudiere resultar de aplicación una condena condicional."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo impide la prisión preventiva en delitos de acción privada.",
+          "correcta": false,
+          "explicacion": "El artículo 218 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) distingue ambos supuestos: el inciso b veda la prisión preventiva en delitos de acción privada y el inciso a la veda ante posible condena condicional; son hipótesis autónomas."
+        },
+        {
+          "letra": "D",
+          "texto": "La habilita, porque la condena condicional supone reconocer la responsabilidad.",
+          "correcta": false,
+          "explicacion": "El artículo 218 inciso a del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) opera en sentido inverso: la posibilidad de condena condicional impide la prisión preventiva, no la habilita."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Para decidir sobre el peligro de fuga, la existencia de una causa anterior de Pablo, ¿cómo debe ponderarse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Como pauta automática que por sí sola configura el peligro de fuga.",
+          "correcta": false,
+          "explicacion": "El artículo 221 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) enuncia pautas a valorar entre otras, como las detenciones previas y la posibilidad de reincidencia, pero no como configuración automática del peligro de fuga."
+        },
+        {
+          "letra": "B",
+          "texto": "Como una de las pautas a valorar, junto con el arraigo y el comportamiento procesal, sin operar de modo automático.",
+          "correcta": true,
+          "explicacion": "El artículo 221 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ordena valorar el peligro de fuga conforme a pautas como arraigo, naturaleza del hecho, detenciones previas, posible reincidencia y comportamiento procesal, sin que ninguna opere automáticamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Como prueba directa del peligro de entorpecimiento.",
+          "correcta": false,
+          "explicacion": "El artículo 222 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula el peligro de entorpecimiento por conductas sobre la prueba o los testigos; una causa anterior se vincula con las pautas de fuga del artículo 221."
+        },
+        {
+          "letra": "D",
+          "texto": "Como dato irrelevante que no puede considerarse.",
+          "correcta": false,
+          "explicacion": "El artículo 221 inciso b del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) menciona la constatación de detenciones previas y la posible reincidencia como pautas valorables, de modo que el dato no es irrelevante, aunque tampoco automático."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Para sostener válidamente el pedido de prisión preventiva, ¿qué debe acreditar quien la solicita conforme a las condiciones y requisitos del Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo la gravedad abstracta del delito imputado.",
+          "correcta": false,
+          "explicacion": "El artículo 220 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige acreditar elementos de convicción sobre el hecho y la participación, además de justificar el peligro procesal; la sola gravedad abstracta no basta."
+        },
+        {
+          "letra": "B",
+          "texto": "Elementos de convicción sobre el hecho y la participación, y la presunción de peligro de fuga o entorpecimiento, indicando el plazo.",
+          "correcta": true,
+          "explicacion": "El artículo 220 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere acreditar la probabilidad del hecho y la participación, justificar la presunción de que no se someterá al proceso u obstaculizará, e indicar el plazo de la medida; el juez controla legalidad y razonabilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente que el imputado tiene antecedentes penales.",
+          "correcta": false,
+          "explicacion": "El artículo 220 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no se satisface con los solos antecedentes; exige convicción sobre el hecho y la participación y justificación del peligro procesal con indicación de plazo."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la víctima preste conformidad con la medida.",
+          "correcta": false,
+          "explicacion": "El artículo 220 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no condiciona la medida a la conformidad de la víctima, sino a los recaudos de convicción, peligro procesal y plazo allí enumerados."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso fija las bases de procedencia: la coerción es excepcional y no se dicta de oficio (artículo 209), debe ser instada por el fiscal o el querellante y resuelta en audiencia (artículos 210 y 223), y no procede la prisión preventiva si cabe condena condicional (artículo 218 inciso a). El peligro de fuga se evalúa por pautas no automáticas (artículo 221), y quien la solicita debe acreditar convicción sobre el hecho y la participación, justificar el peligro procesal e indicar el plazo (artículo 220). Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

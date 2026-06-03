@@ -1,0 +1,158 @@
+{
+  "caso_id": 8,
+  "eje": "Código Penal",
+  "planteo": "Esteban, para que su vecina Lorena retire una denuncia, le dice por teléfono y de modo anónimo: 'Si no retirás la denuncia, te voy a prender fuego la casa con tu familia adentro'. Lorena queda atemorizada. Esteban no porta armas en el momento, pero la llamada es anónima.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué tipo penal corresponde, en principio, a la conducta de Esteban?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Coacción (amenazas para obligar a hacer algo contra la voluntad).",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 149 bis, segundo párrafo, del Código Penal (Ley N° 11.179) reprime al que use amenazas con el propósito de obligar a otro a hacer, no hacer o tolerar algo contra su voluntad."
+        },
+        {
+          "letra": "B",
+          "texto": "Extorsión del art. 168.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 168 del Código Penal (Ley N° 11.179) exige obligar a entregar cosas, dinero o documentos; aquí se busca que retire una denuncia, sin contenido patrimonial."
+        },
+        {
+          "letra": "C",
+          "texto": "Amenazas simples del primer párrafo del art. 149 bis.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El primer párrafo del art. 149 bis del Código Penal (Ley N° 11.179) castiga la amenaza para alarmar o amedrentar sin un fin de doblegar la voluntad; aquí hay un propósito coactivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Daño del art. 183.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 183 del Código Penal (Ley N° 11.179) requiere un daño efectivo a la cosa, que no llegó a producirse; aquí solo hubo amenaza."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es el bien jurídico protegido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La libertad individual.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 149 bis integra el Capítulo I 'Delitos contra la libertad individual' del Título V del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "B",
+          "texto": "La propiedad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La propiedad se tutela en el Título VI del Código Penal (Ley N° 11.179); la coacción protege la libertad."
+        },
+        {
+          "letra": "C",
+          "texto": "La integridad sexual.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La integridad sexual corresponde al Título III del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "La seguridad pública.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La seguridad pública se ubica en el Título VII del Código Penal (Ley N° 11.179), ajeno a la coacción."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué distingue a la coacción de la amenaza simple en este caso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El propósito de obligar a la víctima a hacer algo contra su voluntad.",
+          "correcta": true,
+          "explicacion": "Correcta. El segundo párrafo del art. 149 bis del Código Penal (Ley N° 11.179) exige el propósito de compeler a la víctima a hacer, no hacer o tolerar algo, lo que distingue la coacción de la amenaza del primer párrafo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la amenaza sea verbal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El medio verbal no diferencia ambas figuras del art. 149 bis del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la víctima sea mujer.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El sexo de la víctima no es elemento típico del art. 149 bis del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "Que exista una relación contractual previa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 149 bis del Código Penal (Ley N° 11.179) no requiere relación contractual entre las partes."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál es la escala penal base de la coacción del segundo párrafo del art. 149 bis?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prisión o reclusión de dos a cuatro años.",
+          "correcta": true,
+          "explicacion": "Correcta. El segundo párrafo del art. 149 bis del Código Penal (Ley N° 11.179) prevé prisión o reclusión de dos a cuatro años."
+        },
+        {
+          "letra": "B",
+          "texto": "Prisión de seis meses a dos años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la pena de la amenaza simple del primer párrafo del art. 149 bis del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión o prisión de cinco a diez años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa escala corresponde a la extorsión del art. 168 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "Prisión de quince días a un año.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa pena corresponde al daño del art. 183 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Dado que la amenaza coactiva fue anónima, ¿qué consecuencia tiene sobre la escala penal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se eleva la pena a tres a seis años por ser anónima.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 149 ter inc. 1 del Código Penal (Ley N° 11.179) eleva la pena de la coacción a tres a seis años de prisión o reclusión si se emplearen armas o si las amenazas fueren anónimas."
+        },
+        {
+          "letra": "B",
+          "texto": "No tiene efecto, el anonimato es irrelevante.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 149 ter inc. 1 del Código Penal (Ley N° 11.179) prevé expresamente el anonimato como agravante de la coacción."
+        },
+        {
+          "letra": "C",
+          "texto": "Disminuye la pena por no haberse identificado el autor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 149 ter del Código Penal (Ley N° 11.179) agrava, no atenúa, la coacción anónima."
+        },
+        {
+          "letra": "D",
+          "texto": "Convierte el hecho en amenaza simple del primer párrafo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Subsistiendo el propósito de doblegar la voluntad, la figura sigue siendo coacción, agravada por el anonimato según el art. 149 ter inc. 1 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Esteban amenazó a Lorena con el propósito de obligarla a retirar una denuncia, conducta que encuadra en la coacción del art. 149 bis, segundo párrafo, del Código Penal (Ley N° 11.179). El bien jurídico es la libertad individual (Capítulo I del Título V). Lo que la distingue de la amenaza simple es el propósito de compeler a hacer algo contra su voluntad. La pena base es prisión o reclusión de dos a cuatro años (art. 149 bis, 2° párr.). Como la amenaza fue anónima, opera la agravante del art. 149 ter inc. 1, que eleva la escala a tres a seis años de prisión o reclusión."
+}

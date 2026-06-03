@@ -1,0 +1,158 @@
+{
+  "caso_id": 28,
+  "eje": "Código Penal",
+  "planteo": "Pereyra es tesorero de una repartición estatal y administra fondos públicos afectados a la compra de insumos hospitalarios. En un primer momento destina parte de esos fondos a pagar gastos de publicidad de la gestión (finalidad pública distinta de la prevista). Más adelante, sustrae una porción de los fondos y los transfiere a una cuenta propia para uso personal. La fiscalía debe distinguir las figuras aplicables a cada tramo de conducta.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "El primer tramo -dar a los fondos una aplicación pública distinta de la prevista- encuadra en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Malversación de caudales públicos, art. 260 del Código Penal.",
+          "correcta": true,
+          "explicacion": "El art. 260 del Código Penal (Ley N° 11.179) reprime al funcionario público 'que diere a los caudales o efectos que administrare una aplicación diferente de aquella a que estuvieren destinados', con inhabilitación especial de un mes a tres años, y multa adicional si resultare daño o entorpecimiento del servicio. Destinar fondos de insumos a publicidad configura esta figura."
+        },
+        {
+          "letra": "B",
+          "texto": "Peculado, art. 261 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 261 del Código Penal (Ley N° 11.179) exige la sustracción de los caudales en provecho propio o de un tercero; en el primer tramo no hubo sustracción sino un cambio de destino que se mantiene en el ámbito público, propio del art. 260."
+        },
+        {
+          "letra": "C",
+          "texto": "Cohecho pasivo, art. 256 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 256 del Código Penal (Ley N° 11.179) requiere recibir dinero o dádivas para actuar en relación con la función; no hay dádiva en el cambio de destino de fondos, que encuadra en la malversación del art. 260."
+        },
+        {
+          "letra": "D",
+          "texto": "Abuso de autoridad, art. 248 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 248 del Código Penal (Ley N° 11.179) sanciona el dictado de resoluciones contrarias a la ley o la no ejecución de las debidas; el supuesto específico de desviar fondos a un destino público distinto está expresamente previsto en el art. 260, que desplaza al tipo genérico."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "El segundo tramo -sustraer fondos y transferirlos a una cuenta propia- encuadra en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peculado, art. 261 del Código Penal.",
+          "correcta": true,
+          "explicacion": "El art. 261 del Código Penal (Ley N° 11.179) reprime con reclusión o prisión de dos a diez años e inhabilitación absoluta perpetua al funcionario 'que sustrajere caudales o efectos cuya administración, percepción o custodia le haya sido confiada por razón de su cargo'. La sustracción en provecho propio configura el peculado."
+        },
+        {
+          "letra": "B",
+          "texto": "Malversación por aplicación diferente, art. 260 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 260 del Código Penal (Ley N° 11.179) supone un cambio de destino que se mantiene en el ámbito público; cuando el funcionario sustrae los fondos para sí, la conducta se agrava y encuadra en el peculado del art. 261."
+        },
+        {
+          "letra": "C",
+          "texto": "Malversación culposa, art. 262 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 262 del Código Penal (Ley N° 11.179) reprime al funcionario que por imprudencia o negligencia da ocasión a que otro sustraiga los caudales; aquí la sustracción es dolosa y la realiza el propio funcionario, lo que configura el art. 261, no el 262."
+        },
+        {
+          "letra": "D",
+          "texto": "Demora injustificada de un pago, art. 264 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 264 del Código Penal (Ley N° 11.179) sanciona al funcionario que, teniendo fondos expeditos, demora injustificadamente un pago; no describe la sustracción de caudales en provecho propio del art. 261."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es la diferencia esencial entre la malversación del art. 260 y el peculado del art. 261?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el art. 260 los fondos se desvían a otro destino público; en el art. 261 el funcionario los sustrae apartándolos de la esfera pública.",
+          "correcta": true,
+          "explicacion": "El art. 260 del Código Penal (Ley N° 11.179) castiga dar a los caudales una 'aplicación diferente' dentro del ámbito público, mientras que el art. 261 reprime 'sustraer' los caudales confiados por razón del cargo; la sustracción del art. 261 implica apartarlos del destino público en provecho propio o de un tercero, con pena considerablemente mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "No hay diferencia; ambos describen la misma conducta.",
+          "correcta": false,
+          "explicacion": "Los arts. 260 y 261 del Código Penal (Ley N° 11.179) describen conductas distintas (aplicación diferente vs. sustracción) y prevén penas diversas, por lo que no son equivalentes."
+        },
+        {
+          "letra": "C",
+          "texto": "El art. 260 exige siempre provecho personal y el art. 261 no.",
+          "correcta": false,
+          "explicacion": "Es a la inversa: el art. 261 del Código Penal (Ley N° 11.179) supone sustracción en provecho propio o de un tercero, mientras que el art. 260 castiga el solo cambio de destino aun sin apropiación personal."
+        },
+        {
+          "letra": "D",
+          "texto": "El art. 261 es culposo y el art. 260 doloso.",
+          "correcta": false,
+          "explicacion": "Ambos arts. 260 y 261 del Código Penal (Ley N° 11.179) son dolosos; la figura culposa es la del art. 262, que reprime al funcionario que por negligencia da ocasión a la sustracción por otro."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si en el primer tramo el desvío de fondos hubiera causado entorpecimiento del servicio hospitalario, ¿qué consecuencia adicional prevé el art. 260?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una multa del veinte al cincuenta por ciento de la cantidad distraída.",
+          "correcta": true,
+          "explicacion": "El art. 260 del Código Penal (Ley N° 11.179) dispone que 'si de ello resultare daño o entorpecimiento del servicio a que estuvieren destinados, se impondrá además al culpable, multa del veinte al cincuenta por ciento de la cantidad distraída', además de la inhabilitación especial."
+        },
+        {
+          "letra": "B",
+          "texto": "Se eleva la pena a reclusión perpetua.",
+          "correcta": false,
+          "explicacion": "El art. 260 del Código Penal (Ley N° 11.179) no prevé pena perpetua; el daño o entorpecimiento del servicio agrega una multa porcentual, no una pena privativa de libertad perpetua."
+        },
+        {
+          "letra": "C",
+          "texto": "Una multa del veinte al sesenta por ciento del valor sustraído.",
+          "correcta": false,
+          "explicacion": "La multa del veinte al sesenta por ciento del valor sustraído es la del art. 262 del Código Penal (Ley N° 11.179) para la malversación culposa, no la del art. 260, que es del veinte al cincuenta por ciento de la cantidad distraída."
+        },
+        {
+          "letra": "D",
+          "texto": "Inhabilitación absoluta perpetua.",
+          "correcta": false,
+          "explicacion": "La inhabilitación absoluta perpetua corresponde al peculado del art. 261 del Código Penal (Ley N° 11.179); el art. 260 prevé inhabilitación especial de un mes a tres años y, en su caso, multa porcentual."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Si Pereyra hubiera dado ocasión, por su negligencia, a que un tercero sustrajera los fondos (en lugar de sustraerlos él mismo), la figura aplicable sería:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Malversación culposa, art. 262 del Código Penal.",
+          "correcta": true,
+          "explicacion": "El art. 262 del Código Penal (Ley N° 11.179) reprime con multa del veinte al sesenta por ciento del valor sustraído al funcionario que 'por imprudencia o negligencia o por inobservancia de los reglamentos o deberes de su cargo, diere ocasión a que se efectuare por otra persona la substracción' de los caudales del art. 261."
+        },
+        {
+          "letra": "B",
+          "texto": "Peculado doloso, art. 261 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 261 del Código Penal (Ley N° 11.179) exige la sustracción dolosa por el propio funcionario; si la sustracción la realiza un tercero por negligencia del funcionario, la figura es la culposa del art. 262."
+        },
+        {
+          "letra": "C",
+          "texto": "Cohecho, art. 256 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 256 del Código Penal (Ley N° 11.179) requiere recibir dádivas para actuar en relación con la función; la negligencia que facilita la sustracción por un tercero encuadra en el art. 262, no en el cohecho."
+        },
+        {
+          "letra": "D",
+          "texto": "Abuso de autoridad, art. 248 del Código Penal.",
+          "correcta": false,
+          "explicacion": "El art. 248 del Código Penal (Ley N° 11.179) sanciona el dictado de resoluciones contrarias a la ley; el supuesto de negligencia que da ocasión a la sustracción por otro está específicamente previsto en el art. 262."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El primer tramo (desviar fondos a otro destino público) es malversación de caudales públicos (art. 260 del Código Penal, Ley N° 11.179), con multa del veinte al cincuenta por ciento de lo distraído si hubo daño o entorpecimiento del servicio. El segundo tramo (sustraer fondos para sí) es peculado (art. 261), con pena de dos a diez años e inhabilitación absoluta perpetua. La clave es la distinción entre cambio de destino dentro de la esfera pública (art. 260) y sustracción que aparta los caudales de esa esfera (art. 261); si la sustracción la comete un tercero por negligencia del funcionario, rige la malversación culposa del art. 262."
+}

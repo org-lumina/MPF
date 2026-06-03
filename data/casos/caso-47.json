@@ -1,0 +1,158 @@
+{
+  "caso_id": 47,
+  "eje": "CPPF",
+  "planteo": "Condenado Rodríguez a una pena, solo la defensa impugna la sentencia condenatoria. Los jueces con funciones de revisión advierten que podrían agravar la situación del imputado. En paralelo, el fiscal y el querellante impugnan una absolución dictada en otro tramo. Deben analizarse la prohibición de reforma en perjuicio, los motivos de impugnación de la sentencia condenatoria y absolutoria, el plazo de interposición y la competencia de los jueces de revisión.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Si la sentencia fue impugnada solo por el imputado o en su favor, ¿qué prohibición rige?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No podrá modificarse en su perjuicio.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 351 (Reforma en perjuicio) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que si la resolución fue impugnada solo por el imputado o en su favor, no podrá modificarse en su perjuicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Podrá agravarse la pena si los jueces de revisión lo estiman justo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 351 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe modificar la resolución en perjuicio del imputado cuando solo él o su defensa impugnaron."
+        },
+        {
+          "letra": "C",
+          "texto": "Podrá modificarse en cualquier sentido por el efecto devolutivo del recurso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 351 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impide la reforma en perjuicio cuando la impugnación fue solo del imputado o en su favor."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo rige la prohibición si lo solicita expresamente la defensa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 351 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone la prohibición de reforma en perjuicio como regla, sin requerir solicitud expresa de la defensa."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es un motivo válido para impugnar la sentencia condenatoria?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se base en prueba ilegal o incorporada por lectura en casos no autorizados por el Código.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 358, inciso d (Sentencia condenatoria) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé como motivo de impugnación que la sentencia se base en prueba ilegal o incorporada por lectura en los casos no autorizados."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el imputado no esté conforme con la valoración de la prueba pese a su corrección.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 358 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige motivos concretos (prueba ilegal, errónea aplicación de la ley penal, falta de motivación, etc.), no la mera disconformidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la pena impuesta coincida exactamente con la pedida por el fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La coincidencia con la pena pedida no es un agravio; el art. 358 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) enumera vicios como la prueba ilegal o la motivación deficiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Que el debate haya sido público.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La publicidad del debate es la regla del art. 285 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) y no constituye un motivo de impugnación del art. 358."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es un motivo válido para impugnar la sentencia absolutoria?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se haya inobservado el derecho a la tutela judicial de la víctima.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 359, inciso a (Sentencia absolutoria) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) contempla como motivo la inobservancia del derecho a la tutela judicial de la víctima."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la víctima esté disconforme con el resultado, sin más.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 359 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) requiere motivos concretos (inobservancia de la tutela judicial de la víctima, errónea aplicación de la ley, falta de motivación o ausencia de requisitos esenciales), no la simple disconformidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el imputado haya sido absuelto por duda razonable.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La absolución por duda responde al in dubio pro imputado (art. 11 del Código Procesal Penal Federal, Ley N° 27.063, mod. Ley N° 27.482) y no integra, por sí, los motivos del art. 359."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la sentencia se haya leído en audiencia pública.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La lectura pública es un acto regular del art. 306 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) y no constituye un motivo de impugnación del art. 359."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál es el plazo para interponer la impugnación contra una sentencia condenatoria o absolutoria?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Diez días, por escrito y debidamente fundada, ante el juez que dictó la decisión.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 360 (Interposición) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija el plazo de diez días para impugnar sentencias condenatorias o absolutorias, por escrito y fundada, ante el juez que dictó la decisión."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres días para cualquier resolución, incluidas las sentencias.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El plazo de tres días del art. 360 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) corresponde a la aplicación de una medida cautelar; para sentencias el plazo es de diez días."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco días para sentencias condenatorias o absolutorias.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 360 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reserva el plazo de cinco días para los demás casos; para sentencias condenatorias o absolutorias rigen los diez días."
+        },
+        {
+          "letra": "D",
+          "texto": "Quince días contados desde el cierre del debate.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 360 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece diez días para sentencias condenatorias o absolutorias, no quince ni computados desde el cierre del debate."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Con qué alcance ejercen su competencia los jueces con funciones de revisión?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con relación a los puntos que motivan los agravios y al control de constitucionalidad; las impugnaciones de los acusadores permiten modificar o revocar aun a favor del imputado.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 350 (Competencia) del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) circunscribe la competencia a los puntos de agravio y al control de constitucionalidad, y permite que las impugnaciones de los acusadores modifiquen o revoquen la resolución aun a favor del imputado."
+        },
+        {
+          "letra": "B",
+          "texto": "Con jurisdicción plena para revisar todo el proceso de oficio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 350 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) limita la competencia a los puntos que motivan los agravios y al control de constitucionalidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo para confirmar la decisión impugnada, sin poder revocarla.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 350 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) habilita a modificar o revocar la resolución; no se limita a confirmarla."
+        },
+        {
+          "letra": "D",
+          "texto": "Para resolver únicamente cuestiones de hecho, nunca de derecho.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 350 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) extiende la competencia a los puntos de agravio y al control de constitucionalidad, comprendiendo cuestiones de derecho."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso fija la prohibición de reforma en perjuicio del art. 351: si solo impugnó el imputado o se recurrió en su favor, los jueces de revisión no pueden agravar su situación. Los motivos de impugnación se hallan en el art. 358 para la condenatoria (entre ellos prueba ilegal o incorporada por lectura no autorizada, inc. d) y en el art. 359 para la absolutoria (entre ellos inobservancia de la tutela judicial de la víctima, inc. a). El plazo para impugnar sentencias es de diez días (art. 360) y la competencia revisora se limita a los puntos de agravio y al control de constitucionalidad (art. 350), pudiendo las impugnaciones de los acusadores beneficiar al imputado, todo conforme el Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

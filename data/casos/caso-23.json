@@ -1,0 +1,158 @@
+{
+  "caso_id": 23,
+  "eje": "Código Penal",
+  "planteo": "Marcos y Laura convivieron como pareja durante seis años. Tras la separación, Laura denunció en sede policial reiterados episodios de golpes, amenazas y control de sus salidas y de su dinero. Un mes después de la ruptura, Marcos la esperó en la puerta de su trabajo y, luego de increparla por haber iniciado una nueva relación, la atacó con un cuchillo causándole la muerte. En el juicio, la defensa sostiene que Marcos actuó dominado por los celos y solicita la atenuación por circunstancias extraordinarias prevista en el último párrafo del art. 80.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Bajo qué inciso del art. 80 del Código Penal encuadra principalmente el hecho, considerando que el autor es un hombre, la víctima una mujer y existió un contexto previo de violencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inciso 11 (femicidio), por tratarse de un hombre que mata a una mujer mediando violencia de género.",
+          "correcta": true,
+          "explicacion": "El art. 80 inc. 11 del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, agrava el homicidio cuando 'A una mujer cuando el hecho sea perpetrado por un hombre y mediare violencia de género'. La denuncia previa de golpes, amenazas y control encuadra en los tipos de violencia física, psicológica y económica descriptos en las Orientaciones sobre perspectiva de género (MPF)."
+        },
+        {
+          "letra": "B",
+          "texto": "Inciso 2 (ensañamiento o alevosía), por la forma del ataque con arma blanca.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 2 del Código Penal (Ley N° 11.179) exige ensañamiento, alevosía, veneno u otro procedimiento insidioso. El uso de un cuchillo no implica per se ensañamiento ni alevosía; el dato dirimente del caso es la relación de pareja y la violencia de género, encuadrable en el inc. 11."
+        },
+        {
+          "letra": "C",
+          "texto": "Homicidio simple del art. 79, sin agravantes.",
+          "correcta": false,
+          "explicacion": "El art. 79 del Código Penal (Ley N° 11.179) se aplica solo cuando no concurre ninguna agravante del art. 80. Aquí concurren el vínculo de pareja (inc. 1) y el contexto de violencia de género (inc. 11), de modo que el encuadre no puede ser homicidio simple."
+        },
+        {
+          "letra": "D",
+          "texto": "Homicidio en estado de emoción violenta (art. 81 inc. a), por los celos.",
+          "correcta": false,
+          "explicacion": "El art. 81 inc. a) del Código Penal (Ley N° 11.179) requiere emoción violenta excusable por las circunstancias. Conforme las Orientaciones sobre perspectiva de género (MPF), los celos como reacción ante la autonomía de la mujer expresan una relación de poder desigual y no constituyen una excusa, por lo que no procede la atenuación."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "La defensa pide aplicar la atenuación por 'circunstancias extraordinarias de atenuación' del art. 80 in fine. ¿Procede?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No procede, porque el autor realizó previamente actos de violencia contra la mujer víctima.",
+          "correcta": true,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), según la redacción dada por el art. 3° de la Ley N° 26.791, dispone que la atenuación 'no será aplicable a quien anteriormente hubiera realizado actos de violencia contra la mujer víctima'. Las denuncias previas de golpes y amenazas acreditan ese antecedente."
+        },
+        {
+          "letra": "B",
+          "texto": "Procede, porque los celos configuran una circunstancia extraordinaria.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según art. 3° de la Ley N° 26.791, excluye expresamente la atenuación cuando hubo violencia previa contra la mujer víctima; además, las Orientaciones sobre perspectiva de género (MPF) descartan los celos como justificación."
+        },
+        {
+          "letra": "C",
+          "texto": "Procede, porque la atenuación es de aplicación automática para todo homicidio entre parejas.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), según el art. 3° de la Ley N° 26.791, no es automático: opera solo en el caso del inc. 1 cuando median circunstancias extraordinarias y siempre que no haya habido violencia previa contra la mujer víctima."
+        },
+        {
+          "letra": "D",
+          "texto": "Procede, porque al haber separación ya no rige el agravante del inciso 1.",
+          "correcta": false,
+          "explicacion": "El art. 80 inc. 1 del Código Penal (Ley N° 11.179), sustituido por el art. 1° de la Ley N° 26.791, alcanza a la 'persona con quien mantiene o ha mantenido una relación de pareja, mediare o no convivencia', por lo que la separación no excluye el vínculo agravante ni habilita por sí la atenuación."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué tipos de violencia de género de la Ley 26.485, citados en las Orientaciones del MPF, surgen del relato previo (golpes, amenazas, control de salidas y del dinero)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Física, psicológica y económica/patrimonial.",
+          "correcta": true,
+          "explicacion": "Según las Orientaciones sobre perspectiva de género (MPF), la violencia física es la empleada contra el cuerpo (golpes); la psicológica incluye amenazas y control de comportamientos; y la económica/patrimonial abarca el control sobre el dinero de la mujer. Los tres tipos se verifican en el relato."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente violencia simbólica.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) definen la violencia simbólica como la que reproduce dominación a través de patrones, mensajes o íconos; no abarca los golpes ni el control directo del dinero presentes en el caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente violencia mediática.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) refieren la violencia mediática a la difusión de mensajes e imágenes estereotipadas por medios de comunicación, supuesto ajeno a los hechos descriptos."
+        },
+        {
+          "letra": "D",
+          "texto": "Violencia obstétrica.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) definen la violencia obstétrica como la cometida por personal de salud en torno al parto o post aborto, situación inexistente en el caso."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Conforme las Orientaciones del MPF, la violencia de género ejercida por un integrante del grupo familiar (incluida la pareja, exista o no convivencia) corresponde a la modalidad denominada:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Doméstica.",
+          "correcta": true,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) definen la modalidad doméstica como la ejercida por un integrante del grupo familiar, comprendiendo las uniones de hecho y los noviazgos, vigentes o finalizados, sin requerir convivencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Institucional.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) reservan la modalidad institucional para la ejercida por funcionarios o agentes de órganos públicos que obstaculizan el acceso de las mujeres a sus derechos; no corresponde a la pareja."
+        },
+        {
+          "letra": "C",
+          "texto": "Laboral.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) describen la modalidad laboral como la discriminación en ámbitos de trabajo, ajena a la relación de pareja del caso."
+        },
+        {
+          "letra": "D",
+          "texto": "Mediática.",
+          "correcta": false,
+          "explicacion": "Las Orientaciones sobre perspectiva de género (MPF) ubican la modalidad mediática en la difusión por medios de comunicación de mensajes estereotipados, supuesto extraño al caso."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Respecto de la escala penal aplicable al femicidio del art. 80 inc. 11:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reclusión perpetua o prisión perpetua, pudiendo aplicarse lo dispuesto en el art. 52.",
+          "correcta": true,
+          "explicacion": "El encabezado del art. 80 del Código Penal (Ley N° 11.179) impone 'reclusión perpetua o prisión perpetua, pudiendo aplicarse lo dispuesto en el artículo 52' para todos sus incisos, incluido el inc. 11 incorporado por el art. 2° de la Ley N° 26.791."
+        },
+        {
+          "letra": "B",
+          "texto": "Prisión o reclusión de ocho a veinticinco años en todos los casos.",
+          "correcta": false,
+          "explicacion": "El art. 80 in fine del Código Penal (Ley N° 11.179), texto según art. 3° de la Ley N° 26.791, prevé la escala de ocho a veinticinco años solo para el inc. 1 con circunstancias extraordinarias; no es la pena del inc. 11."
+        },
+        {
+          "letra": "C",
+          "texto": "Reclusión de tres a seis años o prisión de uno a tres años.",
+          "correcta": false,
+          "explicacion": "Esa es la escala del art. 81 del Código Penal (Ley N° 11.179), aplicable al homicidio emocional o preterintencional, no al femicidio del art. 80 inc. 11."
+        },
+        {
+          "letra": "D",
+          "texto": "Reclusión o prisión de diez a veinticinco años.",
+          "correcta": false,
+          "explicacion": "Esa escala corresponde al art. 82 del Código Penal (Ley N° 11.179) para el supuesto en que concurren el inc. 1 del art. 80 y la emoción violenta del art. 81 inc. a; no rige el femicidio del inc. 11."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El hecho encuadra en el art. 80 inc. 11 (femicidio) del Código Penal (Ley N° 11.179), incorporado por el art. 2° de la Ley N° 26.791, por concurrir homicidio de una mujer por un hombre en contexto de violencia de género (física, psicológica y económica, según los tipos de la Ley 26.485 recogidos por las Orientaciones del MPF, modalidad doméstica). La atenuación del art. 80 in fine (texto según art. 3° de la Ley N° 26.791) NO procede porque hubo actos de violencia previos contra la víctima; los celos no constituyen circunstancia extraordinaria. La pena es perpetua conforme el encabezado del art. 80."
+}

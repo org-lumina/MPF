@@ -1,0 +1,158 @@
+{
+  "caso_id": 6,
+  "eje": "Código Penal",
+  "planteo": "Por una rencilla vecinal, Julián arroja una piedra contra el parabrisas del automóvil de Federico, estacionado en la calle, rompiéndolo por completo. No concurren circunstancias de venganza contra la autoridad, ni uso de sustancias venenosas, ni el hecho fue en despoblado y en banda.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué tipo penal corresponde a la conducta de Julián?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Daño simple.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 183 del Código Penal (Ley N° 11.179) reprime al que destruyere, inutilizare o de cualquier modo dañare una cosa mueble o inmueble ajena."
+        },
+        {
+          "letra": "B",
+          "texto": "Hurto.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 162 del Código Penal (Ley N° 11.179) exige apoderamiento de la cosa; Julián no se apoderó, solo la dañó."
+        },
+        {
+          "letra": "C",
+          "texto": "Robo con fuerza en las cosas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 164 del Código Penal (Ley N° 11.179) supone apoderamiento con fuerza; no hubo sustracción de la cosa."
+        },
+        {
+          "letra": "D",
+          "texto": "Estafa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 172 del Código Penal (Ley N° 11.179) requiere ardid o engaño y disposición patrimonial, ausentes en el caso."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es el bien jurídico protegido por la figura del daño?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La propiedad.",
+          "correcta": true,
+          "explicacion": "Correcta. El daño del art. 183 integra el Título VI 'Delitos contra la propiedad' del Código Penal (Ley N° 11.179), tutelando el patrimonio en su integridad material."
+        },
+        {
+          "letra": "B",
+          "texto": "La seguridad pública.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La seguridad pública se protege en el Título VII del Código Penal (Ley N° 11.179), no en el daño común."
+        },
+        {
+          "letra": "C",
+          "texto": "El orden público.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El orden público no es el bien jurídico del daño del art. 183 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "La integridad física de las personas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La integridad física corresponde a las lesiones (art. 89 del Código Penal -Ley N° 11.179-); el daño protege la propiedad."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es la escala penal del daño simple?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prisión de quince días a un año.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 183 del Código Penal (Ley N° 11.179) prevé prisión de quince días a un año."
+        },
+        {
+          "letra": "B",
+          "texto": "Prisión de tres meses a cuatro años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa escala corresponde al daño agravado del art. 184 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "C",
+          "texto": "Prisión de un mes a dos años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la pena del hurto simple del art. 162 del Código Penal (Ley N° 11.179)."
+        },
+        {
+          "letra": "D",
+          "texto": "Prisión de un mes a seis años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la pena del robo simple del art. 164 del Código Penal (Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si Julián hubiera dañado el vehículo con el fin de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones, ¿qué efecto tendría?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se agravaría como daño calificado del art. 184.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 184 inc. 1 del Código Penal (Ley N° 11.179) agrava el daño ejecutado con el fin de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguno, el daño no admite agravantes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 184 del Código Penal (Ley N° 11.179) prevé expresamente circunstancias agravantes del daño."
+        },
+        {
+          "letra": "C",
+          "texto": "Se convertiría en atentado a la autoridad sin más.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El propósito contra la autoridad opera como agravante del daño en el art. 184 del Código Penal (Ley N° 11.179), no excluye la figura."
+        },
+        {
+          "letra": "D",
+          "texto": "Quedaría exento de pena.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 184 del Código Penal (Ley N° 11.179) no exime, sino que agrava la pena del daño."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Cuál es un requisito típico expreso del daño del art. 183?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el hecho no constituya otro delito más severamente penado.",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 183 del Código Penal (Ley N° 11.179) contiene la cláusula de subsidiariedad: rige siempre que el hecho no constituya otro delito más severamente penado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la cosa dañada tenga un valor superior a un monto legal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 183 del Código Penal (Ley N° 11.179) no establece un monto mínimo de valor para la cosa."
+        },
+        {
+          "letra": "C",
+          "texto": "Que medie ánimo de lucro.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El daño del art. 183 del Código Penal (Ley N° 11.179) no requiere ánimo de lucro."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la víctima sea funcionario público.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 183 del Código Penal (Ley N° 11.179) no exige una calidad especial en la víctima."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Julián destruyó una cosa mueble ajena (el parabrisas), conducta que encuadra en el daño simple del art. 183 del Código Penal (Ley N° 11.179). El bien jurídico es la propiedad (Título VI). La pena es prisión de quince días a un año (art. 183), figura subsidiaria que rige siempre que el hecho no constituya otro delito más severamente penado. Si hubiera obrado con el fin de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones, se agravaría como daño calificado del art. 184 inc. 1, con prisión de tres meses a cuatro años."
+}

@@ -1,0 +1,158 @@
+{
+  "caso_id": 22,
+  "eje": "Código Penal",
+  "planteo": "Ramiro convence con argumentos y presión psicológica a su empleado Iván, persona capaz e imputable, para que cometa una estafa contra un cliente, generándole la decisión que Iván no tenía. Iván ejecuta la estafa por sí mismo. Más tarde, un periodista publica una nota sobre el hecho en un diario; el operario de la imprenta (Toribio) solo presta la cooperación material necesaria para imprimir el escrito ajeno. Además, Ramiro es padre de la víctima, calidad personal que en abstracto agravaría la pena.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué rol asume Ramiro al generar en Iván la decisión de cometer la estafa, según el art. 45 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Instigador, por haber determinado directamente a otro a cometer el delito.",
+          "correcta": true,
+          "explicacion": "El art. 45 in fine del Código Penal (Ley N° 11.179) incluye en la pena del delito a quienes 'hubiesen determinado directamente a otro a cometerlo'; Ramiro generó la decisión en Iván."
+        },
+        {
+          "letra": "B",
+          "texto": "Cómplice secundario, por una colaboración prescindible.",
+          "correcta": false,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) regula la cooperación prescindible; determinar la voluntad del autor es instigación del art. 45, no complicidad secundaria."
+        },
+        {
+          "letra": "C",
+          "texto": "Coautor, por ejecutar parte de la estafa.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) reserva la coautoría a quien toma parte en la ejecución; Ramiro no ejecutó la estafa, fue Iván."
+        },
+        {
+          "letra": "D",
+          "texto": "Autor mediato, por usar a Iván como instrumento.",
+          "correcta": false,
+          "explicacion": "La autoría mediata supone un instrumento que no responde; aquí Iván es capaz e imputable y obra con dolo, por lo que Ramiro determina a otro (instigación del art. 45 del Código Penal, Ley N° 11.179)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué pena corresponde al instigador según el art. 45 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La misma pena establecida para el delito.",
+          "correcta": true,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) establece que quienes determinaron directamente a otro a cometer el delito incurren 'en la misma pena' prevista para el delito."
+        },
+        {
+          "letra": "B",
+          "texto": "La pena del delito disminuida de un tercio a la mitad.",
+          "correcta": false,
+          "explicacion": "Esa disminución corresponde a la complicidad secundaria del art. 46 del Código Penal (Ley N° 11.179), no al instigador del art. 45."
+        },
+        {
+          "letra": "C",
+          "texto": "Una pena siempre menor que la del autor material.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) iguala la pena del instigador con la del delito; no necesariamente es menor que la del autor material."
+        },
+        {
+          "letra": "D",
+          "texto": "La pena del delito culposo correspondiente.",
+          "correcta": false,
+          "explicacion": "La escala culposa es la del exceso del art. 35 del Código Penal (Ley N° 11.179), ajena a la instigación del art. 45."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "Toribio, operario que solo prestó la cooperación material necesaria para imprimir el escrito ajeno, ¿cómo es tratado por el art. 49 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No se lo considera partícipe del delito cometido por la prensa.",
+          "correcta": true,
+          "explicacion": "El art. 49 del Código Penal (Ley N° 11.179) excluye de la calidad de partícipes a quienes solo prestaren al autor del escrito o grabado la cooperación material necesaria para su publicación, difusión o venta."
+        },
+        {
+          "letra": "B",
+          "texto": "Es cómplice primario del art. 45 por aportar un medio necesario.",
+          "correcta": false,
+          "explicacion": "El art. 49 del Código Penal (Ley N° 11.179) establece una regla especial que excluye de participación a quien solo brinda la cooperación material para la publicación, desplazando al art. 45."
+        },
+        {
+          "letra": "C",
+          "texto": "Es coautor del art. 45 por intervenir en la difusión.",
+          "correcta": false,
+          "explicacion": "El art. 49 del Código Penal (Ley N° 11.179) descarta expresamente la participación de quien solo presta la cooperación material de imprenta; no es coautor."
+        },
+        {
+          "letra": "D",
+          "texto": "Es instigador del art. 45 por facilitar la publicación.",
+          "correcta": false,
+          "explicacion": "El art. 49 del Código Penal (Ley N° 11.179) excluye a este colaborador de la condición de partícipe; tampoco determinó la voluntad de nadie como exige la instigación del art. 45."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Conforme al art. 48 del Código Penal (Ley N° 11.179), ¿cómo influyen las relaciones, circunstancias y calidades personales cuyo efecto sea agravar la penalidad respecto de un partícipe?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No influyen sobre el partícipe, salvo que le fueren conocidas.",
+          "correcta": true,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) dispone que las circunstancias personales agravantes no influyen sobre el partícipe, salvo el caso en que fueren conocidas por él."
+        },
+        {
+          "letra": "B",
+          "texto": "Influyen siempre sobre todos los partícipes, aun ignorándolas.",
+          "correcta": false,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) condiciona la comunicación de las agravantes personales a que fueren conocidas por el partícipe; no se aplican si las ignora."
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca se comunican a ningún partícipe, aunque las conozca.",
+          "correcta": false,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) prevé expresamente la excepción de que sí influyen cuando son conocidas por el partícipe."
+        },
+        {
+          "letra": "D",
+          "texto": "Se comunican únicamente a los cómplices secundarios.",
+          "correcta": false,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) no distingue entre clases de partícipes para las agravantes; la regla depende del conocimiento, no del tipo de participación."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Respecto de las calidades personales cuyo efecto sea disminuir o excluir la penalidad (por ejemplo, una excusa absolutoria personal), ¿qué dispone el art. 48 del Código Penal (Ley N° 11.179)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo tienen influencia respecto del autor o cómplice a quienes correspondan.",
+          "correcta": true,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) establece que las relaciones, circunstancias y calidades personales que disminuyen o excluyen la penalidad no tienen influencia sino respecto del autor o cómplice a quien correspondan."
+        },
+        {
+          "letra": "B",
+          "texto": "Se extienden automáticamente a todos los partícipes del hecho.",
+          "correcta": false,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) limita estas circunstancias atenuantes o excluyentes a quien le corresponden, sin extenderlas a los demás partícipes."
+        },
+        {
+          "letra": "C",
+          "texto": "Benefician únicamente al instigador.",
+          "correcta": false,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) no privilegia al instigador; las circunstancias personales operan respecto de quien las posee, sea autor o cómplice."
+        },
+        {
+          "letra": "D",
+          "texto": "Carecen de toda relevancia en la participación criminal.",
+          "correcta": false,
+          "explicacion": "El art. 48 del Código Penal (Ley N° 11.179) sí les reconoce relevancia, pero personal: solo respecto del autor o cómplice a quien correspondan."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Ramiro es instigador: determinó directamente a Iván, persona capaz e imputable, a cometer la estafa (art. 45 del Código Penal, Ley N° 11.179) (P1), y por ello recibe la misma pena del delito (art. 45) (P2). Toribio, que solo prestó la cooperación material para imprimir el escrito ajeno, no es considerado partícipe por la regla especial del art. 49 (P3). En materia de comunicabilidad, el art. 48 establece que las agravantes personales solo influyen sobre el partícipe si le son conocidas (P4), mientras que las circunstancias personales que disminuyen o excluyen la penalidad operan únicamente respecto del autor o cómplice a quien correspondan (P5)."
+}

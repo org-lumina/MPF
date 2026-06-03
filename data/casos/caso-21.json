@@ -1,0 +1,158 @@
+{
+  "caso_id": 21,
+  "eje": "Código Penal",
+  "planteo": "Valentina entrega a su sobrino Diego una ganzúa y le explica cómo abrir cerraduras, prometiéndole además guardar el botín en su casa después del robo, promesa formulada antes del hecho. Diego comete el robo. Se discute si el aporte de Valentina fue indispensable, ya que el inmueble tenía una puerta trasera abierta que igualmente permitía el ingreso. Valentina, en efecto, recibe y oculta el botín tras el robo, cumpliendo la promesa previa.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "El art. 46 del Código Penal (Ley N° 11.179) reprime a los cómplices secundarios. ¿Cómo describe a estos partícipes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los que cooperan de cualquier otro modo a la ejecución del hecho y los que prestan una ayuda posterior cumpliendo promesas anteriores al mismo.",
+          "correcta": true,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) define como cómplices secundarios a quienes cooperan 'de cualquier otro modo' y a quienes prestan ayuda posterior cumpliendo promesas anteriores al hecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Los que prestan un auxilio sin el cual no habría podido cometerse el hecho.",
+          "correcta": false,
+          "explicacion": "Ese auxilio indispensable corresponde a la complicidad primaria del art. 45 del Código Penal (Ley N° 11.179), no al art. 46."
+        },
+        {
+          "letra": "C",
+          "texto": "Los que determinan directamente a otro a cometer el delito.",
+          "correcta": false,
+          "explicacion": "Determinar a otro es la instigación del art. 45 del Código Penal (Ley N° 11.179), no la complicidad secundaria del art. 46."
+        },
+        {
+          "letra": "D",
+          "texto": "Los que toman parte en la ejecución del hecho.",
+          "correcta": false,
+          "explicacion": "Tomar parte en la ejecución es coautoría del art. 45 del Código Penal (Ley N° 11.179), no complicidad secundaria del art. 46."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Según el art. 46 del Código Penal (Ley N° 11.179), ¿qué pena corresponde al cómplice secundario en un delito cuya pena no es perpetua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La pena correspondiente al delito, disminuida de un tercio a la mitad.",
+          "correcta": true,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) dispone que el cómplice secundario será reprimido con la pena del delito disminuida de un tercio a la mitad."
+        },
+        {
+          "letra": "B",
+          "texto": "La misma pena del delito, igual que el autor.",
+          "correcta": false,
+          "explicacion": "La pena íntegra del delito corresponde a coautores y cómplices necesarios del art. 45 del Código Penal (Ley N° 11.179); el cómplice secundario tiene pena disminuida (art. 46)."
+        },
+        {
+          "letra": "C",
+          "texto": "La pena del delito culposo.",
+          "correcta": false,
+          "explicacion": "La escala culposa corresponde al exceso del art. 35 del Código Penal (Ley N° 11.179), no a la complicidad secundaria."
+        },
+        {
+          "letra": "D",
+          "texto": "La mitad del máximo de la escala, sin reducir el mínimo.",
+          "correcta": false,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) establece la disminución 'de un tercio a la mitad' de la pena del delito, no una fórmula sobre solo el máximo."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El ocultamiento del botín por Valentina tras el robo, mediando promesa anterior al hecho, ¿cómo se valora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Como complicidad secundaria del art. 46, por ser ayuda posterior cumpliendo promesa anterior al hecho.",
+          "correcta": true,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) incluye expresamente a quienes prestan ayuda posterior cumpliendo promesas anteriores al hecho, supuesto del ocultamiento prometido por Valentina."
+        },
+        {
+          "letra": "B",
+          "texto": "Como encubrimiento autónomo desvinculado del robo.",
+          "correcta": false,
+          "explicacion": "Cuando la ayuda posterior obedece a una promesa anterior al hecho, el art. 46 del Código Penal (Ley N° 11.179) la trata como participación, no como encubrimiento autónomo."
+        },
+        {
+          "letra": "C",
+          "texto": "Como coautoría del art. 45, por intervenir en el destino del botín.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) exige tomar parte en la ejecución del hecho; ocultar luego el botín no es ejecutar el robo."
+        },
+        {
+          "letra": "D",
+          "texto": "Como instigación del art. 45, por motivar el robo.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) exige determinar la voluntad del autor; recibir el botín no determina la decisión de robar."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si se acreditara que la ganzúa de Valentina fue absolutamente indispensable para el robo (en lugar de existir una puerta trasera abierta), ¿cómo cambiaría la calificación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pasaría a ser complicidad primaria del art. 45, por tratarse de un auxilio sin el cual no se habría podido cometer.",
+          "correcta": true,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) califica como cómplice necesario a quien presta un auxilio 'sin el cual no habría podido cometerse'; un aporte indispensable migra del art. 46 al art. 45."
+        },
+        {
+          "letra": "B",
+          "texto": "Seguiría siendo complicidad secundaria del art. 46 sin variación.",
+          "correcta": false,
+          "explicacion": "El art. 46 del Código Penal (Ley N° 11.179) abarca cooperaciones prescindibles; si el aporte es indispensable, corresponde la complicidad primaria del art. 45."
+        },
+        {
+          "letra": "C",
+          "texto": "Se transformaría en instigación del art. 45.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) distingue el aporte material de la instigación; entregar un medio no es determinar la voluntad del autor."
+        },
+        {
+          "letra": "D",
+          "texto": "Quedaría impune por ser un aporte neutral.",
+          "correcta": false,
+          "explicacion": "El art. 45 del Código Penal (Ley N° 11.179) sanciona el auxilio necesario; un aporte indispensable con dolo de colaborar no es impune."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Según el art. 47 del Código Penal (Ley N° 11.179), si de las circunstancias resultare que Valentina solo quiso cooperar en un hecho menos grave que el efectivamente cometido por Diego, ¿cómo se le aplica la pena?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente en razón del hecho que prometió ejecutar.",
+          "correcta": true,
+          "explicacion": "El art. 47 del Código Penal (Ley N° 11.179) dispone que, si el cómplice no quiso cooperar sino en un hecho menos grave, la pena se le aplica solamente en razón del hecho que prometió ejecutar."
+        },
+        {
+          "letra": "B",
+          "texto": "Conforme al hecho más grave efectivamente cometido por el autor.",
+          "correcta": false,
+          "explicacion": "El art. 47 del Código Penal (Ley N° 11.179) limita la responsabilidad del cómplice al hecho menos grave que quiso, no al más grave del autor."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la misma pena del autor, sin distinción de su intención.",
+          "correcta": false,
+          "explicacion": "El art. 47 del Código Penal (Ley N° 11.179) atiende a la intención del cómplice y la limita al hecho menos grave que prometió, apartándose de la pena plena del autor."
+        },
+        {
+          "letra": "D",
+          "texto": "Con la pena del delito culposo del art. 35.",
+          "correcta": false,
+          "explicacion": "El art. 35 del Código Penal (Ley N° 11.179) regula el exceso en la justificación, no el límite subjetivo de la complicidad, que está en el art. 47."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "Valentina es cómplice secundaria conforme al art. 46 del Código Penal (Ley N° 11.179), que abarca tanto a quien coopera 'de cualquier otro modo' como a quien presta ayuda posterior cumpliendo promesas anteriores al hecho (P1), con pena del delito disminuida de un tercio a la mitad (P2). El ocultamiento del botín, prometido antes del robo, encuadra precisamente en esa segunda hipótesis del art. 46 (P3). Si su aporte hubiera sido indispensable, la calificación migraría a complicidad primaria del art. 45 (P4). Y si solo hubiera querido cooperar en un hecho menos grave, el art. 47 limita su pena al hecho que prometió ejecutar (P5)."
+}

@@ -1,0 +1,158 @@
+{
+  "caso_id": 32,
+  "eje": "CPPF",
+  "planteo": "Aprehendida en flagrancia, Carla M. es llevada a una dependencia donde se la mantiene esposada durante toda la audiencia y se la aloja en un sector sin condiciones mínimas de salubridad. Su defensor recién designado solicita entrevistarse con ella de modo confidencial antes del acto, y se le niega. Además, el fiscal pretende fundar la futura imputación en una requisa domiciliaria practicada sin orden judicial.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Desde qué momento y de qué modo puede Carla entrevistarse con su defensor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo después de prestar declaración, y siempre en presencia del fiscal.",
+          "correcta": false,
+          "explicacion": "El artículo 65 inciso e del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) garantiza la entrevista previa, libre, privada y confidencial, en especial antes de cualquier acto que requiera la intervención del imputado, sin presencia del fiscal."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde el primer acto del procedimiento, en forma libre, privada y confidencial, en especial antes de cada acto que requiera su intervención.",
+          "correcta": true,
+          "explicacion": "Los incisos d y e del artículo 65 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) aseguran ser asistido desde el primer acto y entrevistarse con el defensor de modo libre, privado y confidencial, en particular en la oportunidad previa a actos que requieran su intervención."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente una vez formalizada la investigación preparatoria.",
+          "correcta": false,
+          "explicacion": "El artículo 65 incisos d y e del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) garantizan la asistencia y entrevista desde el primer acto del procedimiento, no recién con la formalización."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo si el delito imputado tiene pena privativa de libertad.",
+          "correcta": false,
+          "explicacion": "El artículo 65 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no condiciona la entrevista confidencial a la escala penal del delito; es un derecho del imputado desde el primer acto."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Mantener a Carla esposada durante toda la audiencia, sin necesidad concreta, ¿es compatible con sus derechos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el uso de esposas es obligatorio para todo imputado detenido.",
+          "correcta": false,
+          "explicacion": "El artículo 65 inciso j del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece el derecho a que no se empleen medios que impidan el libre movimiento, salvo medidas de vigilancia necesarias a prudente arbitrio; no consagra una sujeción obligatoria."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo medidas de vigilancia que en casos especiales el juez o el fiscal consideren necesarias a su prudente arbitrio.",
+          "correcta": true,
+          "explicacion": "El artículo 65 inciso j del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reconoce el derecho a que no se empleen medios que impidan el libre movimiento durante el acto procesal, salvo medidas de vigilancia que en casos especiales y a prudente arbitrio el juez o el fiscal consideren necesarias."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque fue aprehendida en flagrancia.",
+          "correcta": false,
+          "explicacion": "El artículo 65 inciso j del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no exceptúa la flagrancia; la restricción del libre movimiento sólo procede como medida de vigilancia necesaria y fundada."
+        },
+        {
+          "letra": "D",
+          "texto": "No, la sujeción física está absolutamente prohibida en toda circunstancia.",
+          "correcta": false,
+          "explicacion": "El artículo 65 inciso j del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no la prohíbe en términos absolutos: admite medidas de vigilancia necesarias en casos especiales a prudente arbitrio del juez o el fiscal."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "El alojamiento de Carla en un sector sin condiciones mínimas de salubridad, ¿qué disposición vulnera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La prohibición de alojar a personas privadas de libertad en lugares no habilitados o insalubres.",
+          "correcta": true,
+          "explicacion": "El artículo 15 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe alojar personas privadas de libertad en lugares no habilitados o que no reúnan las mínimas condiciones de salubridad, y responsabiliza a quien lo ordene, autorice, aplique o consienta."
+        },
+        {
+          "letra": "B",
+          "texto": "La regla de apreciación de la prueba según la sana crítica.",
+          "correcta": false,
+          "explicacion": "El artículo 10 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula la valoración de la prueba, ajena a las condiciones de alojamiento, propias del artículo 15."
+        },
+        {
+          "letra": "C",
+          "texto": "El principio de separación de funciones entre fiscal y juez.",
+          "correcta": false,
+          "explicacion": "El artículo 9 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula la separación de funciones, materia distinta de las condiciones carcelarias previstas en el artículo 15."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a recurrir la sanción penal.",
+          "correcta": false,
+          "explicacion": "El artículo 21 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra el derecho al recurso, sin relación con las condiciones de detención que protege el artículo 15."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "La requisa domiciliaria practicada sin orden judicial que el fiscal quiere usar, ¿supera el estándar del Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, las medidas sobre el domicilio no requieren autorización judicial.",
+          "correcta": false,
+          "explicacion": "El artículo 13 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) protege el domicilio y exige que sólo con autorización del juez y conforme al Código puedan afectarse esos derechos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la afectación del domicilio sólo procede con autorización del juez y conforme al Código.",
+          "correcta": true,
+          "explicacion": "El artículo 13 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el domicilio y demás ámbitos protegidos sólo pueden afectarse con autorización del juez y de conformidad con el Código."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque la flagrancia exime de toda autorización para registros.",
+          "correcta": false,
+          "explicacion": "El artículo 13 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige autorización judicial para afectar el domicilio; la flagrancia, regulada en el artículo 217, no consagra una habilitación general para registros domiciliarios sin orden."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, basta el consentimiento verbal de cualquier ocupante.",
+          "correcta": false,
+          "explicacion": "El artículo 13 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) condiciona la afectación del domicilio a la autorización del juez y a las disposiciones del Código, no a un mero consentimiento verbal."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Toda restricción de derechos fundamentales que se disponga sobre Carla, ¿bajo qué principios debe ejercerse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bajo los principios de idoneidad, razonabilidad, proporcionalidad y necesariedad.",
+          "correcta": true,
+          "explicacion": "El artículo 16 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que las facultades para restringir derechos reconocidos por la Constitución o instrumentos internacionales se ejerzan conforme a los principios de idoneidad, razonabilidad, proporcionalidad y necesariedad."
+        },
+        {
+          "letra": "B",
+          "texto": "Bajo el solo criterio de oportunidad del fiscal interviniente.",
+          "correcta": false,
+          "explicacion": "El artículo 16 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone idoneidad, razonabilidad, proporcionalidad y necesariedad, y no remite a una mera oportunidad fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Bajo la regla de la libre apreciación sin límites legales.",
+          "correcta": false,
+          "explicacion": "El artículo 16 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) acota las restricciones a principios concretos; no existe libre apreciación sin límites para afectar derechos fundamentales."
+        },
+        {
+          "letra": "D",
+          "texto": "Bajo el principio de publicidad de las audiencias.",
+          "correcta": false,
+          "explicacion": "El artículo 2 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra la publicidad como principio del proceso acusatorio, distinto de los estándares de restricción de derechos del artículo 16."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso reúne defensa, dignidad y legalidad de la injerencia. La entrevista confidencial y la asistencia desde el primer acto surgen del artículo 65 incisos d y e, y el uso de medios que impiden el libre movimiento sólo procede como vigilancia necesaria y fundada (artículo 65 inciso j). El alojamiento insalubre viola el artículo 15 (condiciones carcelarias). La requisa domiciliaria sin orden contraría el artículo 13 (intimidad y domicilio), y toda restricción de derechos debe respetar idoneidad, razonabilidad, proporcionalidad y necesariedad (artículo 16). Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

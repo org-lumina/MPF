@@ -1,0 +1,158 @@
+{
+  "caso_id": 31,
+  "eje": "CPPF",
+  "planteo": "Diego S. fue sobreseído por decisión firme respecto de un hecho de hurto. Meses después, un nuevo fiscal pretende reabrir la persecución por el mismo hecho, con idéntica calificación, invocando que aparecieron testimonios adicionales. La defensa opone que su asistido ya no puede ser perseguido nuevamente por el mismo hecho y solicita que se declare la imposibilidad de proseguir la acción.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué garantía impide perseguir nuevamente a Diego por el mismo hecho ya sobreseído?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La persecución única (ne bis in idem), que veda perseguir o condenar más de una vez por el mismo hecho.",
+          "correcta": true,
+          "explicacion": "El artículo 5 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que nadie puede ser perseguido penalmente ni condenado más de una vez por el mismo hecho."
+        },
+        {
+          "letra": "B",
+          "texto": "La garantía de juicio previo regulada en el Código.",
+          "correcta": false,
+          "explicacion": "El artículo 1 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige juicio previo y ley anterior, pero la imposibilidad de doble persecución por el mismo hecho está específicamente prevista en el artículo 5."
+        },
+        {
+          "letra": "C",
+          "texto": "La garantía de defensa en juicio.",
+          "correcta": false,
+          "explicacion": "El artículo 6 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) protege el derecho de defensa, mas la prohibición de la doble persecución por el mismo hecho corresponde al artículo 5."
+        },
+        {
+          "letra": "D",
+          "texto": "El principio de inocencia.",
+          "correcta": false,
+          "explicacion": "El artículo 3 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) consagra el estado de inocencia hasta sentencia firme; lo que impide reabrir la causa por el mismo hecho es la persecución única del artículo 5."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Procesalmente, ¿qué excepción puede oponer la defensa para detener la nueva persecución?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Excepción de incompetencia del fiscal interviniente.",
+          "correcta": false,
+          "explicacion": "El artículo 37 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la falta de jurisdicción o competencia como excepción, pero el obstáculo aquí es que la acción no puede proseguirse por estar ya agotada respecto del mismo hecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Excepción de falta de acción, porque ésta no puede proseguirse.",
+          "correcta": true,
+          "explicacion": "El artículo 37 inciso b del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) admite la excepción de falta de acción cuando ésta no fue iniciada legalmente o no puede proseguirse, supuesto aplicable a la doble persecución por el mismo hecho (artículo 5)."
+        },
+        {
+          "letra": "C",
+          "texto": "Excepción de nulidad de la denuncia.",
+          "correcta": false,
+          "explicacion": "El artículo 37 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) enumera taxativamente las excepciones (jurisdicción/competencia, falta de acción, extinción) y no incluye una autónoma de nulidad de la denuncia."
+        },
+        {
+          "letra": "D",
+          "texto": "Excepción de prescripción de la pena.",
+          "correcta": false,
+          "explicacion": "El artículo 37 inciso c del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la extinción de la acción, pero el caso no plantea prescripción sino imposibilidad de proseguir la acción ya agotada, propia del inciso b."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cómo deben deducirse y resolverse las excepciones según el Código?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por escrito y con dictamen previo del fiscal general.",
+          "correcta": false,
+          "explicacion": "El artículo 38 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que las excepciones se deducen oralmente en las audiencias, no por escrito con dictamen previo."
+        },
+        {
+          "letra": "B",
+          "texto": "Oralmente en las audiencias, resolviendo el juez con la prueba presentada en esa oportunidad.",
+          "correcta": true,
+          "explicacion": "El artículo 38 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que las excepciones se deducen oralmente en las audiencias y que los jueces resuelven únicamente con la prueba presentada en esa oportunidad."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier momento, sin necesidad de audiencia.",
+          "correcta": false,
+          "explicacion": "El artículo 38 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que se deduzcan oralmente en las audiencias, lo que descarta una tramitación sin audiencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Mediante recurso de apelación ante la cámara.",
+          "correcta": false,
+          "explicacion": "El artículo 38 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) regula su deducción oral en audiencia ante el juez; no se trata de un recurso de apelación."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "Si el juez admite la excepción y declara que la acción no puede proseguirse por estar extinguida, ¿qué efecto corresponde?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se suspende el proceso hasta que aparezcan nuevas pruebas.",
+          "correcta": false,
+          "explicacion": "El artículo 39 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no prevé suspensión a la espera de prueba; según la excepción admitida corresponde archivo o sobreseimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Si se declara la extinción de la persecución penal, se decreta el sobreseimiento.",
+          "correcta": true,
+          "explicacion": "El artículo 39 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que, declarada la extinción de la persecución penal, se decretará el sobreseimiento o se rechazará la demanda, según corresponda."
+        },
+        {
+          "letra": "C",
+          "texto": "Se remite la causa a otro juez con competencia.",
+          "correcta": false,
+          "explicacion": "El artículo 39 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé la remisión a otro órgano sólo cuando se hace lugar a la falta de jurisdicción o competencia, no cuando se declara la extinción de la persecución."
+        },
+        {
+          "letra": "D",
+          "texto": "Se archivan las actuaciones, pudiendo reabrirse con nueva prueba.",
+          "correcta": false,
+          "explicacion": "El artículo 39 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) reserva el archivo a la falta de acción que permita seguir contra otro imputado; declarada la extinción corresponde el sobreseimiento, sin reapertura contra el mismo imputado por el mismo hecho (artículo 5)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "El argumento del fiscal de que 'aparecieron nuevos testimonios' sobre el mismo hecho, ¿alcanza para sortear la persecución única?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque la prueba sobreviniente reabre siempre la persecución.",
+          "correcta": false,
+          "explicacion": "El artículo 5 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe la nueva persecución por el mismo hecho sin condicionarla a la inexistencia de prueba sobreviniente; la sola aparición de testimonios no habilita reabrir."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la persecución única impide volver a perseguir por el mismo hecho, con independencia de nueva prueba.",
+          "correcta": true,
+          "explicacion": "El artículo 5 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) veda perseguir más de una vez por el mismo hecho; la garantía opera con independencia de que aparezca prueba adicional sobre ese mismo hecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si los testimonios son posteriores al sobreseimiento.",
+          "correcta": false,
+          "explicacion": "El artículo 5 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no distingue según la fecha de la prueba; la persecución única protege frente a una segunda persecución por el mismo hecho."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, siempre que se cambie la calificación legal del hecho.",
+          "correcta": false,
+          "explicacion": "El artículo 5 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) atiende a la identidad del hecho, no de la calificación legal; recalificar el mismo hecho no habilita una nueva persecución."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso aplica la garantía de persecución única (ne bis in idem) del artículo 5, que impide reabrir la persecución por el mismo hecho aun con prueba sobreviniente. La vía procesal es la excepción de falta de acción porque no puede proseguirse (artículo 37 inciso b), deducida oralmente en audiencia y resuelta con la prueba allí presentada (artículo 38); declarada la extinción de la persecución corresponde el sobreseimiento (artículo 39). Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}

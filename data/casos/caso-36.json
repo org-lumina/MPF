@@ -1,0 +1,158 @@
+{
+  "caso_id": 36,
+  "eje": "CPPF",
+  "planteo": "Tras una aprehensión en flagrancia, el fiscal pretende mantener detenida a Néstor P. mientras prepara el pedido de prisión preventiva, y plantea fijar una caución de monto altísimo, imposible de afrontar para el imputado. El defensor objeta los plazos de la detención, el modo de fundar el pedido y la caución propuesta, e invoca el carácter restrictivo que debe regir toda limitación de la libertad.",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Comunicada la aprehensión y estimando el fiscal que debe mantenerse, ¿qué límite temporal rige hasta resolver una medida de coerción privativa de libertad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si en 72 horas no se resuelve la aplicación de una medida privativa de libertad, el juez debe ordenar la libertad.",
+          "correcta": true,
+          "explicacion": "El artículo 216 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que si en el plazo de 72 horas no se resolviera la aplicación de una medida de coerción privativa de libertad, el juez deberá ordenar la libertad."
+        },
+        {
+          "letra": "B",
+          "texto": "El imputado puede permanecer detenido hasta 10 días sin resolución.",
+          "correcta": false,
+          "explicacion": "El artículo 216 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) fija el plazo en 72 horas; no autoriza una detención de 10 días sin resolución."
+        },
+        {
+          "letra": "C",
+          "texto": "No hay plazo, mientras dure la investigación preparatoria.",
+          "correcta": false,
+          "explicacion": "El artículo 216 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone un plazo de 72 horas para resolver la medida privativa de libertad, vencido el cual corresponde ordenar la libertad."
+        },
+        {
+          "letra": "D",
+          "texto": "El plazo es de 24 horas improrrogables.",
+          "correcta": false,
+          "explicacion": "El artículo 216 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé 72 horas, con una prórroga excepcional y por única vez por igual lapso por complejidad probatoria, no un plazo de 24 horas."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "Si el fiscal pide al juez la detención de Néstor para preparar y fundar el pedido de prisión preventiva, ¿qué requisitos y límite rigen?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Procede sin indicios, por la sola voluntad del fiscal, y sin tope temporal.",
+          "correcta": false,
+          "explicacion": "El artículo 215 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige suficientes indicios para sostener razonablemente que procedería la prisión preventiva y limita la detención a 72 horas."
+        },
+        {
+          "letra": "B",
+          "texto": "Procede si existen suficientes indicios de que procedería la prisión preventiva, y la detención no puede superar las 72 horas.",
+          "correcta": true,
+          "explicacion": "El artículo 215 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prevé que el fiscal puede pedir la detención si existieran suficientes indicios para sostener razonablemente que procedería la prisión preventiva y fuera necesaria para fundar su pedido, sin que la detención supere las 72 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "La detención la ordena directamente el fiscal sin intervención del juez.",
+          "correcta": false,
+          "explicacion": "El artículo 215 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que el juez ordena la detención o deniega sumariamente el pedido; no la decide el fiscal por sí."
+        },
+        {
+          "letra": "D",
+          "texto": "Procede sólo en delitos de acción privada.",
+          "correcta": false,
+          "explicacion": "El artículo 215 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) no la limita a delitos de acción privada; opera cuando hay indicios de procedencia de la prisión preventiva."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "La caución de monto imposible de afrontar que propone el fiscal, ¿es admisible?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el monto puede fijarse libremente para asegurar la comparecencia.",
+          "correcta": false,
+          "explicacion": "El artículo 212 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe absolutamente fijar una caución de imposible cumplimiento para el imputado, por lo que el monto no es libre en ese sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "No, queda absolutamente prohibido fijar una caución de imposible cumplimiento para el imputado.",
+          "correcta": true,
+          "explicacion": "El artículo 212 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que queda absolutamente prohibido fijar una caución de imposible cumplimiento para el imputado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si el imputado tiene antecedentes penales.",
+          "correcta": false,
+          "explicacion": "El artículo 212 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe la caución de imposible cumplimiento sin excepción por antecedentes; el monto debe ser idóneo y afrontable."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, porque la caución no es una medida de coerción.",
+          "correcta": false,
+          "explicacion": "El artículo 210 inciso h del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) incluye la caución entre las medidas de coerción y el artículo 212 veda fijarla de imposible cumplimiento."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "El defensor invoca que toda limitación de la libertad debe interpretarse con un criterio determinado. ¿Cuál es esa regla?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las normas que coarten la libertad se interpretan restrictivamente, sin analogía ni interpretación extensiva.",
+          "correcta": true,
+          "explicacion": "El artículo 14 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) dispone que las disposiciones que coarten la libertad personal o limiten un derecho se interpretan restrictivamente, prohibiendo la analogía y la interpretación extensiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Las normas que limitan la libertad se interpretan de modo amplio para asegurar el proceso.",
+          "correcta": false,
+          "explicacion": "El artículo 14 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) impone interpretación restrictiva, no amplia, de las normas que limitan la libertad."
+        },
+        {
+          "letra": "C",
+          "texto": "Se interpretan según la mayor utilidad para la investigación.",
+          "correcta": false,
+          "explicacion": "El artículo 14 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) ordena una interpretación restrictiva de las normas limitativas, no orientada por la utilidad de la investigación."
+        },
+        {
+          "letra": "D",
+          "texto": "Se interpretan por analogía con normas de procesos civiles.",
+          "correcta": false,
+          "explicacion": "El artículo 14 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) prohíbe expresamente la analogía respecto de las normas que limitan derechos o la libertad."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "Sobre la base de las restricciones a la libertad, ¿en qué pueden fundarse las medidas restrictivas y qué exige el encarcelamiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pueden fundarse en la sola gravedad del delito, sin más exigencias.",
+          "correcta": false,
+          "explicacion": "El artículo 17 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige que las medidas restrictivas se funden en peligro real de fuga u obstaculización y que existan elementos de prueba suficientes para imputar un delito con pena privativa de libertad, no en la sola gravedad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo en peligro real de fuga u obstaculización, y nadie puede ser encarcelado sin prueba suficiente de un delito con pena privativa de libertad.",
+          "correcta": true,
+          "explicacion": "El artículo 17 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) establece que las medidas restrictivas de la libertad sólo pueden fundarse en peligro real de fuga u obstaculización, y que nadie puede ser encarcelado sin elementos de prueba suficientes para imputarle un delito reprimido con pena privativa de libertad."
+        },
+        {
+          "letra": "C",
+          "texto": "En la conveniencia procesal del fiscal, sin control judicial.",
+          "correcta": false,
+          "explicacion": "El artículo 17 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) sujeta las medidas restrictivas al peligro real de fuga u obstaculización y a la suficiencia probatoria, no a la conveniencia del fiscal."
+        },
+        {
+          "letra": "D",
+          "texto": "En la reincidencia presunta, aunque no haya prueba del hecho.",
+          "correcta": false,
+          "explicacion": "El artículo 17 del Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482) exige elementos de prueba suficientes del delito con pena privativa de libertad; no admite el encarcelamiento por reincidencia presunta sin prueba del hecho."
+        }
+      ]
+    }
+  ],
+  "resolucion_didactica": "El caso integra plazos, detención y cauciones bajo el principio de restricción. La detención para fundar la prisión preventiva exige indicios suficientes y no puede superar 72 horas (artículo 215), y de no resolverse la medida privativa en ese lapso el juez debe ordenar la libertad (artículo 216). La caución no puede fijarse de imposible cumplimiento (artículo 212). Toda limitación de la libertad se interpreta restrictivamente, sin analogía ni extensión (artículo 14), y sólo puede fundarse en peligro real de fuga u obstaculización con prueba suficiente del delito (artículo 17). Todas las normas se citan por número y nombre conforme al Código Procesal Penal Federal (Ley N° 27.063, mod. Ley N° 27.482)."
+}
