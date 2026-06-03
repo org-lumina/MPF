@@ -50,11 +50,36 @@ export interface ResultadoExamenUI {
   porTema: Record<string, { aciertos: number; total: number; porcentaje: number }>;
   devolucion: string;
   preguntas: PreguntaResultado[];
-  caso: {
+  caso?: {
     enunciado: string;
     resolucion_didactica: string;
     fundamento_normativo?: string;
     planteo?: string;
     preguntas?: string[];
   };
+}
+
+// ---- Examen administrativo (sanitizado para el cliente) ----
+export interface SanitAdmin {
+  examen_id: number;
+  preguntas: { id: number; tema: string; enunciado: string; opciones: SanitOpcion[] }[];
+}
+
+// ---- Caso práctico "Solo casos" (sanitizado para el cliente) ----
+export interface SanitCaso {
+  caso_id: number;
+  planteo: string;
+  preguntas: { id: number; enunciado: string; opciones: SanitOpcion[] }[];
+}
+
+// ---- Resultado del modo "Solo casos" ----
+export interface ResultadoCasoUI {
+  casoId: number;
+  eje?: string;
+  aciertos: number;
+  total: number;
+  planteo: string;
+  resolucion_didactica: string;
+  fundamento_normativo?: string;
+  preguntas: PreguntaResultado[];
 }

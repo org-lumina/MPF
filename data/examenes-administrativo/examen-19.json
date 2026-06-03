@@ -1,0 +1,626 @@
+{
+  "examen_id": 19,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Según el ideario de Alberdi, ¿qué frase resumía su propuesta para poblar el país con inmigración?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "\"La unión hace la fuerza\"",
+          "correcta": false,
+          "explicacion": "No es la frase asociada a Alberdi sobre inmigración."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Paz y administración\"",
+          "correcta": false,
+          "explicacion": "\"Paz y administración\" fue el lema de Roca, en la Generación del 80."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Gobernar es poblar\"",
+          "correcta": true,
+          "explicacion": "\"Gobernar es poblar\" sintetiza el ideal de Alberdi de fomentar la inmigración."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Educar al soberano\"",
+          "correcta": false,
+          "explicacion": "\"Educar al soberano\" es una idea asociada a Sarmiento, sobre la educación pública."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La participación ciudadana en elecciones mediante el voto es un derecho y a la vez:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un privilegio solo para funcionarios",
+          "correcta": false,
+          "explicacion": "El voto corresponde a los ciudadanos, no solo a funcionarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Una facultad exclusiva del Presidente",
+          "correcta": false,
+          "explicacion": "Es un derecho de todos los ciudadanos habilitados."
+        },
+        {
+          "letra": "C",
+          "texto": "Una actividad totalmente prohibida",
+          "correcta": false,
+          "explicacion": "El voto está garantizado, no prohibido."
+        },
+        {
+          "letra": "D",
+          "texto": "Un deber cívico que en Argentina es obligatorio",
+          "correcta": true,
+          "explicacion": "Correcto: el voto es derecho y deber, y resulta obligatorio según la ley electoral."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El reconocimiento y respeto de las diferentes ideas, religiones y costumbres dentro de una sociedad democrática se denomina:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Centralismo político",
+          "correcta": false,
+          "explicacion": "Se refiere a concentrar el poder, no al respeto por la diversidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Uniformidad cultural",
+          "correcta": false,
+          "explicacion": "Implica imponer una sola forma de pensar, contraria al pluralismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Indiferencia social",
+          "correcta": false,
+          "explicacion": "La indiferencia no es respeto activo por las diferencias."
+        },
+        {
+          "letra": "D",
+          "texto": "Pluralismo y tolerancia",
+          "correcta": true,
+          "explicacion": "Correcto: el pluralismo acepta la diversidad y la tolerancia implica respetar al diferente."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Cuál de estas afirmaciones describe correctamente al federalismo argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las provincias son países independientes",
+          "correcta": false,
+          "explicacion": "Las provincias integran la Nación, no son países independientes."
+        },
+        {
+          "letra": "B",
+          "texto": "Todo el poder se concentra en el gobierno central",
+          "correcta": false,
+          "explicacion": "Eso describe un Estado unitario, no el federalismo."
+        },
+        {
+          "letra": "C",
+          "texto": "No existe gobierno nacional",
+          "correcta": false,
+          "explicacion": "El federalismo sí cuenta con un gobierno nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Coexisten un gobierno federal y gobiernos provinciales autónomos",
+          "correcta": true,
+          "explicacion": "Correcto: el federalismo combina un Estado nacional con provincias autónomas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.743, ¿cuál es la edad mínima general para solicitar la rectificación registral del sexo y el cambio de nombre de pila?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dieciocho (18) años, con la excepción prevista para personas menores de edad",
+          "correcta": true,
+          "explicacion": "Ley N° 26.743, art. 4 inc. 1: requiere acreditar la edad mínima de dieciocho años, con la excepción del art. 5 para menores."
+        },
+        {
+          "letra": "B",
+          "texto": "Dieciséis (16) años sin excepciones",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 4: la edad mínima general es de dieciocho años."
+        },
+        {
+          "letra": "C",
+          "texto": "Veintiún (21) años en todos los casos",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 4: la edad mínima es de dieciocho años, no veintiuno."
+        },
+        {
+          "letra": "D",
+          "texto": "Veinticinco (25) años",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 4: la edad mínima es de dieciocho años."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El Régimen de Funcionarios y Empleados del Ministerio Público Fiscal de la Nación está aprobado por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Resolución PGN N° 751/13.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN 751/13 aprobó el Reglamento de Selección de Magistrados; el Régimen de Funcionarios es la Res. PGN N° 128/10."
+        },
+        {
+          "letra": "B",
+          "texto": "La Resolución PGN N° 615/13.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN 615/13 es el Régimen de Licencias del MPF; el Régimen de Funcionarios y Empleados es la Res. PGN N° 128/10."
+        },
+        {
+          "letra": "C",
+          "texto": "La Resolución PGN N° 507/14.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN 507/14 es el Reglamento de Ingreso; el Régimen de Funcionarios y Empleados es la Res. PGN N° 128/10."
+        },
+        {
+          "letra": "D",
+          "texto": "La Resolución PGN N° 128/10.",
+          "correcta": true,
+          "explicacion": "Correcta. El Reglamento de ingreso (Res. PGN 507/14) y la Res. PGN 3329/2016 citan el Régimen de Funcionarios y Empleados del MPF como aprobado por Resolución PGN N° 128/10."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La represión de las huelgas rurales en Santa Cruz entre 1920 y 1922 es recordada como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Revolución Libertadora",
+          "correcta": false,
+          "explicacion": "Incorrecta: así se autodenominó el golpe de 1955."
+        },
+        {
+          "letra": "B",
+          "texto": "El Grito de Alcorta",
+          "correcta": false,
+          "explicacion": "Incorrecta: fue una protesta de arrendatarios en Santa Fe en 1912."
+        },
+        {
+          "letra": "C",
+          "texto": "La Semana Trágica",
+          "correcta": false,
+          "explicacion": "Incorrecta: la Semana Trágica fue en Buenos Aires en 1919."
+        },
+        {
+          "letra": "D",
+          "texto": "La Patagonia Rebelde (o Trágica)",
+          "correcta": true,
+          "explicacion": "Correcta: huelgas de peones rurales reprimidas por el Ejército en la Patagonia."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.861, para ingresar como personal de maestranza y oficios se requiere, entre otros requisitos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tener estudios secundarios completos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los estudios secundarios se exigen para empleado (Ley N° 26.861, art. 7º); para maestranza, estudios primarios completos (art. 6º)."
+        },
+        {
+          "letra": "B",
+          "texto": "Ser abogado graduado en universidad nacional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El título de abogado se exige para cargos letrados (Ley N° 26.861, art. 8º); para maestranza basta estudios primarios completos (art. 6º)."
+        },
+        {
+          "letra": "C",
+          "texto": "Acreditar diez años de experiencia laboral.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 6º, no exige antigüedad laboral, sino estudios primarios completos e idoneidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Ser mayor de edad y poseer estudios primarios completos.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 6º, exige ser mayor de edad y poseer estudios primarios completos, con idoneidad y aptitud psicotécnica."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué provincia se separó de la Confederación Argentina entre 1852 y 1860?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Córdoba",
+          "correcta": false,
+          "explicacion": "Córdoba integró la Confederación en ese período."
+        },
+        {
+          "letra": "B",
+          "texto": "Santa Fe",
+          "correcta": false,
+          "explicacion": "Santa Fe formó parte de la Confederación, cuyo congreso sesionó allí."
+        },
+        {
+          "letra": "C",
+          "texto": "Buenos Aires",
+          "correcta": true,
+          "explicacion": "Buenos Aires se separó como Estado autónomo y no integró la Confederación con capital en Paraná."
+        },
+        {
+          "letra": "D",
+          "texto": "Entre Ríos",
+          "correcta": false,
+          "explicacion": "Entre Ríos, gobernada por Urquiza, fue el corazón de la Confederación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Según el artículo 1 de la Constitución Nacional, la Nación Argentina adopta para su gobierno la forma:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Directa, republicana y federal",
+          "correcta": false,
+          "explicacion": "La forma es representativa (no directa); el pueblo gobierna a través de representantes."
+        },
+        {
+          "letra": "B",
+          "texto": "Representativa, parlamentaria y confederal",
+          "correcta": false,
+          "explicacion": "El sistema no es parlamentario sino presidencialista, y es federal, no confederal."
+        },
+        {
+          "letra": "C",
+          "texto": "Representativa, republicana y federal",
+          "correcta": true,
+          "explicacion": "El art. 1 establece textualmente la forma representativa, republicana y federal de gobierno."
+        },
+        {
+          "letra": "D",
+          "texto": "Directa, monárquica y unitaria",
+          "correcta": false,
+          "explicacion": "La Argentina no es monárquica ni unitaria; la democracia directa no es la regla general adoptada."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué órgano del MPF está encargado de llevar adelante sus funciones en un ámbito territorial determinado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Consejo General del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo General es órgano asesor (Ley N° 27.148, art. 15); la actuación territorial corresponde a la fiscalía de distrito (art. 17)."
+        },
+        {
+          "letra": "B",
+          "texto": "La Procuraduría de Defensa de la Constitución.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa procuraduría especializada (Ley N° 27.148, art. 29) tiene competencia material, no territorial; el órgano territorial es la fiscalía de distrito (art. 17)."
+        },
+        {
+          "letra": "C",
+          "texto": "La fiscalía de distrito.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 17, define a la fiscalía de distrito como el órgano que lleva adelante las funciones del MPF en un ámbito territorial determinado."
+        },
+        {
+          "letra": "D",
+          "texto": "La Dirección General de Acceso a la Justicia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una dirección general de apoyo (Ley N° 27.148, art. 33 inc. b); la actuación territorial corresponde a la fiscalía de distrito (art. 17)."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué estableció principalmente la Ley Sáenz Peña sancionada en 1912?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La elección directa del presidente",
+          "correcta": false,
+          "explicacion": "Incorrecta: la elección presidencial directa se estableció con la reforma constitucional de 1994."
+        },
+        {
+          "letra": "B",
+          "texto": "El voto secreto, universal (masculino) y obligatorio",
+          "correcta": true,
+          "explicacion": "Correcta: la Ley 8.871 instauró el sufragio secreto, obligatorio y universal para varones, sobre padrón militar."
+        },
+        {
+          "letra": "C",
+          "texto": "El voto calificado por nivel de renta",
+          "correcta": false,
+          "explicacion": "Incorrecta: la ley justamente buscó eliminar las prácticas restrictivas y fraudulentas previas."
+        },
+        {
+          "letra": "D",
+          "texto": "El voto femenino en elecciones nacionales",
+          "correcta": false,
+          "explicacion": "Incorrecta: el voto femenino llegó recién en 1947 con la Ley 13.010."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), ¿cómo se evalúa la idoneidad en el agrupamiento 'Técnico Administrativo'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mediante una entrevista personal con el Tribunal Evaluador.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La entrevista personal es propia del agrupamiento de Servicios Auxiliares (Res. PGN N° 507/14, art. 33), no del Técnico Administrativo (art. 42)."
+        },
+        {
+          "letra": "B",
+          "texto": "Mediante una prueba escrita de oposición jurídica y valoración de antecedentes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde al agrupamiento Técnico Jurídico (Res. PGN N° 507/14, art. 55), no al Técnico Administrativo (art. 42)."
+        },
+        {
+          "letra": "C",
+          "texto": "Mediante una prueba de conocimientos teóricos y otra de conocimientos prácticos de informática, sucesivas y eliminatorias.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 42, prevé dos pruebas sucesivas y eliminatorias: teórica e informática."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente mediante el examen psicofísico.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El psicofísico es un paso final previo al nombramiento (Res. PGN N° 507/14, art. 65); la idoneidad del Técnico Administrativo se evalúa con dos pruebas (art. 42)."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El derecho a asociarse 'con fines útiles' (art. 14 CN) habilita, entre otras cosas, a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Constituir asociaciones para cometer delitos.",
+          "correcta": false,
+          "explicacion": "El fin debe ser útil y lícito; asociarse para delinquir está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligar a otros a unirse a una asociación.",
+          "correcta": false,
+          "explicacion": "La libertad de asociación incluye no ser obligado a asociarse."
+        },
+        {
+          "letra": "C",
+          "texto": "Formar clubes, cooperativas, sindicatos y partidos políticos.",
+          "correcta": true,
+          "explicacion": "La libertad de asociación permite crear todo tipo de agrupaciones lícitas, incluidos sindicatos y partidos."
+        },
+        {
+          "letra": "D",
+          "texto": "Reemplazar al Congreso en su función legislativa.",
+          "correcta": false,
+          "explicacion": "Las asociaciones no sustituyen las funciones de los poderes del Estado."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué ciudad se reunió el Congreso Constituyente que sancionó la Constitución de 1853?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Santa Fe",
+          "correcta": true,
+          "explicacion": "El Congreso Constituyente sesionó en Santa Fe y allí sancionó la Constitución de 1853."
+        },
+        {
+          "letra": "B",
+          "texto": "Tucumán",
+          "correcta": false,
+          "explicacion": "En Tucumán se declaró la Independencia en 1816, no la Constitución de 1853."
+        },
+        {
+          "letra": "C",
+          "texto": "Buenos Aires",
+          "correcta": false,
+          "explicacion": "Buenos Aires estaba separada de la Confederación y no participó del Congreso."
+        },
+        {
+          "letra": "D",
+          "texto": "Paraná",
+          "correcta": false,
+          "explicacion": "Paraná fue capital de la Confederación, pero el Congreso sesionó en Santa Fe."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 94, el Presidente y el vicepresidente serán elegidos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por las legislaturas provinciales",
+          "correcta": false,
+          "explicacion": "El art. 94 de la Constitución Nacional establece elección directa por el pueblo, no por las legislaturas."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la Asamblea Legislativa",
+          "correcta": false,
+          "explicacion": "El art. 94 de la Constitución Nacional prevé elección popular directa, no por la Asamblea Legislativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Indirectamente por un colegio electoral",
+          "correcta": false,
+          "explicacion": "El art. 94 de la Constitución Nacional establece elección directa por el pueblo, no por colegio electoral."
+        },
+        {
+          "letra": "D",
+          "texto": "Directamente por el pueblo, en doble vuelta, conformando un distrito único",
+          "correcta": true,
+          "explicacion": "El art. 94 de la Constitución Nacional dispone que serán elegidos directamente por el pueblo, en doble vuelta, conformando el territorio nacional un distrito único."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué reforma estableció la autonomía del Ministerio Público en la Argentina?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Reforma Constitucional de 1994.",
+          "correcta": true,
+          "explicacion": "Correcta. El material 'Qué es el MPF' indica que la independencia del MPF tiene sus orígenes en la Reforma Constitucional de 1994, que estableció la autonomía del Ministerio Público."
+        },
+        {
+          "letra": "B",
+          "texto": "La Reforma Constitucional de 1949.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material 'Qué es el MPF' atribuye la autonomía del Ministerio Público a la Reforma de 1994."
+        },
+        {
+          "letra": "C",
+          "texto": "La Reforma Constitucional de 1957.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material 'Qué es el MPF' señala la Reforma de 1994 como origen de la autonomía del Ministerio Público."
+        },
+        {
+          "letra": "D",
+          "texto": "La Reforma Constitucional de 1853.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La autonomía del Ministerio Público surge de la Reforma de 1994, no de la Constitución originaria de 1853 (material 'Qué es el MPF')."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El monopolio comercial colonial obligaba a las colonias hispanoamericanas a comerciar principalmente con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Portugal",
+          "correcta": false,
+          "explicacion": "El comercio con Portugal no era el canal del monopolio español."
+        },
+        {
+          "letra": "B",
+          "texto": "Inglaterra",
+          "correcta": false,
+          "explicacion": "El comercio con Inglaterra estaba restringido por el monopolio español."
+        },
+        {
+          "letra": "C",
+          "texto": "Estados Unidos",
+          "correcta": false,
+          "explicacion": "El comercio con Estados Unidos no era parte del monopolio colonial español."
+        },
+        {
+          "letra": "D",
+          "texto": "La metrópoli española, a través de puertos autorizados",
+          "correcta": true,
+          "explicacion": "El monopolio obligaba a comerciar con España mediante puertos habilitados, restringiendo el comercio libre."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué sistema de trabajo agrícola usaba un contrato por el cual el productor trabajaba la tierra de un propietario a cambio de una parte de la cosecha o un pago?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La encomienda",
+          "correcta": false,
+          "explicacion": "La encomienda fue una institución colonial sobre el trabajo indígena."
+        },
+        {
+          "letra": "B",
+          "texto": "El arrendamiento o la aparcería",
+          "correcta": true,
+          "explicacion": "El arrendamiento y la aparcería eran formas de trabajo de tierra ajena a cambio de pago o parte de la cosecha."
+        },
+        {
+          "letra": "C",
+          "texto": "La mita",
+          "correcta": false,
+          "explicacion": "La mita fue un sistema de trabajo forzado en el período colonial."
+        },
+        {
+          "letra": "D",
+          "texto": "El latifundio comunal",
+          "correcta": false,
+          "explicacion": "No es una forma contractual de trabajo agrícola de la época."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El 'Estado de derecho' supone que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los gobernantes están por encima de la ley",
+          "correcta": false,
+          "explicacion": "Eso describe un régimen autoritario; en el Estado de derecho nadie está por encima de la ley."
+        },
+        {
+          "letra": "B",
+          "texto": "Tanto gobernantes como gobernados están sometidos a la ley",
+          "correcta": true,
+          "explicacion": "En el Estado de derecho la ley rige por igual para todos, incluidos los funcionarios."
+        },
+        {
+          "letra": "C",
+          "texto": "El poder se ejerce sin límites jurídicos",
+          "correcta": false,
+          "explicacion": "El Estado de derecho implica precisamente límites jurídicos al poder."
+        },
+        {
+          "letra": "D",
+          "texto": "La ley solo obliga a los ciudadanos comunes",
+          "correcta": false,
+          "explicacion": "En el Estado de derecho la ley también obliga a quienes ejercen el poder."
+        }
+      ]
+    }
+  ]
+}

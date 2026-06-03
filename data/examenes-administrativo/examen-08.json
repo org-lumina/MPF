@@ -1,0 +1,626 @@
+{
+  "examen_id": 8,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El artículo 19 dispone que ningún habitante de la Nación:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Podrá asociarse con fines útiles",
+          "correcta": false,
+          "explicacion": "El derecho de asociarse con fines útiles surge del art. 14 de la Constitución Nacional, no del art. 19."
+        },
+        {
+          "letra": "B",
+          "texto": "Será juzgado por jueces designados por la ley",
+          "correcta": false,
+          "explicacion": "La garantía del juez natural está en el art. 18 de la Constitución Nacional, no en el art. 19."
+        },
+        {
+          "letra": "C",
+          "texto": "Será obligado a hacer lo que no manda la ley, ni privado de lo que ella no prohíbe",
+          "correcta": true,
+          "explicacion": "El art. 19 de la Constitución Nacional establece que nadie será obligado a hacer lo que no manda la ley ni privado de lo que ella no prohíbe."
+        },
+        {
+          "letra": "D",
+          "texto": "Podrá ejercer industria sin licencia",
+          "correcta": false,
+          "explicacion": "El art. 14 de la Constitución Nacional reconoce el derecho de ejercer industria lícita; el art. 19 trata del principio de legalidad y reserva."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué presidente asumió en 1890 tras la renuncia de Juárez Celman?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Carlos Pellegrini",
+          "correcta": true,
+          "explicacion": "Pellegrini, vicepresidente, asumió en 1890 tras la renuncia de Juárez Celman."
+        },
+        {
+          "letra": "B",
+          "texto": "Luis Sáenz Peña",
+          "correcta": false,
+          "explicacion": "Luis Sáenz Peña asumió en 1892."
+        },
+        {
+          "letra": "C",
+          "texto": "José Evaristo Uriburu",
+          "correcta": false,
+          "explicacion": "Uriburu asumió la presidencia en 1895."
+        },
+        {
+          "letra": "D",
+          "texto": "Julio A. Roca",
+          "correcta": false,
+          "explicacion": "Roca había gobernado entre 1880 y 1886, y volvería luego en 1898."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La Revolución Cubana llevó al poder a Fidel Castro tras el triunfo sobre el régimen de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anastasio Somoza, en 1979",
+          "correcta": false,
+          "explicacion": "Incorrecta: Somoza era de Nicaragua, derrocado por los sandinistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Gerardo Machado, en 1933",
+          "correcta": false,
+          "explicacion": "Incorrecta: Machado cayó antes, en 1933, en otro proceso."
+        },
+        {
+          "letra": "C",
+          "texto": "Fulgencio Batista, en 1959",
+          "correcta": true,
+          "explicacion": "Correcta: la Revolución triunfó el 1 de enero de 1959 derrocando a Batista."
+        },
+        {
+          "letra": "D",
+          "texto": "Rafael Trujillo, en 1961",
+          "correcta": false,
+          "explicacion": "Incorrecta: Trujillo gobernó República Dominicana."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.485, ¿cuál de las siguientes es una medida preventiva urgente que puede ordenar el juez?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohibición de acercamiento del presunto agresor a los lugares de habitual concurrencia de la mujer",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 26 a.1: el juez puede ordenar la prohibición de acercamiento del presunto agresor a los lugares de habitual concurrencia de la mujer."
+        },
+        {
+          "letra": "B",
+          "texto": "La condena penal del agresor",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 41: la ley no crea tipos penales ni habilita condenas penales en este procedimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "La detención preventiva inmediata del denunciado por 30 días",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 26: las medidas son preventivas urgentes (prohibiciones, exclusión, etc.), no incluye una detención preventiva de 30 días."
+        },
+        {
+          "letra": "D",
+          "texto": "La expropiación de los bienes del agresor",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 26: prevé medidas como inventario o prohibición de disponer bienes, no la expropiación."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), el examen de conocimientos teóricos del agrupamiento 'Técnico Administrativo' versa sobre:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Contabilidad pública y administración financiera.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 44, fija historia, sistema constitucional y ordenamiento institucional del MPF."
+        },
+        {
+          "letra": "B",
+          "texto": "Derecho internacional de los derechos humanos exclusivamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La prueba teórica (Res. PGN N° 507/14, art. 44) abarca historia, sistema constitucional y ordenamiento del MPF, no solo DDHH."
+        },
+        {
+          "letra": "C",
+          "texto": "Derecho penal especial y técnicas de investigación criminal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La prueba teórica (Res. PGN N° 507/14, art. 44) abarca historia, sistema constitucional y ordenamiento del MPF, no derecho penal especial."
+        },
+        {
+          "letra": "D",
+          "texto": "Historia argentina y latinoamericana, el sistema constitucional y el ordenamiento institucional y jurídico del MPF.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 44, fija esos contenidos para la prueba teórica del Técnico Administrativo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El carácter 'republicano' de la forma de gobierno implica principalmente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La división de poderes, la periodicidad de las funciones y la responsabilidad de los funcionarios",
+          "correcta": true,
+          "explicacion": "Son rasgos clásicos de la república: división de poderes, periodicidad, publicidad y responsabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "La concentración del poder en un solo órgano para mayor eficiencia",
+          "correcta": false,
+          "explicacion": "La república se basa justamente en la división y el control del poder, no su concentración."
+        },
+        {
+          "letra": "C",
+          "texto": "La autonomía total de cada provincia para dictar su propia moneda",
+          "correcta": false,
+          "explicacion": "Eso se vincula al federalismo y además la moneda es competencia federal exclusiva."
+        },
+        {
+          "letra": "D",
+          "texto": "La existencia de un rey con poderes limitados por la Constitución",
+          "correcta": false,
+          "explicacion": "Eso es una monarquía constitucional, opuesta a la república."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El golpe de Estado de septiembre de 1955 que derrocó a Perón se autodenominó:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Revolución Libertadora",
+          "correcta": true,
+          "explicacion": "Correcta: así se llamó al movimiento cívico-militar que derrocó a Perón."
+        },
+        {
+          "letra": "B",
+          "texto": "Revolución de Mayo",
+          "correcta": false,
+          "explicacion": "Incorrecta: la Revolución de Mayo fue en 1810."
+        },
+        {
+          "letra": "C",
+          "texto": "Revolución Argentina",
+          "correcta": false,
+          "explicacion": "Incorrecta: la Revolución Argentina fue la dictadura iniciada en 1966."
+        },
+        {
+          "letra": "D",
+          "texto": "Proceso de Reorganización Nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta: corresponde a la dictadura de 1976."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué importancia estratégica tuvo la guerra gaucha de Güemes para el plan continental de San Martín?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aseguró la independencia de Chile",
+          "correcta": false,
+          "explicacion": "La independencia chilena dependió del cruce de los Andes, no de la guerra gaucha."
+        },
+        {
+          "letra": "B",
+          "texto": "Permitió invadir Brasil",
+          "correcta": false,
+          "explicacion": "La guerra gaucha no se orientó a invadir Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "Contuvo a los realistas en el norte, permitiendo a San Martín atacar al Perú por el Pacífico",
+          "correcta": true,
+          "explicacion": "Al frenar a los realistas en el norte, Güemes liberó a San Martín para atacar el Perú por mar."
+        },
+        {
+          "letra": "D",
+          "texto": "Sirvió para conquistar el Río de la Plata",
+          "correcta": false,
+          "explicacion": "No tuvo ese objetivo; defendía la frontera norte."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Por cuánto tiempo es designado el fiscal coordinador de distrito?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De manera vitalicia mientras dure su buena conducta.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La estabilidad por buena conducta rige para los magistrados (Ley N° 27.148, art. 62); el coordinador de distrito dura dos años (art. 18)."
+        },
+        {
+          "letra": "B",
+          "texto": "Por un período de dos (2) años.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 18, establece que el fiscal coordinador de distrito es designado por un período de dos (2) años."
+        },
+        {
+          "letra": "C",
+          "texto": "Por un período de seis (6) años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 18, prevé dos años de duración."
+        },
+        {
+          "letra": "D",
+          "texto": "Por un período de cuatro (4) años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 18, fija dos años, no cuatro."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué es el Código Procesal Penal Federal aprobado por el Decreto 118/2019?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Código Penal de la Nación",
+          "correcta": false,
+          "explicacion": "El Código Penal es la norma de fondo; el CPPF (Decreto 118/2019, Leyes N° 27.063 y 27.482) es la norma procesal."
+        },
+        {
+          "letra": "B",
+          "texto": "El Código Procesal Civil y Comercial de la Nación",
+          "correcta": false,
+          "explicacion": "El CPCCN regula el proceso civil; el CPPF regula el proceso penal federal."
+        },
+        {
+          "letra": "C",
+          "texto": "El texto ordenado del CPPF aprobado por la Ley N° 27.063 con las modificaciones de la Ley N° 27.482",
+          "correcta": true,
+          "explicacion": "Decreto 118/2019, art. 1: aprueba el texto ordenado del CPPF aprobado por la Ley N° 27.063 con las incorporaciones de la Ley N° 27.272 y las modificaciones de la Ley N° 27.482."
+        },
+        {
+          "letra": "D",
+          "texto": "La Ley de Protección Integral a las Mujeres",
+          "correcta": false,
+          "explicacion": "La protección integral a las mujeres corresponde a la Ley N° 26.485, no al CPPF."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El 'principio de inocencia' implica que toda persona acusada:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe probar su propia inocencia ante el juez.",
+          "correcta": false,
+          "explicacion": "La carga de la prueba recae sobre la acusación, no sobre el imputado."
+        },
+        {
+          "letra": "B",
+          "texto": "Se presume inocente hasta que una sentencia firme demuestre lo contrario.",
+          "correcta": true,
+          "explicacion": "Es un pilar del debido proceso: la culpabilidad debe probarse mediante sentencia firme."
+        },
+        {
+          "letra": "C",
+          "texto": "Es culpable desde el momento de la denuncia.",
+          "correcta": false,
+          "explicacion": "La denuncia no determina culpabilidad; se presume inocente."
+        },
+        {
+          "letra": "D",
+          "texto": "Pierde todos sus derechos al ser acusada.",
+          "correcta": false,
+          "explicacion": "Conserva sus derechos y garantías durante todo el proceso."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Que la forma de gobierno sea 'representativa' significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El pueblo no delibera ni gobierna sino por medio de sus representantes",
+          "correcta": true,
+          "explicacion": "Lo establece el art. 22 CN: el pueblo gobierna a través de representantes elegidos."
+        },
+        {
+          "letra": "B",
+          "texto": "Las provincias representan a la Nación ante otros países",
+          "correcta": false,
+          "explicacion": "Las relaciones exteriores corresponden al gobierno federal, no es lo que define 'representativa'."
+        },
+        {
+          "letra": "C",
+          "texto": "El presidente representa personalmente a todos los ciudadanos sin elecciones",
+          "correcta": false,
+          "explicacion": "El presidente es elegido por el voto popular; no hay representación sin elección."
+        },
+        {
+          "letra": "D",
+          "texto": "El pueblo gobierna y delibera directamente en asambleas permanentes",
+          "correcta": false,
+          "explicacion": "Eso describe la democracia directa, no el sistema representativo argentino general."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La idea de 'división de poderes' busca fundamentalmente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acelerar las decisiones del gobierno concentrando funciones",
+          "correcta": false,
+          "explicacion": "La división busca controlar el poder, no concentrarlo para acelerar decisiones."
+        },
+        {
+          "letra": "B",
+          "texto": "Eliminar la participación del pueblo en el gobierno",
+          "correcta": false,
+          "explicacion": "La división de poderes no excluye al pueblo; lo protege del abuso de poder."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar la concentración del poder y permitir controles recíprocos",
+          "correcta": true,
+          "explicacion": "Separar funciones entre órganos distintos permite el control mutuo y previene abusos."
+        },
+        {
+          "letra": "D",
+          "texto": "Que cada provincia tenga sus propios tres poderes independientes de la Nación",
+          "correcta": false,
+          "explicacion": "Aunque las provincias tienen sus poderes, la división de poderes como principio refiere a separar funciones, no al federalismo."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué batalla de 1859 enfrentó a la Confederación (Urquiza) con el Estado de Buenos Aires (Mitre) con triunfo de Urquiza?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Batalla de Cepeda de 1859",
+          "correcta": true,
+          "explicacion": "En la Cepeda de 1859 Urquiza venció a Mitre, llevando al Pacto de San José de Flores."
+        },
+        {
+          "letra": "B",
+          "texto": "Batalla de Curupaytí",
+          "correcta": false,
+          "explicacion": "Curupaytí pertenece a la Guerra de la Triple Alianza."
+        },
+        {
+          "letra": "C",
+          "texto": "Batalla de Caseros",
+          "correcta": false,
+          "explicacion": "Caseros (1852) fue contra Rosas."
+        },
+        {
+          "letra": "D",
+          "texto": "Batalla de Pavón",
+          "correcta": false,
+          "explicacion": "Pavón fue en 1861 y favoreció a Mitre."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué ley de 1884 dispuso el Registro Civil y otras medidas que secularizaban funciones antes en manos de la Iglesia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Ley Sáenz Peña",
+          "correcta": false,
+          "explicacion": "La Ley Sáenz Peña es de 1912."
+        },
+        {
+          "letra": "B",
+          "texto": "La creación del Registro Civil",
+          "correcta": true,
+          "explicacion": "En 1884 se estableció el Registro Civil, secularizando el registro de nacimientos y defunciones."
+        },
+        {
+          "letra": "C",
+          "texto": "La Ley de Matrimonio Civil",
+          "correcta": false,
+          "explicacion": "El matrimonio civil se estableció en 1888, no en 1884."
+        },
+        {
+          "letra": "D",
+          "texto": "La Ley de Residencia",
+          "correcta": false,
+          "explicacion": "La Ley de Residencia es de 1902."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Cuando una ley contradice a la Constitución Nacional, puede ser declarada:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Automáticamente válida por ser ley",
+          "correcta": false,
+          "explicacion": "Una ley contraria a la Constitución no es válida por su sola sanción."
+        },
+        {
+          "letra": "B",
+          "texto": "Inconstitucional por el Poder Judicial",
+          "correcta": true,
+          "explicacion": "Correcto: el control de constitucionalidad permite que los jueces declaren inválida una norma contraria a la Constitución."
+        },
+        {
+          "letra": "C",
+          "texto": "Superior a la Constitución",
+          "correcta": false,
+          "explicacion": "Ninguna ley está por encima de la Constitución."
+        },
+        {
+          "letra": "D",
+          "texto": "Obligatoria sin posibilidad de revisión",
+          "correcta": false,
+          "explicacion": "Las normas pueden ser revisadas judicialmente respecto de su constitucionalidad."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué órgano colonial convocó al Cabildo Abierto del 22 de mayo de 1810 en Buenos Aires?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Real Audiencia",
+          "correcta": false,
+          "explicacion": "La Audiencia era un tribunal; no convocaba cabildos abiertos."
+        },
+        {
+          "letra": "B",
+          "texto": "El Cabildo de Buenos Aires",
+          "correcta": true,
+          "explicacion": "El Cabildo convocó al Cabildo Abierto del 22 de mayo para debatir la situación del virrey."
+        },
+        {
+          "letra": "C",
+          "texto": "El Consulado de Comercio",
+          "correcta": false,
+          "explicacion": "El Consulado era una institución mercantil, no la que convocaba cabildos abiertos."
+        },
+        {
+          "letra": "D",
+          "texto": "El Tribunal de la Inquisición",
+          "correcta": false,
+          "explicacion": "La Inquisición no tenía función política de gobierno local."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Para el procedimiento de designación de los magistrados del MPF (fiscales, fiscales generales, etc.), la Ley Orgánica prevé:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Elección popular por voto directo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 48, prevé concurso público de oposición y antecedentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Concursos públicos de oposición y antecedentes.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 48, dispone concursos públicos de oposición y antecedentes de los que surgen ternas para el PEN."
+        },
+        {
+          "letra": "C",
+          "texto": "Sorteo entre los abogados de la matrícula federal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 48, establece concurso público, no sorteo."
+        },
+        {
+          "letra": "D",
+          "texto": "Designación directa por el Procurador General.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 48, exige concurso público; solo se admite cobertura interina hasta la designación definitiva."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 120, el Ministerio Público es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una comisión del Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 120 de la Constitución Nacional lo define como órgano independiente, no como comisión del Congreso."
+        },
+        {
+          "letra": "B",
+          "texto": "Una sala de la Corte Suprema de Justicia",
+          "correcta": false,
+          "explicacion": "El art. 120 de la Constitución Nacional lo configura como órgano independiente, no como parte de la Corte."
+        },
+        {
+          "letra": "C",
+          "texto": "Una dependencia del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "El art. 120 de la Constitución Nacional lo define como órgano independiente, no como dependencia del Ejecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Un órgano independiente con autonomía funcional y autarquía financiera",
+          "correcta": true,
+          "explicacion": "El art. 120 de la Constitución Nacional define al Ministerio Público como un órgano independiente con autonomía funcional y autarquía financiera."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El hábeas corpus es la garantía específica que protege:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La libertad física o ambulatoria de las personas frente a detenciones ilegales o arbitrarias.",
+          "correcta": true,
+          "explicacion": "El hábeas corpus, previsto en el art. 43, ampara la libertad corporal frente a privaciones o amenazas ilegítimas."
+        },
+        {
+          "letra": "B",
+          "texto": "El medio ambiente sano.",
+          "correcta": false,
+          "explicacion": "El ambiente puede protegerse por amparo colectivo, no por hábeas corpus."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a la propiedad privada.",
+          "correcta": false,
+          "explicacion": "La propiedad se protege por otras vías, no por el hábeas corpus."
+        },
+        {
+          "letra": "D",
+          "texto": "El acceso a los datos personales en registros públicos.",
+          "correcta": false,
+          "explicacion": "Eso lo protege el hábeas data, no el hábeas corpus."
+        }
+      ]
+    }
+  ]
+}

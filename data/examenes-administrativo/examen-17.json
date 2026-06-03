@@ -1,0 +1,626 @@
+{
+  "examen_id": 17,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La Constitución reformada en 1949 durante el peronismo, entre otros puntos, habilitó:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La autonomía de la Ciudad de Buenos Aires",
+          "correcta": false,
+          "explicacion": "Incorrecta: la autonomía porteña se consagró en 1994."
+        },
+        {
+          "letra": "B",
+          "texto": "La elección directa de senadores en 1853",
+          "correcta": false,
+          "explicacion": "Incorrecta: ese cambio corresponde a la reforma de 1994."
+        },
+        {
+          "letra": "C",
+          "texto": "La reelección presidencial inmediata",
+          "correcta": true,
+          "explicacion": "Correcta: permitió la reelección de Perón, que se concretó en 1951-1952."
+        },
+        {
+          "letra": "D",
+          "texto": "El voto femenino",
+          "correcta": false,
+          "explicacion": "Incorrecta: el voto femenino se estableció por la ley de 1947, no por la reforma del 49."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Según la clasificación tradicional, los derechos civiles son principalmente aquellos que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aseguran condiciones materiales de vida como salud, educación y trabajo.",
+          "correcta": false,
+          "explicacion": "Esos son los derechos sociales, no los civiles."
+        },
+        {
+          "letra": "B",
+          "texto": "Permiten participar en el gobierno mediante el voto y los cargos públicos.",
+          "correcta": false,
+          "explicacion": "Eso corresponde a los derechos políticos, no a los civiles."
+        },
+        {
+          "letra": "C",
+          "texto": "Protegen al medio ambiente y a los consumidores como intereses colectivos.",
+          "correcta": false,
+          "explicacion": "Esos son derechos de tercera generación o de incidencia colectiva."
+        },
+        {
+          "letra": "D",
+          "texto": "Garantizan la libertad y autonomía de la persona frente al Estado y los demás (vida, libertad, propiedad).",
+          "correcta": true,
+          "explicacion": "Los derechos civiles protegen la libertad individual: vida, libertad de circulación, propiedad, expresión, etc."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué acontecimiento de 1880 resolvió la cuestión de la sede del poder nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La sanción de la Ley 1420",
+          "correcta": false,
+          "explicacion": "La Ley 1420 (1884) trata de educación, no de la capital."
+        },
+        {
+          "letra": "B",
+          "texto": "La sanción de la Constitución",
+          "correcta": false,
+          "explicacion": "La Constitución es de 1853, con reforma en 1860."
+        },
+        {
+          "letra": "C",
+          "texto": "El Acuerdo de San Nicolás",
+          "correcta": false,
+          "explicacion": "El Acuerdo de San Nicolás es de 1852."
+        },
+        {
+          "letra": "D",
+          "texto": "La federalización de la ciudad de Buenos Aires",
+          "correcta": true,
+          "explicacion": "En 1880 Buenos Aires fue federalizada como capital de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El artículo 38 califica a los partidos políticos como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Asociaciones de derecho privado sin relevancia constitucional",
+          "correcta": false,
+          "explicacion": "El art. 38 de la Constitución Nacional les reconoce relevancia constitucional como instituciones fundamentales."
+        },
+        {
+          "letra": "B",
+          "texto": "Instituciones fundamentales del sistema democrático",
+          "correcta": true,
+          "explicacion": "El art. 38 de la Constitución Nacional declara que los partidos políticos son instituciones fundamentales del sistema democrático."
+        },
+        {
+          "letra": "C",
+          "texto": "Órganos del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "El art. 38 de la Constitución Nacional no los considera órganos del Ejecutivo, sino instituciones del sistema democrático."
+        },
+        {
+          "letra": "D",
+          "texto": "Dependencias del Ministerio Público",
+          "correcta": false,
+          "explicacion": "El art. 38 de la Constitución Nacional no los vincula al Ministerio Público regulado en el art. 120."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El voto femenino en elecciones nacionales en Argentina se consagró legalmente en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1947",
+          "correcta": true,
+          "explicacion": "La Ley 13.010 de 1947 reconoció los derechos políticos de la mujer; votaron por primera vez en 1951."
+        },
+        {
+          "letra": "B",
+          "texto": "1983",
+          "correcta": false,
+          "explicacion": "1983 marca el retorno de la democracia, pero el voto femenino ya existía desde antes."
+        },
+        {
+          "letra": "C",
+          "texto": "1912",
+          "correcta": false,
+          "explicacion": "En 1912 la Ley Sáenz Peña no incluía a las mujeres."
+        },
+        {
+          "letra": "D",
+          "texto": "1994",
+          "correcta": false,
+          "explicacion": "En 1994 hubo una reforma constitucional, pero el voto femenino es muy anterior."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Convención de Belém do Pará (Ley N° 24.632), ¿cómo se entiende la violencia contra la mujer?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente la agresión física dentro del hogar",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), arts. 1 y 2: comprende violencia física, sexual y psicológica, en ámbito público y privado, no solo física en el hogar."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento físico, sexual o psicológico, en el ámbito público o privado",
+          "correcta": true,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 1: define la violencia contra la mujer como toda acción o conducta basada en su género que cause muerte, daño o sufrimiento físico, sexual o psicológico, en ámbito público o privado."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo los actos cometidos por agentes del Estado",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 2: incluye la violencia en la familia, la comunidad y la perpetrada o tolerada por el Estado, no solo la estatal."
+        },
+        {
+          "letra": "D",
+          "texto": "Toda distinción basada en el sexo que menoscabe derechos",
+          "correcta": false,
+          "explicacion": "Esa definición corresponde a la discriminación contra la mujer de la CEDAW (Ley N° 23.179, art. 1), no a Belém do Pará."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el material institucional, la jurisdicción de Bahía Blanca fue organizada por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Resolución PGN N° 42/25.",
+          "correcta": true,
+          "explicacion": "Correcta. El Anexo de Jurisdicciones del material 'Qué es el MPF + Jurisdicción BB' indica que Bahía Blanca se organiza conforme la Res. PGN N° 42/25."
+        },
+        {
+          "letra": "B",
+          "texto": "La Resolución PGN N° 72/24.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 72/24 corresponde a Comodoro Rivadavia; Bahía Blanca es la Res. PGN N° 42/25 (Anexo del material)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Resolución PGN N° 7/25.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 7/25 corresponde a Mar del Plata; Bahía Blanca es la Res. PGN N° 42/25 (Anexo del material)."
+        },
+        {
+          "letra": "D",
+          "texto": "La Resolución PGN N° 35/19.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 35/19 aprobó el diseño de la Fiscalía de Distrito en general; Bahía Blanca corresponde a la Res. PGN N° 42/25 (Anexo del material)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué función cumplen las direcciones generales del MPF según la Ley Orgánica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Realizar las tareas auxiliares y de apoyo indispensables para el desarrollo de las funciones del MPF.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 33, define a las direcciones generales como órganos encargados de tareas auxiliares y de apoyo del MPF."
+        },
+        {
+          "letra": "B",
+          "texto": "Dictar sentencias en las causas federales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Dictar sentencias es función del Poder Judicial; las direcciones generales del MPF cumplen tareas auxiliares (Ley N° 27.148, art. 33)."
+        },
+        {
+          "letra": "C",
+          "texto": "Designar a los magistrados del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La designación de magistrados sigue el procedimiento de la Ley N° 27.148, art. 48; las direcciones generales solo brindan apoyo (art. 33)."
+        },
+        {
+          "letra": "D",
+          "texto": "Ejercer la acción penal pública en los delitos federales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La acción penal la ejercen las fiscalías y unidades fiscales (Ley N° 27.148, arts. 18 y 21); las direcciones generales son de apoyo (art. 33)."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El hábeas data permite a toda persona:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Iniciar un proyecto de ley en el Congreso.",
+          "correcta": false,
+          "explicacion": "Eso corresponde a la iniciativa popular."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el avance de una obra que daña el ambiente.",
+          "correcta": false,
+          "explicacion": "Eso se canaliza por el amparo, no por el hábeas data."
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar la libertad de un detenido.",
+          "correcta": false,
+          "explicacion": "Esa función corresponde al hábeas corpus."
+        },
+        {
+          "letra": "D",
+          "texto": "Conocer los datos referidos a ella en registros y exigir su rectificación, supresión o confidencialidad si son falsos o discriminatorios.",
+          "correcta": true,
+          "explicacion": "El art. 43 prevé el hábeas data para acceder y corregir datos personales en bancos de datos públicos o privados."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Tras sus victorias iniciales, Belgrano sufrió en 1813 dos derrotas en el Alto Perú que detuvieron el avance patriota. Fueron:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tucumán y Salta",
+          "correcta": false,
+          "explicacion": "Tucumán y Salta fueron victorias, no derrotas."
+        },
+        {
+          "letra": "B",
+          "texto": "Maipú y Riobamba",
+          "correcta": false,
+          "explicacion": "No corresponden a las derrotas de Belgrano en el Alto Perú."
+        },
+        {
+          "letra": "C",
+          "texto": "Chacabuco y Cancha Rayada",
+          "correcta": false,
+          "explicacion": "Pertenecen a la campaña de Chile de San Martín."
+        },
+        {
+          "letra": "D",
+          "texto": "Vilcapugio y Ayohúma",
+          "correcta": true,
+          "explicacion": "En Vilcapugio y Ayohúma (1813) Belgrano fue derrotado en el Alto Perú."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 100 inc. 1, al jefe de gabinete de ministros le corresponde:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Declarar el estado de sitio",
+          "correcta": false,
+          "explicacion": "El art. 100 de la Constitución Nacional no le atribuye declarar el estado de sitio; eso se regula en los arts. 75 inc. 29, 99 inc. 16 y 23."
+        },
+        {
+          "letra": "B",
+          "texto": "Ejercer la administración general del país",
+          "correcta": true,
+          "explicacion": "El art. 100 inc. 1 de la Constitución Nacional atribuye al jefe de gabinete ejercer la administración general del país."
+        },
+        {
+          "letra": "C",
+          "texto": "Ser jefe supremo de la Nación",
+          "correcta": false,
+          "explicacion": "Ser jefe supremo de la Nación corresponde al Presidente según el art. 99 inc. 1 de la Constitución Nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Comandar las Fuerzas Armadas",
+          "correcta": false,
+          "explicacion": "Comandar las Fuerzas Armadas corresponde al Presidente según el art. 99 inc. 12 de la Constitución Nacional."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién condujo la defensa de la frontera norte mediante la 'guerra gaucha' contra los realistas en Salta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manuel Belgrano",
+          "correcta": false,
+          "explicacion": "Belgrano comandó el Ejército del Norte, pero la guerra gaucha la lideró Güemes."
+        },
+        {
+          "letra": "B",
+          "texto": "Martín Miguel de Güemes",
+          "correcta": true,
+          "explicacion": "Güemes organizó la guerra de guerrillas gaucha que defendió el norte frente a los realistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Juan Lavalle",
+          "correcta": false,
+          "explicacion": "Lavalle fue militar de etapas posteriores, no el líder de la guerra gaucha."
+        },
+        {
+          "letra": "D",
+          "texto": "Gregorio Aráoz de Lamadrid",
+          "correcta": false,
+          "explicacion": "Lamadrid fue militar, pero la guerra gaucha en Salta es identificada con Güemes."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Las garantías del amparo, hábeas corpus y hábeas data fueron incorporadas expresamente al texto constitucional argentino en el artículo 43 a partir de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Ley Sáenz Peña de 1912.",
+          "correcta": false,
+          "explicacion": "Esa ley se refería al sufragio, no a estas garantías."
+        },
+        {
+          "letra": "B",
+          "texto": "La reforma de 1949.",
+          "correcta": false,
+          "explicacion": "Esas garantías se consagraron expresamente en 1994."
+        },
+        {
+          "letra": "C",
+          "texto": "La reforma constitucional de 1994.",
+          "correcta": true,
+          "explicacion": "El art. 43, con amparo, hábeas corpus y hábeas data, fue incorporado en la reforma de 1994."
+        },
+        {
+          "letra": "D",
+          "texto": "La Constitución original de 1853.",
+          "correcta": false,
+          "explicacion": "No estaban expresamente en el texto de 1853; se incorporaron en 1994."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Convención de Belém do Pará (Ley N° 24.632), ¿ante qué órgano puede presentar peticiones cualquier persona o grupo por violación de su art. 7?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ante la Comisión Interamericana de Derechos Humanos",
+          "correcta": true,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 12: cualquier persona o entidad no gubernamental puede presentar peticiones a la Comisión Interamericana de Derechos Humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "Ante el Comité de la CEDAW",
+          "correcta": false,
+          "explicacion": "El Comité de la CEDAW corresponde a la Ley N° 23.179 (art. 17); las peticiones de Belém do Pará van a la Comisión Interamericana."
+        },
+        {
+          "letra": "C",
+          "texto": "Ante la Asamblea General de la OEA",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 12: el órgano de peticiones es la Comisión Interamericana de Derechos Humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "Ante la Corte Internacional de Justicia",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 12: las peticiones se presentan ante la Comisión Interamericana de Derechos Humanos."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la CEDAW (Ley N° 23.179), la expresión 'discriminación contra la mujer' denota:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El maltrato dentro de la familia o unidad doméstica",
+          "correcta": false,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 1: define la discriminación, no específicamente el maltrato doméstico."
+        },
+        {
+          "letra": "B",
+          "texto": "La negativa del Estado a reconocer la identidad de género",
+          "correcta": false,
+          "explicacion": "Eso se vincula con la Ley N° 26.743; la CEDAW (Ley N° 23.179, art. 1) define la discriminación basada en el sexo."
+        },
+        {
+          "letra": "C",
+          "texto": "Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de los derechos por la mujer",
+          "correcta": true,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 1: define la discriminación contra la mujer como toda distinción, exclusión o restricción basada en el sexo con ese objeto o resultado."
+        },
+        {
+          "letra": "D",
+          "texto": "Cualquier acción basada en el género que cause muerte o daño físico a la mujer",
+          "correcta": false,
+          "explicacion": "Esa es la definición de violencia contra la mujer de la Convención de Belém do Pará (Ley N° 24.632, art. 1), no la de discriminación de la CEDAW."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El plan coordinado de represión entre las dictaduras del Cono Sur en los años 70 para perseguir opositores se conoce como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Doctrina Monroe",
+          "correcta": false,
+          "explicacion": "Incorrecta: política estadounidense del siglo XIX ('América para los americanos')."
+        },
+        {
+          "letra": "B",
+          "texto": "Plan Marshall",
+          "correcta": false,
+          "explicacion": "Incorrecta: el Plan Marshall fue la ayuda estadounidense a Europa tras la Segunda Guerra."
+        },
+        {
+          "letra": "C",
+          "texto": "Plan u Operación Cóndor",
+          "correcta": true,
+          "explicacion": "Correcta: coordinó a regímenes de Argentina, Chile, Uruguay, Paraguay, Bolivia y Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "Pacto Andino",
+          "correcta": false,
+          "explicacion": "Incorrecta: fue un acuerdo de integración económica regional."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Cómo se llamó el Estado que reunió a Venezuela, Nueva Granada y Quito bajo el proyecto integrador de Bolívar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Provincias Unidas del Río de la Plata",
+          "correcta": false,
+          "explicacion": "Corresponde al actual territorio argentino, no al proyecto bolivariano."
+        },
+        {
+          "letra": "B",
+          "texto": "Gran Colombia",
+          "correcta": true,
+          "explicacion": "La Gran Colombia reunió a Venezuela, Nueva Granada y Quito en el proyecto de Bolívar."
+        },
+        {
+          "letra": "C",
+          "texto": "Confederación Perú-Boliviana",
+          "correcta": false,
+          "explicacion": "Esa confederación fue un proyecto posterior y distinto al de la Gran Colombia."
+        },
+        {
+          "letra": "D",
+          "texto": "Imperio del Brasil",
+          "correcta": false,
+          "explicacion": "El Imperio del Brasil fue otro Estado, surgido de la independencia portuguesa."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El derecho de peticionar a las autoridades implica:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que toda persona puede dirigir solicitudes o reclamos a los poderes públicos.",
+          "correcta": true,
+          "explicacion": "El art. 14 reconoce el derecho de peticionar; las autoridades deben recibir y considerar la petición."
+        },
+        {
+          "letra": "B",
+          "texto": "Un derecho exclusivo de los partidos políticos.",
+          "correcta": false,
+          "explicacion": "Es un derecho de toda persona, no solo de los partidos."
+        },
+        {
+          "letra": "C",
+          "texto": "La obligación del Estado de conceder siempre lo solicitado.",
+          "correcta": false,
+          "explicacion": "El Estado debe recibir la petición, pero no necesariamente concederla."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a votar en las elecciones.",
+          "correcta": false,
+          "explicacion": "Peticionar y votar son derechos distintos."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La autonomía municipal reconocida por la Constitución implica que los municipios pueden:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dictar sus propias normas locales y administrar sus asuntos",
+          "correcta": true,
+          "explicacion": "Correcto: el art. 123 reconoce la autonomía municipal en el orden institucional, político y administrativo."
+        },
+        {
+          "letra": "B",
+          "texto": "Modificar la Constitución Nacional",
+          "correcta": false,
+          "explicacion": "La reforma constitucional requiere una Convención, no un municipio."
+        },
+        {
+          "letra": "C",
+          "texto": "Declarar la guerra a otros países",
+          "correcta": false,
+          "explicacion": "Las relaciones exteriores son competencia federal, no municipal."
+        },
+        {
+          "letra": "D",
+          "texto": "Emitir moneda nacional",
+          "correcta": false,
+          "explicacion": "La emisión de moneda es facultad del gobierno federal."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Una de las primeras medidas del gobierno de Alfonsín en materia de derechos humanos fue:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La disolución del Poder Judicial",
+          "correcta": false,
+          "explicacion": "Incorrecta: no ocurrió tal disolución."
+        },
+        {
+          "letra": "B",
+          "texto": "La proscripción del peronismo",
+          "correcta": false,
+          "explicacion": "Incorrecta: la democracia recuperada incluyó a todas las fuerzas políticas."
+        },
+        {
+          "letra": "C",
+          "texto": "La creación de la CONADEP para investigar las desapariciones",
+          "correcta": true,
+          "explicacion": "Correcta: la Comisión Nacional sobre la Desaparición de Personas elaboró el informe Nunca Más."
+        },
+        {
+          "letra": "D",
+          "texto": "La amnistía total a los militares",
+          "correcta": false,
+          "explicacion": "Incorrecta: por el contrario, impulsó investigaciones y el Juicio a las Juntas."
+        }
+      ]
+    }
+  ]
+}

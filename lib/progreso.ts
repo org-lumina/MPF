@@ -23,3 +23,26 @@ export async function registrarCompletado(
     .from("examenes_completados")
     .insert({ user_email: email, examen_id: examenId });
 }
+
+// ---------- Namespacing por agrupación/modo (misma tabla, sin cambiar schema) ----------
+// Jurídico: 1..30 · Administrativo: 1000+examen_id · Solo-casos: 2000+caso_id
+const OFFSET_ADMIN = 1000;
+const OFFSET_CASO = 2000;
+
+/** examen_id administrativos ya completados (desnamespaceados). */
+export async function completadosAdmin(email: string): Promise<number[]> {
+  const all = await examenesCompletados(email);
+  return all.filter((i) => i > OFFSET_ADMIN && i < OFFSET_CASO).map((i) => i - OFFSET_ADMIN);
+}
+export async function registrarAdminCompletado(email: string, examenId: number): Promise<void> {
+  return registrarCompletado(email, OFFSET_ADMIN + examenId);
+}
+
+/** caso_id ya completados (desnamespaceados). */
+export async function completadosCasos(email: string): Promise<number[]> {
+  const all = await examenesCompletados(email);
+  return all.filter((i) => i >= OFFSET_CASO).map((i) => i - OFFSET_CASO);
+}
+export async function registrarCasoCompletado(email: string, casoId: number): Promise<void> {
+  return registrarCompletado(email, OFFSET_CASO + casoId);
+}

@@ -1,0 +1,626 @@
+{
+  "examen_id": 11,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "En los concursos de cargos letrados de la Ley N° 26.861, el titular de la dependencia puede seleccionar al postulante dentro de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier postulante de la lista, sin límite.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 33, limita la elección a los veinte primeros del orden de mérito."
+        },
+        {
+          "letra": "B",
+          "texto": "Los veinte (20) primeros del orden de mérito.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 33, permite seleccionar al postulante dentro de los veinte (20) primeros del orden de mérito."
+        },
+        {
+          "letra": "C",
+          "texto": "Los cinco (5) primeros del orden de mérito.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 33, fija los veinte primeros."
+        },
+        {
+          "letra": "D",
+          "texto": "Los diez (10) primeros del orden de mérito.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El tope de diez aplica al sorteo de Técnico Administrativo (Reglamento); en cargos letrados son los veinte primeros (Ley N° 26.861, art. 33)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme el CPPF (Ley N° 27.063 / 27.482), el principio 'in dubio pro imputado' implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En caso de duda, debe absolverse siempre a la víctima",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 11: la regla opera a favor del imputado en caso de duda."
+        },
+        {
+          "letra": "B",
+          "texto": "En caso de duda, se estará a lo que sea más favorable para el imputado",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 11: en caso de duda se estará a lo más favorable para el imputado."
+        },
+        {
+          "letra": "C",
+          "texto": "La duda favorece al Ministerio Público Fiscal",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 11: la duda se resuelve a favor del imputado, no del MPF."
+        },
+        {
+          "letra": "D",
+          "texto": "Las normas procesales siempre tienen efecto retroactivo",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 11: las normas procesales no tienen efecto retroactivo salvo que sean más favorables al imputado."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El principio de igualdad ante la ley significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Algunas personas están por encima de la ley",
+          "correcta": false,
+          "explicacion": "La igualdad ante la ley excluye que alguien esté por encima de ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas las personas son tratadas de igual modo por la ley en iguales circunstancias",
+          "correcta": true,
+          "explicacion": "Correcto: el art. 16 consagra la igualdad ante la ley, sin privilegios de nacimiento ni títulos de nobleza."
+        },
+        {
+          "letra": "C",
+          "texto": "La ley solo se aplica a los más pobres",
+          "correcta": false,
+          "explicacion": "La ley se aplica a todos por igual, sin distinción de condición."
+        },
+        {
+          "letra": "D",
+          "texto": "Existen títulos de nobleza con privilegios legales",
+          "correcta": false,
+          "explicacion": "La Constitución no admite prerrogativas de sangre ni de nacimiento."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La idea de que las normas se ordenan jerárquicamente, con la Constitución en la cúspide, se conoce comúnmente como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Soberanía popular",
+          "correcta": false,
+          "explicacion": "Es el principio de que el poder reside en el pueblo, no la jerarquía de normas."
+        },
+        {
+          "letra": "B",
+          "texto": "Federalismo",
+          "correcta": false,
+          "explicacion": "Es la forma de Estado que distribuye el poder entre nación y provincias, no la jerarquía normativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Pirámide jurídica",
+          "correcta": true,
+          "explicacion": "Correcto: representa la jerarquía normativa, con la Constitución en la cima y las normas inferiores debajo."
+        },
+        {
+          "letra": "D",
+          "texto": "División de poderes",
+          "correcta": false,
+          "explicacion": "Se refiere a la separación de funciones del Estado, no a la jerarquía de normas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El golpe de Estado del 24 de marzo de 1976 derrocó a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Juan Domingo Perón",
+          "correcta": false,
+          "explicacion": "Incorrecta: Perón había fallecido en 1974."
+        },
+        {
+          "letra": "B",
+          "texto": "Héctor Cámpora",
+          "correcta": false,
+          "explicacion": "Incorrecta: Cámpora había renunciado en 1973."
+        },
+        {
+          "letra": "C",
+          "texto": "María Estela Martínez de Perón (Isabel Perón)",
+          "correcta": true,
+          "explicacion": "Correcta: la dictadura del 76 derrocó al gobierno de Isabel Perón."
+        },
+        {
+          "letra": "D",
+          "texto": "Arturo Illia",
+          "correcta": false,
+          "explicacion": "Incorrecta: Illia fue derrocado en 1966."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El máximo tribunal del Poder Judicial de la Nación es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": true,
+          "explicacion": "La Corte Suprema es el órgano supremo del Poder Judicial argentino."
+        },
+        {
+          "letra": "B",
+          "texto": "El Senado de la Nación",
+          "correcta": false,
+          "explicacion": "El Senado integra el Poder Legislativo."
+        },
+        {
+          "letra": "C",
+          "texto": "El Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "El Consejo selecciona jueces y administra el Poder Judicial, pero no es el máximo tribunal."
+        },
+        {
+          "letra": "D",
+          "texto": "El Ministerio Público Fiscal",
+          "correcta": false,
+          "explicacion": "El Ministerio Público es un órgano independiente que promueve la acción, no es el máximo tribunal."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La división del poder entre distintos niveles territoriales (nación, provincias, municipios) es una forma de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Suprimir la Constitución",
+          "correcta": false,
+          "explicacion": "La distribución del poder se realiza dentro del marco constitucional."
+        },
+        {
+          "letra": "B",
+          "texto": "Concentrar el poder en una sola autoridad",
+          "correcta": false,
+          "explicacion": "La distribución territorial busca lo contrario a la concentración."
+        },
+        {
+          "letra": "C",
+          "texto": "Eliminar todos los gobiernos locales",
+          "correcta": false,
+          "explicacion": "Los niveles territoriales coexisten, no se eliminan."
+        },
+        {
+          "letra": "D",
+          "texto": "Descentralizar el poder y acercar el gobierno a la gente",
+          "correcta": true,
+          "explicacion": "Correcto: distribuir el poder por niveles permite mayor cercanía y control."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El Partido Peronista Femenino fue impulsado y conducido principalmente por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "María Estela Martínez",
+          "correcta": false,
+          "explicacion": "Incorrecta: Isabel Perón asumió un rol político más tarde, en los años 70."
+        },
+        {
+          "letra": "B",
+          "texto": "Eva Perón",
+          "correcta": true,
+          "explicacion": "Correcta: Evita organizó y lideró el Partido Peronista Femenino desde 1949."
+        },
+        {
+          "letra": "C",
+          "texto": "Cecilia Grierson",
+          "correcta": false,
+          "explicacion": "Incorrecta: primera médica argentina, ajena al peronismo (falleció en 1934)."
+        },
+        {
+          "letra": "D",
+          "texto": "Alicia Moreau de Justo",
+          "correcta": false,
+          "explicacion": "Incorrecta: dirigente socialista y sufragista, no del peronismo."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Quién es el jefe del Ministerio Público Fiscal de la Nación y responsable de su buen funcionamiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Procurador General de la Nación.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 11, dispone que el Procurador General de la Nación es el jefe del MPF y responsable de su buen funcionamiento, con autoridad en todo el territorio nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "El Defensor General de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Defensor General encabeza el Ministerio Público de la Defensa, organismo distinto. El jefe del MPF es el Procurador General (Ley N° 27.148, art. 11)."
+        },
+        {
+          "letra": "C",
+          "texto": "El Secretario General de la Procuración General.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Secretario General asiste al Procurador (Ley N° 27.148, art. 14); el jefe del MPF es el Procurador General (art. 11)."
+        },
+        {
+          "letra": "D",
+          "texto": "El Fiscal Nacional de Investigaciones Administrativas.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ese cargo (Ley N° 27.148, arts. 25-27) encabeza una procuraduría especializada; el jefe del MPF es el Procurador General (art. 11)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Durante qué presidencia argentina se desarrolló la mayor parte de la Guerra de la Triple Alianza?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La presidencia de Mitre",
+          "correcta": true,
+          "explicacion": "La guerra comenzó durante la presidencia de Mitre, quien encabezó el mando aliado al inicio."
+        },
+        {
+          "letra": "B",
+          "texto": "La presidencia de Avellaneda",
+          "correcta": false,
+          "explicacion": "Avellaneda gobernó desde 1874, cuando la guerra ya había terminado."
+        },
+        {
+          "letra": "C",
+          "texto": "La presidencia de Roca",
+          "correcta": false,
+          "explicacion": "Roca asumió recién en 1880, después de la guerra."
+        },
+        {
+          "letra": "D",
+          "texto": "La presidencia de Urquiza",
+          "correcta": false,
+          "explicacion": "Urquiza ya no era presidente nacional en ese período."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), el agrupamiento de 'Servicios Auxiliares' comprende al personal que realiza tareas de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dirección, supervisión y elaboración de proyectos de dictámenes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esas son tareas del agrupamiento Técnico Jurídico (Res. PGN N° 507/14, art. 2 inc. f), no de Servicios Auxiliares (inc. d)."
+        },
+        {
+          "letra": "B",
+          "texto": "Maestranza, limpieza, mantenimiento, traslado de expedientes, correspondencia y portería.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 2 inc. d), define así al agrupamiento de Servicios Auxiliares."
+        },
+        {
+          "letra": "C",
+          "texto": "Tareas administrativas y de apoyo técnico y/o jurídico.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esas corresponden al agrupamiento Técnico Administrativo (Res. PGN N° 507/14, art. 2 inc. e), no a Servicios Auxiliares (inc. d)."
+        },
+        {
+          "letra": "D",
+          "texto": "Investigación de delitos federales y litigio penal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esas funciones son de los magistrados y unidades fiscales (Ley N° 27.148); Servicios Auxiliares realiza maestranza y apoyo (Res. PGN N° 507/14, art. 2 inc. d)."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El procedimiento por el cual el Congreso puede remover al presidente, ministros y jueces de la Corte por mal desempeño o delitos se denomina:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Juicio político",
+          "correcta": true,
+          "explicacion": "El juicio político permite al Congreso destituir a ciertos funcionarios: Diputados acusa y el Senado juzga."
+        },
+        {
+          "letra": "B",
+          "texto": "Referéndum revocatorio",
+          "correcta": false,
+          "explicacion": "El referéndum revocatorio no es el procedimiento previsto a nivel nacional para esos funcionarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Acuerdo del Senado",
+          "correcta": false,
+          "explicacion": "El acuerdo del Senado se usa para designaciones, no para remover por juicio político."
+        },
+        {
+          "letra": "D",
+          "texto": "Amparo colectivo",
+          "correcta": false,
+          "explicacion": "El amparo es una garantía judicial para proteger derechos, no para destituir funcionarios."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 75 inc. 12, corresponde al Congreso dictar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los reglamentos internos de la Corte Suprema",
+          "correcta": false,
+          "explicacion": "La Corte dicta su reglamento interior según el art. 113 de la Constitución Nacional; el art. 75 inc. 12 se refiere a los códigos de fondo."
+        },
+        {
+          "letra": "B",
+          "texto": "Los Códigos Civil, Comercial, Penal, de Minería y del Trabajo y Seguridad Social",
+          "correcta": true,
+          "explicacion": "El art. 75 inc. 12 de la Constitución Nacional faculta al Congreso a dictar los Códigos Civil, Comercial, Penal, de Minería y del Trabajo y Seguridad Social."
+        },
+        {
+          "letra": "C",
+          "texto": "Los estatutos municipales de cada localidad",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 12 de la Constitución Nacional se refiere a los códigos de fondo, no a estatutos municipales."
+        },
+        {
+          "letra": "D",
+          "texto": "Las constituciones provinciales",
+          "correcta": false,
+          "explicacion": "Cada provincia dicta su propia constitución según los arts. 5 y 123 de la Constitución Nacional, no el Congreso."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién fue el líder chileno que colaboró estrechamente con San Martín y se convirtió en Director Supremo de Chile tras Chacabuco?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manuel Rodríguez",
+          "correcta": false,
+          "explicacion": "Rodríguez fue un guerrillero patriota, pero no asumió como Director Supremo."
+        },
+        {
+          "letra": "B",
+          "texto": "Bernardo O'Higgins",
+          "correcta": true,
+          "explicacion": "O'Higgins, aliado de San Martín, fue nombrado Director Supremo de Chile tras Chacabuco."
+        },
+        {
+          "letra": "C",
+          "texto": "Diego Portales",
+          "correcta": false,
+          "explicacion": "Portales fue una figura política chilena muy posterior, en la década de 1830."
+        },
+        {
+          "letra": "D",
+          "texto": "José Miguel Carrera",
+          "correcta": false,
+          "explicacion": "Carrera fue un caudillo chileno rival de O'Higgins, no quien asumió tras Chacabuco."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 75 inc. 22, ¿cuál de los siguientes instrumentos tiene jerarquía constitucional en las condiciones de su vigencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Pacto de San José de Flores",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional no enumera ese pacto entre los instrumentos con jerarquía constitucional."
+        },
+        {
+          "letra": "B",
+          "texto": "La Carta de las Naciones Unidas",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional no la incluye en su enumeración de instrumentos con jerarquía constitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "El Tratado de Asunción del Mercosur",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional no incluye ese tratado; los de integración se rigen por el inc. 24."
+        },
+        {
+          "letra": "D",
+          "texto": "La Convención sobre los Derechos del Niño",
+          "correcta": true,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional enumera la Convención sobre los Derechos del Niño entre los instrumentos con jerarquía constitucional."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El principio de unidad de actuación del MPF implica que la organización es jerárquica y su máxima autoridad es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Tribunal de Enjuiciamiento.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Tribunal de Enjuiciamiento (Ley N° 27.148, art. 77) interviene en la remoción de magistrados; la máxima autoridad es el Procurador General (art. 9º inc. a)."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo General del Ministerio Público Fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo General es órgano asesor (Ley N° 27.148, arts. 15-16); la máxima autoridad según el art. 9º inc. a) es el Procurador General."
+        },
+        {
+          "letra": "C",
+          "texto": "El Procurador General de la Nación.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. a), define la unidad de actuación señalando que la organización jerárquica tiene como máxima autoridad al Procurador General de la Nación."
+        },
+        {
+          "letra": "D",
+          "texto": "El fiscal coordinador de distrito.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. a), establece como máxima autoridad al Procurador General de la Nación, no al fiscal coordinador de distrito."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Tras liberar Chile, San Martín organizó una expedición por mar hacia el Perú. ¿A qué ciudad llegó y proclamó la independencia del Perú en 1821?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lima",
+          "correcta": true,
+          "explicacion": "San Martín entró en Lima y proclamó la independencia del Perú en 1821."
+        },
+        {
+          "letra": "B",
+          "texto": "Quito",
+          "correcta": false,
+          "explicacion": "Quito está en el actual Ecuador, no fue donde San Martín proclamó la independencia peruana."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuzco",
+          "correcta": false,
+          "explicacion": "El Cuzco no fue la ciudad de la proclamación de 1821."
+        },
+        {
+          "letra": "D",
+          "texto": "Bogotá",
+          "correcta": false,
+          "explicacion": "Bogotá está en la actual Colombia, ligada a la campaña de Bolívar."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué nuevo país surgido de las guerras de independencia tomó su nombre en honor a Simón Bolívar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ecuador",
+          "correcta": false,
+          "explicacion": "El nombre de Ecuador alude a la línea equinoccial, no a Bolívar."
+        },
+        {
+          "letra": "B",
+          "texto": "Bolivia",
+          "correcta": true,
+          "explicacion": "Bolivia adoptó su nombre en honor a Simón Bolívar tras independizarse en 1825."
+        },
+        {
+          "letra": "C",
+          "texto": "Colombia",
+          "correcta": false,
+          "explicacion": "El nombre de Colombia honra a Cristóbal Colón, no directamente a Bolívar."
+        },
+        {
+          "letra": "D",
+          "texto": "Venezuela",
+          "correcta": false,
+          "explicacion": "El nombre de Venezuela es de origen colonial, anterior a Bolívar."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién creó la bandera celeste y blanca en 1812 a orillas del río Paraná, en Rosario?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "José de San Martín",
+          "correcta": false,
+          "explicacion": "San Martín fue el libertador, pero no creó la bandera."
+        },
+        {
+          "letra": "B",
+          "texto": "Martín Miguel de Güemes",
+          "correcta": false,
+          "explicacion": "Güemes lideró la defensa del norte, no la creación de la bandera."
+        },
+        {
+          "letra": "C",
+          "texto": "Manuel Belgrano",
+          "correcta": true,
+          "explicacion": "Belgrano enarboló por primera vez la bandera celeste y blanca en Rosario en 1812."
+        },
+        {
+          "letra": "D",
+          "texto": "Cornelio Saavedra",
+          "correcta": false,
+          "explicacion": "Saavedra presidió la Primera Junta, pero no creó la bandera."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El principio según el cual el poder político reside en el pueblo, que lo ejerce a través de sus representantes, se llama:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anarquía",
+          "correcta": false,
+          "explicacion": "Implica ausencia de gobierno, no soberanía del pueblo organizada."
+        },
+        {
+          "letra": "B",
+          "texto": "Teocracia",
+          "correcta": false,
+          "explicacion": "El poder reside en autoridades religiosas, no en el pueblo."
+        },
+        {
+          "letra": "C",
+          "texto": "Autoritarismo",
+          "correcta": false,
+          "explicacion": "Concentra el poder sin participación popular, lo opuesto al concepto."
+        },
+        {
+          "letra": "D",
+          "texto": "Soberanía popular",
+          "correcta": true,
+          "explicacion": "Correcto: el pueblo es titular del poder y lo ejerce mediante representantes elegidos."
+        }
+      ]
+    }
+  ]
+}

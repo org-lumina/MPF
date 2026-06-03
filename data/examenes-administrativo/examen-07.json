@@ -1,0 +1,626 @@
+{
+  "examen_id": 7,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué órgano puede remover a los magistrados que componen el MPF (excepto el Procurador General)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Tribunal de Enjuiciamiento del Ministerio Público Fiscal de la Nación.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 76, dispone que los magistrados del MPF solo pueden ser removidos por el Tribunal de Enjuiciamiento del MPF."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo de la Magistratura.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo de la Magistratura remueve jueces; los magistrados del MPF los remueve el Tribunal de Enjuiciamiento (Ley N° 27.148, art. 76)."
+        },
+        {
+          "letra": "C",
+          "texto": "El Senado de la Nación mediante juicio político.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El juicio político (arts. 53 y 59 CN) aplica solo al Procurador General (Ley N° 27.148, art. 76); los demás magistrados los remueve el Tribunal de Enjuiciamiento."
+        },
+        {
+          "letra": "D",
+          "texto": "La Corte Suprema de Justicia de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La remoción de magistrados del MPF corresponde al Tribunal de Enjuiciamiento (Ley N° 27.148, art. 76), no a la Corte."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La represión obrera de enero de 1919 en Buenos Aires, durante la presidencia de Yrigoyen, es conocida como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Patagonia Rebelde",
+          "correcta": false,
+          "explicacion": "Incorrecta: las huelgas patagónicas y su represión ocurrieron en 1920-1922 en Santa Cruz."
+        },
+        {
+          "letra": "B",
+          "texto": "La Semana Trágica",
+          "correcta": true,
+          "explicacion": "Correcta: huelga y represión en torno a los talleres Vasena que dejó numerosas víctimas."
+        },
+        {
+          "letra": "C",
+          "texto": "El Cordobazo",
+          "correcta": false,
+          "explicacion": "Incorrecta: el Cordobazo fue una protesta de 1969."
+        },
+        {
+          "letra": "D",
+          "texto": "La Forestal",
+          "correcta": false,
+          "explicacion": "Incorrecta: los conflictos de La Forestal fueron otro episodio obrero del Chaco santafesino."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué argumento jurídico, vinculado a la teoría de la 'retroversión de la soberanía al pueblo', se usó para justificar la Revolución de Mayo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la Iglesia debía gobernar en ausencia del rey",
+          "correcta": false,
+          "explicacion": "No se invocó un gobierno eclesiástico, sino la soberanía del pueblo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que al faltar el rey legítimo, la soberanía volvía al pueblo",
+          "correcta": true,
+          "explicacion": "La retroversión de la soberanía sostenía que, ausente el rey, el poder retornaba al pueblo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el virrey podía nombrar a su sucesor",
+          "correcta": false,
+          "explicacion": "Eso contradecía la idea revolucionaria de reasunción popular del poder."
+        },
+        {
+          "letra": "D",
+          "texto": "Que Napoleón era el soberano legítimo",
+          "correcta": false,
+          "explicacion": "Los patriotas rechazaban la autoridad francesa, no la invocaban."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El control de constitucionalidad en Argentina puede ser ejercido por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente el Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "El Congreso dicta leyes; el control de constitucionalidad es función judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los jueces, y en última instancia la Corte Suprema",
+          "correcta": true,
+          "explicacion": "El control es difuso: cualquier juez puede declarar la inconstitucionalidad, con la Corte como última instancia."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo un tribunal constitucional especial",
+          "correcta": false,
+          "explicacion": "Argentina no tiene tribunal constitucional especializado; el control es difuso y judicial."
+        },
+        {
+          "letra": "D",
+          "texto": "El Poder Ejecutivo en cualquier momento",
+          "correcta": false,
+          "explicacion": "El Ejecutivo no declara la inconstitucionalidad de las normas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.485, en los casos de violencia sexual, ¿quién está legitimada para hacer la denuncia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo el cónyuge o pareja de la mujer",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 24 inc. d: la única legitimada es la mujer afectada, no su cónyuge o pareja."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente el Ministerio Público Fiscal",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 24 inc. d: la legitimada es la mujer que padeció la violencia sexual."
+        },
+        {
+          "letra": "C",
+          "texto": "La mujer que la haya padecido es la única legitimada",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 24 inc. d: en violencia sexual la mujer que la padeció es la única legitimada para hacer la denuncia."
+        },
+        {
+          "letra": "D",
+          "texto": "Cualquier vecino o testigo del hecho",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 24 inc. d: si un tercero la efectúa, debe citarse a la mujer para que ratifique o rectifique; la única legitimada es ella."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "En el juicio político nacional, el rol de cada cámara es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Cámara de Diputados acusa y el Senado juzga",
+          "correcta": true,
+          "explicacion": "Diputados formula la acusación y el Senado actúa como tribunal que juzga al acusado."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente acusa y el Congreso juzga",
+          "correcta": false,
+          "explicacion": "El presidente no interviene como acusador en el juicio político."
+        },
+        {
+          "letra": "C",
+          "texto": "Ambas cámaras acusan y la Corte Suprema juzga",
+          "correcta": false,
+          "explicacion": "En el juicio político, el órgano que juzga es el Senado, no la Corte."
+        },
+        {
+          "letra": "D",
+          "texto": "El Senado acusa y los Diputados juzgan",
+          "correcta": false,
+          "explicacion": "Es al revés: Diputados acusa y el Senado juzga."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.743, ¿cómo se define la identidad de género?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El nombre de pila inscripto en el documento de identidad",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 2: la identidad de género es la vivencia interna del género, no el nombre registrado."
+        },
+        {
+          "letra": "B",
+          "texto": "La orientación sexual de la persona",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 2: la identidad de género refiere a la vivencia del género, distinta de la orientación sexual."
+        },
+        {
+          "letra": "C",
+          "texto": "El sexo biológico determinado en la partida de nacimiento",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 2: la identidad de género puede no corresponder con el sexo asignado al nacer, por lo que no se define por el sexo biológico."
+        },
+        {
+          "letra": "D",
+          "texto": "La vivencia interna e individual del género tal como cada persona la siente, que puede corresponder o no con el sexo asignado al nacer",
+          "correcta": true,
+          "explicacion": "Ley N° 26.743, art. 2: define la identidad de género como la vivencia interna e individual del género tal como cada persona la siente, pudiendo corresponder o no con el sexo asignado al nacimiento."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién ejercía el cargo de Director Supremo al momento de declararse la Independencia en 1816?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cornelio Saavedra",
+          "correcta": false,
+          "explicacion": "Saavedra había presidido la Primera Junta en 1810, no era Director en 1816."
+        },
+        {
+          "letra": "B",
+          "texto": "Bernardino Rivadavia",
+          "correcta": false,
+          "explicacion": "Rivadavia fue presidente recién en 1826, no Director en 1816."
+        },
+        {
+          "letra": "C",
+          "texto": "Gervasio Antonio de Posadas",
+          "correcta": false,
+          "explicacion": "Posadas fue el primer Director Supremo en 1814, no en 1816."
+        },
+        {
+          "letra": "D",
+          "texto": "Juan Martín de Pueyrredón",
+          "correcta": true,
+          "explicacion": "Pueyrredón fue designado Director Supremo por el Congreso en 1816 y apoyó el plan sanmartiniano."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 42, los consumidores y usuarios tienen derecho en la relación de consumo a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El control directo de los monopolios por los usuarios",
+          "correcta": false,
+          "explicacion": "El art. 42 de la Constitución Nacional encomienda a las autoridades el control de los monopolios, no a los usuarios directamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Una indemnización automática por todo daño",
+          "correcta": false,
+          "explicacion": "El art. 42 de la Constitución Nacional no prevé indemnización automática; protege salud, seguridad e intereses económicos."
+        },
+        {
+          "letra": "C",
+          "texto": "La gratuidad de todos los bienes esenciales",
+          "correcta": false,
+          "explicacion": "El art. 42 de la Constitución Nacional no garantiza gratuidad de bienes, sino protección, información y trato digno."
+        },
+        {
+          "letra": "D",
+          "texto": "La protección de su salud, seguridad e intereses económicos y a una información adecuada y veraz",
+          "correcta": true,
+          "explicacion": "El art. 42 de la Constitución Nacional reconoce a consumidores y usuarios la protección de su salud, seguridad e intereses económicos y a una información adecuada y veraz."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El jefe de Gabinete de Ministros, incorporado en 1994, tiene como característica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reemplaza al Poder Judicial en sus funciones",
+          "correcta": false,
+          "explicacion": "El jefe de Gabinete pertenece al Ejecutivo; no sustituye al Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "Dirige la Corte Suprema de Justicia",
+          "correcta": false,
+          "explicacion": "La Corte tiene su propio presidente; el jefe de Gabinete no la dirige."
+        },
+        {
+          "letra": "C",
+          "texto": "Es elegido directamente por el pueblo",
+          "correcta": false,
+          "explicacion": "No es electo popularmente; es designado por el presidente."
+        },
+        {
+          "letra": "D",
+          "texto": "Es nombrado por el presidente y puede ser removido por el Congreso",
+          "correcta": true,
+          "explicacion": "El presidente lo designa y el Congreso puede removerlo mediante moción de censura."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La capacidad de las personas para participar en la vida política, elegir y ser elegidos, hace referencia a su condición de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Súbditos",
+          "correcta": false,
+          "explicacion": "Súbdito designa a quien está sometido a un monarca, sin derechos políticos plenos."
+        },
+        {
+          "letra": "B",
+          "texto": "Ciudadanos",
+          "correcta": true,
+          "explicacion": "Correcto: la ciudadanía habilita el ejercicio de derechos políticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Funcionarios",
+          "correcta": false,
+          "explicacion": "Funcionario es quien ocupa un cargo público, no todo ciudadano lo es."
+        },
+        {
+          "letra": "D",
+          "texto": "Espectadores",
+          "correcta": false,
+          "explicacion": "Quien solo observa no ejerce derechos políticos activos."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme el CPPF (Ley N° 27.063 / 27.482), el principio de persecución única (ne bis in idem) significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El fiscal solo puede ejercer una acción por causa",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 5: el principio impide doble persecución por el mismo hecho, no limita las acciones del fiscal de ese modo."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo puede haber un imputado por proceso",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 5: la persecución única refiere al mismo hecho respecto de una persona, no al número de imputados."
+        },
+        {
+          "letra": "C",
+          "texto": "La víctima solo puede denunciar una vez",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 5: el principio protege al imputado frente a la doble persecución por el mismo hecho."
+        },
+        {
+          "letra": "D",
+          "texto": "Nadie puede ser perseguido penalmente ni condenado más de una vez por el mismo hecho",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 5: nadie puede ser perseguido penalmente ni condenado más de una vez por el mismo hecho."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Una atribución del Congreso vinculada al control sobre el Ejecutivo es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dictar sentencias en juicios penales",
+          "correcta": false,
+          "explicacion": "Dictar sentencias es función del Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "Nombrar directamente a todos los ministros",
+          "correcta": false,
+          "explicacion": "Los ministros son nombrados por el presidente, no por el Congreso."
+        },
+        {
+          "letra": "C",
+          "texto": "Aprobar o rechazar el presupuesto y la cuenta de inversión",
+          "correcta": true,
+          "explicacion": "El Congreso fija el presupuesto y controla la ejecución del gasto público."
+        },
+        {
+          "letra": "D",
+          "texto": "Comandar las Fuerzas Armadas",
+          "correcta": false,
+          "explicacion": "El comando de las Fuerzas Armadas corresponde al presidente."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 30, la necesidad de reforma debe ser declarada por el Congreso con el voto de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos terceras partes, al menos, de sus miembros",
+          "correcta": true,
+          "explicacion": "El art. 30 de la Constitución Nacional requiere el voto de dos terceras partes, al menos, de los miembros del Congreso."
+        },
+        {
+          "letra": "B",
+          "texto": "La mayoría simple de los presentes",
+          "correcta": false,
+          "explicacion": "El art. 30 de la Constitución Nacional exige dos terceras partes de sus miembros, no mayoría simple."
+        },
+        {
+          "letra": "C",
+          "texto": "La mayoría absoluta de una sola Cámara",
+          "correcta": false,
+          "explicacion": "El art. 30 de la Constitución Nacional exige dos tercios de los miembros del Congreso, no de una sola Cámara por mayoría absoluta."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres cuartas partes del padrón electoral",
+          "correcta": false,
+          "explicacion": "El art. 30 de la Constitución Nacional no remite al padrón electoral; exige dos tercios de los miembros del Congreso."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La 'publicidad de los actos de gobierno', principio republicano, significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los actos de gobierno deben ser conocidos por la ciudadanía",
+          "correcta": true,
+          "explicacion": "La publicidad permite el control ciudadano y la transparencia de la gestión pública."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo los jueces pueden conocer los actos del gobierno",
+          "correcta": false,
+          "explicacion": "La publicidad implica que toda la ciudadanía pueda conocerlos, no solo los jueces."
+        },
+        {
+          "letra": "C",
+          "texto": "Los actos de gobierno deben mantenerse en secreto",
+          "correcta": false,
+          "explicacion": "El secreto es lo opuesto a la publicidad republicana."
+        },
+        {
+          "letra": "D",
+          "texto": "El gobierno debe difundir publicidad comercial",
+          "correcta": false,
+          "explicacion": "No se refiere a publicidad comercial, sino a la transparencia de los actos públicos."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "La Ley N° 26.485, ¿crea nuevos tipos penales?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, modifica el Código Penal",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 41: expresamente no modifica ni deroga tipos penales vigentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, crea figuras de violencia económica punible",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 41: no crea tipos penales; la violencia económica es un tipo a efectos de protección integral, no un delito nuevo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, crea el delito de femicidio",
+          "correcta": false,
+          "explicacion": "El femicidio se incorporó por la Ley N° 26.791 al Código Penal, no por la Ley N° 26.485, que en su art. 41 no crea tipos penales."
+        },
+        {
+          "letra": "D",
+          "texto": "No; en ningún caso importa la creación de nuevos tipos penales ni la modificación de los vigentes",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 41: las conductas previstas no importan la creación de nuevos tipos penales ni la modificación o derogación de los vigentes."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué crisis económica y política afectó a la Argentina en 1890, durante la presidencia de Juárez Celman?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Crack de 1929",
+          "correcta": false,
+          "explicacion": "El Crack de 1929 fue una crisis posterior, mundial."
+        },
+        {
+          "letra": "B",
+          "texto": "El Rodrigazo",
+          "correcta": false,
+          "explicacion": "El Rodrigazo es una crisis de 1975."
+        },
+        {
+          "letra": "C",
+          "texto": "La crisis de 1890 y la Revolución del Parque",
+          "correcta": true,
+          "explicacion": "En 1890 estalló una grave crisis económica y la Revolución del Parque contra Juárez Celman."
+        },
+        {
+          "letra": "D",
+          "texto": "La crisis del Tequila",
+          "correcta": false,
+          "explicacion": "La crisis del Tequila es de 1994-1995."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La 'libertad de vientres' dictada por la Asamblea del Año XIII establecía que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los hijos de esclavos nacidos a partir de entonces serían libres",
+          "correcta": true,
+          "explicacion": "La libertad de vientres declaraba libres a los nacidos de madre esclava desde 1813."
+        },
+        {
+          "letra": "B",
+          "texto": "Se prohibía la entrada de inmigrantes",
+          "correcta": false,
+          "explicacion": "No tenía relación con la inmigración."
+        },
+        {
+          "letra": "C",
+          "texto": "Se abolía de inmediato y totalmente la esclavitud",
+          "correcta": false,
+          "explicacion": "No se abolió la esclavitud por completo; eso ocurrió mucho después."
+        },
+        {
+          "letra": "D",
+          "texto": "Se liberaba a todos los presos políticos",
+          "correcta": false,
+          "explicacion": "No se refería a presos políticos, sino a la condición de los hijos de esclavos."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué cuerpo militar creó José de San Martín y dirigió en el combate de San Lorenzo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Regimiento de Patricios",
+          "correcta": false,
+          "explicacion": "Los Patricios fue el cuerpo de Saavedra, anterior y distinto."
+        },
+        {
+          "letra": "B",
+          "texto": "El Regimiento de Granaderos a Caballo",
+          "correcta": true,
+          "explicacion": "San Martín creó el Regimiento de Granaderos a Caballo, que actuó en San Lorenzo."
+        },
+        {
+          "letra": "C",
+          "texto": "La Legión Infernal",
+          "correcta": false,
+          "explicacion": "No es un cuerpo creado por San Martín."
+        },
+        {
+          "letra": "D",
+          "texto": "Los Húsares de Pueyrredón",
+          "correcta": false,
+          "explicacion": "Es otro cuerpo, no el creado por San Martín para San Lorenzo."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Cuál fue una consecuencia de la Entrevista de Guayaquil para San Martín?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Declaró la guerra a Bolívar",
+          "correcta": false,
+          "explicacion": "No hubo conflicto bélico entre ambos; San Martín se retiró pacíficamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Asumió el mando del ejército de Bolívar",
+          "correcta": false,
+          "explicacion": "San Martín no asumió el mando bolivariano; ocurrió lo contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Se retiró de la conducción de la campaña, dejando a Bolívar la culminación de la independencia del Perú",
+          "correcta": true,
+          "explicacion": "Tras Guayaquil, San Martín se apartó y dejó a Bolívar completar la independencia peruana."
+        },
+        {
+          "letra": "D",
+          "texto": "Fue nombrado emperador de Sudamérica",
+          "correcta": false,
+          "explicacion": "No existió tal título ni asunción."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "examen_id": 1,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), ¿qué organismo realiza los sorteos de las listas de postulantes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Lotería Nacional S.E.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 39, dispone que el sorteo se realiza por la Lotería Nacional S.E.; si no fuera factible, se hace ante actuario y/o escribano en la sede de la PGN."
+        },
+        {
+          "letra": "B",
+          "texto": "El Comité Permanente de Evaluación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El CPE evalúa y dictamina (Res. PGN N° 507/14, art. 21); el sorteo lo realiza la Lotería Nacional S.E. (art. 39)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Corte Suprema de Justicia de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 39, asigna el sorteo a la Lotería Nacional S.E."
+        },
+        {
+          "letra": "D",
+          "texto": "El Tribunal de Enjuiciamiento del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Tribunal de Enjuiciamiento interviene en remociones (Ley N° 27.148, art. 77); el sorteo de listas lo hace la Lotería Nacional S.E. (Res. PGN N° 507/14, art. 39)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué reformas borbónicas del siglo XVIII influyeron en la organización del Río de la Plata como Virreinato en 1776?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El establecimiento de la libertad de cultos",
+          "correcta": false,
+          "explicacion": "No se estableció libertad de cultos; el catolicismo seguía siendo oficial."
+        },
+        {
+          "letra": "B",
+          "texto": "La creación del Virreinato del Río de la Plata con capital en Buenos Aires",
+          "correcta": true,
+          "explicacion": "En 1776 las reformas borbónicas crearon el Virreinato del Río de la Plata con capital en Buenos Aires."
+        },
+        {
+          "letra": "C",
+          "texto": "La abolición de la esclavitud en toda América",
+          "correcta": false,
+          "explicacion": "Las reformas borbónicas no abolieron la esclavitud."
+        },
+        {
+          "letra": "D",
+          "texto": "La creación del Congreso de Tucumán",
+          "correcta": false,
+          "explicacion": "El Congreso de Tucumán fue un hecho de 1816, ajeno a las reformas borbónicas."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El retorno de la democracia en Argentina se concretó con las elecciones de 1983, en las que resultó electo presidente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Arturo Frondizi (UCRI)",
+          "correcta": false,
+          "explicacion": "Incorrecta: Frondizi había sido presidente en 1958-1962."
+        },
+        {
+          "letra": "B",
+          "texto": "Raúl Alfonsín (UCR)",
+          "correcta": true,
+          "explicacion": "Correcta: Alfonsín asumió el 10 de diciembre de 1983."
+        },
+        {
+          "letra": "C",
+          "texto": "Carlos Menem (PJ)",
+          "correcta": false,
+          "explicacion": "Incorrecta: Menem fue electo en 1989."
+        },
+        {
+          "letra": "D",
+          "texto": "Ítalo Luder (PJ)",
+          "correcta": false,
+          "explicacion": "Incorrecta: Luder fue el candidato peronista derrotado en 1983."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El 'veto' presidencial consiste en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho de los ciudadanos a rechazar una ley por voto",
+          "correcta": false,
+          "explicacion": "El veto es una atribución del presidente, no un mecanismo ciudadano."
+        },
+        {
+          "letra": "B",
+          "texto": "La facultad del presidente de rechazar total o parcialmente un proyecto de ley sancionado",
+          "correcta": true,
+          "explicacion": "El veto permite al Ejecutivo observar un proyecto; el Congreso puede insistir con mayorías especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "La prohibición de tratar un tema en el Congreso",
+          "correcta": false,
+          "explicacion": "El veto recae sobre proyectos ya sancionados, no impide el tratamiento de temas."
+        },
+        {
+          "letra": "D",
+          "texto": "La facultad de la Corte de anular una ley",
+          "correcta": false,
+          "explicacion": "Eso sería declarar la inconstitucionalidad, función judicial, no el veto."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el CPPF (Ley N° 27.063 / 27.482), el derecho a la justicia en un plazo razonable implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los procesos penales no tienen plazos máximos",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 18: se garantiza una decisión en tiempo razonable conforme los plazos del Código."
+        },
+        {
+          "letra": "B",
+          "texto": "El retardo en resolver no genera responsabilidad alguna",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 18: las dilaciones indebidas reiteradas constituyen falta grave y causal de mal desempeño."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo la víctima puede invocar este derecho",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 18: el derecho corresponde a toda persona."
+        },
+        {
+          "letra": "D",
+          "texto": "Toda persona tiene derecho a una decisión judicial definitiva en tiempo razonable",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 18: toda persona tiene derecho a una decisión judicial definitiva en tiempo razonable; el retardo reiterado constituye falta grave y causal de mal desempeño."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Una característica esencial del sistema republicano es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La periodicidad de los mandatos y la rendición de cuentas de los gobernantes",
+          "correcta": true,
+          "explicacion": "Correcto: la república supone mandatos temporales, publicidad de los actos y responsabilidad de los funcionarios."
+        },
+        {
+          "letra": "B",
+          "texto": "El secreto absoluto de los actos de gobierno",
+          "correcta": false,
+          "explicacion": "La república exige publicidad de los actos, no secreto."
+        },
+        {
+          "letra": "C",
+          "texto": "Los cargos vitalicios y hereditarios",
+          "correcta": false,
+          "explicacion": "Eso es propio de la monarquía, no de la república."
+        },
+        {
+          "letra": "D",
+          "texto": "La ausencia de elecciones",
+          "correcta": false,
+          "explicacion": "La república requiere elecciones periódicas."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El pensador asociado clásicamente a la teoría de la división de poderes es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nicolás Maquiavelo",
+          "correcta": false,
+          "explicacion": "Maquiavelo es conocido por 'El Príncipe', sobre el ejercicio del poder, no por la división de poderes."
+        },
+        {
+          "letra": "B",
+          "texto": "Montesquieu",
+          "correcta": true,
+          "explicacion": "Montesquieu, en 'El espíritu de las leyes', desarrolló la teoría de la separación de poderes."
+        },
+        {
+          "letra": "C",
+          "texto": "Adam Smith",
+          "correcta": false,
+          "explicacion": "Smith fue un economista, padre de la economía política liberal, no de la teoría de poderes."
+        },
+        {
+          "letra": "D",
+          "texto": "Karl Marx",
+          "correcta": false,
+          "explicacion": "Marx desarrolló la teoría del materialismo histórico, no la división de poderes."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El presidente radical Arturo Illia (electo en 1963) fue derrocado en 1966 por un golpe que se autodenominó:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Revolución Argentina",
+          "correcta": true,
+          "explicacion": "Correcta: la dictadura iniciada con Onganía se llamó Revolución Argentina."
+        },
+        {
+          "letra": "B",
+          "texto": "Proceso de Reorganización Nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta: corresponde al golpe de 1976."
+        },
+        {
+          "letra": "C",
+          "texto": "Revolución Libertadora",
+          "correcta": false,
+          "explicacion": "Incorrecta: ese fue el golpe de 1955."
+        },
+        {
+          "letra": "D",
+          "texto": "Revolución de los Coroneles",
+          "correcta": false,
+          "explicacion": "Incorrecta: no es una denominación histórica de ese golpe."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "En su origen, la Primera Junta declaró gobernar nominalmente en nombre de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Napoleón Bonaparte",
+          "correcta": false,
+          "explicacion": "Los patriotas rechazaban a Napoleón; no gobernaban en su nombre."
+        },
+        {
+          "letra": "B",
+          "texto": "El rey de Inglaterra",
+          "correcta": false,
+          "explicacion": "Inglaterra era aliada comercial, pero no se gobernaba en su nombre."
+        },
+        {
+          "letra": "C",
+          "texto": "El Papa",
+          "correcta": false,
+          "explicacion": "No se invocaba autoridad papal para el gobierno político."
+        },
+        {
+          "letra": "D",
+          "texto": "El rey Fernando VII",
+          "correcta": true,
+          "explicacion": "La Junta invocó la 'máscara de Fernando VII', gobernando nominalmente en su nombre."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El cumplimiento voluntario de las normas porque se las considera justas y necesarias se relaciona con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El temor exclusivo al castigo",
+          "correcta": false,
+          "explicacion": "Cumplir solo por miedo no es compromiso cívico voluntario."
+        },
+        {
+          "letra": "B",
+          "texto": "La búsqueda de privilegios personales",
+          "correcta": false,
+          "explicacion": "El interés personal egoísta no es compromiso cívico."
+        },
+        {
+          "letra": "C",
+          "texto": "El compromiso cívico y la responsabilidad ciudadana",
+          "correcta": true,
+          "explicacion": "Correcto: la ciudadanía responsable cumple las normas por convicción del bien común."
+        },
+        {
+          "letra": "D",
+          "texto": "La indiferencia ante lo público",
+          "correcta": false,
+          "explicacion": "La indiferencia es contraria al compromiso ciudadano."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme el CPPF (Ley N° 27.063 / 27.482), el derecho de defensa es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ejercible solo durante la audiencia de juicio",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 6: se ejerce desde el inicio del proceso, no solo en el juicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Limitado al defensor, sin actuación personal del imputado",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 6: el imputado puede defenderse por sí o por su defensor, indistintamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Renunciable mediante acuerdo con el fiscal",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 6: el derecho de defensa es irrenunciable."
+        },
+        {
+          "letra": "D",
+          "texto": "Inviolable e irrenunciable, ejercible desde el inicio del proceso hasta el fin de la ejecución de la sentencia",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 6: el derecho de defensa es inviolable e irrenunciable y puede ejercerse desde el inicio del proceso hasta el fin de la ejecución de la sentencia."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué dirigente de la Primera Junta es asociado a la corriente más radical y al periódico 'Gazeta de Buenos Ayres'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manuel Alberti",
+          "correcta": false,
+          "explicacion": "Alberti fue un sacerdote vocal de la Junta, no el impulsor de la Gazeta."
+        },
+        {
+          "letra": "B",
+          "texto": "Cornelio Saavedra",
+          "correcta": false,
+          "explicacion": "Saavedra encabezaba la posición más moderada, opuesta a la de Moreno."
+        },
+        {
+          "letra": "C",
+          "texto": "Domingo Matheu",
+          "correcta": false,
+          "explicacion": "Matheu fue vocal comerciante, sin protagonismo en la prensa revolucionaria."
+        },
+        {
+          "letra": "D",
+          "texto": "Mariano Moreno",
+          "correcta": true,
+          "explicacion": "Moreno, secretario y figura radical, impulsó la 'Gazeta de Buenos Ayres'."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), ¿cuál es la autoridad de aplicación de los concursos de ingreso al MPF?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Tribunal Evaluador.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Tribunal Evaluador toma y corrige las pruebas (Res. PGN N° 507/14, art. 26); la autoridad de aplicación es la Secretaría Disciplinaria, Técnica y de RR.HH. (art. 8)."
+        },
+        {
+          "letra": "B",
+          "texto": "El Comité Permanente de Evaluación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El CPE es el órgano evaluador (Res. PGN N° 507/14, art. 21); la autoridad de aplicación es la Secretaría Disciplinaria, Técnica y de Recursos Humanos (art. 8)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Lotería Nacional S.E.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Lotería Nacional S.E. interviene en los sorteos (Res. PGN N° 507/14, art. 39); la autoridad de aplicación es la Secretaría Disciplinaria, Técnica y de RR.HH. (art. 8)."
+        },
+        {
+          "letra": "D",
+          "texto": "La Secretaría Disciplinaria, Técnica y de Recursos Humanos de la Procuración General.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), arts. 2 inc. a) y 8, designan a la Secretaría Disciplinaria, Técnica y de Recursos Humanos como autoridad de aplicación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 99 inc. 4, el Presidente nombra a los magistrados de la Corte Suprema con acuerdo del Senado por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mayoría absoluta de la totalidad de los miembros",
+          "correcta": false,
+          "explicacion": "El art. 99 inc. 4 de la Constitución Nacional exige dos tercios de los presentes para los jueces de la Corte."
+        },
+        {
+          "letra": "B",
+          "texto": "Acuerdo de ambas Cámaras del Congreso",
+          "correcta": false,
+          "explicacion": "El art. 99 inc. 4 de la Constitución Nacional requiere acuerdo del Senado, no de ambas Cámaras."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos tercios de sus miembros presentes, en sesión pública",
+          "correcta": true,
+          "explicacion": "El art. 99 inc. 4 de la Constitución Nacional exige acuerdo del Senado por dos tercios de sus miembros presentes, en sesión pública."
+        },
+        {
+          "letra": "D",
+          "texto": "Mayoría simple de los presentes",
+          "correcta": false,
+          "explicacion": "El art. 99 inc. 4 de la Constitución Nacional exige dos tercios de los miembros presentes del Senado, no mayoría simple."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La reforma constitucional de 1994 otorgó jerarquía constitucional a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todas las ordenanzas municipales del país",
+          "correcta": false,
+          "explicacion": "Las ordenanzas son normas locales sin jerarquía constitucional."
+        },
+        {
+          "letra": "B",
+          "texto": "Los reglamentos internos de las empresas",
+          "correcta": false,
+          "explicacion": "Son normas privadas sin relación con la jerarquía constitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "Los decretos de necesidad y urgencia exclusivamente",
+          "correcta": false,
+          "explicacion": "Los DNU fueron regulados, pero no tienen jerarquía constitucional."
+        },
+        {
+          "letra": "D",
+          "texto": "Varios tratados internacionales de derechos humanos",
+          "correcta": true,
+          "explicacion": "Correcto: el art. 75 inc. 22 enumera tratados de DD.HH. con jerarquía constitucional."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué ley establece el derecho a la identidad de género de las personas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley N° 24.632",
+          "correcta": false,
+          "explicacion": "Ley N° 24.632: aprueba la Convención de Belém do Pará, no la identidad de género."
+        },
+        {
+          "letra": "B",
+          "texto": "Ley N° 26.485",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485: regula la protección integral contra la violencia hacia las mujeres, no la identidad de género."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley N° 26.743",
+          "correcta": true,
+          "explicacion": "Ley N° 26.743, art. 1: establece el derecho a la identidad de género de las personas."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley N° 23.179",
+          "correcta": false,
+          "explicacion": "Ley N° 23.179: aprueba la CEDAW (eliminación de discriminación contra la mujer), no la identidad de género."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El conjunto de valores como la libertad, la igualdad, la participación y el respeto a las minorías constituye la base de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los privilegios de clase",
+          "correcta": false,
+          "explicacion": "Los privilegios son contrarios a la igualdad democrática."
+        },
+        {
+          "letra": "B",
+          "texto": "Las costumbres comerciales",
+          "correcta": false,
+          "explicacion": "Las prácticas comerciales no constituyen valores políticos democráticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los valores democráticos",
+          "correcta": true,
+          "explicacion": "Correcto: estos principios sustentan la vida democrática."
+        },
+        {
+          "letra": "D",
+          "texto": "Las jerarquías militares",
+          "correcta": false,
+          "explicacion": "Pertenecen a la organización de las fuerzas armadas, no a los valores democráticos."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "De acuerdo con la Ley N° 26.485, ¿cuál es el organismo rector encargado del diseño de las políticas públicas para efectivizar sus disposiciones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El INADI",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 11.5.3: el INADI interviene en programas, pero el organismo rector es el Consejo Nacional de la Mujer (art. 8)."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo Nacional de la Mujer",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 8: el Consejo Nacional de la Mujer es el organismo rector encargado del diseño de las políticas públicas."
+        },
+        {
+          "letra": "C",
+          "texto": "El Ministerio Público Fiscal",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 8: el organismo rector es el Consejo Nacional de la Mujer, no el MPF."
+        },
+        {
+          "letra": "D",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 37: la CSJN lleva registros sociodemográficos, pero el organismo rector de políticas es el Consejo Nacional de la Mujer (art. 8)."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué hecho europeo de 1808 fue detonante directo de la crisis de legitimidad que precipitó la Revolución de Mayo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La independencia de los Estados Unidos",
+          "correcta": false,
+          "explicacion": "Fue una influencia ideológica de 1776, no el detonante directo de 1808-1810."
+        },
+        {
+          "letra": "B",
+          "texto": "La invasión napoleónica a España y el cautiverio de Fernando VII",
+          "correcta": true,
+          "explicacion": "La ocupación francesa de España y la prisión de Fernando VII dejaron sin rey legítimo, abriendo la cuestión de quién debía gobernar."
+        },
+        {
+          "letra": "C",
+          "texto": "La derrota de Napoleón en Waterloo",
+          "correcta": false,
+          "explicacion": "Waterloo ocurrió en 1815, posterior a la Revolución de Mayo."
+        },
+        {
+          "letra": "D",
+          "texto": "La Revolución Francesa de 1789",
+          "correcta": false,
+          "explicacion": "La Revolución Francesa influyó ideológicamente, pero ocurrió en 1789, no fue el detonante inmediato de 1810."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El sargento Juan Bautista Cabral es recordado por su acción heroica en el combate de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Maipú",
+          "correcta": false,
+          "explicacion": "Maipú fue una batalla en Chile en 1818, posterior a Cabral."
+        },
+        {
+          "letra": "B",
+          "texto": "Salta",
+          "correcta": false,
+          "explicacion": "La batalla de Salta fue conducida por Belgrano, no vinculada a Cabral."
+        },
+        {
+          "letra": "C",
+          "texto": "Tucumán",
+          "correcta": false,
+          "explicacion": "La batalla de Tucumán fue de Belgrano, no donde actuó Cabral."
+        },
+        {
+          "letra": "D",
+          "texto": "San Lorenzo",
+          "correcta": true,
+          "explicacion": "El sargento Cabral salvó la vida de San Martín en el combate de San Lorenzo (1813)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import type { ResultadoExamenUI } from "@/lib/tipos";
+import { descargarResultadoPDF } from "@/lib/pdfResultado";
 
 const SIM_NAME = "Ingreso Democrático Ministerio Público Fiscal";
 
@@ -41,6 +42,7 @@ export default function ResultadoView() {
   const [r, setR] = useState<ResultadoExamenUI | null>(null);
   const [cargo, setCargo] = useState(false);
   const [pdfMsg, setPdfMsg] = useState<string | null>(null);
+  const bloqueRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const s = sessionStorage.getItem("mpf_resultado");
@@ -51,52 +53,10 @@ export default function ResultadoView() {
   }, []);
 
   async function descargarPDF() {
-    if (!r) return;
+    if (!r || !bloqueRef.current) return;
     setPdfMsg("Generando PDF…");
     try {
-      const { jsPDF } = await import("jspdf");
-      const doc = new jsPDF({ unit: "pt", format: "a4" });
-      const M = 40, W = doc.internal.pageSize.getWidth() - M * 2;
-      const Hpage = doc.internal.pageSize.getHeight();
-      let y = M;
-      const fecha = new Date().toLocaleDateString("es-AR");
-      const line = (txt: string, size = 10, bold = false, gap = 4) => {
-        doc.setFont("helvetica", bold ? "bold" : "normal");
-        doc.setFontSize(size);
-        for (const ln of doc.splitTextToSize(txt, W) as string[]) {
-          if (y > Hpage - M) { doc.addPage(); y = M; }
-          doc.text(ln, M, y); y += size + gap;
-        }
-      };
-      line(SIM_NAME, 15, true, 6);
-      line(`Examen N° ${r.examenId}  ·  Fecha: ${fecha}`, 10, false, 6);
-      line(`Nota: ${r.nota.toFixed(2)} / 10   (${r.aciertos} de ${r.total} correctas)`, 13, true, 10);
-
-      line("Desglose por tema", 12, true, 6);
-      for (const [tema, t] of Object.entries(r.porTema)) {
-        const est = t.porcentaje >= 70 ? "domina" : t.porcentaje >= 40 ? "a afianzar" : "reforzar";
-        line(`• ${tema}: ${t.aciertos}/${t.total} (${t.porcentaje}%) — ${est}`, 10, false, 3);
-      }
-      y += 6;
-      line("Repaso pregunta por pregunta", 12, true, 6);
-      r.preguntas.forEach((p, i) => {
-        line(`${i + 1}. ${p.enunciado}`, 10, true, 2);
-        const eleg = p.opciones.find((o) => o.letra === p.elegida);
-        const corr = p.opciones.find((o) => o.letra === p.correcta);
-        line(`Tu respuesta: ${eleg ? `${eleg.letra}) ${eleg.texto}` : "(sin responder)"} — ${p.acerto ? "CORRECTA ✓" : "INCORRECTA ✗"}`, 10, false, 2);
-        if (corr) line(`Correcta: ${corr.letra}) ${corr.texto}`, 10, false, 2);
-        if (corr) line(`Explicación: ${corr.explicacion}`, 9, false, 6);
-      });
-      y += 6;
-      line("Caso práctico", 12, true, 6);
-      line(r.caso.planteo || r.caso.enunciado, 10, false, 4);
-      (r.caso.preguntas ?? []).forEach((q) => line(q, 10, false, 2));
-      y += 2;
-      line("Resolución modelo", 11, true, 4);
-      line(r.caso.resolucion_didactica, 10, false, 4);
-      if (r.caso.fundamento_normativo) line(`Fundamento normativo: ${r.caso.fundamento_normativo}`, 9, false, 4);
-
-      doc.save(`resultado-examen-${r.examenId}.pdf`);
+      await descargarResultadoPDF(bloqueRef.current, `resultado-examen-${r.examenId}.pdf`);
       setPdfMsg(null);
     } catch {
       setPdfMsg("No se pudo generar el PDF.");
@@ -117,10 +77,15 @@ export default function ResultadoView() {
   const a = animo(r.nota);
   const errores = r.total - r.aciertos;
   const temas = Object.entries(r.porTema);
+  // Si el resultado tiene caso es el examen jurídico; si no, el administrativo.
+  const volverHref = r.caso ? "/examen" : "/examen-administrativo";
+  const volverLabel = "Hacer otro examen";
 
   return (
     <section className="panel">
       <p><Link href="/" className="volver-inicio">← Inicio</Link></p>
+      <div ref={bloqueRef} className="bloque-resultados">
+      <div data-pdf-block>
       <p className="res-kicker">{SIM_NAME}</p>
       <h1>Resultados — Examen N° {r.examenId}</h1>
 
@@ -155,17 +120,11 @@ export default function ResultadoView() {
         ))}
       </div>
 
-      {/* Acciones */}
-      <div className="res-acciones">
-        <button type="button" className="btn cta" onClick={descargarPDF}>⬇ Descargar resultado en PDF</button>
-        <Link href="/examen" className="btn btn-ghost btn-ghost-2">Hacer otro examen</Link>
-      </div>
-      {pdfMsg && <p className="placeholder-note">{pdfMsg}</p>}
-
       {/* Repaso */}
       <h2>Repaso pregunta por pregunta</h2>
+      </div>{/* /bloque encabezado */}
       {r.preguntas.map((p, i) => (
-        <div key={p.id} className="repaso">
+        <div key={p.id} className="repaso" data-pdf-block>
           <p className="tema-chip">{p.tema}</p>
           <p><strong>{i + 1}. {p.enunciado}</strong></p>
           <ul className="opciones">
@@ -193,34 +152,41 @@ export default function ResultadoView() {
         </div>
       ))}
 
-      {/* Caso */}
-      <h2>Caso práctico</h2>
-      {r.caso.planteo ? (
-        <>
-          {r.caso.planteo.split("\n").filter((l) => l.trim()).map((ln, i) => (
-            <p key={i} className="caso-planteo">{ln}</p>
-          ))}
-          {r.caso.preguntas && r.caso.preguntas.length > 0 && (
-            <div className="caso-preguntas">
-              {r.caso.preguntas.map((q, i) => <p key={i}>{q}</p>)}
-            </div>
+      {/* Caso (solo en el examen jurídico completo; el administrativo no tiene) */}
+      {r.caso && (
+        <div data-pdf-block>
+          <h2>Caso práctico</h2>
+          {r.caso.planteo ? (
+            <>
+              {r.caso.planteo.split("\n").filter((l) => l.trim()).map((ln, i) => (
+                <p key={i} className="caso-planteo">{ln}</p>
+              ))}
+              {r.caso.preguntas && r.caso.preguntas.length > 0 && (
+                <div className="caso-preguntas">
+                  {r.caso.preguntas.map((q, i) => <p key={i}>{q}</p>)}
+                </div>
+              )}
+            </>
+          ) : (
+            <p className="caso-enunciado">{r.caso.enunciado}</p>
           )}
-        </>
-      ) : (
-        <p className="caso-enunciado">{r.caso.enunciado}</p>
+          <h3>Resolución modelo</h3>
+          {r.caso.resolucion_didactica.split("\n").filter((l) => l.trim()).map((ln, i) => {
+            const m = ln.match(/^\s*(Pregunta\s*\d+\s*[:.)])(.*)$/);
+            return <p key={i} className="reso-linea">{m ? (<><strong>{m[1]}</strong>{m[2]}</>) : ln}</p>;
+          })}
+          {r.caso.fundamento_normativo && (
+            <p className="placeholder-note">Fundamento normativo: {r.caso.fundamento_normativo}</p>
+          )}
+        </div>
       )}
-      <h3>Resolución modelo</h3>
-      {r.caso.resolucion_didactica.split("\n").filter((l) => l.trim()).map((ln, i) => {
-        const m = ln.match(/^\s*(Pregunta\s*\d+\s*[:.)])(.*)$/);
-        return <p key={i} className="reso-linea">{m ? (<><strong>{m[1]}</strong>{m[2]}</>) : ln}</p>;
-      })}
-      {r.caso.fundamento_normativo && (
-        <p className="placeholder-note">Fundamento normativo: {r.caso.fundamento_normativo}</p>
-      )}
+      </div>{/* /bloque-resultados (lo que captura el PDF visual) */}
 
-      <p style={{ marginTop: "1.5rem" }}>
-        <Link href="/examen" className="cta">Hacer otro examen</Link>
-      </p>
+      <div className="res-acciones">
+        <button type="button" className="btn cta" onClick={descargarPDF}>⬇ Descargar resultado en PDF</button>
+        <Link href={volverHref} className="btn btn-ghost btn-ghost-2">{volverLabel}</Link>
+      </div>
+      {pdfMsg && <p className="placeholder-note">{pdfMsg}</p>}
     </section>
   );
 }

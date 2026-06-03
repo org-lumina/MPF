@@ -1,30 +1,8 @@
 import Link from "next/link";
-import { auth } from "@/auth";
-import { tieneAccesoVigente } from "@/lib/acceso";
 import SimuladorMPFCard from "@/components/SimuladorMPFCard";
 import PedidoExamenCard from "@/components/PedidoExamenCard";
 
-export default async function HomeHub() {
-  const session = await auth();
-  const email = session?.user?.email;
-  const conAcceso = email ? await tieneAccesoVigente(email) : false;
-
-  // CTA inteligente: respeta login + acceso (gating actual).
-  let ctaHref = "/login";
-  let ctaLabel = "Primero vas a iniciar sesión con Google.";
-  if (email && !conAcceso) {
-    ctaHref = "/pago";
-    ctaLabel = "Necesitás activar tu acceso (pago único, 6 meses) para practicar.";
-  } else if (email && conAcceso) {
-    ctaHref = "/examen";
-    ctaLabel = "Tu acceso está activo. ¡A practicar!";
-  }
-  const estado: "anon" | "sin-acceso" | "con-acceso" = !email
-    ? "anon"
-    : conAcceso
-      ? "con-acceso"
-      : "sin-acceso";
-
+export default function HomeHub() {
   return (
     <>
       {/* HERO */}
@@ -96,7 +74,7 @@ export default async function HomeHub() {
           </div>
 
           <div className="grid">
-            <SimuladorMPFCard ctaHref={ctaHref} ctaLabel={ctaLabel} estado={estado} />
+            <SimuladorMPFCard />
 
             <article className="card card-soon">
               <span className="soon-ribbon">PRÓXIMAMENTE</span>
@@ -147,7 +125,7 @@ export default async function HomeHub() {
               <span className="step-num">1</span>
               <svg className="step-ic" viewBox="0 0 40 40" fill="none"><rect x="6" y="6" width="28" height="28" rx="7" fill="#00B6BD" stroke="#1C1B33" strokeWidth="2.6" /><path d="M14 20l4 4 8-9" stroke="#fff" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" /></svg>
               <h3>Elegí el simulador</h3>
-              <p>Tocá el examen que querés preparar. Hoy: Ingreso Democrático Ministerio Público Fiscal.</p>
+              <p>Tocá el examen que querés preparar y arrancá la práctica.</p>
             </div>
             <div className="step">
               <span className="step-num">2</span>
@@ -159,7 +137,7 @@ export default async function HomeHub() {
               <span className="step-num">3</span>
               <svg className="step-ic" viewBox="0 0 40 40" fill="none"><path d="M8 28V18m8 10V10m8 18v-7m8 7V14" stroke="#FF5DA2" strokeWidth="3.4" strokeLinecap="round" /></svg>
               <h3>Mirá tu resultado</h3>
-              <p>Corrección al toque y dónde fallaste, para volver más afilado.</p>
+              <p>Te mostramos tu desempeño por área, con gráficos y una devolución integral para saber qué reforzar.</p>
             </div>
           </div>
         </div>

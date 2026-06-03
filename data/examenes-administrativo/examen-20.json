@@ -1,0 +1,626 @@
+{
+  "examen_id": 20,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿De qué Estado se declaró independiente formalmente la Nación en el Congreso de Tucumán de 1816?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De Francia",
+          "correcta": false,
+          "explicacion": "Francia no era la potencia colonial; la dependencia era de España."
+        },
+        {
+          "letra": "B",
+          "texto": "De Portugal",
+          "correcta": false,
+          "explicacion": "La dependencia no era de Portugal sino de la corona española."
+        },
+        {
+          "letra": "C",
+          "texto": "De los reyes de España y de toda otra dominación extranjera",
+          "correcta": true,
+          "explicacion": "El acta declaró la independencia respecto del rey de España y de toda dominación extranjera."
+        },
+        {
+          "letra": "D",
+          "texto": "De Inglaterra",
+          "correcta": false,
+          "explicacion": "Inglaterra no era la metrópoli colonial del Río de la Plata."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Las Invasiones Inglesas al Río de la Plata (1806 y 1807) tuvieron como consecuencia política importante:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El fortalecimiento de las milicias criollas y el creciente protagonismo local",
+          "correcta": true,
+          "explicacion": "La defensa contra los ingleses fortaleció las milicias criollas y dio confianza y poder a los criollos, antecedente de 1810."
+        },
+        {
+          "letra": "B",
+          "texto": "La firma de la independencia de Chile",
+          "correcta": false,
+          "explicacion": "No tuvieron relación directa con la independencia chilena."
+        },
+        {
+          "letra": "C",
+          "texto": "La llegada de Napoleón al Río de la Plata",
+          "correcta": false,
+          "explicacion": "Napoleón nunca llegó al Río de la Plata."
+        },
+        {
+          "letra": "D",
+          "texto": "La independencia inmediata de Buenos Aires",
+          "correcta": false,
+          "explicacion": "La independencia no fue inmediata; recién se declaró en 1816."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué conflicto internacional entre 1864/1865 y 1870 enfrentó a la Argentina, Brasil y Uruguay contra el Paraguay?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Guerra Grande",
+          "correcta": false,
+          "explicacion": "La Guerra Grande fue un conflicto en Uruguay durante las décadas previas."
+        },
+        {
+          "letra": "B",
+          "texto": "La Guerra del Pacífico",
+          "correcta": false,
+          "explicacion": "La Guerra del Pacífico enfrentó a Chile contra Perú y Bolivia."
+        },
+        {
+          "letra": "C",
+          "texto": "La Guerra de la Triple Alianza (o del Paraguay)",
+          "correcta": true,
+          "explicacion": "La Guerra de la Triple Alianza enfrentó a Argentina, Brasil y Uruguay contra el Paraguay."
+        },
+        {
+          "letra": "D",
+          "texto": "La Guerra del Chaco",
+          "correcta": false,
+          "explicacion": "La Guerra del Chaco (1932-1935) fue entre Bolivia y Paraguay."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.485, ¿cuál es una característica del procedimiento previsto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Será oneroso y de conocimiento amplio",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 20: contradice el texto, que establece gratuidad y trámite sumarísimo."
+        },
+        {
+          "letra": "B",
+          "texto": "Requiere mediación obligatoria previa",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 28: quedan prohibidas las audiencias de mediación o conciliación."
+        },
+        {
+          "letra": "C",
+          "texto": "Será gratuito y sumarísimo",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 20: el procedimiento será gratuito y sumarísimo."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo puede iniciarse ante el fuero penal",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 21: la denuncia puede efectuarse ante cualquier juez/jueza de cualquier fuero e instancia o ante el Ministerio Público."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "La acción del artículo 43 que permite tomar conocimiento de los datos referidos a una persona y exigir su rectificación o supresión se conoce como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Amparo por mora",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional no menciona el amparo por mora; el supuesto descripto corresponde al hábeas data."
+        },
+        {
+          "letra": "B",
+          "texto": "Hábeas corpus",
+          "correcta": false,
+          "explicacion": "El hábeas corpus del art. 43 de la Constitución Nacional protege la libertad física, no los datos personales."
+        },
+        {
+          "letra": "C",
+          "texto": "Hábeas data",
+          "correcta": true,
+          "explicacion": "El art. 43 de la Constitución Nacional regula la acción para conocer datos en registros y exigir su supresión, rectificación o actualización, conocida como hábeas data."
+        },
+        {
+          "letra": "D",
+          "texto": "Recurso de inconstitucionalidad",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional describe la acción de protección de datos, no un recurso de inconstitucionalidad genérico."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cuál de los siguientes derechos enumera expresamente el artículo 14 para todos los habitantes de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho de peticionar a las autoridades",
+          "correcta": true,
+          "explicacion": "El art. 14 de la Constitución Nacional enumera, entre otros, el derecho de peticionar a las autoridades."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a un ambiente sano",
+          "correcta": false,
+          "explicacion": "El derecho a un ambiente sano corresponde al art. 41 de la Constitución Nacional, no al art. 14."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a la jubilación móvil",
+          "correcta": false,
+          "explicacion": "Las jubilaciones y pensiones móviles surgen del art. 14 bis de la Constitución Nacional, no del art. 14."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho de huelga",
+          "correcta": false,
+          "explicacion": "El derecho de huelga está garantizado a los gremios en el art. 14 bis de la Constitución Nacional, no en el art. 14."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Las normas que un grupo establece por consenso para regular la convivencia escolar son ejemplo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Leyes nacionales obligatorias para todo el país",
+          "correcta": false,
+          "explicacion": "Son normas internas de la institución, no leyes nacionales."
+        },
+        {
+          "letra": "B",
+          "texto": "Tratados internacionales",
+          "correcta": false,
+          "explicacion": "Los tratados se firman entre Estados, no entre estudiantes."
+        },
+        {
+          "letra": "C",
+          "texto": "Acuerdos de convivencia que organizan la vida en común",
+          "correcta": true,
+          "explicacion": "Correcto: los acuerdos de convivencia pautan derechos y deberes en la comunidad escolar."
+        },
+        {
+          "letra": "D",
+          "texto": "Decretos del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Los decretos emanan del gobierno, no de un acuerdo escolar."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué asamblea, reunida en 1813, abolió los títulos de nobleza, suprimió la Inquisición y dictó la libertad de vientres?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Asamblea del Año XIII (Asamblea General Constituyente)",
+          "correcta": true,
+          "explicacion": "La Asamblea de 1813 dictó la libertad de vientres, abolió la Inquisición y los títulos de nobleza."
+        },
+        {
+          "letra": "B",
+          "texto": "El Congreso de Tucumán",
+          "correcta": false,
+          "explicacion": "El Congreso de Tucumán se reunió en 1816 y declaró la Independencia."
+        },
+        {
+          "letra": "C",
+          "texto": "El Cabildo Abierto de 1810",
+          "correcta": false,
+          "explicacion": "El Cabildo Abierto de 1810 debatió la continuidad del virrey, no dictó esas reformas."
+        },
+        {
+          "letra": "D",
+          "texto": "La Junta Grande",
+          "correcta": false,
+          "explicacion": "La Junta Grande gobernó en 1810-1811, antes de la Asamblea del Año XIII."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme el CPPF (Ley N° 27.063 / 27.482), el principio de separación de funciones implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las funciones pueden delegarse en empleados subalternos",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 9: la delegación de funciones jurisdiccionales en subalternos torna inválidas las actuaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "El juez dirige la investigación y acusa al imputado",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 9: el juez no realiza actos de investigación ni impulso de la persecución penal."
+        },
+        {
+          "letra": "C",
+          "texto": "Los fiscales no pueden realizar actos jurisdiccionales y los jueces no pueden realizar actos de investigación o de impulso de la persecución penal",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 9: los representantes del MPF no pueden realizar actos jurisdiccionales y los jueces no pueden investigar o impulsar la persecución penal."
+        },
+        {
+          "letra": "D",
+          "texto": "El fiscal dicta sentencia en casos de flagrancia",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 9: el fiscal no puede realizar actos propiamente jurisdiccionales, como dictar sentencia."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La Constitución sancionada en 1853 estableció las bases de la organización nacional bajo la forma:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Imperial",
+          "correcta": false,
+          "explicacion": "No corresponde a la forma de Estado adoptada."
+        },
+        {
+          "letra": "B",
+          "texto": "Colonial",
+          "correcta": false,
+          "explicacion": "La etapa colonial era previa e independiente del orden constitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "Monárquica",
+          "correcta": false,
+          "explicacion": "Argentina nunca adoptó una monarquía en su Constitución."
+        },
+        {
+          "letra": "D",
+          "texto": "Federal",
+          "correcta": true,
+          "explicacion": "Correcto: la Constitución de 1853 adoptó la forma federal de Estado."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cuál es la misión general del Ministerio Público Fiscal de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Representar al Estado o al Fisco en los juicios en que sea parte la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 5º, excluye expresamente de las funciones del MPF la representación del Estado o del Fisco en juicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Asesorar de manera permanente al Poder Ejecutivo nacional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 5º, excluye el asesoramiento permanente al Poder Ejecutivo nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Promover la actuación de la justicia en defensa de la legalidad y los intereses generales de la sociedad.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del Ministerio Público Fiscal), art. 1º, define al MPF como el órgano encargado de promover la actuación de la justicia en defensa de la legalidad y los intereses generales de la sociedad."
+        },
+        {
+          "letra": "D",
+          "texto": "Administrar los tribunales federales y nombrar a los jueces de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa no es función del MPF; la Ley N° 27.148 (Ley Orgánica del MPF), art. 1º, le asigna promover la justicia en defensa de la legalidad, no administrar tribunales."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Existen materias excluidas de la iniciativa popular. Entre ellas se encuentran:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier proyecto que mencione derechos sociales.",
+          "correcta": false,
+          "explicacion": "No existe tal exclusión genérica."
+        },
+        {
+          "letra": "B",
+          "texto": "Reforma constitucional, tratados internacionales, tributos y presupuesto, y materia penal.",
+          "correcta": true,
+          "explicacion": "El art. 39 excluye expresamente esos temas de la iniciativa popular."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los proyectos de ley sin excepción.",
+          "correcta": false,
+          "explicacion": "La iniciativa popular admite muchos proyectos; solo hay materias puntuales excluidas."
+        },
+        {
+          "letra": "D",
+          "texto": "Educación, salud y vivienda.",
+          "correcta": false,
+          "explicacion": "Esas materias no están excluidas por la norma."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Las mujeres argentinas votaron por primera vez en elecciones nacionales en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1951",
+          "correcta": true,
+          "explicacion": "Correcta: tras la ley de 1947, las mujeres votaron por primera vez en las elecciones de 1951."
+        },
+        {
+          "letra": "B",
+          "texto": "1955",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1955 se produjo el golpe contra Perón."
+        },
+        {
+          "letra": "C",
+          "texto": "1947",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1947 se sancionó la ley, pero el voto efectivo fue en 1951."
+        },
+        {
+          "letra": "D",
+          "texto": "1946",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1946 aún no regía el voto femenino."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 124, el dominio originario de los recursos naturales existentes en su territorio corresponde a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los municipios",
+          "correcta": false,
+          "explicacion": "El art. 124 de la Constitución Nacional asigna ese dominio a las provincias, no a los municipios."
+        },
+        {
+          "letra": "B",
+          "texto": "Las provincias",
+          "correcta": true,
+          "explicacion": "El art. 124 de la Constitución Nacional dispone que corresponde a las provincias el dominio originario de los recursos naturales existentes en su territorio."
+        },
+        {
+          "letra": "C",
+          "texto": "Las organizaciones supraestatales",
+          "correcta": false,
+          "explicacion": "El art. 124 de la Constitución Nacional atribuye el dominio originario de los recursos naturales a las provincias."
+        },
+        {
+          "letra": "D",
+          "texto": "El Gobierno federal",
+          "correcta": false,
+          "explicacion": "El art. 124 de la Constitución Nacional atribuye el dominio originario de los recursos naturales a las provincias, no al Gobierno federal."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La ley que estableció en 1912 el voto universal, secreto y obligatorio (para los varones de la época) fue la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley Sáenz Peña",
+          "correcta": true,
+          "explicacion": "La Ley 8.871 de 1912, impulsada por Roque Sáenz Peña, instauró ese sistema de voto."
+        },
+        {
+          "letra": "B",
+          "texto": "Ley de Lemas",
+          "correcta": false,
+          "explicacion": "La Ley de Lemas es un sistema electoral usado en algunas provincias, posterior y distinto."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley 1.420",
+          "correcta": false,
+          "explicacion": "La Ley 1.420 estableció la educación común, laica, gratuita y obligatoria."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley Avellaneda",
+          "correcta": false,
+          "explicacion": "La Ley Avellaneda se vincula a la autonomía universitaria, no al sufragio."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El presidente que impulsó la sanción de la Ley Sáenz Peña fue:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "José Figueroa Alcorta",
+          "correcta": false,
+          "explicacion": "Incorrecta: fue su antecesor (1906-1910)."
+        },
+        {
+          "letra": "B",
+          "texto": "Roque Sáenz Peña",
+          "correcta": true,
+          "explicacion": "Correcta: presidente entre 1910 y 1914, dio nombre y empuje a la ley electoral."
+        },
+        {
+          "letra": "C",
+          "texto": "Victorino de la Plaza",
+          "correcta": false,
+          "explicacion": "Incorrecta: completó el mandato tras la muerte de Sáenz Peña en 1914."
+        },
+        {
+          "letra": "D",
+          "texto": "Hipólito Yrigoyen",
+          "correcta": false,
+          "explicacion": "Incorrecta: fue el primer beneficiado por la ley al ganar en 1916, pero no la sancionó."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Que los derechos humanos sean 'inalienables' significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No pueden ser cedidos, renunciados ni quitados legítimamente a la persona.",
+          "correcta": true,
+          "explicacion": "Inalienable indica que no se puede transferir ni renunciar a ellos; pertenecen a la persona por su dignidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Caducan al cumplir cierta edad.",
+          "correcta": false,
+          "explicacion": "No caducan por edad; acompañan a la persona toda su vida."
+        },
+        {
+          "letra": "C",
+          "texto": "Pueden venderse a otra persona.",
+          "correcta": false,
+          "explicacion": "Precisamente, no pueden enajenarse ni venderse."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo valen dentro del territorio donde se nació.",
+          "correcta": false,
+          "explicacion": "La inalienabilidad no se refiere al territorio, sino a la imposibilidad de cederlos."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El informe de la CONADEP (1984) que documentó las violaciones a los derechos humanos se tituló:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Operación Masacre",
+          "correcta": false,
+          "explicacion": "Incorrecta: es una obra de Rodolfo Walsh sobre fusilamientos de 1956."
+        },
+        {
+          "letra": "B",
+          "texto": "El informe Rattenbach",
+          "correcta": false,
+          "explicacion": "Incorrecta: ese informe analizó el desempeño militar en Malvinas."
+        },
+        {
+          "letra": "C",
+          "texto": "La hora de los pueblos",
+          "correcta": false,
+          "explicacion": "Incorrecta: ese era un título de un texto de Perón."
+        },
+        {
+          "letra": "D",
+          "texto": "Nunca Más",
+          "correcta": true,
+          "explicacion": "Correcta: el informe Nunca Más se convirtió en un documento clave de la memoria."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Un sistema de gobierno 'presidencialista', como el argentino, se caracteriza porque:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No existe un jefe de Estado",
+          "correcta": false,
+          "explicacion": "En el presidencialismo el presidente es el jefe de Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente es a la vez jefe de Estado y jefe de gobierno, elegido por separado del Legislativo",
+          "correcta": true,
+          "explicacion": "En el presidencialismo el presidente concentra ambas jefaturas y su elección es independiente del Congreso."
+        },
+        {
+          "letra": "C",
+          "texto": "El jefe de gobierno surge del parlamento y depende de su confianza",
+          "correcta": false,
+          "explicacion": "Eso describe el sistema parlamentario, no el presidencialista."
+        },
+        {
+          "letra": "D",
+          "texto": "El poder lo ejerce un monarca hereditario",
+          "correcta": false,
+          "explicacion": "Un monarca hereditario es propio de la monarquía, no del presidencialismo."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué convención aprobó la República Argentina mediante la Ley N° 23.179?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW)",
+          "correcta": true,
+          "explicacion": "Ley N° 23.179, art. 1: aprueba la CEDAW, adoptada por resolución 34/180 de la Asamblea General de la ONU."
+        },
+        {
+          "letra": "B",
+          "texto": "La Convención de Belém do Pará",
+          "correcta": false,
+          "explicacion": "Belém do Pará fue aprobada por la Ley N° 24.632, no por la Ley N° 23.179."
+        },
+        {
+          "letra": "C",
+          "texto": "La Ley de Identidad de Género",
+          "correcta": false,
+          "explicacion": "La identidad de género corresponde a la Ley N° 26.743; la Ley N° 23.179 aprueba la CEDAW."
+        },
+        {
+          "letra": "D",
+          "texto": "El Pacto de San José de Costa Rica",
+          "correcta": false,
+          "explicacion": "El Pacto de San José (CADH) fue aprobado por la Ley N° 23.054, no por la Ley N° 23.179."
+        }
+      ]
+    }
+  ]
+}

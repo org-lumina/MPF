@@ -1,0 +1,626 @@
+{
+  "examen_id": 14,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La intervención estadounidense en Guatemala en 1954 derrocó al gobierno reformista de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Jacobo Zapata",
+          "correcta": false,
+          "explicacion": "Incorrecta: no corresponde a un gobernante guatemalteco real."
+        },
+        {
+          "letra": "B",
+          "texto": "Augusto Sandino",
+          "correcta": false,
+          "explicacion": "Incorrecta: Sandino fue un líder nicaragüense de décadas anteriores."
+        },
+        {
+          "letra": "C",
+          "texto": "Jacobo Árbenz",
+          "correcta": true,
+          "explicacion": "Correcta: Árbenz, que impulsaba una reforma agraria, fue derrocado en 1954 con apoyo estadounidense."
+        },
+        {
+          "letra": "D",
+          "texto": "Salvador Allende",
+          "correcta": false,
+          "explicacion": "Incorrecta: Allende fue derrocado en Chile en 1973."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.791, las circunstancias extraordinarias de atenuación del art. 80 in fine del Código Penal NO son aplicables:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A quien anteriormente hubiera realizado actos de violencia contra la mujer víctima",
+          "correcta": true,
+          "explicacion": "Ley N° 26.791, art. 3: la atenuación no será aplicable a quien anteriormente hubiera realizado actos de violencia contra la mujer víctima."
+        },
+        {
+          "letra": "B",
+          "texto": "A los mayores de setenta años",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791, art. 3: no establece exclusión por la edad del autor."
+        },
+        {
+          "letra": "C",
+          "texto": "A los reincidentes en delitos patrimoniales",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791, art. 3: la exclusión refiere a actos previos de violencia contra la mujer víctima, no a reincidencia patrimonial."
+        },
+        {
+          "letra": "D",
+          "texto": "A los homicidios culposos",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791, art. 3: la limitación expresa es respecto de quien ejerció violencia previa contra la mujer víctima, no de los homicidios culposos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué ley de 1884 estableció la educación primaria gratuita, obligatoria y laica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Ley de Residencia",
+          "correcta": false,
+          "explicacion": "La Ley de Residencia (1902) regulaba la expulsión de extranjeros."
+        },
+        {
+          "letra": "B",
+          "texto": "La Ley 1420 de Educación Común",
+          "correcta": true,
+          "explicacion": "La Ley 1420 (1884) instituyó la educación primaria gratuita, obligatoria y laica."
+        },
+        {
+          "letra": "C",
+          "texto": "La Ley Avellaneda",
+          "correcta": false,
+          "explicacion": "La Ley Avellaneda (1885) reguló las universidades nacionales, no la primaria."
+        },
+        {
+          "letra": "D",
+          "texto": "La Ley Sáenz Peña",
+          "correcta": false,
+          "explicacion": "La Ley Sáenz Peña (1912) trató sobre el sufragio."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 43, la acción de hábeas corpus procede cuando el derecho lesionado fuera:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La propiedad privada",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional reserva el hábeas corpus para la libertad física, no para la propiedad."
+        },
+        {
+          "letra": "B",
+          "texto": "La libertad física, o en caso de agravamiento ilegítimo de las condiciones de detención o desaparición forzada",
+          "correcta": true,
+          "explicacion": "El art. 43 de la Constitución Nacional habilita el hábeas corpus cuando se afecta la libertad física, ante agravamiento ilegítimo de la detención o desaparición forzada de personas."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho de huelga",
+          "correcta": false,
+          "explicacion": "El derecho de huelga corresponde al art. 14 bis de la Constitución Nacional y no se tutela por hábeas corpus."
+        },
+        {
+          "letra": "D",
+          "texto": "El acceso a la información pública",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional vincula el hábeas corpus a la libertad física, no al acceso a la información."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Un 'derecho de incidencia colectiva' se distingue de un derecho individual porque:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es de menor jerarquía que cualquier derecho individual.",
+          "correcta": false,
+          "explicacion": "No es de menor jerarquía; protege intereses generales relevantes."
+        },
+        {
+          "letra": "B",
+          "texto": "No está reconocido por la Constitución.",
+          "correcta": false,
+          "explicacion": "Está reconocido, entre otros, en los arts. 41, 42 y 43."
+        },
+        {
+          "letra": "C",
+          "texto": "Afecta a un grupo o a la comunidad en su conjunto, como el ambiente o los derechos de los usuarios.",
+          "correcta": true,
+          "explicacion": "Estos derechos protegen bienes colectivos que pertenecen a muchas personas a la vez."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo puede ser defendido por una persona en su exclusivo interés.",
+          "correcta": false,
+          "explicacion": "Por su naturaleza colectiva pueden defenderse incluso por afectados, el Defensor del Pueblo o asociaciones."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la CEDAW (Ley N° 23.179), ¿qué órgano examina los progresos en la aplicación de la Convención?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Comisión Interamericana de Derechos Humanos",
+          "correcta": false,
+          "explicacion": "La Comisión Interamericana corresponde al sistema interamericano (CADH, Ley N° 23.054); la CEDAW prevé su propio Comité (art. 17)."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo Nacional de la Mujer",
+          "correcta": false,
+          "explicacion": "El Consejo Nacional de la Mujer es el organismo rector de la Ley N° 26.485 (art. 8), no el órgano de control de la CEDAW."
+        },
+        {
+          "letra": "C",
+          "texto": "El Comité sobre la Eliminación de la Discriminación contra la Mujer",
+          "correcta": true,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 17: establece el Comité sobre la Eliminación de la Discriminación contra la Mujer para examinar los progresos en la aplicación."
+        },
+        {
+          "letra": "D",
+          "texto": "La Comisión Interamericana de Mujeres",
+          "correcta": false,
+          "explicacion": "La Comisión Interamericana de Mujeres se vincula a Belém do Pará (Ley N° 24.632); la CEDAW prevé el Comité del art. 17."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué batalla de 1818 aseguró definitivamente la independencia de Chile bajo el mando de San Martín?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cancha Rayada",
+          "correcta": false,
+          "explicacion": "Cancha Rayada fue un revés patriota previo a Maipú, no la victoria decisiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Junín",
+          "correcta": false,
+          "explicacion": "Junín fue una batalla en Perú (1824), no de la campaña de Chile."
+        },
+        {
+          "letra": "C",
+          "texto": "Maipú",
+          "correcta": true,
+          "explicacion": "La batalla de Maipú (1818) selló la independencia de Chile."
+        },
+        {
+          "letra": "D",
+          "texto": "Chacabuco",
+          "correcta": false,
+          "explicacion": "Chacabuco fue en 1817 y abrió Santiago, pero la consolidación llegó después."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué rol cumplió el puerto de Buenos Aires en el modelo agroexportador?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fue la principal puerta de entrada de inmigrantes y de salida de exportaciones",
+          "correcta": true,
+          "explicacion": "El puerto de Buenos Aires concentró el ingreso de inmigrantes y la salida de productos exportables."
+        },
+        {
+          "letra": "B",
+          "texto": "Se dedicó solo al cabotaje fluvial",
+          "correcta": false,
+          "explicacion": "No se limitó al cabotaje; fue clave para el comercio internacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Funcionó como centro industrial pesado",
+          "correcta": false,
+          "explicacion": "Su rol fue portuario y comercial, no de industria pesada."
+        },
+        {
+          "letra": "D",
+          "texto": "Estuvo cerrado al comercio exterior",
+          "correcta": false,
+          "explicacion": "Al contrario, fue el eje del comercio exterior del país."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué convención fue aprobada por la Ley N° 24.632?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belém do Pará)",
+          "correcta": true,
+          "explicacion": "Ley N° 24.632, art. 1: aprueba la Convención de Belém do Pará."
+        },
+        {
+          "letra": "B",
+          "texto": "La CEDAW",
+          "correcta": false,
+          "explicacion": "La CEDAW fue aprobada por la Ley N° 23.179, no por la Ley N° 24.632."
+        },
+        {
+          "letra": "C",
+          "texto": "La Convención Americana sobre Derechos Humanos",
+          "correcta": false,
+          "explicacion": "La CADH (Pacto de San José) fue aprobada por la Ley N° 23.054, no por la Ley N° 24.632."
+        },
+        {
+          "letra": "D",
+          "texto": "La Convención sobre los Derechos del Niño",
+          "correcta": false,
+          "explicacion": "La Convención sobre los Derechos del Niño no se aprueba por la Ley N° 24.632, que corresponde a Belém do Pará."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La afirmación 'a todo derecho le corresponde un deber correlativo' expresa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los deberes pertenecen solo a los funcionarios.",
+          "correcta": false,
+          "explicacion": "Los deberes alcanzan a todos los habitantes, no solo a los funcionarios."
+        },
+        {
+          "letra": "B",
+          "texto": "El ejercicio de los derechos propios encuentra límite en el respeto de los derechos de los demás.",
+          "correcta": true,
+          "explicacion": "Derechos y deberes se relacionan: mi derecho implica el deber ajeno de respetarlo y viceversa."
+        },
+        {
+          "letra": "C",
+          "texto": "Los derechos solo existen para quienes cumplen todos sus deberes.",
+          "correcta": false,
+          "explicacion": "Los derechos humanos no se pierden por incumplir deberes; la correlación no es condición de existencia."
+        },
+        {
+          "letra": "D",
+          "texto": "El Estado puede suspender derechos a voluntad.",
+          "correcta": false,
+          "explicacion": "El Estado no puede suspender derechos arbitrariamente."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Convención de Belém do Pará (Ley N° 24.632), los Estados Partes se comprometen a actuar con debida diligencia para:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente reparar económicamente a las víctimas",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 7: incluye prevenir, investigar y sancionar, no solo reparar."
+        },
+        {
+          "letra": "B",
+          "texto": "Despenalizar los delitos contra la mujer",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 7 inc. c: los Estados deben incluir normas penales, no despenalizar."
+        },
+        {
+          "letra": "C",
+          "texto": "Prevenir, investigar y sancionar la violencia contra la mujer",
+          "correcta": true,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 7 inc. b: los Estados deben actuar con la debida diligencia para prevenir, investigar y sancionar la violencia contra la mujer."
+        },
+        {
+          "letra": "D",
+          "texto": "Crear un tribunal penal internacional para la mujer",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632): no crea un tribunal penal internacional; prevé mecanismos ante la Comisión y la Corte Interamericana."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿En qué año se realizó la última gran reforma de la Constitución Nacional Argentina?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1983",
+          "correcta": false,
+          "explicacion": "Marca el retorno a la democracia, pero no hubo reforma constitucional ese año."
+        },
+        {
+          "letra": "B",
+          "texto": "1853",
+          "correcta": false,
+          "explicacion": "Es el año de sanción de la Constitución original, no de la última reforma."
+        },
+        {
+          "letra": "C",
+          "texto": "1994",
+          "correcta": true,
+          "explicacion": "Correcto: la reforma de 1994 incorporó nuevos derechos, garantías y tratados con jerarquía constitucional."
+        },
+        {
+          "letra": "D",
+          "texto": "1949",
+          "correcta": false,
+          "explicacion": "Hubo una reforma en 1949, pero fue derogada y no es la última vigente."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La declaración de derechos, deberes y garantías de las personas se encuentra principalmente en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El reglamento interno del Senado",
+          "correcta": false,
+          "explicacion": "Regula el funcionamiento de una cámara, no los derechos fundamentales."
+        },
+        {
+          "letra": "B",
+          "texto": "La primera parte de la Constitución Nacional",
+          "correcta": true,
+          "explicacion": "Correcto: la parte dogmática contiene declaraciones, derechos y garantías."
+        },
+        {
+          "letra": "C",
+          "texto": "El estatuto de un club deportivo",
+          "correcta": false,
+          "explicacion": "Es una norma privada sin relación con los derechos constitucionales."
+        },
+        {
+          "letra": "D",
+          "texto": "Las ordenanzas municipales",
+          "correcta": false,
+          "explicacion": "Regulan asuntos locales, no la declaración de derechos constitucionales."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Para asegurar la independencia de los jueces, la Constitución establece que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Deben renovar su cargo en cada cambio de gobierno",
+          "correcta": false,
+          "explicacion": "La inamovilidad evita que los jueces cambien con cada gobierno."
+        },
+        {
+          "letra": "B",
+          "texto": "Conservan su cargo mientras dure su buena conducta y no se les puede reducir la remuneración",
+          "correcta": true,
+          "explicacion": "La inamovilidad y la intangibilidad de las remuneraciones son garantías de independencia judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "Son elegidos por voto popular cada dos años",
+          "correcta": false,
+          "explicacion": "Los jueces no se eligen por voto popular periódico; se busca su estabilidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Pueden ser removidos libremente por el presidente",
+          "correcta": false,
+          "explicacion": "La remoción de jueces requiere procedimientos específicos, no la libre voluntad del presidente."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Las leyes nacionales en Argentina son sancionadas por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Corte Suprema de Justicia",
+          "correcta": false,
+          "explicacion": "La Corte interpreta y aplica las leyes, no las sanciona."
+        },
+        {
+          "letra": "B",
+          "texto": "El Congreso de la Nación",
+          "correcta": true,
+          "explicacion": "Correcto: el Poder Legislativo nacional sanciona las leyes."
+        },
+        {
+          "letra": "C",
+          "texto": "Los concejos deliberantes",
+          "correcta": false,
+          "explicacion": "Dictan ordenanzas municipales, no leyes nacionales."
+        },
+        {
+          "letra": "D",
+          "texto": "El Presidente mediante decretos",
+          "correcta": false,
+          "explicacion": "El Presidente promulga leyes y dicta decretos, pero no sanciona leyes."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El artículo 18 establece que ningún habitante puede ser penado sin:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Juicio previo fundado en ley anterior al hecho del proceso",
+          "correcta": true,
+          "explicacion": "El art. 18 de la Constitución Nacional exige juicio previo fundado en ley anterior al hecho del proceso."
+        },
+        {
+          "letra": "B",
+          "texto": "Consentimiento del propio acusado",
+          "correcta": false,
+          "explicacion": "El art. 18 de la Constitución Nacional no exige consentimiento del acusado; exige juicio previo basado en ley anterior."
+        },
+        {
+          "letra": "C",
+          "texto": "Dictamen del Ministerio Público",
+          "correcta": false,
+          "explicacion": "El art. 18 de la Constitución Nacional exige juicio previo fundado en ley anterior; no condiciona la pena a un dictamen del Ministerio Público."
+        },
+        {
+          "letra": "D",
+          "texto": "Autorización del Congreso",
+          "correcta": false,
+          "explicacion": "El art. 18 de la Constitución Nacional no requiere autorización del Congreso para penar."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué campaña militar liderada por Julio A. Roca hacia 1879 incorporó al Estado los territorios indígenas de la Patagonia y la pampa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Conquista del Desierto",
+          "correcta": true,
+          "explicacion": "La Conquista del Desierto (1878-1885) extendió el dominio estatal sobre la Patagonia y la pampa."
+        },
+        {
+          "letra": "B",
+          "texto": "La Guerra del Paraguay",
+          "correcta": false,
+          "explicacion": "La Guerra del Paraguay (1864-1870) fue contra el Paraguay, no contra los pueblos indígenas locales."
+        },
+        {
+          "letra": "C",
+          "texto": "La Campaña Libertadora",
+          "correcta": false,
+          "explicacion": "La Campaña Libertadora se asocia a San Martín en la independencia."
+        },
+        {
+          "letra": "D",
+          "texto": "La Guerra de la Triple Frontera",
+          "correcta": false,
+          "explicacion": "No corresponde a una campaña histórica de ese período."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.743, para solicitar la rectificación registral del sexo, ¿es requisito acreditar intervención quirúrgica o tratamiento hormonal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, debe acreditarse tratamiento psicológico previo",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 4: no se exige acreditar tratamiento psicológico ni médico."
+        },
+        {
+          "letra": "B",
+          "texto": "No; en ningún caso será requisito acreditar cirugía ni terapias hormonales u otro tratamiento",
+          "correcta": true,
+          "explicacion": "Ley N° 26.743, art. 4: en ningún caso será requisito acreditar intervención quirúrgica por reasignación genital, ni terapias hormonales u otro tratamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, debe acreditarse cirugía de reasignación genital total",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 4: expresamente no se requiere acreditar intervención quirúrgica."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, debe acreditarse tratamiento hormonal previo",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 4: no se exige acreditar terapias hormonales."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Juan Domingo Perón murió en julio de 1974, durante su tercera presidencia. Lo sucedió en el cargo:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Héctor J. Cámpora",
+          "correcta": false,
+          "explicacion": "Incorrecta: Cámpora había renunciado en 1973."
+        },
+        {
+          "letra": "B",
+          "texto": "Ítalo Luder",
+          "correcta": false,
+          "explicacion": "Incorrecta: Luder ejerció interinamente en períodos puntuales, no como sucesora constitucional directa."
+        },
+        {
+          "letra": "C",
+          "texto": "María Estela Martínez de Perón (Isabel), su vicepresidenta",
+          "correcta": true,
+          "explicacion": "Correcta: Isabel Perón asumió la presidencia tras la muerte de Perón."
+        },
+        {
+          "letra": "D",
+          "texto": "Jorge R. Videla",
+          "correcta": false,
+          "explicacion": "Incorrecta: Videla llegó al poder por el golpe de 1976."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La batalla de Ayacucho (1824), que selló la independencia del Perú y de Sudamérica frente a España, fue comandada por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manuel Belgrano",
+          "correcta": false,
+          "explicacion": "Belgrano había fallecido en 1820 y no participó en Ayacucho."
+        },
+        {
+          "letra": "B",
+          "texto": "Antonio José de Sucre",
+          "correcta": true,
+          "explicacion": "Sucre comandó las fuerzas patriotas en Ayacucho (1824), batalla decisiva contra los realistas."
+        },
+        {
+          "letra": "C",
+          "texto": "José de San Martín",
+          "correcta": false,
+          "explicacion": "San Martín ya se había retirado del Perú para 1824."
+        },
+        {
+          "letra": "D",
+          "texto": "Simón Bolívar en persona",
+          "correcta": false,
+          "explicacion": "Bolívar lideró el proceso, pero el mando directo en Ayacucho fue de Sucre."
+        }
+      ]
+    }
+  ]
+}

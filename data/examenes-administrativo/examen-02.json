@@ -1,0 +1,626 @@
+{
+  "examen_id": 2,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El derecho a la educación, en el marco de los derechos sociales, supone que el Estado debe:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cobrar aranceles en todas las escuelas estatales.",
+          "correcta": false,
+          "explicacion": "La educación estatal es gratuita; no se cobran aranceles obligatorios."
+        },
+        {
+          "letra": "B",
+          "texto": "Dejar la educación exclusivamente en manos privadas.",
+          "correcta": false,
+          "explicacion": "El Estado tiene una responsabilidad indelegable en garantizar la educación."
+        },
+        {
+          "letra": "C",
+          "texto": "Garantizar el acceso a una educación gratuita, obligatoria en ciertos niveles y de calidad.",
+          "correcta": true,
+          "explicacion": "El Estado debe asegurar el acceso a la educación; en Argentina es obligatoria y gratuita en la enseñanza estatal."
+        },
+        {
+          "letra": "D",
+          "texto": "Permitir el acceso solo a quienes puedan pagarlo.",
+          "correcta": false,
+          "explicacion": "Eso contradice el carácter universal y gratuito de la educación pública."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Un destacado dirigente argentino-cubano de la Revolución Cubana, símbolo del internacionalismo guerrillero, fue:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Camilo Torres",
+          "correcta": false,
+          "explicacion": "Incorrecta: sacerdote y guerrillero colombiano, no de la Revolución Cubana original."
+        },
+        {
+          "letra": "B",
+          "texto": "Ernesto 'Che' Guevara",
+          "correcta": true,
+          "explicacion": "Correcta: el Che, nacido en Argentina, fue figura clave de la Revolución Cubana."
+        },
+        {
+          "letra": "C",
+          "texto": "Salvador Allende",
+          "correcta": false,
+          "explicacion": "Incorrecta: Allende fue presidente chileno por vía electoral."
+        },
+        {
+          "letra": "D",
+          "texto": "Augusto Sandino",
+          "correcta": false,
+          "explicacion": "Incorrecta: Sandino fue un líder nicaragüense de las primeras décadas del siglo XX."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El derecho de los consumidores y usuarios (art. 42 CN) garantiza, entre otras cosas:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho de propiedad sobre las tierras del Estado.",
+          "correcta": false,
+          "explicacion": "Eso no se relaciona con los derechos de consumidores."
+        },
+        {
+          "letra": "B",
+          "texto": "El voto obligatorio.",
+          "correcta": false,
+          "explicacion": "El voto es un derecho político, ajeno al art. 42."
+        },
+        {
+          "letra": "C",
+          "texto": "La protección de la salud, seguridad e intereses económicos, y a una información adecuada y veraz.",
+          "correcta": true,
+          "explicacion": "El art. 42 protege a consumidores y usuarios en su salud, seguridad, intereses económicos e información."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho exclusivo de las empresas a fijar precios sin control.",
+          "correcta": false,
+          "explicacion": "Es lo contrario: el Estado debe defender la competencia y al consumidor."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "De acuerdo con la Ley N° 26.791, ¿qué pena prevé el art. 80 del Código Penal para los homicidios allí agravados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reclusión perpetua o prisión perpetua",
+          "correcta": true,
+          "explicacion": "Ley N° 26.791, art. 1 (art. 80 CP): se impondrá reclusión perpetua o prisión perpetua."
+        },
+        {
+          "letra": "B",
+          "texto": "Prisión de ocho a veinticinco años en todos los casos",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791, art. 3: la pena de ocho a veinticinco años solo procede ante circunstancias extraordinarias de atenuación del inc. 1, no como regla general."
+        },
+        {
+          "letra": "C",
+          "texto": "Prisión de tres a quince años",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791: el art. 80 CP prevé reclusión o prisión perpetua, no de tres a quince años."
+        },
+        {
+          "letra": "D",
+          "texto": "Multa e inhabilitación",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791: el art. 80 CP prevé pena perpetua, no multa ni inhabilitación."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cuál de las siguientes es una procuraduría especializada permanente del MPF?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Procuraduría de Asuntos Tributarios.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No figura en la enumeración del art. 22 de la Ley N° 27.148; sí lo hace, por ejemplo, la de Criminalidad Económica y Lavado de Activos."
+        },
+        {
+          "letra": "B",
+          "texto": "La Procuraduría de Narcocriminalidad.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 22 inc. e), enumera a la Procuraduría de Narcocriminalidad entre las procuradurías especializadas permanentes."
+        },
+        {
+          "letra": "C",
+          "texto": "La Procuraduría de Derechos del Consumidor.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No está entre las procuradurías permanentes del art. 22 de la Ley N° 27.148."
+        },
+        {
+          "letra": "D",
+          "texto": "La Procuraduría Electoral Nacional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No integra la lista del art. 22 de la Ley N° 27.148, que sí incluye la de Trata y Explotación de Personas, entre otras."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Los derechos sociales aparecen ligados, históricamente, a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho de propiedad y la libertad de contratar.",
+          "correcta": false,
+          "explicacion": "Esos son derechos civiles clásicos."
+        },
+        {
+          "letra": "B",
+          "texto": "Las primeras declaraciones liberales del siglo XVIII centradas solo en la libertad individual.",
+          "correcta": false,
+          "explicacion": "Esas declaraciones consagraban derechos civiles y políticos, no sociales."
+        },
+        {
+          "letra": "C",
+          "texto": "El constitucionalismo social y la búsqueda de igualdad real (trabajo, salud, educación, seguridad social).",
+          "correcta": true,
+          "explicacion": "Surgen en el siglo XX para garantizar condiciones dignas de vida y proteger a los sectores más débiles."
+        },
+        {
+          "letra": "D",
+          "texto": "La protección del medio ambiente como patrimonio común.",
+          "correcta": false,
+          "explicacion": "El ambiente es un derecho de tercera generación o de incidencia colectiva."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "En el régimen de la Ley N° 26.861, las futuras vacantes de los cargos de empleados y maestranza se cubren mediante:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Orden de mérito sin sorteo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El orden de mérito rige para cargos letrados (Ley N° 26.861, art. 31); para empleados y maestranza se aplica sorteo (art. 24)."
+        },
+        {
+          "letra": "B",
+          "texto": "Sorteo de los integrantes de la lista, a través de la Lotería Nacional S.E.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 24, dispone que las futuras vacantes se cubren mediante sorteo de los integrantes de la lista, realizado por la Lotería Nacional S.E."
+        },
+        {
+          "letra": "C",
+          "texto": "Designación por antigüedad en la matrícula.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 24, fija el sorteo como mecanismo de cobertura."
+        },
+        {
+          "letra": "D",
+          "texto": "Designación directa del titular de la dependencia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 24, prevé sorteo público; la designación directa es excepcional (art. 5º)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la CEDAW (Ley N° 23.179), los Estados partes se comprometen a eliminar la discriminación contra la mujer en la vida política y pública garantizando, en igualdad con los hombres, el derecho a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambiar el sexo registral sin trámite",
+          "correcta": false,
+          "explicacion": "La rectificación registral corresponde a la Ley N° 26.743, no a la CEDAW."
+        },
+        {
+          "letra": "B",
+          "texto": "Obtener medidas preventivas urgentes del juez",
+          "correcta": false,
+          "explicacion": "Las medidas preventivas urgentes son de la Ley N° 26.485 (art. 26), no de la CEDAW."
+        },
+        {
+          "letra": "C",
+          "texto": "Recibir reparación ante la Corte Interamericana",
+          "correcta": false,
+          "explicacion": "Eso corresponde al sistema interamericano (CADH, Ley N° 23.054); la CEDAW (art. 7) garantiza derechos políticos."
+        },
+        {
+          "letra": "D",
+          "texto": "Votar en todas las elecciones y ser elegible para todos los organismos electivos",
+          "correcta": true,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 7 inc. a: garantiza el derecho a votar en todas las elecciones y ser elegible para todos los organismos electivos."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién es conocido como 'El Libertador' por su papel en la independencia de Venezuela, Colombia, Ecuador, Perú y Bolivia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "José de San Martín",
+          "correcta": false,
+          "explicacion": "San Martín fue libertador del sur (Argentina, Chile, Perú), pero 'El Libertador' por excelencia es Bolívar."
+        },
+        {
+          "letra": "B",
+          "texto": "Simón Bolívar",
+          "correcta": true,
+          "explicacion": "Bolívar es llamado 'El Libertador' por su rol en la independencia del norte de Sudamérica."
+        },
+        {
+          "letra": "C",
+          "texto": "Antonio José de Sucre",
+          "correcta": false,
+          "explicacion": "Sucre fue lugarteniente de Bolívar, no 'El Libertador' por antonomasia."
+        },
+        {
+          "letra": "D",
+          "texto": "Francisco de Miranda",
+          "correcta": false,
+          "explicacion": "Miranda fue un precursor, pero el título de 'El Libertador' corresponde a Bolívar."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Durante el Congreso de Tucumán se debatieron diversas formas de gobierno. ¿Qué propuesta de monarquía vinculada a los pueblos originarios sostuvo Manuel Belgrano?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La anexión a Brasil",
+          "correcta": false,
+          "explicacion": "La anexión a Brasil no fue una propuesta de Belgrano."
+        },
+        {
+          "letra": "B",
+          "texto": "Una monarquía constitucional con un descendiente de los Incas",
+          "correcta": true,
+          "explicacion": "Belgrano propuso una monarquía constitucional encabezada por un descendiente de la dinastía incaica."
+        },
+        {
+          "letra": "C",
+          "texto": "Un imperio bajo Napoleón",
+          "correcta": false,
+          "explicacion": "Ningún sector patriota proponía someterse a Napoleón."
+        },
+        {
+          "letra": "D",
+          "texto": "Una república federal",
+          "correcta": false,
+          "explicacion": "La república federal era una opción, pero no la 'monarquía incaica' de Belgrano."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué himno y qué escudo fueron adoptados como símbolos durante la etapa de la Asamblea del Año XIII?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Marcha de San Lorenzo y la escarapela",
+          "correcta": false,
+          "explicacion": "La Marcha de San Lorenzo es muy posterior; la escarapela fue de 1812."
+        },
+        {
+          "letra": "B",
+          "texto": "La Marcha Patriótica y el sol de mayo aislado",
+          "correcta": false,
+          "explicacion": "Esa combinación no corresponde a lo aprobado por la Asamblea."
+        },
+        {
+          "letra": "C",
+          "texto": "El Himno Nacional y el Escudo Nacional",
+          "correcta": true,
+          "explicacion": "La Asamblea del Año XIII aprobó el Himno Nacional y el Escudo Nacional como símbolos patrios."
+        },
+        {
+          "letra": "D",
+          "texto": "El Himno a Sarmiento y la bandera de los Andes",
+          "correcta": false,
+          "explicacion": "Son símbolos posteriores y no adoptados por la Asamblea."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El Juicio a las Juntas Militares, realizado en 1985 durante el gobierno de Alfonsín, se destacó porque:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tuvo lugar antes del retorno democrático",
+          "correcta": false,
+          "explicacion": "Incorrecta: se realizó en 1985, ya en democracia."
+        },
+        {
+          "letra": "B",
+          "texto": "Absolvió a todos los acusados",
+          "correcta": false,
+          "explicacion": "Incorrecta: hubo condenas, entre ellas a Videla y Massera."
+        },
+        {
+          "letra": "C",
+          "texto": "Fue realizado por un tribunal militar internacional",
+          "correcta": false,
+          "explicacion": "Incorrecta: lo llevó a cabo la justicia civil argentina."
+        },
+        {
+          "letra": "D",
+          "texto": "Condenó a ex comandantes de la dictadura mediante un tribunal civil",
+          "correcta": true,
+          "explicacion": "Correcta: fue un hecho inédito en la región: juzgar a la cúpula militar por un tribunal civil."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La democracia, en su sentido etimológico, significa:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Gobierno de los sabios",
+          "correcta": false,
+          "explicacion": "El gobierno de los sabios o expertos se asocia a la aristocracia o tecnocracia."
+        },
+        {
+          "letra": "B",
+          "texto": "Gobierno del pueblo",
+          "correcta": true,
+          "explicacion": "Del griego 'demos' (pueblo) y 'kratos' (poder/gobierno): gobierno del pueblo."
+        },
+        {
+          "letra": "C",
+          "texto": "Gobierno de los más ricos",
+          "correcta": false,
+          "explicacion": "El gobierno de los más ricos se denomina plutocracia."
+        },
+        {
+          "letra": "D",
+          "texto": "Gobierno de uno solo",
+          "correcta": false,
+          "explicacion": "El gobierno de uno solo es la monarquía o autocracia."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El Cordobazo, importante protesta obrero-estudiantil, ocurrió en 1969 durante el gobierno de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Juan Carlos Onganía (Revolución Argentina)",
+          "correcta": true,
+          "explicacion": "Correcta: el Cordobazo fue una pueblada que debilitó al gobierno de Onganía."
+        },
+        {
+          "letra": "B",
+          "texto": "Juan Domingo Perón",
+          "correcta": false,
+          "explicacion": "Incorrecta: Perón estaba en el exilio en 1969."
+        },
+        {
+          "letra": "C",
+          "texto": "Arturo Illia",
+          "correcta": false,
+          "explicacion": "Incorrecta: Illia ya había sido derrocado en 1966."
+        },
+        {
+          "letra": "D",
+          "texto": "Jorge R. Videla",
+          "correcta": false,
+          "explicacion": "Incorrecta: Videla gobernó a partir de 1976."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el CPPF (Ley N° 27.063 / 27.482), ¿qué establece el principio de inocencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nadie puede ser considerado ni tratado como culpable hasta que una sentencia firme desvirtúe el estado de inocencia",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 3: nadie puede ser considerado ni tratado como culpable hasta tanto una sentencia firme desvirtúe el estado jurídico de inocencia."
+        },
+        {
+          "letra": "B",
+          "texto": "El imputado puede ser presentado públicamente como culpable",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 3: el imputado no debe ser presentado como culpable."
+        },
+        {
+          "letra": "C",
+          "texto": "El imputado debe probar su inocencia desde el inicio del proceso",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 3: la persona goza de estado de inocencia; no debe probar su inocencia."
+        },
+        {
+          "letra": "D",
+          "texto": "La inocencia se presume solo en delitos leves",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 3: el estado de inocencia es general, sin distinción por gravedad del delito."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El voto femenino se ejerció por primera vez a nivel nacional en Argentina en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1951.",
+          "correcta": true,
+          "explicacion": "Tras la ley de 1947, las mujeres votaron por primera vez en las elecciones nacionales de 1951."
+        },
+        {
+          "letra": "B",
+          "texto": "1983.",
+          "correcta": false,
+          "explicacion": "1983 fue el regreso a la democracia, no el inicio del voto femenino."
+        },
+        {
+          "letra": "C",
+          "texto": "1912.",
+          "correcta": false,
+          "explicacion": "En 1912 la Ley Sáenz Peña habilitó el voto universal masculino, no el femenino."
+        },
+        {
+          "letra": "D",
+          "texto": "1994.",
+          "correcta": false,
+          "explicacion": "1994 fue la última reforma constitucional, no el inicio del voto femenino."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cómo es designado el Procurador General de la Nación según la Ley Orgánica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por elección directa de los magistrados del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148, art. 11, prevé designación por el PEN con acuerdo del Senado por 2/3; la elección directa de magistrados rige para los vocales del Consejo General (art. 16)."
+        },
+        {
+          "letra": "B",
+          "texto": "Por concurso público de oposición y antecedentes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El concurso público rige para los demás magistrados (Ley N° 27.148, art. 48); el Procurador General se designa según el art. 11 con acuerdo de 2/3 del Senado."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el Poder Ejecutivo nacional con acuerdo del Senado por dos tercios de sus miembros presentes.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 11, exige designación por el PEN con acuerdo del Senado por dos tercios (2/3) de sus miembros presentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Por la Corte Suprema de Justicia de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 11, atribuye la designación al PEN con acuerdo del Senado, no a la Corte Suprema."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 99 inc. 3, el Poder Ejecutivo no podrá dictar decretos de necesidad y urgencia en materia:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De administración o de emergencia pública",
+          "correcta": false,
+          "explicacion": "Esas son materias propias de la delegación del art. 76 de la Constitución Nacional, no las prohibidas para los DNU del inc. 3."
+        },
+        {
+          "letra": "B",
+          "texto": "De relaciones exteriores",
+          "correcta": false,
+          "explicacion": "El art. 99 inc. 3 de la Constitución Nacional no menciona las relaciones exteriores entre las materias vedadas a los DNU."
+        },
+        {
+          "letra": "C",
+          "texto": "Penal, tributaria, electoral o de régimen de los partidos políticos",
+          "correcta": true,
+          "explicacion": "El art. 99 inc. 3 de la Constitución Nacional prohíbe los decretos de necesidad y urgencia en materia penal, tributaria, electoral o de régimen de los partidos políticos."
+        },
+        {
+          "letra": "D",
+          "texto": "De defensa nacional",
+          "correcta": false,
+          "explicacion": "El art. 99 inc. 3 de la Constitución Nacional veda los DNU en materia penal, tributaria, electoral y de partidos, no en defensa."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La iniciativa popular, incorporada en la reforma de 1994, permite a los ciudadanos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Destituir directamente a un funcionario electo.",
+          "correcta": false,
+          "explicacion": "Eso sería revocatoria de mandato, no contemplada a nivel nacional por iniciativa popular."
+        },
+        {
+          "letra": "B",
+          "texto": "Vetar leyes ya sancionadas por el Congreso.",
+          "correcta": false,
+          "explicacion": "El veto corresponde al Poder Ejecutivo, no a la iniciativa popular."
+        },
+        {
+          "letra": "C",
+          "texto": "Designar jueces de la Corte Suprema.",
+          "correcta": false,
+          "explicacion": "Los jueces de la Corte los propone el Ejecutivo con acuerdo del Senado."
+        },
+        {
+          "letra": "D",
+          "texto": "Presentar proyectos de ley ante la Cámara de Diputados.",
+          "correcta": true,
+          "explicacion": "El art. 39 habilita a los ciudadanos a presentar proyectos de ley ante Diputados, con ciertos límites de materia."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué grupo intelectual de la década de 1830 reunió a jóvenes como Echeverría, Alberdi y Sarmiento, opositores a Rosas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Generación del 37",
+          "correcta": true,
+          "explicacion": "La Generación del 37 reunió a jóvenes románticos opositores a Rosas como Echeverría, Alberdi y Sarmiento."
+        },
+        {
+          "letra": "B",
+          "texto": "La Generación del 80",
+          "correcta": false,
+          "explicacion": "La Generación del 80 es posterior, de fines de siglo."
+        },
+        {
+          "letra": "C",
+          "texto": "El Salón Literario de 1900",
+          "correcta": false,
+          "explicacion": "El Salón Literario funcionó en 1837, no en 1900."
+        },
+        {
+          "letra": "D",
+          "texto": "La Junta Grande",
+          "correcta": false,
+          "explicacion": "La Junta Grande fue un órgano de gobierno de 1810-1811."
+        }
+      ]
+    }
+  ]
+}

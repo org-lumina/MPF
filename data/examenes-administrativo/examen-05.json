@@ -1,0 +1,626 @@
+{
+  "examen_id": 5,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Los tres poderes en que se divide el gobierno federal argentino son:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ejecutivo, Militar y Religioso",
+          "correcta": false,
+          "explicacion": "Ni el poder militar ni el religioso son ramas del gobierno en un Estado republicano laico."
+        },
+        {
+          "letra": "B",
+          "texto": "Legislativo, Electoral y Judicial",
+          "correcta": false,
+          "explicacion": "En el sistema argentino no existe un 'poder electoral' como rama separada de gobierno."
+        },
+        {
+          "letra": "C",
+          "texto": "Ejecutivo, Legislativo y Judicial",
+          "correcta": true,
+          "explicacion": "La clásica división tripartita establecida por la Constitución."
+        },
+        {
+          "letra": "D",
+          "texto": "Nacional, Provincial y Municipal",
+          "correcta": false,
+          "explicacion": "Eso describe niveles del federalismo, no la división de poderes."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién fue el último virrey del Río de la Plata que fue depuesto durante la Semana de Mayo de 1810?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Rafael de Sobremonte",
+          "correcta": false,
+          "explicacion": "Sobremonte fue virrey durante las Invasiones Inglesas y huyó, pero ya no lo era en 1810."
+        },
+        {
+          "letra": "B",
+          "texto": "Juan José de Vértiz",
+          "correcta": false,
+          "explicacion": "Vértiz fue virrey en el siglo XVIII, muy anterior a 1810."
+        },
+        {
+          "letra": "C",
+          "texto": "Santiago de Liniers",
+          "correcta": false,
+          "explicacion": "Liniers fue virrey antes, héroe de las Invasiones Inglesas, pero no era el virrey en mayo de 1810."
+        },
+        {
+          "letra": "D",
+          "texto": "Baltasar Hidalgo de Cisneros",
+          "correcta": true,
+          "explicacion": "Cisneros era el virrey en mayo de 1810 y fue depuesto por el Cabildo Abierto del 22 de mayo."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Una conducta basada en el respeto por el otro, el cumplimiento de las normas y el cuidado de lo público se denomina:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Actitud individualista",
+          "correcta": false,
+          "explicacion": "El individualismo desatiende lo público y al otro."
+        },
+        {
+          "letra": "B",
+          "texto": "Comportamiento pasivo",
+          "correcta": false,
+          "explicacion": "La pasividad no implica compromiso activo con la convivencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Conducta autoritaria",
+          "correcta": false,
+          "explicacion": "El autoritarismo impone, no se basa en el respeto recíproco."
+        },
+        {
+          "letra": "D",
+          "texto": "Ciudadanía responsable",
+          "correcta": true,
+          "explicacion": "Correcto: la ciudadanía responsable combina respeto, cumplimiento de normas y compromiso con lo común."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El Congreso de la Nación está integrado por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Cámara de Diputados y la Cámara de Senadores",
+          "correcta": true,
+          "explicacion": "El Congreso es bicameral: Diputados (representa al pueblo) y Senadores (representa a las provincias)."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente y su gabinete de ministros",
+          "correcta": false,
+          "explicacion": "El presidente y los ministros forman parte del Poder Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "La Corte Suprema y el Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Esos órganos integran el Poder Judicial, no el Legislativo."
+        },
+        {
+          "letra": "D",
+          "texto": "Una sola cámara de diputados",
+          "correcta": false,
+          "explicacion": "El Congreso argentino es bicameral, no unicameral."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cuál de los siguientes es un principio funcional del MPF enumerado en la Ley Orgánica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Subordinación al Poder Ejecutivo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Contradice la autonomía funcional (Ley N° 27.148, art. 4º); no es principio del art. 9º."
+        },
+        {
+          "letra": "B",
+          "texto": "Inamovilidad de los expedientes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No es un principio de la Ley N° 27.148, art. 9º; sí lo son la eficiencia y desformalización (inc. h)."
+        },
+        {
+          "letra": "C",
+          "texto": "Discrecionalidad absoluta en la persecución.",
+          "correcta": false,
+          "explicacion": "Incorrecta. No figura entre los principios del art. 9º de la Ley N° 27.148; al contrario, rige la transparencia (inc. i) sobre la selectividad penal."
+        },
+        {
+          "letra": "D",
+          "texto": "Orientación a la víctima.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. f), establece la orientación a la víctima como principio funcional, brindándole amplia asistencia y respeto."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Como consecuencia directa de la Ley Sáenz Peña, en 1916 fue electo presidente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lisandro de la Torre",
+          "correcta": false,
+          "explicacion": "Incorrecta: dirigente del Partido Demócrata Progresista, nunca fue presidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Juan B. Justo",
+          "correcta": false,
+          "explicacion": "Incorrecta: fundador del Partido Socialista, no llegó a la presidencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Hipólito Yrigoyen, de la Unión Cívica Radical",
+          "correcta": true,
+          "explicacion": "Correcta: fue el primer presidente elegido bajo la nueva ley electoral."
+        },
+        {
+          "letra": "D",
+          "texto": "Marcelo T. de Alvear",
+          "correcta": false,
+          "explicacion": "Incorrecta: Alvear fue presidente radical en 1922-1928."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Convención Americana sobre Derechos Humanos (Ley N° 23.054), el derecho de defensa del inculpado incluye:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Renunciar a toda defensa para acelerar el proceso",
+          "correcta": false,
+          "explicacion": "CADH (Ley N° 23.054), art. 8.2 inc. e: se reconoce el derecho irrenunciable a ser asistido por un defensor proporcionado por el Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Ser obligado a declarar contra sí mismo si el juez lo dispone",
+          "correcta": false,
+          "explicacion": "CADH (Ley N° 23.054), art. 8.2 inc. g: nadie puede ser obligado a declarar contra sí mismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Declararse culpable bajo coacción si confiesa",
+          "correcta": false,
+          "explicacion": "CADH (Ley N° 23.054), art. 8.3: la confesión solo es válida si es hecha sin coacción de ninguna naturaleza."
+        },
+        {
+          "letra": "D",
+          "texto": "Defenderse personalmente o ser asistido por un defensor de su elección y comunicarse libre y privadamente con él",
+          "correcta": true,
+          "explicacion": "CADH (Ley N° 23.054), art. 8.2 inc. d: derecho a defenderse personalmente o por defensor de su elección y a comunicarse libre y privadamente con él."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cuál de los siguientes es un órgano permanente del MPF según la Ley Orgánica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Consejo de la Magistratura.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo de la Magistratura no integra el MPF; los órganos permanentes están en la Ley N° 27.148, art. 10."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo General del Ministerio Público Fiscal de la Nación.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 10 inc. b), enumera al Consejo General del MPF entre los órganos permanentes."
+        },
+        {
+          "letra": "C",
+          "texto": "El Ministerio Público de la Defensa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Ministerio Público de la Defensa es un organismo distinto; los órganos del MPF están en la Ley N° 27.148, art. 10."
+        },
+        {
+          "letra": "D",
+          "texto": "La Corte Suprema de Justicia de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Corte Suprema integra el Poder Judicial; los órganos del MPF figuran en la Ley N° 27.148, art. 10."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El artículo 56 establece que los senadores duran en su mandato:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco años sin reelección",
+          "correcta": false,
+          "explicacion": "El art. 56 de la Constitución Nacional fija seis años y reelección indefinida."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuatro años, renovándose por mitad cada bienio",
+          "correcta": false,
+          "explicacion": "Cuatro años y renovación por mitad corresponden a los diputados, art. 50 de la Constitución Nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Ocho años renovándose totalmente",
+          "correcta": false,
+          "explicacion": "El art. 56 de la Constitución Nacional establece seis años con renovación por tercios."
+        },
+        {
+          "letra": "D",
+          "texto": "Seis años y son reelegibles indefinidamente, renovándose el Senado por tercios cada dos años",
+          "correcta": true,
+          "explicacion": "El art. 56 de la Constitución Nacional dispone que los senadores duran seis años, son reelegibles indefinidamente y el Senado se renueva por tercios cada dos años."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El 'sufragio universal' se opone al 'voto censitario' porque:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El universal reconoce el derecho a votar a todos los ciudadanos, sin restricciones de riqueza o propiedad",
+          "correcta": true,
+          "explicacion": "El sufragio universal extiende el voto a todos los ciudadanos, a diferencia del censitario, limitado por renta o propiedad."
+        },
+        {
+          "letra": "B",
+          "texto": "El universal exige saber leer y escribir para votar",
+          "correcta": false,
+          "explicacion": "El sufragio universal no condiciona el voto a la alfabetización."
+        },
+        {
+          "letra": "C",
+          "texto": "El universal solo permite votar a los funcionarios",
+          "correcta": false,
+          "explicacion": "El sufragio universal habilita a todos los ciudadanos, no solo a funcionarios."
+        },
+        {
+          "letra": "D",
+          "texto": "El universal restringe el voto a los propietarios",
+          "correcta": false,
+          "explicacion": "Esa restricción es propia del voto censitario, no del universal."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La 'reglamentación' de los derechos prevista en el art. 28 de la Constitución significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los derechos pueden eliminarse mediante una simple ley.",
+          "correcta": false,
+          "explicacion": "La reglamentación no puede alterar la esencia ni eliminar el derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo el Poder Ejecutivo puede reglamentar derechos.",
+          "correcta": false,
+          "explicacion": "La regulación corresponde principalmente a la ley dictada por el Congreso."
+        },
+        {
+          "letra": "C",
+          "texto": "Las leyes pueden regular el ejercicio de los derechos, pero no pueden alterar su esencia.",
+          "correcta": true,
+          "explicacion": "El art. 28 establece que la reglamentación no puede desnaturalizar ni suprimir los derechos reconocidos."
+        },
+        {
+          "letra": "D",
+          "texto": "Los derechos son absolutos y no admiten regulación alguna.",
+          "correcta": false,
+          "explicacion": "Ningún derecho es absoluto; se ejercen conforme a las leyes que los reglamentan razonablemente."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Res. PGN 3329/2016, al modificarse el artículo 68, la persona desinsaculada que declina la postulación o no acepta ser designada:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantiene su lugar en la lista sin consecuencia alguna.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, punto IV, dispone su exclusión de la lista definitiva (salvo negativa fundada)."
+        },
+        {
+          "letra": "B",
+          "texto": "Queda inhabilitada de por vida para todo concurso del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, punto IV, prevé la exclusión de la lista de esa convocatoria, no una inhabilitación vitalicia."
+        },
+        {
+          "letra": "C",
+          "texto": "Puede recurrir la exclusión ante la Corte Suprema.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN 3329/2016 (punto IV) establece que la decisión de exclusión es irrecurrible."
+        },
+        {
+          "letra": "D",
+          "texto": "Será excluida de la lista definitiva por la autoridad de aplicación, salvo negativa debidamente fundada, con decisión irrecurrible.",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, punto IV, modifica el art. 68 del Reglamento estableciendo la exclusión de la lista, salvo negativa fundada, mediante decisión irrecurrible."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién fue el presidente argentino que gobernó entre 1868 y 1874, conocido por impulsar la educación pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Julio A. Roca",
+          "correcta": false,
+          "explicacion": "Roca asumió la presidencia en 1880."
+        },
+        {
+          "letra": "B",
+          "texto": "Domingo Faustino Sarmiento",
+          "correcta": true,
+          "explicacion": "Sarmiento gobernó 1868-1874 y promovió la educación pública y la formación de maestros."
+        },
+        {
+          "letra": "C",
+          "texto": "Nicolás Avellaneda",
+          "correcta": false,
+          "explicacion": "Avellaneda gobernó 1874-1880."
+        },
+        {
+          "letra": "D",
+          "texto": "Bartolomé Mitre",
+          "correcta": false,
+          "explicacion": "Mitre gobernó entre 1862 y 1868, antes del período mencionado."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué partido político de tipo único oficialista predominó en la etapa de la Generación del 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Unión Cívica Radical",
+          "correcta": false,
+          "explicacion": "La UCR surgió como oposición en 1891, contra ese régimen."
+        },
+        {
+          "letra": "B",
+          "texto": "El Partido Socialista",
+          "correcta": false,
+          "explicacion": "El Partido Socialista se fundó en 1896 y no era oficialista."
+        },
+        {
+          "letra": "C",
+          "texto": "El Partido Justicialista",
+          "correcta": false,
+          "explicacion": "El Justicialismo nació recién en la década de 1940."
+        },
+        {
+          "letra": "D",
+          "texto": "El Partido Autonomista Nacional (PAN)",
+          "correcta": true,
+          "explicacion": "El PAN fue el partido oficialista hegemónico del régimen conservador."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 43, ¿quién puede interponer el amparo en lo relativo a los derechos que protegen al ambiente, la competencia y al consumidor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El afectado, el defensor del pueblo y las asociaciones registradas a esos fines",
+          "correcta": true,
+          "explicacion": "El art. 43 de la Constitución Nacional legitima al afectado, al defensor del pueblo y a las asociaciones que propendan a esos fines, registradas conforme a la ley."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente el Procurador General de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional legitima al afectado, al defensor del pueblo y a las asociaciones registradas, no solo al Procurador."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier provincia, exclusivamente",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional no limita la legitimación a las provincias."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo el Poder Ejecutivo nacional",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional no atribuye esa legitimación al Poder Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El 17 de octubre de 1945 es recordado como una fecha clave porque:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Perón asumió por primera vez la presidencia",
+          "correcta": false,
+          "explicacion": "Incorrecta: Perón asumió en junio de 1946."
+        },
+        {
+          "letra": "B",
+          "texto": "Una movilización obrera reclamó la liberación de Perón, detenido días antes",
+          "correcta": true,
+          "explicacion": "Correcta: la jornada es considerada fundacional del peronismo (Día de la Lealtad)."
+        },
+        {
+          "letra": "C",
+          "texto": "Se sancionó el voto femenino",
+          "correcta": false,
+          "explicacion": "Incorrecta: el voto femenino se aprobó en 1947."
+        },
+        {
+          "letra": "D",
+          "texto": "Se produjo el golpe que derrocó a Perón",
+          "correcta": false,
+          "explicacion": "Incorrecta: el derrocamiento ocurrió en septiembre de 1955."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El hábeas corpus es una garantía constitucional que protege especialmente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a la propiedad privada",
+          "correcta": false,
+          "explicacion": "La propiedad se protege por otras vías, no por hábeas corpus."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho al voto",
+          "correcta": false,
+          "explicacion": "El voto se protege por la normativa electoral, no por hábeas corpus."
+        },
+        {
+          "letra": "C",
+          "texto": "La libertad física frente a detenciones ilegales",
+          "correcta": true,
+          "explicacion": "Correcto: el hábeas corpus protege la libertad ambulatoria ante arrestos arbitrarios."
+        },
+        {
+          "letra": "D",
+          "texto": "El acceso a datos personales",
+          "correcta": false,
+          "explicacion": "Eso corresponde al hábeas data, no al hábeas corpus."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La llamada Reforma Universitaria de 1918 se inició en la ciudad de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Córdoba",
+          "correcta": true,
+          "explicacion": "Correcta: estalló en la Universidad Nacional de Córdoba y se extendió por América Latina."
+        },
+        {
+          "letra": "B",
+          "texto": "Buenos Aires",
+          "correcta": false,
+          "explicacion": "Incorrecta: aunque tuvo impacto allí, el foco original fue Córdoba."
+        },
+        {
+          "letra": "C",
+          "texto": "La Plata",
+          "correcta": false,
+          "explicacion": "Incorrecta: el movimiento se difundió a La Plata, pero no nació allí."
+        },
+        {
+          "letra": "D",
+          "texto": "Rosario",
+          "correcta": false,
+          "explicacion": "Incorrecta: Rosario no fue el epicentro de la reforma de 1918."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El artículo 50 dispone que los diputados duran en su representación:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuatro años y son reelegibles, renovándose la Cámara por mitad cada bienio",
+          "correcta": true,
+          "explicacion": "El art. 50 de la Constitución Nacional establece que los diputados duran cuatro años, son reelegibles y la Sala se renueva por mitad cada bienio."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco años sin posibilidad de reelección",
+          "correcta": false,
+          "explicacion": "El art. 50 de la Constitución Nacional fija cuatro años y los declara reelegibles."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos años y la Cámara se renueva totalmente",
+          "correcta": false,
+          "explicacion": "El art. 50 de la Constitución Nacional fija cuatro años, con renovación por mitad cada bienio."
+        },
+        {
+          "letra": "D",
+          "texto": "Seis años, renovándose por tercios",
+          "correcta": false,
+          "explicacion": "Seis años y renovación por tercios corresponden a los senadores, art. 56 de la Constitución Nacional."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El período abierto tras 1930, caracterizado por el fraude electoral y la influencia conservadora, se conoce como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Proceso de Reorganización Nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta: así se autodenominó la dictadura de 1976-1983."
+        },
+        {
+          "letra": "B",
+          "texto": "La Década Infame",
+          "correcta": true,
+          "explicacion": "Correcta: nombre con que se designa al período 1930-1943, marcado por el fraude patriótico."
+        },
+        {
+          "letra": "C",
+          "texto": "La Restauración Conservadora liberal de 1916",
+          "correcta": false,
+          "explicacion": "Incorrecta: 1916 fue justamente el ascenso del radicalismo por voto popular."
+        },
+        {
+          "letra": "D",
+          "texto": "La Belle Époque argentina",
+          "correcta": false,
+          "explicacion": "Incorrecta: se asocia al esplendor de las primeras décadas del siglo, no al fraude."
+        }
+      ]
+    }
+  ]
+}

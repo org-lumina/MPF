@@ -1,0 +1,626 @@
+{
+  "examen_id": 16,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el principio de objetividad de la Ley Orgánica, el MPF debe:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obtener una condena en todos los casos en que ejerza la acción penal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. d), exige una aplicación justa de la ley y ejercicio racional del poder penal, no la condena a toda costa."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener reservados los criterios de persecución penal frente a la sociedad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso contradice el principio de transparencia (Ley N° 27.148, art. 9º inc. i); la objetividad se define en el inc. d)."
+        },
+        {
+          "letra": "C",
+          "texto": "Priorizar siempre el interés del Estado por sobre el del imputado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El principio de objetividad (Ley N° 27.148, art. 9º inc. d) busca un resguardo equilibrado de todos los valores y principios jurídicos vigentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Requerir la aplicación justa de la ley, procurando el resguardo equilibrado de todos los valores y principios jurídicos vigentes.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. d), define la objetividad como requerir la aplicación justa de la ley y el resguardo equilibrado de los valores y principios jurídicos."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El cura Miguel Hidalgo, con su 'Grito de Dolores' (1810), inició el proceso de independencia de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuba",
+          "correcta": false,
+          "explicacion": "Cuba se independizó mucho más tarde, a fines del siglo XIX."
+        },
+        {
+          "letra": "B",
+          "texto": "Perú",
+          "correcta": false,
+          "explicacion": "El proceso peruano tuvo otros protagonistas y fechas."
+        },
+        {
+          "letra": "C",
+          "texto": "Chile",
+          "correcta": false,
+          "explicacion": "La independencia chilena estuvo ligada a O'Higgins y San Martín, no a Hidalgo."
+        },
+        {
+          "letra": "D",
+          "texto": "México",
+          "correcta": true,
+          "explicacion": "Hidalgo dio el 'Grito de Dolores' en 1810, iniciando la lucha por la independencia de México."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 120, la función del Ministerio Público es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Juzgar a los funcionarios en juicio político",
+          "correcta": false,
+          "explicacion": "Juzgar en juicio político corresponde al Senado (art. 59 de la Constitución Nacional), no al Ministerio Público."
+        },
+        {
+          "letra": "B",
+          "texto": "Administrar el Poder Judicial",
+          "correcta": false,
+          "explicacion": "Administrar el Poder Judicial corresponde al Consejo de la Magistratura (art. 114 de la Constitución Nacional)."
+        },
+        {
+          "letra": "C",
+          "texto": "Dictar las leyes de la Nación",
+          "correcta": false,
+          "explicacion": "Dictar las leyes corresponde al Congreso (art. 75 de la Constitución Nacional); el art. 120 asigna al Ministerio Público promover la actuación de la justicia."
+        },
+        {
+          "letra": "D",
+          "texto": "Promover la actuación de la justicia en defensa de la legalidad y de los intereses generales de la sociedad",
+          "correcta": true,
+          "explicacion": "El art. 120 de la Constitución Nacional establece que el Ministerio Público tiene por función promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "En el sistema federal argentino, la competencia para declarar la guerra y firmar tratados internacionales corresponde:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A cada municipio",
+          "correcta": false,
+          "explicacion": "Los municipios no tienen competencia en relaciones internacionales."
+        },
+        {
+          "letra": "B",
+          "texto": "A las provincias individualmente",
+          "correcta": false,
+          "explicacion": "Las provincias no manejan relaciones exteriores ni declaran guerra; es competencia federal."
+        },
+        {
+          "letra": "C",
+          "texto": "Exclusivamente a la Corte Suprema",
+          "correcta": false,
+          "explicacion": "La Corte no maneja política exterior; eso corresponde a los poderes políticos federales."
+        },
+        {
+          "letra": "D",
+          "texto": "Al gobierno federal (Ejecutivo y Congreso según el caso)",
+          "correcta": true,
+          "explicacion": "Las relaciones exteriores, los tratados y la declaración de guerra son atribuciones del gobierno federal."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué batalla, en 1852, fue derrotado Juan Manuel de Rosas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Batalla de Pavón",
+          "correcta": false,
+          "explicacion": "Pavón (1861) enfrentó a Mitre con Urquiza, posterior a la caída de Rosas."
+        },
+        {
+          "letra": "B",
+          "texto": "Batalla de Cepeda de 1820",
+          "correcta": false,
+          "explicacion": "Esa Cepeda de 1820 marcó el fin del poder central directorial, no la caída de Rosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Batalla de Caseros",
+          "correcta": true,
+          "explicacion": "En Caseros (1852) el Ejército Grande de Urquiza derrotó a Rosas."
+        },
+        {
+          "letra": "D",
+          "texto": "Batalla de Vuelta de Obligado",
+          "correcta": false,
+          "explicacion": "Vuelta de Obligado (1845) fue un combate contra la flota anglofrancesa, no la caída de Rosas."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Las provincias argentinas conservan todo el poder que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Les otorguen los municipios",
+          "correcta": false,
+          "explicacion": "Los municipios derivan su autonomía de las provincias, no al revés."
+        },
+        {
+          "letra": "B",
+          "texto": "Decidan los tratados internacionales",
+          "correcta": false,
+          "explicacion": "Los tratados no determinan los poderes reservados de las provincias."
+        },
+        {
+          "letra": "C",
+          "texto": "El Presidente les autorice cada año",
+          "correcta": false,
+          "explicacion": "Los poderes provinciales no dependen de autorización anual del Presidente."
+        },
+        {
+          "letra": "D",
+          "texto": "No delegaron expresamente al gobierno federal",
+          "correcta": true,
+          "explicacion": "Correcto: el art. 121 establece que las provincias conservan los poderes no delegados a la Nación."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 1º, ¿qué forma de gobierno adopta la Nación Argentina?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Representativa republicana federal",
+          "correcta": true,
+          "explicacion": "El art. 1º de la Constitución Nacional establece que la Nación adopta para su gobierno la forma representativa republicana federal."
+        },
+        {
+          "letra": "B",
+          "texto": "Democrática directa confederal",
+          "correcta": false,
+          "explicacion": "El art. 1º de la Constitución Nacional no adopta la democracia directa ni la confederación; además el art. 22 indica que el pueblo no delibera ni gobierna sino por sus representantes."
+        },
+        {
+          "letra": "C",
+          "texto": "Monárquica constitucional federal",
+          "correcta": false,
+          "explicacion": "El art. 1º de la Constitución Nacional no establece forma monárquica alguna."
+        },
+        {
+          "letra": "D",
+          "texto": "Representativa parlamentaria unitaria",
+          "correcta": false,
+          "explicacion": "El art. 1º de la Constitución Nacional no menciona el sistema parlamentario ni la forma unitaria."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según los artículos 52 y 53, ¿qué corresponde a la Cámara de Diputados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La iniciativa de leyes sobre contribuciones y reclutamiento de tropas, y el derecho de acusar ante el Senado",
+          "correcta": true,
+          "explicacion": "El art. 52 de la Constitución Nacional le da la iniciativa de leyes sobre contribuciones y reclutamiento de tropas, y el art. 53 el derecho de acusar ante el Senado."
+        },
+        {
+          "letra": "B",
+          "texto": "Designar al Procurador General de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 52 de la Constitución Nacional no atribuye esa función; el Ministerio Público se regula en el art. 120."
+        },
+        {
+          "letra": "C",
+          "texto": "Autorizar el estado de sitio por ataque exterior",
+          "correcta": false,
+          "explicacion": "Autorizar el estado de sitio por ataque exterior corresponde al Senado, art. 61 de la Constitución Nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Juzgar a los acusados en juicio político",
+          "correcta": false,
+          "explicacion": "Juzgar en juicio político corresponde al Senado según el art. 59 de la Constitución Nacional."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El golpe de Estado de 1973 en Chile derrocó al presidente socialista:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Salvador Allende",
+          "correcta": true,
+          "explicacion": "Correcta: Allende, electo en 1970, fue derrocado el 11 de septiembre de 1973."
+        },
+        {
+          "letra": "B",
+          "texto": "Eduardo Frei Montalva",
+          "correcta": false,
+          "explicacion": "Incorrecta: Frei fue presidente democristiano antes de Allende."
+        },
+        {
+          "letra": "C",
+          "texto": "Patricio Aylwin",
+          "correcta": false,
+          "explicacion": "Incorrecta: Aylwin fue el primer presidente tras el retorno a la democracia en 1990."
+        },
+        {
+          "letra": "D",
+          "texto": "Augusto Pinochet",
+          "correcta": false,
+          "explicacion": "Incorrecta: Pinochet fue quien encabezó el golpe, no el derrocado."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 2º, el Gobierno federal:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es laico y no sostiene culto alguno",
+          "correcta": false,
+          "explicacion": "El art. 2º de la Constitución Nacional expresamente sostiene el culto católico apostólico romano."
+        },
+        {
+          "letra": "B",
+          "texto": "Declara obligatorio el culto católico para todos los habitantes",
+          "correcta": false,
+          "explicacion": "El art. 2º de la Constitución Nacional no impone el culto a los habitantes; el art. 14 garantiza profesar libremente el culto."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohíbe toda religión salvo la católica",
+          "correcta": false,
+          "explicacion": "El art. 2º de la Constitución Nacional no prohíbe otros cultos; el art. 14 reconoce la libertad de culto."
+        },
+        {
+          "letra": "D",
+          "texto": "Sostiene el culto católico apostólico romano",
+          "correcta": true,
+          "explicacion": "El art. 2º de la Constitución Nacional dispone que el Gobierno federal sostiene el culto católico apostólico romano."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El acto de hacerse cargo y responder por las consecuencias de las decisiones tomadas en un cargo público se llama:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Privilegio hereditario",
+          "correcta": false,
+          "explicacion": "Los cargos públicos no se heredan ni eximen de responsabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Anonimato funcional",
+          "correcta": false,
+          "explicacion": "La gestión pública es responsable y sujeta a control, no anónima."
+        },
+        {
+          "letra": "C",
+          "texto": "Responsabilidad de los funcionarios",
+          "correcta": true,
+          "explicacion": "Correcto: los funcionarios deben rendir cuentas y responder por sus actos."
+        },
+        {
+          "letra": "D",
+          "texto": "Inmunidad absoluta",
+          "correcta": false,
+          "explicacion": "Ningún funcionario está exento de responder por sus actos."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Juan Domingo Perón asumió por primera vez la presidencia en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1943",
+          "correcta": false,
+          "explicacion": "Incorrecta: 1943 fue el golpe en el que Perón comenzó a ascender, no su presidencia."
+        },
+        {
+          "letra": "B",
+          "texto": "1949",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1949 se reformó la Constitución durante su gobierno."
+        },
+        {
+          "letra": "C",
+          "texto": "1946",
+          "correcta": true,
+          "explicacion": "Correcta: ganó las elecciones de febrero de 1946 y asumió en junio."
+        },
+        {
+          "letra": "D",
+          "texto": "1945",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1945 ocurrió el 17 de octubre, pero aún no era presidente."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La independencia del Poder Judicial es importante porque:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Le permite al presidente dictar las sentencias",
+          "correcta": false,
+          "explicacion": "La independencia impide que el Ejecutivo decida las causas."
+        },
+        {
+          "letra": "B",
+          "texto": "Obliga a los jueces a seguir las órdenes del Congreso",
+          "correcta": false,
+          "explicacion": "Los jueces no reciben órdenes del Congreso; aplican la ley con independencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Permite que los jueces resuelvan conforme a derecho sin presiones de los otros poderes",
+          "correcta": true,
+          "explicacion": "La independencia garantiza imparcialidad y que las decisiones se basen en la ley, no en presiones políticas."
+        },
+        {
+          "letra": "D",
+          "texto": "Hace que los jueces dependan del partido gobernante",
+          "correcta": false,
+          "explicacion": "La dependencia partidaria es lo contrario de la independencia judicial."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién fue el presidente argentino del período 1874-1880, durante cuya gestión se federalizó Buenos Aires?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nicolás Avellaneda",
+          "correcta": true,
+          "explicacion": "Avellaneda gobernó 1874-1880 y en 1880 se federalizó Buenos Aires."
+        },
+        {
+          "letra": "B",
+          "texto": "Julio A. Roca",
+          "correcta": false,
+          "explicacion": "Roca sucedió a Avellaneda a partir de 1880."
+        },
+        {
+          "letra": "C",
+          "texto": "Domingo F. Sarmiento",
+          "correcta": false,
+          "explicacion": "Sarmiento gobernó hasta 1874."
+        },
+        {
+          "letra": "D",
+          "texto": "Carlos Pellegrini",
+          "correcta": false,
+          "explicacion": "Pellegrini fue presidente recién en 1890-1892."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La Ley 13.010, sancionada en 1947, consagró:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La creación de la CGT",
+          "correcta": false,
+          "explicacion": "Incorrecta: la CGT se había fundado en 1930."
+        },
+        {
+          "letra": "B",
+          "texto": "La nacionalización de los ferrocarriles",
+          "correcta": false,
+          "explicacion": "Incorrecta: la nacionalización ferroviaria fue una medida económica diferente del peronismo."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho al voto de las mujeres en Argentina",
+          "correcta": true,
+          "explicacion": "Correcta: estableció la igualdad de derechos políticos entre varones y mujeres."
+        },
+        {
+          "letra": "D",
+          "texto": "El voto secreto y obligatorio para varones",
+          "correcta": false,
+          "explicacion": "Incorrecta: eso lo había hecho la Ley Sáenz Peña en 1912."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 54, el Senado se compone de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un senador por cada distrito electoral",
+          "correcta": false,
+          "explicacion": "El art. 54 de la Constitución Nacional fija tres senadores por distrito, no uno."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos senadores por cada provincia",
+          "correcta": false,
+          "explicacion": "El art. 54 de la Constitución Nacional dispone tres senadores por provincia, no dos."
+        },
+        {
+          "letra": "C",
+          "texto": "Un número proporcional a la población de cada provincia",
+          "correcta": false,
+          "explicacion": "El art. 54 de la Constitución Nacional fija un número igual de tres por provincia; la proporcionalidad poblacional rige para Diputados (art. 45)."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres senadores por cada provincia y tres por la ciudad de Buenos Aires",
+          "correcta": true,
+          "explicacion": "El art. 54 de la Constitución Nacional establece tres senadores por cada provincia y tres por la ciudad de Buenos Aires."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el CPPF (Ley N° 27.063 / 27.482), ¿qué principios rigen el proceso acusatorio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Igualdad entre las partes, oralidad, publicidad, contradicción, concentración, inmediación, simplicidad, celeridad y desformalización",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 2: enumera esos principios del proceso acusatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Inquisitividad, reserva total y delegación de funciones",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), arts. 2 y 9: el proceso es acusatorio y prohíbe la delegación de funciones jurisdiccionales."
+        },
+        {
+          "letra": "C",
+          "texto": "Escritura, secreto, mediación y prejudicialidad",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 2: el proceso es oral y público, no escrito y secreto."
+        },
+        {
+          "letra": "D",
+          "texto": "Gratuidad, sumariedad y prohibición de mediación",
+          "correcta": false,
+          "explicacion": "Esas características corresponden al procedimiento de la Ley N° 26.485 (arts. 20 y 28), no al art. 2 del CPPF."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El gobierno de Arturo Frondizi fue derrocado por un golpe militar en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1958",
+          "correcta": false,
+          "explicacion": "Incorrecta: 1958 fue el año en que asumió, no en que cayó."
+        },
+        {
+          "letra": "B",
+          "texto": "1955",
+          "correcta": false,
+          "explicacion": "Incorrecta: 1955 fue el derrocamiento de Perón."
+        },
+        {
+          "letra": "C",
+          "texto": "1966",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1966 el golpe derrocó a Illia, no a Frondizi."
+        },
+        {
+          "letra": "D",
+          "texto": "1962",
+          "correcta": true,
+          "explicacion": "Correcta: fue depuesto en 1962, tras el triunfo electoral del peronismo en algunas provincias."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La reforma constitucional argentina de 1994 otorgó jerarquía constitucional a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una serie de tratados y declaraciones internacionales de derechos humanos (art. 75 inc. 22).",
+          "correcta": true,
+          "explicacion": "El art. 75 inc. 22 enumera tratados de DDHH con jerarquía constitucional, como la Declaración Universal y el Pacto de San José."
+        },
+        {
+          "letra": "B",
+          "texto": "Las constituciones provinciales.",
+          "correcta": false,
+          "explicacion": "Las constituciones provinciales están subordinadas a la Nacional, no equiparadas a ella por ese inciso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo las leyes dictadas por el Congreso después de 1994.",
+          "correcta": false,
+          "explicacion": "La jerarquía constitucional alcanza a tratados de DDHH, no a leyes ordinarias."
+        },
+        {
+          "letra": "D",
+          "texto": "Los decretos del Poder Ejecutivo.",
+          "correcta": false,
+          "explicacion": "Los decretos no adquieren jerarquía constitucional."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Asumir las consecuencias de los propios actos y cumplir con los compromisos asumidos es una expresión del valor de la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Indiferencia",
+          "correcta": false,
+          "explicacion": "Es lo opuesto a hacerse cargo de los propios actos."
+        },
+        {
+          "letra": "B",
+          "texto": "Competitividad",
+          "correcta": false,
+          "explicacion": "Se relaciona con rivalizar para superar a otros, no con asumir consecuencias."
+        },
+        {
+          "letra": "C",
+          "texto": "Obediencia ciega",
+          "correcta": false,
+          "explicacion": "Implica acatar sin reflexión, distinto de la responsabilidad personal."
+        },
+        {
+          "letra": "D",
+          "texto": "Responsabilidad",
+          "correcta": true,
+          "explicacion": "Correcto: la responsabilidad implica responder por los propios actos y deberes."
+        }
+      ]
+    }
+  ]
+}

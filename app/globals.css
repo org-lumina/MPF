@@ -80,10 +80,10 @@ h1.hero-title em { font-style: normal; color: var(--yellow); }
 .mascot-tag { position: absolute; z-index: 4; top: 158px; right: 30px; background: var(--teal); color: #fff; border: var(--outline); border-radius: 999px; padding: 5px 12px; font-weight: 800; font-size: 12px; box-shadow: 3px 3px 0 var(--ink); transform: rotate(-4deg); }
 
 /* sello de precio en el hero */
-.hero-sello { position: absolute; z-index: 4; bottom: 24px; right: 26px; background: #fff; border: var(--outline); border-radius: 18px; box-shadow: var(--shadow); padding: 14px 20px; text-align: center; transform: rotate(-3deg); color: var(--ink); max-width: 230px; }
-.hero-sello .precio { font-family: var(--font-display); font-weight: 700; font-size: 34px; line-height: 1; }
-.hero-sello .sub { font-family: var(--font-display); font-weight: 700; font-size: 19px; line-height: 1.08; margin-top: 5px; }
-@media (max-width: 640px) { .hero-sello { bottom: 14px; right: 14px; padding: 10px 14px; max-width: 180px; } .hero-sello .precio { font-size: 27px; } .hero-sello .sub { font-size: 15px; } }
+.hero-sello { position: absolute; z-index: 4; bottom: 24px; right: 26px; background: #fff; border: var(--outline); border-radius: 18px; box-shadow: var(--shadow); padding: 16px 22px; text-align: center; transform: rotate(-3deg); color: var(--ink); max-width: 250px; }
+.hero-sello .precio { display: block; font-family: var(--font-display); font-weight: 700; font-size: 36px; line-height: 1; }
+.hero-sello .sub { display: block; font-family: var(--font-display); font-weight: 700; font-size: 21px; line-height: 1.1; margin-top: 9px; color: var(--yellow); text-shadow: 1.5px 1.5px 0 rgba(28, 27, 51, 0.45); }
+@media (max-width: 640px) { .hero-sello { bottom: 14px; right: 14px; padding: 12px 16px; max-width: 190px; } .hero-sello .precio { font-size: 28px; } .hero-sello .sub { font-size: 16px; margin-top: 6px; } }
 
 /* trust strip */
 .strip { display: flex; flex-wrap: wrap; gap: 10px 22px; justify-content: center; margin: 22px 0 6px; }
@@ -161,6 +161,29 @@ h1.hero-title em { font-style: normal; color: var(--yellow); }
 .foot-brand { display: flex; align-items: center; gap: 12px; }
 .foot-note { font-weight: 700; color: var(--grey-ink); font-size: 14px; max-width: 420px; }
 
+/* ---------- agrupaciones / modos (grid de 2) ---------- */
+.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 22px; }
+.agr-card { background: #fff; padding: 26px 26px 28px; display: flex; flex-direction: column; box-shadow: var(--shadow); }
+.agr-card:hover { transform: translate(-2px, -3px); box-shadow: var(--shadow-lg); }
+.agr-icon { font-size: 40px; line-height: 1; }
+.agr-name { font-family: var(--font-display); font-weight: 700; font-size: clamp(22px, 3vw, 30px); margin: 12px 0 8px; }
+.agr-desc { font-weight: 600; color: var(--ink); margin-bottom: 18px; flex: 1; }
+.caso-fijo { background: var(--paper-2); border: 3px solid var(--ink); border-radius: 16px; padding: 14px 18px; margin-bottom: 18px; box-shadow: 4px 4px 0 var(--ink); }
+.caso-fijo h2 { font-size: 18px; margin-bottom: 6px; }
+.agr-lista { flex: 1; margin: 0 0 18px; padding-left: 1.1rem; }
+.agr-lista li { font-weight: 600; margin: 6px 0; }
+@media (max-width: 760px) { .grid-2 { grid-template-columns: 1fr; } }
+
+/* esquema sinóptico del caso (presentación de datos existentes) */
+.esquema-caso { border: 3px solid var(--ink); border-radius: 14px; background: var(--paper-2); padding: 12px 16px; margin: 12px 0 16px; box-shadow: 4px 4px 0 var(--ink); }
+.esquema-fila { display: grid; grid-template-columns: 92px 1fr; gap: 12px; padding: 6px 0; align-items: start; }
+.esquema-fila + .esquema-fila { border-top: 1px dashed rgba(28,27,51,0.25); }
+.esquema-rot { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; font-size: 11px; color: var(--teal-dark); letter-spacing: 0.5px; }
+.reso-cards { display: flex; flex-direction: column; gap: 10px; }
+.reso-card { border: 2.5px solid var(--ink); border-radius: 12px; background: #fff; padding: 11px 13px; box-shadow: 3px 3px 0 var(--ink); font-weight: 500; line-height: 1.4; }
+.reso-card-tit { color: var(--teal-dark); }
+.bloque-resultados { background: #fff; }
+
 /* ---------- MODAL ---------- */
 .modal-overlay { position: fixed; inset: 0; z-index: 100; background: rgba(28, 27, 51, 0.55); display: grid; place-items: center; padding: 20px; }
 .modal-overlay.blur { background: rgba(28, 27, 51, 0.32); backdrop-filter: blur(7px); -webkit-backdrop-filter: blur(7px); }
@@ -168,7 +191,7 @@ h1.hero-title em { font-style: normal; color: var(--yellow); }
 .precio-modal .precio-num { font-family: var(--font-display); font-weight: 700; font-size: 40px; line-height: 1; }
 .precio-modal .precio-sub { font-weight: 800; font-size: 13px; }
 .modal { background: var(--paper); border: var(--outline); border-radius: var(--radius); box-shadow: var(--shadow-lg); max-width: 560px; width: 100%; padding: 30px 30px 26px; position: relative; }
-.modal-kicker { font-weight: 800; letter-spacing: 2px; text-transform: uppercase; font-size: 12px; color: var(--teal-dark); }
+.modal-kicker { font-weight: 800; letter-spacing: 2px; text-transform: uppercase; font-size: 12px; color: var(--teal-dark); padding-right: 52px; }
 .modal h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(24px, 4vw, 34px); margin: 4px 0 12px; }
 .modal p { font-weight: 600; font-size: 16px; margin-bottom: 12px; }
 .modal ul { margin: 0 0 16px 18px; font-weight: 600; }

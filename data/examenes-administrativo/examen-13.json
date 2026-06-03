@@ -1,0 +1,626 @@
+{
+  "examen_id": 13,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El Poder Judicial tiene como función principal:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Interpretar y aplicar las leyes para resolver conflictos",
+          "correcta": true,
+          "explicacion": "El Poder Judicial administra justicia aplicando la ley a los casos concretos."
+        },
+        {
+          "letra": "B",
+          "texto": "Dictar y derogar las leyes nacionales",
+          "correcta": false,
+          "explicacion": "Dictar leyes corresponde al Poder Legislativo."
+        },
+        {
+          "letra": "C",
+          "texto": "Administrar el país y conducir la política exterior",
+          "correcta": false,
+          "explicacion": "Esas son funciones del Poder Ejecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Recaudar los impuestos nacionales",
+          "correcta": false,
+          "explicacion": "La recaudación es una función administrativa del Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 16, la igualdad es la base de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La libertad de prensa",
+          "correcta": false,
+          "explicacion": "La libertad de prensa se vincula al art. 14 y al art. 32 de la Constitución Nacional, no al art. 16."
+        },
+        {
+          "letra": "B",
+          "texto": "El sufragio universal",
+          "correcta": false,
+          "explicacion": "El sufragio universal se regula en el art. 37 de la Constitución Nacional; el art. 16 se refiere al impuesto y las cargas públicas."
+        },
+        {
+          "letra": "C",
+          "texto": "El impuesto y de las cargas públicas",
+          "correcta": true,
+          "explicacion": "El art. 16 de la Constitución Nacional establece que la igualdad es la base del impuesto y de las cargas públicas."
+        },
+        {
+          "letra": "D",
+          "texto": "La defensa en juicio",
+          "correcta": false,
+          "explicacion": "La defensa en juicio surge del art. 18 de la Constitución Nacional, no del art. 16."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.861, ¿en qué cargo se puede ingresar como empleado al MPF mediante el sistema de concursos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Directamente en el cargo de secretario.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 4º, restringe el ingreso al cargo de menor jerarquía."
+        },
+        {
+          "letra": "B",
+          "texto": "En el cargo de menor jerarquía.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 4º, dispone que se ingresa como empleado en el cargo de menor jerarquía mediante concurso."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier cargo del escalafón intermedio.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 4º, limita el ingreso al cargo de menor jerarquía; los demás se asignan por la normativa vigente."
+        },
+        {
+          "letra": "D",
+          "texto": "En cualquier cargo letrado sin concurso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los cargos letrados también se concursan (Ley N° 26.861, arts. 4º y 8º); como empleado se ingresa en el cargo de menor jerarquía."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley Orgánica, el MPF ejerce sus funciones con autonomía funcional, lo que significa que actúa:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bajo las directivas que imparta el Ministerio de Justicia y Derechos Humanos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 5º, prevé la relación con el PEN por intermedio de ese Ministerio, pero el art. 4º garantiza autonomía sin directivas de órganos ajenos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sujeto a las instrucciones de la Corte Suprema de Justicia de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El MPF es independiente incluso del Poder Judicial (material 'Qué es el MPF'); la Ley N° 27.148, art. 4º, consagra su autonomía funcional."
+        },
+        {
+          "letra": "C",
+          "texto": "Conforme a las órdenes que dicte el Congreso de la Nación.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 4º, establece autonomía funcional sin sujeción a directivas de órganos ajenos a su estructura."
+        },
+        {
+          "letra": "D",
+          "texto": "Sin sujeción a instrucción o directivas emanadas de órganos ajenos a su estructura.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 4º, dispone que el MPF ejerce sus funciones con autonomía funcional, sin sujeción a instrucción o directivas de órganos ajenos a su estructura."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 23, durante el estado de sitio el presidente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Queda relevado de toda limitación constitucional",
+          "correcta": false,
+          "explicacion": "El art. 23 de la Constitución Nacional limita el poder presidencial durante el estado de sitio."
+        },
+        {
+          "letra": "B",
+          "texto": "No podrá condenar por sí ni aplicar penas; su poder se limita a arrestar o trasladar personas",
+          "correcta": true,
+          "explicacion": "El art. 23 de la Constitución Nacional dispone que el presidente no puede condenar ni aplicar penas y que su poder se limita a arrestar o trasladar personas."
+        },
+        {
+          "letra": "C",
+          "texto": "Asume todas las funciones judiciales",
+          "correcta": false,
+          "explicacion": "El art. 23 de la Constitución Nacional limita su poder; además el art. 109 le prohíbe ejercer funciones judiciales."
+        },
+        {
+          "letra": "D",
+          "texto": "Puede condenar y aplicar penas por sí mismo",
+          "correcta": false,
+          "explicacion": "El art. 23 de la Constitución Nacional prohíbe expresamente que el presidente condene o aplique penas por sí."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Qué se entiende por 'división de poderes' en una república?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La existencia de varios partidos políticos",
+          "correcta": false,
+          "explicacion": "El pluripartidismo no equivale a la división de poderes del Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "El reparto del territorio entre las provincias",
+          "correcta": false,
+          "explicacion": "Eso describe la organización federal, no la división de poderes."
+        },
+        {
+          "letra": "C",
+          "texto": "La separación de funciones entre Ejecutivo, Legislativo y Judicial para evitar abusos",
+          "correcta": true,
+          "explicacion": "Correcto: distribuye el poder y permite el control recíproco entre órganos."
+        },
+        {
+          "letra": "D",
+          "texto": "La distribución del presupuesto entre ministerios",
+          "correcta": false,
+          "explicacion": "Es una cuestión administrativa, no la división de poderes."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La primera Junta Militar que gobernó tras el golpe de 1976 estuvo encabezada como presidente por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reynaldo Bignone",
+          "correcta": false,
+          "explicacion": "Incorrecta: Bignone fue el último presidente de facto (1982-1983)."
+        },
+        {
+          "letra": "B",
+          "texto": "Leopoldo F. Galtieri",
+          "correcta": false,
+          "explicacion": "Incorrecta: Galtieri presidió en 1981-1982, durante la guerra de Malvinas."
+        },
+        {
+          "letra": "C",
+          "texto": "Roberto Viola",
+          "correcta": false,
+          "explicacion": "Incorrecta: Viola sucedió a Videla en 1981, no fue el primero."
+        },
+        {
+          "letra": "D",
+          "texto": "Jorge Rafael Videla",
+          "correcta": true,
+          "explicacion": "Correcta: Videla presidió la primera etapa del Proceso (1976-1981)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.743, la rectificación registral del sexo y nombre de pila respecto de las obligaciones jurídicas anteriores de la persona:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anula el vínculo de adopción preexistente",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 7: las relaciones del derecho de familia, incluida la adopción, se mantienen inmodificables."
+        },
+        {
+          "letra": "B",
+          "texto": "No altera la titularidad de los derechos y obligaciones jurídicas previas",
+          "correcta": true,
+          "explicacion": "Ley N° 26.743, art. 7: la rectificación no alterará la titularidad de los derechos y obligaciones jurídicas que correspondieran con anterioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Extingue todas las obligaciones contraídas con anterioridad",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 7: no altera la titularidad de derechos y obligaciones previas, por lo que no las extingue."
+        },
+        {
+          "letra": "D",
+          "texto": "Modifica automáticamente las relaciones de familia previas",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 7: las relaciones del derecho de familia se mantienen inmodificables."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El amparo es una garantía que permite reclamar judicialmente ante:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier desacuerdo político con el gobierno",
+          "correcta": false,
+          "explicacion": "El amparo protege derechos, no canaliza meros desacuerdos políticos."
+        },
+        {
+          "letra": "B",
+          "texto": "La elección de autoridades escolares",
+          "correcta": false,
+          "explicacion": "No es la finalidad típica del amparo constitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "Actos que lesionan derechos y garantías de manera manifiestamente arbitraria",
+          "correcta": true,
+          "explicacion": "Correcto: el amparo procede contra actos u omisiones que vulneren derechos de modo arbitrario o ilegal."
+        },
+        {
+          "letra": "D",
+          "texto": "Las decisiones deportivas de un club",
+          "correcta": false,
+          "explicacion": "No es una vía para asuntos privados deportivos comunes."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Qué se busca al educar en valores como la solidaridad y la cooperación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fomentar el individualismo extremo",
+          "correcta": false,
+          "explicacion": "El individualismo extremo es contrario a la solidaridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Promover la rivalidad permanente",
+          "correcta": false,
+          "explicacion": "La rivalidad constante no es cooperación ni solidaridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Desentenderse de los demás",
+          "correcta": false,
+          "explicacion": "Desentenderse del otro es lo opuesto a la solidaridad."
+        },
+        {
+          "letra": "D",
+          "texto": "Fortalecer la vida en común y la ayuda mutua entre las personas",
+          "correcta": true,
+          "explicacion": "Correcto: la solidaridad y la cooperación promueven el bien común y la convivencia."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué característica distinguió el proceso de independencia de Brasil respecto del resto de Hispanoamérica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se independizó de Portugal y constituyó un Imperio encabezado por Pedro I",
+          "correcta": true,
+          "explicacion": "Brasil se separó de Portugal en 1822 y formó un Imperio bajo Pedro I, caso singular en la región."
+        },
+        {
+          "letra": "B",
+          "texto": "Fue una guerra civil de veinte años",
+          "correcta": false,
+          "explicacion": "La independencia brasileña fue relativamente pacífica, no una larga guerra civil."
+        },
+        {
+          "letra": "C",
+          "texto": "Se convirtió de inmediato en una república federal",
+          "correcta": false,
+          "explicacion": "Brasil fue primero un Imperio; la república llegó recién en 1889."
+        },
+        {
+          "letra": "D",
+          "texto": "Quedó bajo dominio español",
+          "correcta": false,
+          "explicacion": "Brasil era colonia portuguesa, no española."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El principio de igualdad ante la ley, en sentido constitucional, significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo los funcionarios públicos están sujetos a la ley.",
+          "correcta": false,
+          "explicacion": "Todos los habitantes están sometidos a la ley por igual."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas las personas deben recibir exactamente el mismo trato sin importar sus diferencias.",
+          "correcta": false,
+          "explicacion": "La igualdad admite distinciones razonables; no exige trato idéntico ante situaciones distintas."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe darse igual trato a quienes están en iguales circunstancias, sin privilegios ni discriminaciones arbitrarias.",
+          "correcta": true,
+          "explicacion": "El art. 16 consagra la igualdad ante la ley: igual trato en igualdad de condiciones, sin distinciones arbitrarias."
+        },
+        {
+          "letra": "D",
+          "texto": "Los más ricos tienen mayores derechos que los demás.",
+          "correcta": false,
+          "explicacion": "Eso contradice la igualdad: no hay privilegios de sangre ni de fortuna."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El Reglamento para el Ingreso Democrático e Igualitario al MPF fue aprobado por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Resolución PGN N° 751/13.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 751/13 aprobó el Reglamento para la Selección de Magistrados/as del MPF; el de ingreso es la Res. PGN N° 507/14."
+        },
+        {
+          "letra": "B",
+          "texto": "La Resolución PGN N° 128/10.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 128/10 es el Régimen de Funcionarios y Empleados del MPF; el Reglamento de ingreso es la Res. PGN N° 507/14."
+        },
+        {
+          "letra": "C",
+          "texto": "La Resolución PGN N° 507/14.",
+          "correcta": true,
+          "explicacion": "Correcta. El Reglamento para el Ingreso Democrático e Igualitario al MPF fue aprobado por Resolución PGN N° 507/14, reglamentaria de la Ley N° 26.861."
+        },
+        {
+          "letra": "D",
+          "texto": "La Resolución PGN N° 3329/16.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN N° 3329/16 modificó el Reglamento; éste fue aprobado por la Res. PGN N° 507/14."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El Poder Ejecutivo nacional es ejercido por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "El Congreso ejerce el Poder Legislativo, no el Ejecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "La Corte Suprema de Justicia",
+          "correcta": false,
+          "explicacion": "La Corte encabeza el Poder Judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "El jefe de Gabinete de Ministros en forma exclusiva",
+          "correcta": false,
+          "explicacion": "El jefe de Gabinete colabora con el presidente, pero el titular del Ejecutivo es el presidente."
+        },
+        {
+          "letra": "D",
+          "texto": "El presidente de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 87 CN establece que el Poder Ejecutivo es desempeñado por un ciudadano con el título de presidente."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La batalla de Chacabuco (1817), que abrió a San Martín el camino a Santiago de Chile, se libró en territorio:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Chileno",
+          "correcta": true,
+          "explicacion": "Chacabuco se libró en Chile, tras el cruce de los Andes, y permitió tomar Santiago."
+        },
+        {
+          "letra": "B",
+          "texto": "Argentino",
+          "correcta": false,
+          "explicacion": "Chacabuco no se libró en territorio argentino sino chileno."
+        },
+        {
+          "letra": "C",
+          "texto": "Peruano",
+          "correcta": false,
+          "explicacion": "La campaña al Perú fue posterior; Chacabuco fue en Chile."
+        },
+        {
+          "letra": "D",
+          "texto": "Boliviano (Alto Perú)",
+          "correcta": false,
+          "explicacion": "El Alto Perú fue escenario de otras campañas, no de Chacabuco."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué innovación tecnológica permitió exportar carne enfriada y congelada a Europa hacia fines del siglo XIX?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El alambrado",
+          "correcta": false,
+          "explicacion": "El alambrado delimitó campos pero no conservaba la carne."
+        },
+        {
+          "letra": "B",
+          "texto": "El telégrafo",
+          "correcta": false,
+          "explicacion": "El telégrafo facilitó las comunicaciones, no la conservación de carne."
+        },
+        {
+          "letra": "C",
+          "texto": "El frigorífico y el buque frigorífico",
+          "correcta": true,
+          "explicacion": "Los frigoríficos y los barcos frigoríficos permitieron exportar carne enfriada y congelada."
+        },
+        {
+          "letra": "D",
+          "texto": "El ferrocarril a vapor",
+          "correcta": false,
+          "explicacion": "El ferrocarril fue clave para el transporte interno, pero no para conservar carne en travesías marítimas."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), el impedimento por parentesco alcanza a quien tenga lazos de afinidad o consanguinidad con un magistrado o funcionario hasta el:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuarto grado, en cualquier dependencia del país.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 14, alcanza hasta el segundo grado y se circunscribe al mismo distrito, fuero y área."
+        },
+        {
+          "letra": "B",
+          "texto": "Tercer grado, en el mismo fuero exclusivamente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 14, fija el segundo grado y exige coincidencia de distrito, fuero y área."
+        },
+        {
+          "letra": "C",
+          "texto": "Segundo grado, en el mismo distrito, fuero y área de especialización a los que aspire ingresar.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 14, fija el impedimento por parentesco hasta el segundo grado en el mismo distrito, fuero y área."
+        },
+        {
+          "letra": "D",
+          "texto": "Primer grado únicamente, sin importar el distrito.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 14, abarca hasta el segundo grado, no solo el primero."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué año se constituyó el Primer Triunvirato en Buenos Aires?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1811",
+          "correcta": true,
+          "explicacion": "El Primer Triunvirato se constituyó en 1811, reemplazando a la Junta."
+        },
+        {
+          "letra": "B",
+          "texto": "1813",
+          "correcta": false,
+          "explicacion": "En 1813 se reunió la Asamblea del Año XIII, no se formó el Primer Triunvirato."
+        },
+        {
+          "letra": "C",
+          "texto": "1814",
+          "correcta": false,
+          "explicacion": "En 1814 se creó el Directorio, no el Primer Triunvirato."
+        },
+        {
+          "letra": "D",
+          "texto": "1810",
+          "correcta": false,
+          "explicacion": "En 1810 se formó la Primera Junta, no el Triunvirato."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién asumió la presidencia en 1880 y se asocia al lema \"Paz y administración\"?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bartolomé Mitre",
+          "correcta": false,
+          "explicacion": "Mitre había sido presidente entre 1862 y 1868."
+        },
+        {
+          "letra": "B",
+          "texto": "Julio Argentino Roca",
+          "correcta": true,
+          "explicacion": "Roca asumió en 1880 con el lema \"Paz y administración\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Miguel Juárez Celman",
+          "correcta": false,
+          "explicacion": "Juárez Celman fue presidente recién en 1886."
+        },
+        {
+          "letra": "D",
+          "texto": "Nicolás Avellaneda",
+          "correcta": false,
+          "explicacion": "Avellaneda dejó la presidencia en 1880."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué obra de Juan Bautista Alberdi influyó decisivamente en la redacción de la Constitución de 1853?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Facundo. Civilización y barbarie",
+          "correcta": false,
+          "explicacion": "Facundo es obra de Sarmiento, de carácter ensayístico y político, no constitucional."
+        },
+        {
+          "letra": "B",
+          "texto": "El Matadero",
+          "correcta": false,
+          "explicacion": "El Matadero es un relato de Echeverría, no un texto doctrinario constitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "Las Bases y puntos de partida para la organización política de la República Argentina",
+          "correcta": true,
+          "explicacion": "Las Bases de Alberdi fueron la principal fuente doctrinaria de la Constitución de 1853."
+        },
+        {
+          "letra": "D",
+          "texto": "El Dogma Socialista",
+          "correcta": false,
+          "explicacion": "El Dogma Socialista es de Esteban Echeverría y la Generación del 37."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "examen_id": 10,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La expresión 'derechos humanos' hace referencia a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente los derechos reconocidos por leyes nacionales.",
+          "correcta": false,
+          "explicacion": "Trascienden las leyes nacionales y se reconocen en tratados internacionales."
+        },
+        {
+          "letra": "B",
+          "texto": "Derechos que solo poseen los ciudadanos de un Estado.",
+          "correcta": false,
+          "explicacion": "Los derechos humanos corresponden a toda persona, no solo a los ciudadanos de un país."
+        },
+        {
+          "letra": "C",
+          "texto": "Derechos inherentes a todas las personas por su sola condición humana, universales e inalienables.",
+          "correcta": true,
+          "explicacion": "Son universales, indivisibles e inalienables, no dependen del Estado para existir, solo de su reconocimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Privilegios otorgados por el gobierno y que este puede revocar.",
+          "correcta": false,
+          "explicacion": "No son privilegios revocables; son inalienables e inherentes a la persona."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué título asumió San Martín en el Perú tras la proclamación de la independencia en 1821?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Emperador del Perú",
+          "correcta": false,
+          "explicacion": "San Martín no tomó título imperial."
+        },
+        {
+          "letra": "B",
+          "texto": "Virrey del Perú",
+          "correcta": false,
+          "explicacion": "El cargo de virrey correspondía al régimen colonial que se combatía."
+        },
+        {
+          "letra": "C",
+          "texto": "Presidente de la República",
+          "correcta": false,
+          "explicacion": "San Martín no asumió como presidente sino con otro título de gobierno."
+        },
+        {
+          "letra": "D",
+          "texto": "Protector del Perú",
+          "correcta": true,
+          "explicacion": "San Martín asumió como 'Protector del Perú' tras proclamar la independencia."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.791, ¿qué incorporó el inciso 4° del art. 80 del Código Penal como móviles agravantes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La violencia obstétrica",
+          "correcta": false,
+          "explicacion": "La violencia obstétrica es una modalidad de la Ley N° 26.485 (art. 6 inc. e), no un agravante del art. 80 CP."
+        },
+        {
+          "letra": "B",
+          "texto": "El homicidio culposo agravado",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791: el inc. 4 del art. 80 refiere a homicidio agravado por móviles, no a homicidio culposo."
+        },
+        {
+          "letra": "C",
+          "texto": "El odio de género o a la orientación sexual, identidad de género o su expresión",
+          "correcta": true,
+          "explicacion": "Ley N° 26.791, art. 1 (inc. 4 del art. 80 CP): agrega el odio de género o a la orientación sexual, identidad de género o su expresión, junto al placer, codicia, odio racial o religioso."
+        },
+        {
+          "letra": "D",
+          "texto": "El abuso de armas",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791: el inc. 4 del art. 80 CP no refiere al abuso de armas."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Res. PGN 3329/2016, ¿qué cargos no permanentes quedaron exceptuados del régimen de ingreso al modificarse el artículo 4?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los que se generen por licencias por nacimiento de hijo/a o adopción por el lapso de 110 días, o las de plazo inferior.",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, punto I, modifica el art. 4 del Reglamento exceptuando los cargos no permanentes generados por esas licencias de 110 días o inferiores; tales agentes no podrán pasar a planta permanente."
+        },
+        {
+          "letra": "B",
+          "texto": "Los cargos de maestranza de todo el país.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, punto I, exceptúa cargos no permanentes por licencias breves, no a toda la maestranza."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los cargos letrados de cualquier dependencia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La excepción de dos cargos letrados ya existía (art. 4 inc. b); la Res. PGN 3329/2016 agregó la excepción por licencias de hasta 110 días (punto I)."
+        },
+        {
+          "letra": "D",
+          "texto": "Los cargos permanentes de fiscalías de distrito.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La excepción es para cargos NO permanentes por licencias de hasta 110 días (Res. PGN 3329/2016, punto I), no para cargos permanentes."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué pacto de 1831 organizó una alianza entre provincias del Litoral y es considerado un antecedente del federalismo argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Pacto Federal",
+          "correcta": true,
+          "explicacion": "El Pacto Federal de 1831 unió a Buenos Aires, Santa Fe y Entre Ríos (luego Corrientes) y es antecedente del orden federal."
+        },
+        {
+          "letra": "B",
+          "texto": "El Acuerdo de San Nicolás",
+          "correcta": false,
+          "explicacion": "El Acuerdo de San Nicolás es de 1852."
+        },
+        {
+          "letra": "C",
+          "texto": "El Pacto de San José de Flores",
+          "correcta": false,
+          "explicacion": "Ese pacto es de 1859, tras Cepeda."
+        },
+        {
+          "letra": "D",
+          "texto": "El Tratado del Cuadrilátero",
+          "correcta": false,
+          "explicacion": "El Tratado del Cuadrilátero es de 1822, anterior y de otro alcance."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Cuál fue la capital de la Confederación Argentina mientras Buenos Aires estuvo separada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Córdoba",
+          "correcta": false,
+          "explicacion": "Córdoba no fue la capital de la Confederación en ese período."
+        },
+        {
+          "letra": "B",
+          "texto": "Rosario",
+          "correcta": false,
+          "explicacion": "Rosario fue importante comercialmente pero no fue capital de la Confederación."
+        },
+        {
+          "letra": "C",
+          "texto": "Paraná",
+          "correcta": true,
+          "explicacion": "Paraná, en Entre Ríos, fue la capital de la Confederación Argentina (1853-1861)."
+        },
+        {
+          "letra": "D",
+          "texto": "Santa Fe",
+          "correcta": false,
+          "explicacion": "En Santa Fe sesionó el Congreso Constituyente, pero la capital fue Paraná."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El derecho de los ciudadanos a expresar libremente sus opiniones, incluso si difieren de las del gobierno, es la libertad de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Culto",
+          "correcta": false,
+          "explicacion": "Protege la práctica religiosa, no la opinión política en general."
+        },
+        {
+          "letra": "B",
+          "texto": "Expresión",
+          "correcta": true,
+          "explicacion": "Correcto: la libertad de expresión protege la manifestación de ideas y opiniones."
+        },
+        {
+          "letra": "C",
+          "texto": "Comercio",
+          "correcta": false,
+          "explicacion": "Alude a la actividad económica, no a la opinión."
+        },
+        {
+          "letra": "D",
+          "texto": "Circulación",
+          "correcta": false,
+          "explicacion": "Se refiere a transitar y movilizarse, no a opinar."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué bando de las guerras civiles argentinas defendía un gobierno central fuerte con sede en Buenos Aires y políticas centralizadas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los autonomistas",
+          "correcta": false,
+          "explicacion": "El autonomismo fue un partido posterior, de fines del siglo XIX, liderado por Alsina."
+        },
+        {
+          "letra": "B",
+          "texto": "Los unitarios",
+          "correcta": true,
+          "explicacion": "Los unitarios proponían un poder central fuerte con sede en Buenos Aires."
+        },
+        {
+          "letra": "C",
+          "texto": "Los federales",
+          "correcta": false,
+          "explicacion": "Los federales defendían la autonomía de las provincias frente al poder central."
+        },
+        {
+          "letra": "D",
+          "texto": "Los realistas",
+          "correcta": false,
+          "explicacion": "Los realistas eran partidarios de la corona española durante la independencia, no un bando de las guerras civiles."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.791, el inciso 11 del art. 80 del Código Penal agrava el homicidio cuando se mate:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A un ascendiente por codicia",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791: el inc. 11 del art. 80 CP refiere al femicidio, no al homicidio de ascendiente por codicia."
+        },
+        {
+          "letra": "B",
+          "texto": "A una mujer cuando el hecho sea perpetrado por un hombre y mediare violencia de género",
+          "correcta": true,
+          "explicacion": "Ley N° 26.791, art. 2 (inc. 11 del art. 80 CP): cuando se mata a una mujer, el hecho es perpetrado por un hombre y media violencia de género."
+        },
+        {
+          "letra": "C",
+          "texto": "A cualquier persona por motivos económicos",
+          "correcta": false,
+          "explicacion": "Ley N° 26.791: la codicia se contempla en el inc. 4 del art. 80; el inc. 11 refiere específicamente al femicidio."
+        },
+        {
+          "letra": "D",
+          "texto": "A un funcionario público en ejercicio de su cargo",
+          "correcta": false,
+          "explicacion": "Esa hipótesis no integra los incisos modificados por la Ley N° 26.791 (incs. 1, 4, 11 y 12 del art. 80 CP)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el CPPF (Ley N° 27.063 / 27.482), ¿quién ejerce la acción penal pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente la víctima por medio de querella",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 25: la acción pública la ejerce el MPF; la querella es una facultad de la víctima, no la única vía."
+        },
+        {
+          "letra": "B",
+          "texto": "El juez de garantías de oficio",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), arts. 9 y 25: el juez no impulsa la persecución penal; la acción pública la ejerce el MPF."
+        },
+        {
+          "letra": "C",
+          "texto": "El Ministerio Público Fiscal, sin perjuicio de las facultades de la víctima",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 25: la acción pública es ejercida por el MINISTERIO PÚBLICO FISCAL, sin perjuicio de las facultades que el Código confiere a la víctima."
+        },
+        {
+          "letra": "D",
+          "texto": "El Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 25: la acción pública la ejerce el MPF, no el Consejo de la Magistratura."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El Pacto de San José de Costa Rica (Convención Americana sobre Derechos Humanos) es relevante porque:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Regula únicamente cuestiones comerciales entre países.",
+          "correcta": false,
+          "explicacion": "Su objeto son los derechos humanos, no el comercio."
+        },
+        {
+          "letra": "B",
+          "texto": "Es una ley interna dictada por el Congreso argentino.",
+          "correcta": false,
+          "explicacion": "Es un tratado internacional, no una ley interna."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un tratado regional de derechos humanos con jerarquía constitucional en Argentina.",
+          "correcta": true,
+          "explicacion": "Tiene jerarquía constitucional (art. 75 inc. 22) y crea órganos como la Comisión y la Corte Interamericana."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo se aplica a los Estados europeos.",
+          "correcta": false,
+          "explicacion": "Es un instrumento del sistema interamericano, no europeo."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.861, ¿por cuánto tiempo tienen vigencia las listas de postulantes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el plazo de cinco (5) años.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), arts. 27 y 34, fijan dos años."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el plazo de dos (2) años.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), arts. 27 y 34, fijan la vigencia de las listas en dos (2) años."
+        },
+        {
+          "letra": "C",
+          "texto": "Mientras no se convoque a un nuevo concurso.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La vigencia es de dos años según la Ley N° 26.861, arts. 27 y 34."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el plazo de un (1) año.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), arts. 27 y 34, establecen dos años de vigencia."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El artículo 43 prevé la acción de amparo siempre que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No exista otro medio judicial más idóneo",
+          "correcta": true,
+          "explicacion": "El art. 43 de la Constitución Nacional habilita el amparo siempre que no exista otro medio judicial más idóneo."
+        },
+        {
+          "letra": "B",
+          "texto": "El afectado haya agotado la vía administrativa",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional no exige agotar la vía administrativa; requiere que no haya otro medio judicial más idóneo."
+        },
+        {
+          "letra": "C",
+          "texto": "Lo autorice previamente el Congreso",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional no exige autorización del Congreso para interponer el amparo."
+        },
+        {
+          "letra": "D",
+          "texto": "Haya transcurrido el plazo de seis meses desde el acto lesivo",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional no fija ese plazo; exige que no exista otro medio judicial más idóneo."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Una 'acción afirmativa' o medida de acción positiva busca:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Eliminar los derechos de las mayorías.",
+          "correcta": false,
+          "explicacion": "No suprimen derechos de nadie; promueven igualdad."
+        },
+        {
+          "letra": "B",
+          "texto": "Otorgar privilegios permanentes sin justificación a un grupo.",
+          "correcta": false,
+          "explicacion": "Buscan equiparar oportunidades, no crear privilegios arbitrarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Reemplazar la igualdad ante la ley por la desigualdad.",
+          "correcta": false,
+          "explicacion": "Su objetivo es lograr igualdad real, no instaurar desigualdad."
+        },
+        {
+          "letra": "D",
+          "texto": "Promover la igualdad real de oportunidades para grupos históricamente desfavorecidos.",
+          "correcta": true,
+          "explicacion": "El art. 75 inc. 23 manda promover medidas de acción positiva para garantizar la igualdad real, por ejemplo el cupo."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué ley de 1870, durante la presidencia de Sarmiento, organizó el primer censo y datos sobre la población?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Ley de Educación Común 1420",
+          "correcta": false,
+          "explicacion": "La Ley 1420 es de 1884, en la presidencia de Roca."
+        },
+        {
+          "letra": "B",
+          "texto": "El Primer Censo Nacional de 1869",
+          "correcta": true,
+          "explicacion": "El Primer Censo Nacional se realizó en 1869, durante la presidencia de Sarmiento."
+        },
+        {
+          "letra": "C",
+          "texto": "La Ley de Residencia",
+          "correcta": false,
+          "explicacion": "La Ley de Residencia es de 1902, sobre expulsión de extranjeros."
+        },
+        {
+          "letra": "D",
+          "texto": "La Ley Sáenz Peña",
+          "correcta": false,
+          "explicacion": "La Ley Sáenz Peña es de 1912, sobre voto secreto y obligatorio."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El respeto activo hacia quienes piensan, creen o viven de manera distinta a la propia se denomina:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Imposición",
+          "correcta": false,
+          "explicacion": "Obligar a otros a aceptar algo es contrario a la tolerancia."
+        },
+        {
+          "letra": "B",
+          "texto": "Discriminación",
+          "correcta": false,
+          "explicacion": "Es el trato desfavorable por las diferencias, lo opuesto a la tolerancia."
+        },
+        {
+          "letra": "C",
+          "texto": "Tolerancia",
+          "correcta": true,
+          "explicacion": "Correcto: la tolerancia implica respetar las diferencias aunque no se compartan."
+        },
+        {
+          "letra": "D",
+          "texto": "Sumisión",
+          "correcta": false,
+          "explicacion": "Implica someterse, no respetar desde la igualdad."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Una diferencia clave entre democracia directa y democracia representativa es que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La directa solo existe en las monarquías",
+          "correcta": false,
+          "explicacion": "La democracia directa no se relaciona con monarquías; es una forma de participación popular."
+        },
+        {
+          "letra": "B",
+          "texto": "En la representativa no existen elecciones",
+          "correcta": false,
+          "explicacion": "La democracia representativa se basa justamente en las elecciones."
+        },
+        {
+          "letra": "C",
+          "texto": "En la directa gobiernan exclusivamente los jueces",
+          "correcta": false,
+          "explicacion": "En la democracia directa decide el pueblo, no exclusivamente los jueces."
+        },
+        {
+          "letra": "D",
+          "texto": "En la directa el pueblo decide por sí mismo; en la representativa lo hace por medio de elegidos",
+          "correcta": true,
+          "explicacion": "En la democracia directa el pueblo participa sin intermediarios; en la representativa, a través de representantes."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 60, el fallo del Senado en el juicio político no tendrá más efecto que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inhabilitarlo de por vida para votar",
+          "correcta": false,
+          "explicacion": "El art. 60 de la Constitución Nacional no inhabilita el voto; limita su efecto a destituir e impedir ocupar empleos."
+        },
+        {
+          "letra": "B",
+          "texto": "Destituir al acusado y, en su caso, declararlo incapaz de ocupar empleos en la Nación",
+          "correcta": true,
+          "explicacion": "El art. 60 de la Constitución Nacional establece que el fallo solo destituye y puede declarar al acusado incapaz de ocupar empleos de honor, confianza o sueldo en la Nación."
+        },
+        {
+          "letra": "C",
+          "texto": "Imponer una multa económica",
+          "correcta": false,
+          "explicacion": "El art. 60 de la Constitución Nacional no prevé multa; el efecto es la destitución."
+        },
+        {
+          "letra": "D",
+          "texto": "Imponer una pena de prisión al acusado",
+          "correcta": false,
+          "explicacion": "El art. 60 de la Constitución Nacional limita el efecto a la destitución; la pena queda a los tribunales ordinarios."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El 'Plan de Operaciones', documento atribuido a un secretario de la Junta, planteaba medidas drásticas para sostener la Revolución. ¿A quién se atribuye?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bernardino Rivadavia",
+          "correcta": false,
+          "explicacion": "Rivadavia tuvo protagonismo posterior, en la década de 1820."
+        },
+        {
+          "letra": "B",
+          "texto": "Mariano Moreno",
+          "correcta": true,
+          "explicacion": "El 'Plan de Operaciones' se atribuye a Mariano Moreno, expresión de su pensamiento radical."
+        },
+        {
+          "letra": "C",
+          "texto": "Manuel Belgrano",
+          "correcta": false,
+          "explicacion": "Belgrano destacó por sus ideas económicas y militares, pero no por el Plan de Operaciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Cornelio Saavedra",
+          "correcta": false,
+          "explicacion": "Saavedra representaba la línea moderada, opuesta al espíritu del Plan."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Durante el primer gobierno de Yrigoyen, la empresa estatal de hidrocarburos creada/organizada en 1922 fue:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aerolíneas Argentinas",
+          "correcta": false,
+          "explicacion": "Incorrecta: surgió a fines de los años 1940-1950."
+        },
+        {
+          "letra": "B",
+          "texto": "YPF (Yacimientos Petrolíferos Fiscales)",
+          "correcta": true,
+          "explicacion": "Correcta: YPF se organizó en 1922, con Enrique Mosconi al frente poco después."
+        },
+        {
+          "letra": "C",
+          "texto": "SEGBA",
+          "correcta": false,
+          "explicacion": "Incorrecta: empresa eléctrica creada en la segunda mitad del siglo XX."
+        },
+        {
+          "letra": "D",
+          "texto": "Gas del Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta: Gas del Estado se creó en la década de 1940."
+        }
+      ]
+    }
+  ]
+}

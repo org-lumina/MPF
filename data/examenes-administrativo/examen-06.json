@@ -1,0 +1,626 @@
+{
+  "examen_id": 6,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La Cámara de Diputados representa:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al pueblo de la Nación, en proporción a la población",
+          "correcta": true,
+          "explicacion": "Los diputados representan al pueblo y su número es proporcional a la población de cada distrito."
+        },
+        {
+          "letra": "B",
+          "texto": "A las provincias por igual, con número fijo por cada una",
+          "correcta": false,
+          "explicacion": "La representación igualitaria de las provincias corresponde al Senado."
+        },
+        {
+          "letra": "C",
+          "texto": "A los partidos políticos en partes iguales",
+          "correcta": false,
+          "explicacion": "La representación es proporcional a la población, no igual por partido."
+        },
+        {
+          "letra": "D",
+          "texto": "A los poderes ejecutivos provinciales",
+          "correcta": false,
+          "explicacion": "Los diputados son elegidos por el pueblo, no por los gobernadores."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Res. PGN 3329/2016, al modificarse el artículo 16, el postulante debe declarar adicionalmente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si está interesado en vacantes permanentes, no permanentes o ambas, pudiendo modificar tal declaración durante la vigencia del concurso.",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, punto II, incorpora al art. 16 inc. d) la declaración de interés en vacantes permanentes, no permanentes o ambas, modificable durante la vigencia del concurso."
+        },
+        {
+          "letra": "B",
+          "texto": "El monto de sus ingresos mensuales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN 3329/2016 (punto II) agrega la declaración de interés en el tipo de vacante, no datos de ingresos."
+        },
+        {
+          "letra": "C",
+          "texto": "El nombre del jurista invitado que prefiere.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El jurista invitado integra tribunales de concursos de magistrados (Ley N° 27.148, art. 50); la Res. PGN 3329/2016 (punto II) suma la declaración de interés en la vacante."
+        },
+        {
+          "letra": "D",
+          "texto": "Su afiliación a un partido político.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, punto II, incorpora la declaración de interés en el tipo de vacante, no afiliación política."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El artículo 33 de la Constitución, sobre derechos implícitos, establece que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los derechos provienen exclusivamente de tratados extranjeros.",
+          "correcta": false,
+          "explicacion": "Provienen de la soberanía del pueblo y la forma republicana, no solo de tratados."
+        },
+        {
+          "letra": "B",
+          "texto": "Existen derechos y garantías no enumerados que nacen de la soberanía del pueblo y la forma republicana de gobierno.",
+          "correcta": true,
+          "explicacion": "El art. 33 reconoce derechos no enunciados expresamente, evitando que la falta de mención implique negación."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo existen los derechos expresamente escritos en la Constitución.",
+          "correcta": false,
+          "explicacion": "Es lo contrario: reconoce derechos no enumerados."
+        },
+        {
+          "letra": "D",
+          "texto": "Los derechos los crea el Poder Ejecutivo por decreto.",
+          "correcta": false,
+          "explicacion": "Los derechos no se crean por decreto; el art. 33 reconoce derechos preexistentes."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "En la Constitución Nacional argentina, el artículo 14 bis consagra principalmente derechos vinculados a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El trabajo, los derechos del trabajador, los gremios y la seguridad social.",
+          "correcta": true,
+          "explicacion": "El art. 14 bis, incorporado en 1957, es la base de los derechos sociales y laborales en Argentina."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho de propiedad.",
+          "correcta": false,
+          "explicacion": "La propiedad está protegida por el art. 17, no por el 14 bis."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho de sufragio universal.",
+          "correcta": false,
+          "explicacion": "El sufragio se relaciona con el art. 37, no con el 14 bis."
+        },
+        {
+          "letra": "D",
+          "texto": "La libertad de prensa y de expresión.",
+          "correcta": false,
+          "explicacion": "La libertad de prensa se vincula al art. 14 y al art. 32, no al 14 bis."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué consistió el modelo agroexportador argentino de fines del siglo XIX?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Exportación de materias primas agropecuarias e importación de manufacturas",
+          "correcta": true,
+          "explicacion": "El modelo exportaba carnes, cereales y lanas e importaba productos industriales."
+        },
+        {
+          "letra": "B",
+          "texto": "Autoabastecimiento cerrado sin comercio exterior",
+          "correcta": false,
+          "explicacion": "El modelo se basaba precisamente en una fuerte inserción en el mercado mundial."
+        },
+        {
+          "letra": "C",
+          "texto": "Exportación de productos industriales manufacturados",
+          "correcta": false,
+          "explicacion": "El país no exportaba manufacturas, sino materias primas agropecuarias."
+        },
+        {
+          "letra": "D",
+          "texto": "Exportación de minerales y petróleo",
+          "correcta": false,
+          "explicacion": "Las exportaciones eran agropecuarias, no minero-petroleras."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Cómo se denominó al gobierno que en diciembre de 1810 incorporó diputados del interior a la Primera Junta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Directorio",
+          "correcta": false,
+          "explicacion": "El Directorio se creó en 1814, mucho después."
+        },
+        {
+          "letra": "B",
+          "texto": "Junta Grande (o Junta Provisional Gubernativa)",
+          "correcta": true,
+          "explicacion": "Al sumarse los diputados del interior, la Junta pasó a llamarse Junta Grande."
+        },
+        {
+          "letra": "C",
+          "texto": "Segundo Triunvirato",
+          "correcta": false,
+          "explicacion": "El Segundo Triunvirato se formó en 1812, no en 1810."
+        },
+        {
+          "letra": "D",
+          "texto": "Primer Triunvirato",
+          "correcta": false,
+          "explicacion": "El Primer Triunvirato se formó en 1811, posterior a la Junta Grande."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Con qué nombre se denominó al conjunto de territorios que declararon su independencia en el Congreso de Tucumán?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Provincias Unidas en Sud América (Provincias Unidas del Río de la Plata)",
+          "correcta": true,
+          "explicacion": "En 1816 se declararon independientes las 'Provincias Unidas en Sud América'."
+        },
+        {
+          "letra": "B",
+          "texto": "Confederación Argentina",
+          "correcta": false,
+          "explicacion": "La 'Confederación Argentina' es una denominación posterior, asociada a la etapa rosista."
+        },
+        {
+          "letra": "C",
+          "texto": "República Argentina",
+          "correcta": false,
+          "explicacion": "El nombre 'República Argentina' se consolidó más tarde; en 1816 se usaba otra denominación."
+        },
+        {
+          "letra": "D",
+          "texto": "Estados Unidos del Sur",
+          "correcta": false,
+          "explicacion": "No fue esa la denominación adoptada en 1816."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El Pacto Roca-Runciman (1933) vinculó comercialmente a la Argentina con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Brasil, dentro de una unión aduanera",
+          "correcta": false,
+          "explicacion": "Incorrecta: no involucró a Brasil ni una unión aduanera."
+        },
+        {
+          "letra": "B",
+          "texto": "Estados Unidos, por el plan de industrialización",
+          "correcta": false,
+          "explicacion": "Incorrecta: el pacto fue con Gran Bretaña, no con EE.UU."
+        },
+        {
+          "letra": "C",
+          "texto": "Gran Bretaña, asegurando la cuota de carnes argentinas",
+          "correcta": true,
+          "explicacion": "Correcta: el acuerdo buscó preservar el mercado británico para la carne argentina haciendo concesiones."
+        },
+        {
+          "letra": "D",
+          "texto": "Alemania, en el marco del Eje",
+          "correcta": false,
+          "explicacion": "Incorrecta: no tuvo relación con Alemania ni con el Eje."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 18, ¿qué quedan abolidos para siempre?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La pena de muerte por causas políticas, toda especie de tormento y los azotes",
+          "correcta": true,
+          "explicacion": "El art. 18 de la Constitución Nacional abole para siempre la pena de muerte por causas políticas, toda especie de tormento y los azotes."
+        },
+        {
+          "letra": "B",
+          "texto": "Las contribuciones directas",
+          "correcta": false,
+          "explicacion": "Las contribuciones directas las puede imponer el Congreso según el art. 75 inc. 2 de la Constitución Nacional; el art. 18 no las abole."
+        },
+        {
+          "letra": "C",
+          "texto": "La inmigración europea",
+          "correcta": false,
+          "explicacion": "El art. 25 de la Constitución Nacional fomenta la inmigración europea; el art. 18 no la aborda."
+        },
+        {
+          "letra": "D",
+          "texto": "Los derechos de exportación",
+          "correcta": false,
+          "explicacion": "Los derechos de exportación se regulan en el art. 4 y el art. 75 de la Constitución Nacional, no en el art. 18."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Dos célebres líderes campesinos de la Revolución Mexicana, asociados a la consigna de la tierra, fueron:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porfirio Díaz y Victoriano Huerta",
+          "correcta": false,
+          "explicacion": "Incorrecta: ambos representaban sectores conservadores o autoritarios, no el campesinado."
+        },
+        {
+          "letra": "B",
+          "texto": "Benito Juárez y Maximiliano",
+          "correcta": false,
+          "explicacion": "Incorrecta: pertenecen al siglo XIX, no a la Revolución de 1910."
+        },
+        {
+          "letra": "C",
+          "texto": "Lázaro Cárdenas y Plutarco Calles",
+          "correcta": false,
+          "explicacion": "Incorrecta: fueron presidentes posrevolucionarios, no líderes campesinos armados."
+        },
+        {
+          "letra": "D",
+          "texto": "Emiliano Zapata y Pancho Villa",
+          "correcta": true,
+          "explicacion": "Correcta: Zapata en el sur y Villa en el norte encabezaron movimientos populares y campesinos."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "De acuerdo con el artículo 43, el hábeas corpus puede interponerse:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo por el afectado y solo en horario judicial",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional permite que lo interponga el afectado o cualquiera en su favor, sin esa limitación horaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo previa suspensión del estado de sitio",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional aclara que procede aun durante la vigencia del estado de sitio."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el afectado o por cualquiera en su favor, aun durante la vigencia del estado de sitio",
+          "correcta": true,
+          "explicacion": "El art. 43 de la Constitución Nacional permite interponerlo por el afectado o por cualquiera en su favor, y el juez resuelve de inmediato aun durante el estado de sitio."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente por un abogado de la matrícula federal",
+          "correcta": false,
+          "explicacion": "El art. 43 de la Constitución Nacional no exige patrocinio de abogado de la matrícula federal para el hábeas corpus."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El principio del 'debido proceso' garantiza que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nadie puede ser condenado sin juicio previo basado en ley anterior al hecho, con defensa en juicio.",
+          "correcta": true,
+          "explicacion": "El art. 18 consagra el debido proceso: juicio previo, ley previa, juez natural y defensa en juicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Las leyes penales se aplican a hechos ocurridos antes de su sanción.",
+          "correcta": false,
+          "explicacion": "Rige la irretroactividad: la ley penal no se aplica a hechos anteriores en perjuicio del acusado."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier persona puede ser sancionada sin proceso si lo decide la autoridad.",
+          "correcta": false,
+          "explicacion": "Eso viola el debido proceso, que exige juicio previo."
+        },
+        {
+          "letra": "D",
+          "texto": "Nadie tiene derecho a defenderse en un juicio.",
+          "correcta": false,
+          "explicacion": "La defensa en juicio es inviolable según el art. 18."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El primer presidente de facto de la Revolución Argentina (1966) fue:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Alejandro Lanusse",
+          "correcta": false,
+          "explicacion": "Incorrecta: Lanusse presidió la última etapa de esa dictadura, hacia 1971-1973."
+        },
+        {
+          "letra": "B",
+          "texto": "Roberto Levingston",
+          "correcta": false,
+          "explicacion": "Incorrecta: Levingston fue el segundo presidente de facto del período."
+        },
+        {
+          "letra": "C",
+          "texto": "Juan Carlos Onganía",
+          "correcta": true,
+          "explicacion": "Correcta: encabezó la dictadura iniciada en 1966."
+        },
+        {
+          "letra": "D",
+          "texto": "Jorge R. Videla",
+          "correcta": false,
+          "explicacion": "Incorrecta: Videla encabezó la dictadura de 1976."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 121, las provincias conservan:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo los poderes que el Gobierno federal les delegue",
+          "correcta": false,
+          "explicacion": "El art. 121 de la Constitución Nacional invierte la regla: las provincias conservan todo el poder no delegado al Gobierno federal."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente el poder de dictar su constitución",
+          "correcta": false,
+          "explicacion": "El art. 121 de la Constitución Nacional conserva en las provincias todo el poder no delegado, no solo el de dictar su constitución."
+        },
+        {
+          "letra": "C",
+          "texto": "Todo el poder no delegado por esta Constitución al Gobierno federal",
+          "correcta": true,
+          "explicacion": "El art. 121 de la Constitución Nacional dispone que las provincias conservan todo el poder no delegado por la Constitución al Gobierno federal."
+        },
+        {
+          "letra": "D",
+          "texto": "Ningún poder propio",
+          "correcta": false,
+          "explicacion": "El art. 121 de la Constitución Nacional reconoce a las provincias todo el poder no delegado al Gobierno federal."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué año se produjo la Revolución de Mayo que dio origen a la Primera Junta de Gobierno en Buenos Aires?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1820",
+          "correcta": false,
+          "explicacion": "1820 fue el llamado 'año de la anarquía', posterior a la Revolución."
+        },
+        {
+          "letra": "B",
+          "texto": "1806",
+          "correcta": false,
+          "explicacion": "En 1806 ocurrió la Primera Invasión Inglesa al Río de la Plata, no la Revolución de Mayo."
+        },
+        {
+          "letra": "C",
+          "texto": "1816",
+          "correcta": false,
+          "explicacion": "En 1816 se declaró la Independencia en el Congreso de Tucumán, no la Revolución."
+        },
+        {
+          "letra": "D",
+          "texto": "1810",
+          "correcta": true,
+          "explicacion": "La Revolución de Mayo culminó el 25 de mayo de 1810 con la formación de la Primera Junta."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La afirmación de que 'ningún derecho es absoluto' quiere decir que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo valen los derechos escritos en la Constitución.",
+          "correcta": false,
+          "explicacion": "También se reconocen derechos implícitos (art. 33) y por tratados."
+        },
+        {
+          "letra": "B",
+          "texto": "Los derechos pueden ser desconocidos por el Estado en cualquier momento.",
+          "correcta": false,
+          "explicacion": "Tener límites no es lo mismo que poder desconocerlos arbitrariamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los derechos se ejercen conforme a las leyes que los reglamentan y en armonía con los derechos de los demás.",
+          "correcta": true,
+          "explicacion": "Los derechos tienen límites razonables establecidos por ley y por el respeto a los demás."
+        },
+        {
+          "letra": "D",
+          "texto": "Los derechos no rigen en la práctica.",
+          "correcta": false,
+          "explicacion": "Los derechos rigen plenamente, solo que con límites razonables."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Hasta qué edad gozan de estabilidad los magistrados del MPF, mientras dure su buena conducta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta los setenta y cinco (75) años de edad.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 62, fija la estabilidad mientras dure su buena conducta y hasta los setenta y cinco (75) años."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta los sesenta y cinco (65) años de edad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 62, fija el límite en setenta y cinco años, no sesenta y cinco."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta los setenta (70) años de edad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 62, establece setenta y cinco años."
+        },
+        {
+          "letra": "D",
+          "texto": "De forma vitalicia y sin límite de edad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 62, dispone estabilidad hasta los 75 años, sujeta luego a nuevo nombramiento."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 108, el Poder Judicial de la Nación será ejercido por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Consejo de la Magistratura exclusivamente",
+          "correcta": false,
+          "explicacion": "El Consejo de la Magistratura selecciona magistrados y administra el Poder Judicial (art. 114 de la Constitución Nacional), pero no ejerce la jurisdicción."
+        },
+        {
+          "letra": "B",
+          "texto": "El Ministerio Público",
+          "correcta": false,
+          "explicacion": "El Ministerio Público es un órgano independiente del art. 120 de la Constitución Nacional, distinto del Poder Judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "Una Corte Suprema de Justicia y los demás tribunales inferiores que el Congreso estableciere",
+          "correcta": true,
+          "explicacion": "El art. 108 de la Constitución Nacional dispone que el Poder Judicial será ejercido por una Corte Suprema de Justicia y por los demás tribunales inferiores que el Congreso establezca."
+        },
+        {
+          "letra": "D",
+          "texto": "Las legislaturas provinciales",
+          "correcta": false,
+          "explicacion": "El art. 108 de la Constitución Nacional atribuye el Poder Judicial de la Nación a la Corte y a los tribunales inferiores federales."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cuál es el objeto de la Ley N° 26.861?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Regular el ingreso democrático e igualitario de personal al Poder Judicial de la Nación y al Ministerio Público de la Nación mediante concurso público.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 1º, fija ese objeto regulando el ingreso mediante el procedimiento de concurso público."
+        },
+        {
+          "letra": "B",
+          "texto": "Fijar la autarquía financiera del Ministerio Público.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La autarquía financiera está en la Ley N° 27.148, arts. 38 y ss.; la Ley N° 26.861 regula el ingreso democrático (art. 1º)."
+        },
+        {
+          "letra": "C",
+          "texto": "Reorganizar la estructura territorial del Ministerio Público Fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa materia corresponde a la Ley N° 27.148 (Ley Orgánica del MPF); la Ley N° 26.861, art. 1º, regula el ingreso de personal."
+        },
+        {
+          "letra": "D",
+          "texto": "Establecer el régimen disciplinario de los magistrados.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El régimen disciplinario está en la Ley N° 27.148 (Ley Orgánica del MPF), arts. 65 y ss.; la Ley N° 26.861 regula el ingreso de personal (art. 1º)."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Según la Constitución, la Argentina adopta para su gobierno la forma:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Monárquica y parlamentaria",
+          "correcta": false,
+          "explicacion": "Argentina no tiene monarca ni sistema parlamentario."
+        },
+        {
+          "letra": "B",
+          "texto": "Representativa, republicana y federal",
+          "correcta": true,
+          "explicacion": "Correcto: así lo establece el art. 1 de la Constitución Nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Directa y centralizada",
+          "correcta": false,
+          "explicacion": "La democracia argentina es representativa, no directa, y federal, no centralizada."
+        },
+        {
+          "letra": "D",
+          "texto": "Unitaria y presidencialista",
+          "correcta": false,
+          "explicacion": "Es federal, no unitaria, aunque sí presidencialista."
+        }
+      ]
+    }
+  ]
+}

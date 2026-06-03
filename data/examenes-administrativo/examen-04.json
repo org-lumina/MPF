@@ -1,0 +1,626 @@
+{
+  "examen_id": 4,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué fuerza política opositora surgió en 1891 reclamando elecciones limpias y participación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Partido Comunista",
+          "correcta": false,
+          "explicacion": "El Partido Comunista se formó mucho después, en el siglo XX."
+        },
+        {
+          "letra": "B",
+          "texto": "La Liga Patriótica",
+          "correcta": false,
+          "explicacion": "La Liga Patriótica fue una organización nacionalista posterior."
+        },
+        {
+          "letra": "C",
+          "texto": "La Unión Cívica Radical",
+          "correcta": true,
+          "explicacion": "La UCR surgió en 1891 reclamando sufragio libre y contra el fraude del régimen."
+        },
+        {
+          "letra": "D",
+          "texto": "El Partido Autonomista Nacional",
+          "correcta": false,
+          "explicacion": "El PAN era el oficialismo, no la oposición."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué bando de las guerras civiles argentinas defendía la autonomía de las provincias?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los unitarios",
+          "correcta": false,
+          "explicacion": "Los unitarios buscaban centralizar el poder en Buenos Aires."
+        },
+        {
+          "letra": "B",
+          "texto": "Los federales",
+          "correcta": true,
+          "explicacion": "Los federales defendían la autonomía provincial frente a la centralización porteña."
+        },
+        {
+          "letra": "C",
+          "texto": "Los conservadores",
+          "correcta": false,
+          "explicacion": "El conservadurismo se consolidó como fuerza política recién en la organización nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Los liberales",
+          "correcta": false,
+          "explicacion": "El liberalismo fue una corriente ideológica, no uno de los dos bandos clásicos de la guerra civil."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué obra literaria de Domingo F. Sarmiento contrapone \"civilización\" y \"barbarie\" usando la figura de un caudillo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Amalia",
+          "correcta": false,
+          "explicacion": "Amalia es una novela de José Mármol."
+        },
+        {
+          "letra": "B",
+          "texto": "Facundo. Civilización y barbarie",
+          "correcta": true,
+          "explicacion": "En Facundo, Sarmiento desarrolla la dicotomía civilización-barbarie a partir de la figura de Facundo Quiroga."
+        },
+        {
+          "letra": "C",
+          "texto": "El Matadero",
+          "correcta": false,
+          "explicacion": "El Matadero es de Esteban Echeverría."
+        },
+        {
+          "letra": "D",
+          "texto": "Martín Fierro",
+          "correcta": false,
+          "explicacion": "Martín Fierro es un poema de José Hernández, no de Sarmiento."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), ¿de cuántos miembros se compone el Comité Permanente de Evaluación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siete (7) miembros.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Siete es la integración del Tribunal de Enjuiciamiento (Ley N° 27.148, art. 77); el CPE tiene quince (Res. PGN N° 507/14, art. 22)."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) miembros titulares y tres suplentes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa composición corresponde al Tribunal Evaluador (Res. PGN N° 507/14, art. 26); el CPE tiene quince miembros (art. 22)."
+        },
+        {
+          "letra": "C",
+          "texto": "Seis (6) miembros.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 22, fija quince miembros en el CPE."
+        },
+        {
+          "letra": "D",
+          "texto": "Quince (15) miembros.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 22, establece que el CPE se compone de quince (15) miembros designados por la PGN."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Durante la última dictadura se implementó un plan sistemático de represión basado, entre otras prácticas, en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La desaparición forzada de personas y centros clandestinos de detención",
+          "correcta": true,
+          "explicacion": "Correcta: el terrorismo de Estado incluyó secuestros, torturas y desapariciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Elecciones libres con amplia participación",
+          "correcta": false,
+          "explicacion": "Incorrecta: la dictadura suspendió la actividad política y las elecciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Una reforma agraria popular",
+          "correcta": false,
+          "explicacion": "Incorrecta: no fue una política de la dictadura."
+        },
+        {
+          "letra": "D",
+          "texto": "La nacionalización de toda la industria",
+          "correcta": false,
+          "explicacion": "Incorrecta: la política económica fue de apertura y desregulación, no de estatización masiva."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El artículo 41 reconoce a todos los habitantes el derecho a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un ambiente sano, equilibrado y apto para el desarrollo humano",
+          "correcta": true,
+          "explicacion": "El art. 41 de la Constitución Nacional reconoce el derecho a un ambiente sano, equilibrado y apto para el desarrollo humano."
+        },
+        {
+          "letra": "B",
+          "texto": "Una renta básica universal",
+          "correcta": false,
+          "explicacion": "El art. 41 de la Constitución Nacional no menciona la renta básica universal."
+        },
+        {
+          "letra": "C",
+          "texto": "La gratuidad de los servicios públicos",
+          "correcta": false,
+          "explicacion": "El art. 41 de la Constitución Nacional consagra el derecho al ambiente sano, no la gratuidad de los servicios públicos."
+        },
+        {
+          "letra": "D",
+          "texto": "Una vivienda gratuita provista por el Estado",
+          "correcta": false,
+          "explicacion": "El art. 14 bis de la Constitución Nacional menciona el acceso a una vivienda digna; el art. 41 trata del ambiente."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El golpe de Estado del 6 de septiembre de 1930 derrocó al presidente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Roberto M. Ortiz",
+          "correcta": false,
+          "explicacion": "Incorrecta: Ortiz fue presidente a partir de 1938."
+        },
+        {
+          "letra": "B",
+          "texto": "Marcelo T. de Alvear",
+          "correcta": false,
+          "explicacion": "Incorrecta: Alvear había terminado su mandato en 1928."
+        },
+        {
+          "letra": "C",
+          "texto": "Hipólito Yrigoyen (en su segundo mandato)",
+          "correcta": true,
+          "explicacion": "Correcta: fue el primer golpe militar del siglo XX en Argentina, contra Yrigoyen."
+        },
+        {
+          "letra": "D",
+          "texto": "Agustín P. Justo",
+          "correcta": false,
+          "explicacion": "Incorrecta: Justo fue presidente después del golpe, desde 1932."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 90, el Presidente y vicepresidente duran en sus funciones:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuatro años y pueden ser reelegidos por un solo período consecutivo",
+          "correcta": true,
+          "explicacion": "El art. 90 de la Constitución Nacional dispone que duran cuatro años y pueden ser reelegidos o sucederse recíprocamente por un solo período consecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Seis años sin reelección",
+          "correcta": false,
+          "explicacion": "El art. 90 de la Constitución Nacional fija cuatro años con posibilidad de una reelección consecutiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuatro años sin posibilidad alguna de reelección",
+          "correcta": false,
+          "explicacion": "El art. 90 de la Constitución Nacional admite una reelección por un solo período consecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco años con reelección indefinida",
+          "correcta": false,
+          "explicacion": "El art. 90 de la Constitución Nacional fija cuatro años y una sola reelección consecutiva."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿En qué artículo de la Constitución Nacional encuentra fundamento la autonomía del Ministerio Público?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el artículo 99 de la Constitución Nacional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La autonomía del MPF surge del art. 120 CN según el material 'Qué es el MPF'; el art. 99 regula atribuciones del Poder Ejecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "En el artículo 116 de la Constitución Nacional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material 'Qué es el MPF' ubica el fundamento del MPF en el art. 120 CN, no en el 116."
+        },
+        {
+          "letra": "C",
+          "texto": "En el artículo 120 de la Constitución Nacional.",
+          "correcta": true,
+          "explicacion": "Correcta. Según el material 'Qué es el MPF', el rol del MPF está determinado en el artículo 120 de la Constitución Nacional, incorporado por la Reforma Constitucional de 1994."
+        },
+        {
+          "letra": "D",
+          "texto": "En el artículo 75 inciso 22 de la Constitución Nacional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 75 inc. 22 CN refiere a los tratados de derechos humanos con jerarquía constitucional, no a la autonomía del MPF, que surge del art. 120 CN (material 'Qué es el MPF')."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué localidad mendocina organizó San Martín el Ejército de los Andes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Yapeyú (Corrientes)",
+          "correcta": false,
+          "explicacion": "Yapeyú fue el lugar de nacimiento de San Martín, no la base del ejército."
+        },
+        {
+          "letra": "B",
+          "texto": "Maipú (Chile)",
+          "correcta": false,
+          "explicacion": "Maipú fue escenario de una batalla en Chile, no del entrenamiento del ejército."
+        },
+        {
+          "letra": "C",
+          "texto": "San Miguel de Tucumán",
+          "correcta": false,
+          "explicacion": "Tucumán fue sede del Congreso, no base del Ejército de los Andes."
+        },
+        {
+          "letra": "D",
+          "texto": "El Plumerillo (Mendoza)",
+          "correcta": true,
+          "explicacion": "San Martín organizó y entrenó al Ejército de los Andes en el campamento de El Plumerillo, en Mendoza."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 17, la expropiación por causa de utilidad pública debe ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Calificada por ley y previamente indemnizada",
+          "correcta": true,
+          "explicacion": "El art. 17 de la Constitución Nacional exige que la expropiación por utilidad pública sea calificada por ley y previamente indemnizada."
+        },
+        {
+          "letra": "B",
+          "texto": "Dispuesta por decreto del Poder Ejecutivo sin indemnización",
+          "correcta": false,
+          "explicacion": "El art. 17 de la Constitución Nacional requiere ley e indemnización previa, no un decreto sin compensación."
+        },
+        {
+          "letra": "C",
+          "texto": "Resuelta por sentencia judicial y abonada luego de cinco años",
+          "correcta": false,
+          "explicacion": "El art. 17 de la Constitución Nacional exige indemnización previa, no diferida."
+        },
+        {
+          "letra": "D",
+          "texto": "Ordenada por una comisión especial administrativa",
+          "correcta": false,
+          "explicacion": "El art. 17 de la Constitución Nacional exige calificación por ley, no por una comisión especial."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Que los derechos humanos sean 'universales' implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pertenecen a todas las personas, en todo lugar, sin distinción de raza, sexo, religión u origen.",
+          "correcta": true,
+          "explicacion": "La universalidad significa que corresponden a cualquier ser humano sin discriminación."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo se reconocen en los países desarrollados.",
+          "correcta": false,
+          "explicacion": "Universalidad implica que valen para todos, no solo para ciertos países."
+        },
+        {
+          "letra": "C",
+          "texto": "Dependen de la voluntad de cada gobierno.",
+          "correcta": false,
+          "explicacion": "No dependen de la voluntad gubernamental; son inherentes a la persona."
+        },
+        {
+          "letra": "D",
+          "texto": "Se aplican solo a los adultos.",
+          "correcta": false,
+          "explicacion": "También alcanzan a niños, niñas y adolescentes."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La Cámara de Senadores representa:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los municipios del país",
+          "correcta": false,
+          "explicacion": "Los municipios no eligen senadores nacionales; el Senado representa a las provincias."
+        },
+        {
+          "letra": "B",
+          "texto": "A los jueces de las provincias",
+          "correcta": false,
+          "explicacion": "Los senadores son elegidos por el pueblo de cada provincia, no por jueces."
+        },
+        {
+          "letra": "C",
+          "texto": "Al pueblo en proporción a la población",
+          "correcta": false,
+          "explicacion": "La representación proporcional a la población es propia de Diputados."
+        },
+        {
+          "letra": "D",
+          "texto": "A las provincias y a la Ciudad de Buenos Aires, con igual número cada una",
+          "correcta": true,
+          "explicacion": "Cada provincia y la CABA eligen tres senadores, en representación igualitaria de los Estados locales."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El derecho al voto en Argentina, según la Ley Sáenz Peña (1912), estableció el sufragio:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Censitario, según la riqueza del votante.",
+          "correcta": false,
+          "explicacion": "Precisamente la ley buscó terminar con prácticas restrictivas; no era censitario."
+        },
+        {
+          "letra": "B",
+          "texto": "Universal incluyendo a las mujeres desde su sanción.",
+          "correcta": false,
+          "explicacion": "El voto femenino se reconoció en 1947 (ley) y se ejerció por primera vez en 1951."
+        },
+        {
+          "letra": "C",
+          "texto": "Universal (masculino), secreto y obligatorio.",
+          "correcta": true,
+          "explicacion": "La Ley Sáenz Peña instauró el voto universal masculino, secreto y obligatorio; el voto femenino llegó recién en 1947/1951."
+        },
+        {
+          "letra": "D",
+          "texto": "Voluntario y a viva voz.",
+          "correcta": false,
+          "explicacion": "Estableció el voto secreto y obligatorio, no voluntario ni a viva voz."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿En qué artículo se garantiza al trabajador el salario mínimo vital móvil y la protección contra el despido arbitrario?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Artículo 17",
+          "correcta": false,
+          "explicacion": "El art. 17 de la Constitución Nacional protege la propiedad, no el salario."
+        },
+        {
+          "letra": "B",
+          "texto": "Artículo 14 bis",
+          "correcta": true,
+          "explicacion": "El art. 14 bis de la Constitución Nacional asegura al trabajador el salario mínimo vital móvil y la protección contra el despido arbitrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Artículo 16",
+          "correcta": false,
+          "explicacion": "El art. 16 de la Constitución Nacional trata de la igualdad ante la ley, no de derechos laborales."
+        },
+        {
+          "letra": "D",
+          "texto": "Artículo 14",
+          "correcta": false,
+          "explicacion": "El art. 14 de la Constitución Nacional enumera derechos como trabajar y comerciar, pero no el salario mínimo vital móvil."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 129, la ciudad de Buenos Aires tendrá:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Gobierno designado por el Presidente de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 129 de la Constitución Nacional prevé que su jefe de gobierno sea elegido directamente por el pueblo de la ciudad."
+        },
+        {
+          "letra": "B",
+          "texto": "Un régimen de gobierno autónomo, con facultades propias de legislación y jurisdicción",
+          "correcta": true,
+          "explicacion": "El art. 129 de la Constitución Nacional establece que la ciudad de Buenos Aires tendrá un régimen de gobierno autónomo, con facultades propias de legislación y jurisdicción, y su jefe de gobierno será elegido directamente por el pueblo."
+        },
+        {
+          "letra": "C",
+          "texto": "Un régimen idéntico al de un municipio común",
+          "correcta": false,
+          "explicacion": "El art. 129 de la Constitución Nacional le reconoce un régimen de gobierno autónomo con facultades de legislación y jurisdicción, superior al de un municipio común."
+        },
+        {
+          "letra": "D",
+          "texto": "Categoría de provincia con tres senadores propios solo si lo aprueba el Congreso",
+          "correcta": false,
+          "explicacion": "El art. 129 de la Constitución Nacional le confiere un régimen de gobierno autónomo; el art. 54 ya le asigna tres senadores."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Cuál es la ley suprema de la Nación Argentina, a la que deben ajustarse todas las demás normas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Código Civil y Comercial",
+          "correcta": false,
+          "explicacion": "Es una ley nacional importante, pero está subordinada a la Constitución."
+        },
+        {
+          "letra": "B",
+          "texto": "Los decretos del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Los decretos son normas inferiores a la ley y a la Constitución."
+        },
+        {
+          "letra": "C",
+          "texto": "La Constitución Nacional",
+          "correcta": true,
+          "explicacion": "Correcto: el art. 31 establece que la Constitución es la ley suprema y las demás normas deben subordinarse a ella."
+        },
+        {
+          "letra": "D",
+          "texto": "Las ordenanzas municipales",
+          "correcta": false,
+          "explicacion": "Las ordenanzas son normas locales de menor jerarquía que la Constitución."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El llamado 'Éxodo Jujeño' (1812), ordenado por Belgrano, consistió en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La llegada de inmigrantes europeos a Jujuy",
+          "correcta": false,
+          "explicacion": "No tuvo relación con inmigración."
+        },
+        {
+          "letra": "B",
+          "texto": "El abandono de Jujuy por la población para no dejar recursos al enemigo realista",
+          "correcta": true,
+          "explicacion": "Belgrano ordenó evacuar Jujuy aplicando la 'tierra arrasada' frente al avance realista."
+        },
+        {
+          "letra": "C",
+          "texto": "La fundación de una nueva ciudad en Jujuy",
+          "correcta": false,
+          "explicacion": "No fue una fundación, sino una evacuación de la población."
+        },
+        {
+          "letra": "D",
+          "texto": "Un acuerdo de paz con los realistas",
+          "correcta": false,
+          "explicacion": "No fue un pacto, sino una retirada estratégica de la población."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La frase del Preámbulo 'para nosotros, para nuestra posteridad, y para todos los hombres del mundo que quieran habitar en el suelo argentino' expresa un espíritu de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Exclusión de los extranjeros",
+          "correcta": false,
+          "explicacion": "La frase invita expresamente a habitar el suelo argentino."
+        },
+        {
+          "letra": "B",
+          "texto": "Apertura e integración hacia los inmigrantes",
+          "correcta": true,
+          "explicacion": "Correcto: refleja la vocación de recibir a quienes deseen habitar el país."
+        },
+        {
+          "letra": "C",
+          "texto": "Cierre total de las fronteras",
+          "correcta": false,
+          "explicacion": "Es lo contrario al espíritu de la frase."
+        },
+        {
+          "letra": "D",
+          "texto": "Supremacía de una sola provincia",
+          "correcta": false,
+          "explicacion": "No hace referencia a preeminencia de ninguna provincia."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El presidente de la Nación es elegido mediante:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Voto directo del pueblo, con posibilidad de segunda vuelta (ballotage)",
+          "correcta": true,
+          "explicacion": "Desde 1994 la elección es directa, con doble vuelta si no se alcanzan los porcentajes exigidos."
+        },
+        {
+          "letra": "B",
+          "texto": "Elección por los gobernadores provinciales",
+          "correcta": false,
+          "explicacion": "Los gobernadores no eligen al presidente; lo hace el pueblo por voto directo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sorteo entre los legisladores nacionales",
+          "correcta": false,
+          "explicacion": "No existe sorteo; la elección presidencial es popular y directa."
+        },
+        {
+          "letra": "D",
+          "texto": "Designación del Congreso",
+          "correcta": false,
+          "explicacion": "El presidente no es designado por el Congreso, sino elegido por el pueblo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "examen_id": 9,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.485, las personas que se desempeñan en servicios asistenciales, sociales, educativos y de salud que tomen conocimiento de un hecho de violencia contra las mujeres:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo deben denunciar ante la policía",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 18 y 21: la denuncia puede formularse ante cualquier juez o el Ministerio Público, no exclusivamente ante la policía."
+        },
+        {
+          "letra": "B",
+          "texto": "Están obligadas a formular las denuncias, aun cuando el hecho no configure delito",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 18: están obligadas a formular las denuncias aun en casos en que el hecho no configure delito."
+        },
+        {
+          "letra": "C",
+          "texto": "Están eximidas de toda obligación de denunciar",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 18: establece justamente la obligación de denunciar, no una eximición."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo pueden denunciar si la mujer lo autoriza por escrito",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 18: la obligación de denunciar no está condicionada a autorización escrita de la mujer."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Cuál de los siguientes era un producto típico de exportación del modelo agroexportador argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cereales y carne vacuna",
+          "correcta": true,
+          "explicacion": "Cereales (trigo, maíz) y carne vacuna fueron pilares de las exportaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Automóviles",
+          "correcta": false,
+          "explicacion": "La Argentina no producía automóviles para exportar en ese período."
+        },
+        {
+          "letra": "C",
+          "texto": "Tejidos de algodón",
+          "correcta": false,
+          "explicacion": "Los textiles se importaban, no eran exportación típica."
+        },
+        {
+          "letra": "D",
+          "texto": "Maquinaria industrial",
+          "correcta": false,
+          "explicacion": "La maquinaria se importaba, no se exportaba."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.743 sobre trato digno, ¿cómo debe ser tratada la persona que utiliza un nombre de pila distinto al del DNI?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe respetarse la identidad de género adoptada y usarse, a su requerimiento, el nombre de pila adoptado",
+          "correcta": true,
+          "explicacion": "Ley N° 26.743, art. 12: debe respetarse la identidad de género adoptada y, a solo requerimiento, usarse el nombre de pila adoptado en toda gestión pública o privada."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo en ámbitos privados se respeta el nombre adoptado",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 12: el respeto rige tanto en ámbitos públicos como privados."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe usarse siempre el nombre del DNI por razones de seguridad",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 12: a requerimiento de la persona debe utilizarse el nombre de pila adoptado."
+        },
+        {
+          "letra": "D",
+          "texto": "Requiere autorización judicial para usar el nombre adoptado",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 12: basta el solo requerimiento del interesado, sin autorización judicial."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Los llamados derechos de tercera generación o de incidencia colectiva incluyen, por ejemplo:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho al trabajo y a la seguridad social.",
+          "correcta": false,
+          "explicacion": "Esos son derechos sociales de segunda generación."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a un ambiente sano y los derechos de los consumidores y usuarios.",
+          "correcta": true,
+          "explicacion": "Los arts. 41 y 42 reconocen el ambiente sano y los derechos de consumidores, típicos de incidencia colectiva."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a votar y ser elegido.",
+          "correcta": false,
+          "explicacion": "Esos son derechos políticos."
+        },
+        {
+          "letra": "D",
+          "texto": "La libertad de expresión y la propiedad.",
+          "correcta": false,
+          "explicacion": "Esos son derechos civiles de primera generación."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 99 inc. 1, el Presidente de la Nación es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El presidente del Senado",
+          "correcta": false,
+          "explicacion": "El presidente del Senado es el vicepresidente según el art. 57 de la Constitución Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "El responsable de ejercer la administración general del país",
+          "correcta": false,
+          "explicacion": "Ejercer la administración general del país corresponde al jefe de gabinete según el art. 100 inc. 1 de la Constitución Nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "El presidente nato del Poder Judicial",
+          "correcta": false,
+          "explicacion": "El art. 99 de la Constitución Nacional no le atribuye la jefatura del Poder Judicial; el art. 109 le prohíbe funciones judiciales."
+        },
+        {
+          "letra": "D",
+          "texto": "El jefe supremo de la Nación, jefe del gobierno y responsable político de la administración general del país",
+          "correcta": true,
+          "explicacion": "El art. 99 inc. 1 de la Constitución Nacional define al Presidente como jefe supremo de la Nación, jefe del gobierno y responsable político de la administración general del país."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La supremacía constitucional, prevista en el art. 31 CN, significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los decretos del presidente están por encima de la Constitución",
+          "correcta": false,
+          "explicacion": "Ningún decreto puede estar por encima de la Constitución."
+        },
+        {
+          "letra": "B",
+          "texto": "Los tratados nunca pueden tener jerarquía constitucional",
+          "correcta": false,
+          "explicacion": "Tras 1994, ciertos tratados de derechos humanos tienen jerarquía constitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "Las leyes provinciales prevalecen sobre la Constitución Nacional",
+          "correcta": false,
+          "explicacion": "Las normas provinciales deben subordinarse a la Constitución Nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "La Constitución es la norma suprema y las demás deben ajustarse a ella",
+          "correcta": true,
+          "explicacion": "El art. 31 establece la jerarquía: la Constitución y las normas que de ella derivan son ley suprema."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Cuál de las siguientes normas tiene MAYOR jerarquía en el ordenamiento jurídico argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una ordenanza municipal",
+          "correcta": false,
+          "explicacion": "Es una norma local de baja jerarquía."
+        },
+        {
+          "letra": "B",
+          "texto": "Un decreto del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Los decretos son inferiores a la Constitución y a las leyes."
+        },
+        {
+          "letra": "C",
+          "texto": "La Constitución Nacional",
+          "correcta": true,
+          "explicacion": "Correcto: encabeza la pirámide jurídica por sobre leyes, decretos y ordenanzas."
+        },
+        {
+          "letra": "D",
+          "texto": "Una ley provincial",
+          "correcta": false,
+          "explicacion": "Está subordinada a la Constitución Nacional."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Las provincias, dentro del sistema federal argentino:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dependen del presidente para elegir sus autoridades",
+          "correcta": false,
+          "explicacion": "Las provincias eligen sus autoridades de modo autónomo."
+        },
+        {
+          "letra": "B",
+          "texto": "No pueden dictar sus propias constituciones",
+          "correcta": false,
+          "explicacion": "Cada provincia dicta su propia constitución, conforme al art. 5 CN."
+        },
+        {
+          "letra": "C",
+          "texto": "Delegaron todos sus poderes a la Nación",
+          "correcta": false,
+          "explicacion": "Las provincias delegaron solo ciertos poderes; conservan el resto."
+        },
+        {
+          "letra": "D",
+          "texto": "Conservan todo el poder no delegado al gobierno federal",
+          "correcta": true,
+          "explicacion": "El art. 121 CN establece que las provincias conservan los poderes no delegados a la Nación."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La Revolución Sandinista que en 1979 derrocó a la dinastía Somoza tuvo lugar en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuba",
+          "correcta": false,
+          "explicacion": "Incorrecta: la Revolución Cubana fue en 1959 y contra Batista."
+        },
+        {
+          "letra": "B",
+          "texto": "El Salvador",
+          "correcta": false,
+          "explicacion": "Incorrecta: El Salvador vivió una guerra civil, pero el sandinismo es nicaragüense."
+        },
+        {
+          "letra": "C",
+          "texto": "Guatemala",
+          "correcta": false,
+          "explicacion": "Incorrecta: Guatemala tuvo otros procesos, como la caída de Árbenz en 1954."
+        },
+        {
+          "letra": "D",
+          "texto": "Nicaragua",
+          "correcta": true,
+          "explicacion": "Correcta: el Frente Sandinista de Liberación Nacional tomó el poder en Nicaragua en 1979."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El combate de San Lorenzo (1813), primer enfrentamiento de San Martín con sus Granaderos a Caballo, ocurrió a orillas del:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Río Uruguay",
+          "correcta": false,
+          "explicacion": "El combate no se desarrolló sobre el río Uruguay."
+        },
+        {
+          "letra": "B",
+          "texto": "Río de la Plata",
+          "correcta": false,
+          "explicacion": "No ocurrió sobre el Río de la Plata sino sobre el Paraná."
+        },
+        {
+          "letra": "C",
+          "texto": "Río Bermejo",
+          "correcta": false,
+          "explicacion": "El Bermejo está en el norte y no fue escenario de San Lorenzo."
+        },
+        {
+          "letra": "D",
+          "texto": "Río Paraná",
+          "correcta": true,
+          "explicacion": "El combate de San Lorenzo se libró cerca del río Paraná, en la actual provincia de Santa Fe."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El militar que encabezó el golpe de 1930 e instauró un gobierno de tinte nacionalista-corporativista fue:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pedro P. Ramírez",
+          "correcta": false,
+          "explicacion": "Incorrecta: participó en el golpe de 1943, no en el de 1930."
+        },
+        {
+          "letra": "B",
+          "texto": "Edelmiro Farrell",
+          "correcta": false,
+          "explicacion": "Incorrecta: fue presidente de facto entre 1944 y 1946."
+        },
+        {
+          "letra": "C",
+          "texto": "José Félix Uriburu",
+          "correcta": true,
+          "explicacion": "Correcta: lideró el golpe y presidió de facto entre 1930 y 1932."
+        },
+        {
+          "letra": "D",
+          "texto": "Agustín P. Justo",
+          "correcta": false,
+          "explicacion": "Incorrecta: representaba el sector más liberal-conservador y fue electo en 1931."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Quién ejerce la jefatura del Poder Ejecutivo nacional en Argentina?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El presidente de la Cámara de Diputados",
+          "correcta": false,
+          "explicacion": "Conduce una cámara del Congreso, no el Poder Ejecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente de la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Encabeza el máximo tribunal, parte del Poder Judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "El jefe del Estado Mayor",
+          "correcta": false,
+          "explicacion": "Es una autoridad militar subordinada al Presidente."
+        },
+        {
+          "letra": "D",
+          "texto": "El Presidente de la Nación",
+          "correcta": true,
+          "explicacion": "Correcto: el Presidente es el jefe de Estado y de gobierno y titular del Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué acuerdo de 1852 sentó las bases para convocar a un congreso constituyente tras la caída de Rosas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Pacto Federal",
+          "correcta": false,
+          "explicacion": "El Pacto Federal es de 1831, durante la etapa rosista."
+        },
+        {
+          "letra": "B",
+          "texto": "El Tratado del Pilar",
+          "correcta": false,
+          "explicacion": "El Tratado del Pilar es de 1820, mucho antes de Caseros."
+        },
+        {
+          "letra": "C",
+          "texto": "El Pacto de San José de Flores",
+          "correcta": false,
+          "explicacion": "Ese pacto es de 1859, tras la batalla de Cepeda."
+        },
+        {
+          "letra": "D",
+          "texto": "El Acuerdo de San Nicolás",
+          "correcta": true,
+          "explicacion": "El Acuerdo de San Nicolás (1852) convocó al Congreso Constituyente de Santa Fe."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "La Resolución PGN N° 3329/2016 tiene por finalidad principal:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Modificar artículos del Reglamento de ingreso (Res. PGN 507/14) a la luz de la experiencia adquirida.",
+          "correcta": true,
+          "explicacion": "Correcta. La Resolución PGN N° 3329/2016 modifica los arts. 4, 16, 51 y 68 del Reglamento de Ingreso (Res. PGN 507/14) tras la experiencia de casi tres años de concursos."
+        },
+        {
+          "letra": "B",
+          "texto": "Derogar la Ley N° 26.861.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Una resolución no deroga una ley; la Res. PGN 3329/2016 reglamenta y modifica el Reglamento (Res. PGN 507/14), en el marco de la Ley N° 26.861."
+        },
+        {
+          "letra": "C",
+          "texto": "Crear el Tribunal de Enjuiciamiento del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Tribunal de Enjuiciamiento surge de la Ley N° 27.148, art. 77; la Res. PGN 3329/2016 modifica el Reglamento de ingreso."
+        },
+        {
+          "letra": "D",
+          "texto": "Aprobar la autarquía financiera del MPF.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La autarquía financiera está en la Ley N° 27.148, arts. 38 y ss.; la Res. PGN 3329/2016 modifica el Reglamento de ingreso."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el material institucional, ¿en cuántos distritos judiciales federales se dividió el territorio nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En dieciséis (16) distritos judiciales federales.",
+          "correcta": true,
+          "explicacion": "Correcta. El material 'Qué es el MPF + Jurisdicción' indica que el Congreso, en uso del art. 75 inc. 20 CN, dividió el territorio nacional en 16 distritos judiciales federales."
+        },
+        {
+          "letra": "B",
+          "texto": "En treinta (30) distritos judiciales federales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material institucional indica 16 distritos judiciales federales."
+        },
+        {
+          "letra": "C",
+          "texto": "En diez (10) distritos judiciales federales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material 'Qué es el MPF + Jurisdicción' fija 16 distritos judiciales federales."
+        },
+        {
+          "letra": "D",
+          "texto": "En veinticuatro (24) distritos judiciales federales.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material institucional señala 16 distritos judiciales federales, aunque las provincias y CABA sumen 24 jurisdicciones."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué caracterizó al sistema político de la Generación del 80 en cuanto al acceso al poder?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sufragio secreto y obligatorio para todos",
+          "correcta": false,
+          "explicacion": "El voto secreto y obligatorio recién se estableció en 1912 con la Ley Sáenz Peña."
+        },
+        {
+          "letra": "B",
+          "texto": "Voto femenino universal",
+          "correcta": false,
+          "explicacion": "El voto femenino llegó recién a mediados del siglo XX."
+        },
+        {
+          "letra": "C",
+          "texto": "Elecciones limpias y participación plena",
+          "correcta": false,
+          "explicacion": "Las elecciones estaban marcadas por el fraude y la restricción de la participación."
+        },
+        {
+          "letra": "D",
+          "texto": "Fraude electoral y un grupo dirigente cerrado",
+          "correcta": true,
+          "explicacion": "El régimen se caracterizó por el fraude electoral y un grupo dirigente cerrado (el \"unicato\")."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué ley incorporó el femicidio como agravante del homicidio en el Código Penal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley N° 24.632",
+          "correcta": false,
+          "explicacion": "Ley N° 24.632 aprueba la Convención de Belém do Pará, no modifica el Código Penal."
+        },
+        {
+          "letra": "B",
+          "texto": "Ley N° 26.791",
+          "correcta": true,
+          "explicacion": "Ley N° 26.791: modificó el art. 80 del Código Penal incorporando los incisos 11 y 12, entre ellos el femicidio."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley N° 26.743",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743 regula la identidad de género, no la reforma del Código Penal."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley N° 26.485",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 41: no crea tipos penales; el femicidio se incorporó por la Ley N° 26.791."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Antes de su primera presidencia, Juan Domingo Perón ganó proyección política desde la Secretaría de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacienda",
+          "correcta": false,
+          "explicacion": "Incorrecta: su impulso provino del área laboral, no de Hacienda."
+        },
+        {
+          "letra": "B",
+          "texto": "Educación",
+          "correcta": false,
+          "explicacion": "Incorrecta: su base se construyó desde Trabajo y Previsión."
+        },
+        {
+          "letra": "C",
+          "texto": "Trabajo y Previsión",
+          "correcta": true,
+          "explicacion": "Correcta: desde allí impulsó derechos laborales que ampliaron su base sindical."
+        },
+        {
+          "letra": "D",
+          "texto": "Relaciones Exteriores",
+          "correcta": false,
+          "explicacion": "Incorrecta: no fue su cartera de proyección."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La Convención sobre los Derechos del Niño introdujo como eje central la idea de que niñas, niños y adolescentes son:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Objetos de tutela sin opinión propia.",
+          "correcta": false,
+          "explicacion": "El cambio de paradigma fue dejar de verlos como objetos para reconocerlos como sujetos."
+        },
+        {
+          "letra": "B",
+          "texto": "Ciudadanos con derecho a votar desde el nacimiento.",
+          "correcta": false,
+          "explicacion": "El derecho al voto no surge del nacimiento; ser sujeto de derechos no equivale a votar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sujetos plenos de derecho, debiendo atenderse su interés superior.",
+          "correcta": true,
+          "explicacion": "La Convención (jerarquía constitucional en Argentina) los considera sujetos de derecho y consagra el interés superior del niño."
+        },
+        {
+          "letra": "D",
+          "texto": "Iguales en obligaciones penales que los adultos.",
+          "correcta": false,
+          "explicacion": "Existe un régimen diferenciado; no se los equipara penalmente a los adultos."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué ley establece la protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley N° 26.061",
+          "correcta": false,
+          "explicacion": "Ley N° 26.061, citada en la Ley N° 26.485, art. 3, protege los derechos de niñas, niños y adolescentes, no específicamente a las mujeres."
+        },
+        {
+          "letra": "B",
+          "texto": "Ley N° 26.485",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 1 y título: es la Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley N° 24.417",
+          "correcta": false,
+          "explicacion": "Ley N° 24.417 es la de Protección contra la Violencia Familiar, mencionada como supletoria en la Ley N° 26.485, art. 42, pero no es la norma central."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley N° 26.743",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 1: regula el derecho a la identidad de género, no la violencia contra las mujeres."
+        }
+      ]
+    }
+  ]
+}

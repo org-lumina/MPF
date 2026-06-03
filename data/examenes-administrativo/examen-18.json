@@ -1,0 +1,626 @@
+{
+  "examen_id": 18,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La 'soberanía popular' significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El poder pertenece exclusivamente al presidente",
+          "correcta": false,
+          "explicacion": "El presidente ejerce poder delegado por el pueblo, no es titular de la soberanía."
+        },
+        {
+          "letra": "B",
+          "texto": "El poder reside en el pueblo, que es la fuente de toda autoridad",
+          "correcta": true,
+          "explicacion": "En democracia, el poder político emana del pueblo, titular de la soberanía."
+        },
+        {
+          "letra": "C",
+          "texto": "El poder pertenece a quien tenga mayor riqueza",
+          "correcta": false,
+          "explicacion": "La soberanía es popular y no depende del poder económico de las personas."
+        },
+        {
+          "letra": "D",
+          "texto": "La soberanía la ejercen las Fuerzas Armadas",
+          "correcta": false,
+          "explicacion": "Las Fuerzas Armadas se subordinan al poder civil; no son titulares de la soberanía."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El golpe militar del 4 de junio de 1943 marcó el fin de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Década Infame y abrió el camino al ascenso de Perón",
+          "correcta": true,
+          "explicacion": "Correcta: el GOU encabezó el golpe; en ese gobierno Perón ganó protagonismo."
+        },
+        {
+          "letra": "B",
+          "texto": "La última dictadura militar",
+          "correcta": false,
+          "explicacion": "Incorrecta: la última dictadura terminó en 1983."
+        },
+        {
+          "letra": "C",
+          "texto": "El primer peronismo",
+          "correcta": false,
+          "explicacion": "Incorrecta: el peronismo en el poder comenzó en 1946, después del golpe del 43."
+        },
+        {
+          "letra": "D",
+          "texto": "La presidencia de Yrigoyen",
+          "correcta": false,
+          "explicacion": "Incorrecta: Yrigoyen fue derrocado en 1930."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El principio de 'igualdad ante la ley' (art. 16 CN) implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los más ricos tienen mayores derechos políticos",
+          "correcta": false,
+          "explicacion": "La igualdad ante la ley excluye diferencias de derechos por riqueza."
+        },
+        {
+          "letra": "B",
+          "texto": "La ley solo se aplica a los extranjeros",
+          "correcta": false,
+          "explicacion": "La ley se aplica a todos los habitantes por igual."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los habitantes son iguales ante la ley, sin privilegios de sangre ni de nacimiento",
+          "correcta": true,
+          "explicacion": "El art. 16 consagra la igualdad ante la ley y la abolición de los privilegios y títulos de nobleza."
+        },
+        {
+          "letra": "D",
+          "texto": "Algunas personas tienen privilegios por su título nobiliario",
+          "correcta": false,
+          "explicacion": "La Constitución abolió los fueros personales y los títulos de nobleza."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley N° 26.485, la violencia que ejerce el personal de salud sobre el cuerpo y los procesos reproductivos de las mujeres, con trato deshumanizado y abuso de medicalización, se denomina:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Violencia obstétrica",
+          "correcta": true,
+          "explicacion": "Ley N° 26.485, art. 6 inc. e: la violencia obstétrica es la ejercida por el personal de salud sobre el cuerpo y los procesos reproductivos, con trato deshumanizado y abuso de medicalización."
+        },
+        {
+          "letra": "B",
+          "texto": "Violencia institucional",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 6 inc. b: la institucional es la que retarda u obstaculiza el acceso a políticas públicas y derechos."
+        },
+        {
+          "letra": "C",
+          "texto": "Violencia sexual",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 5 inc. 3: la sexual es un tipo de violencia, no la modalidad ejercida por personal de salud."
+        },
+        {
+          "letra": "D",
+          "texto": "Violencia contra la libertad reproductiva",
+          "correcta": false,
+          "explicacion": "Ley N° 26.485, art. 6 inc. d: esta vulnera el derecho a decidir el número de embarazos o intervalo entre nacimientos."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Las normas que dictan los municipios para regular la vida local se denominan:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tratados internacionales",
+          "correcta": false,
+          "explicacion": "Los tratados se acuerdan entre Estados, no son normas municipales."
+        },
+        {
+          "letra": "B",
+          "texto": "Decretos presidenciales",
+          "correcta": false,
+          "explicacion": "Los decretos presidenciales emanan del Poder Ejecutivo nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Ordenanzas",
+          "correcta": true,
+          "explicacion": "Correcto: los concejos deliberantes municipales sancionan ordenanzas."
+        },
+        {
+          "letra": "D",
+          "texto": "Leyes nacionales",
+          "correcta": false,
+          "explicacion": "Las leyes nacionales las dicta el Congreso de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El organismo de derechos humanos formado por madres de detenidos-desaparecidos que comenzó a reunirse en 1977 frente a la Casa Rosada se conoce como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Liga Patriótica",
+          "correcta": false,
+          "explicacion": "Incorrecta: organización nacionalista de comienzos del siglo XX."
+        },
+        {
+          "letra": "B",
+          "texto": "La CGT",
+          "correcta": false,
+          "explicacion": "Incorrecta: la CGT es la central de trabajadores, no un organismo de DD.HH."
+        },
+        {
+          "letra": "C",
+          "texto": "Madres de Plaza de Mayo",
+          "correcta": true,
+          "explicacion": "Correcta: surgieron en 1977 para reclamar por sus hijos desaparecidos."
+        },
+        {
+          "letra": "D",
+          "texto": "La Federación Universitaria",
+          "correcta": false,
+          "explicacion": "Incorrecta: agrupación estudiantil, no de madres de desaparecidos."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Hacia qué destino se distribuyeron principalmente las tierras obtenidas tras la Conquista del Desierto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se concentraron en grandes propietarios y allegados al poder",
+          "correcta": true,
+          "explicacion": "Buena parte de las tierras fue a parar a grandes estancieros y sectores cercanos al poder."
+        },
+        {
+          "letra": "B",
+          "texto": "Se devolvieron a las comunidades indígenas",
+          "correcta": false,
+          "explicacion": "No fueron devueltas a las comunidades, que resultaron despojadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Quedaron en manos del Estado sin uso productivo",
+          "correcta": false,
+          "explicacion": "Las tierras se incorporaron a la producción, sobre todo ganadera."
+        },
+        {
+          "letra": "D",
+          "texto": "Se repartieron en pequeñas parcelas entre inmigrantes recién llegados",
+          "correcta": false,
+          "explicacion": "Predominó la concentración en grandes propietarios, no el reparto en pequeñas parcelas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Cómo se denomina la generación de intelectuales y políticos que dirigió el país hacia fines del siglo XIX?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Generación del 37",
+          "correcta": false,
+          "explicacion": "La Generación del 37 (Echeverría, Alberdi, Sarmiento) fue anterior, de la etapa rosista."
+        },
+        {
+          "letra": "B",
+          "texto": "La Generación del 900",
+          "correcta": false,
+          "explicacion": "No es la denominación usual para ese grupo dirigente."
+        },
+        {
+          "letra": "C",
+          "texto": "La Generación del Centenario",
+          "correcta": false,
+          "explicacion": "El Centenario (1910) es un hito posterior, no el nombre de esa generación dirigente."
+        },
+        {
+          "letra": "D",
+          "texto": "La Generación del 80",
+          "correcta": true,
+          "explicacion": "La Generación del 80 dirigió el país en el modelo agroexportador y liberal-conservador."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La duración del mandato del presidente de la Nación, según la Constitución reformada en 1994, es de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seis años sin reelección",
+          "correcta": false,
+          "explicacion": "El mandato de seis años sin reelección regía antes de la reforma de 1994."
+        },
+        {
+          "letra": "B",
+          "texto": "Ocho años, con dos reelecciones",
+          "correcta": false,
+          "explicacion": "No existe un mandato de ocho años; son cuatro con una sola reelección consecutiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco años, sin reelección",
+          "correcta": false,
+          "explicacion": "El mandato no es de cinco años ni prohíbe toda reelección."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuatro años, con posibilidad de una reelección inmediata",
+          "correcta": true,
+          "explicacion": "Desde 1994 el mandato es de cuatro años, con una reelección consecutiva permitida."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 75 inc. 2, la ley convenio de coparticipación tendrá como Cámara de origen:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Senado",
+          "correcta": true,
+          "explicacion": "El art. 75 inc. 2 de la Constitución Nacional dispone que la ley convenio tendrá como Cámara de origen el Senado."
+        },
+        {
+          "letra": "B",
+          "texto": "La Asamblea Legislativa",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 2 de la Constitución Nacional designa al Senado, no a una asamblea, como Cámara de origen."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquiera de las dos Cámaras indistintamente",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 2 de la Constitución Nacional fija expresamente al Senado como Cámara de origen."
+        },
+        {
+          "letra": "D",
+          "texto": "La Cámara de Diputados",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 2 de la Constitución Nacional fija al Senado como Cámara de origen de la ley convenio de coparticipación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el material institucional, ¿qué causas tiene a su cargo el Ministerio Público Fiscal de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente las causas de la Ciudad Autónoma de Buenos Aires.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El MPF tiene a su cargo las causas federales en todo el país, más algunas locales de CABA (material 'Qué es el MPF')."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas las causas penales y civiles de las provincias.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las causas provinciales corresponden a la justicia local; el MPF interviene en las federales y ciertas locales de CABA (material 'Qué es el MPF')."
+        },
+        {
+          "letra": "C",
+          "texto": "Exclusivamente las causas que tramitan ante la Corte Suprema.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El MPF dictamina ante la Corte (Ley N° 27.148, art. 2º), pero su competencia abarca causas federales en todo el país (material 'Qué es el MPF')."
+        },
+        {
+          "letra": "D",
+          "texto": "Las causas federales en todo el país y algunas locales de la CABA cuya competencia no fue transferida.",
+          "correcta": true,
+          "explicacion": "Correcta. El material 'Qué es el MPF' explica que el MPF tiene a su cargo las causas federales en todo el país y algunas locales de la CABA no transferidas al Ministerio Público local."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué país concentró las principales inversiones extranjeras (ferrocarriles, frigoríficos) en la Argentina del modelo agroexportador?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Alemania",
+          "correcta": false,
+          "explicacion": "Alemania tuvo presencia menor frente a la británica."
+        },
+        {
+          "letra": "B",
+          "texto": "Estados Unidos",
+          "correcta": false,
+          "explicacion": "La influencia estadounidense fue posterior; en esa etapa predominó Gran Bretaña."
+        },
+        {
+          "letra": "C",
+          "texto": "Gran Bretaña",
+          "correcta": true,
+          "explicacion": "Gran Bretaña fue la principal inversora en ferrocarriles, frigoríficos y comercio."
+        },
+        {
+          "letra": "D",
+          "texto": "Francia",
+          "correcta": false,
+          "explicacion": "Francia invirtió, pero en mucha menor medida que Gran Bretaña."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 75 inc. 22, los tratados y concordatos en general:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tienen jerarquía inferior a las leyes",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional dispone que los tratados y concordatos tienen jerarquía superior a las leyes."
+        },
+        {
+          "letra": "B",
+          "texto": "Tienen la misma jerarquía que un decreto",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional les reconoce jerarquía superior a las leyes, no la de un decreto."
+        },
+        {
+          "letra": "C",
+          "texto": "Tienen jerarquía superior a las leyes",
+          "correcta": true,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional establece que los tratados y concordatos tienen jerarquía superior a las leyes."
+        },
+        {
+          "letra": "D",
+          "texto": "No integran el ordenamiento jurídico interno",
+          "correcta": false,
+          "explicacion": "El art. 75 inc. 22 de la Constitución Nacional los integra al ordenamiento con jerarquía superior a las leyes."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El Consejo General del Ministerio Público Fiscal está integrado por el Procurador General, quien lo preside, y por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seis (6) vocales con cargo de fiscal general.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 16, dispone que el Consejo General se integra con el Procurador General y seis (6) vocales con cargo de fiscal general."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (5) vocales designados por el Senado.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 16, establece seis vocales elegidos por sufragio directo de los magistrados, no cinco designados por el Senado."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres (3) vocales con cargo de procurador fiscal.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 16, fija seis vocales fiscales generales, no tres procuradores fiscales."
+        },
+        {
+          "letra": "D",
+          "texto": "Siete (7) vocales elegidos por el Poder Ejecutivo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Son siete los miembros del Tribunal de Enjuiciamiento (Ley N° 27.148, art. 77); el Consejo General tiene seis vocales fiscales generales (art. 16)."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la CEDAW (Ley N° 23.179), las medidas especiales de carácter temporal encaminadas a acelerar la igualdad de facto entre hombre y mujer:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No se considerarán discriminación, y cesarán cuando se alcancen los objetivos de igualdad",
+          "correcta": true,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 4.1: las medidas especiales de carácter temporal no se consideran discriminación y cesarán al alcanzarse la igualdad de oportunidad y trato."
+        },
+        {
+          "letra": "B",
+          "texto": "Constituyen siempre una forma de discriminación prohibida",
+          "correcta": false,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 4.1: expresamente no se consideran discriminación."
+        },
+        {
+          "letra": "C",
+          "texto": "Deben mantenerse de forma permanente",
+          "correcta": false,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 4.1: son de carácter temporal y cesan al lograrse la igualdad."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo pueden aplicarse en materia electoral",
+          "correcta": false,
+          "explicacion": "CEDAW (Ley N° 23.179), art. 4.1: no se limitan a lo electoral."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué presidente fundó las primeras escuelas normales para formar maestros e impulsó la educación primaria?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mitre",
+          "correcta": false,
+          "explicacion": "Mitre fundó colegios nacionales secundarios, no las escuelas normales de maestros."
+        },
+        {
+          "letra": "B",
+          "texto": "Roca",
+          "correcta": false,
+          "explicacion": "Roca impulsó la Ley 1420 (1884), pero las escuelas normales son de Sarmiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Avellaneda",
+          "correcta": false,
+          "explicacion": "Avellaneda continuó políticas educativas, pero las normales se asocian a Sarmiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Sarmiento",
+          "correcta": true,
+          "explicacion": "Sarmiento impulsó las escuelas normales y la educación primaria pública."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué batalla de 1861 permitió la unificación nacional bajo la hegemonía de Buenos Aires?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Batalla de Pavón",
+          "correcta": true,
+          "explicacion": "En Pavón (1861) Mitre se impuso, abriendo el camino a la unificación nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Batalla de Maipú",
+          "correcta": false,
+          "explicacion": "Maipú (1818) pertenece a las guerras de la independencia en Chile."
+        },
+        {
+          "letra": "C",
+          "texto": "Batalla de Caseros",
+          "correcta": false,
+          "explicacion": "Caseros (1852) derrotó a Rosas, no fue el momento de la unificación final."
+        },
+        {
+          "letra": "D",
+          "texto": "Batalla de Cepeda",
+          "correcta": false,
+          "explicacion": "Cepeda (1859) favoreció a Urquiza, no la unificación bajo Buenos Aires."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La 'responsabilidad de los funcionarios', rasgo republicano, implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los funcionarios deben rendir cuentas y responder por sus actos",
+          "correcta": true,
+          "explicacion": "En la república quienes ejercen el poder responden jurídica y políticamente por su gestión."
+        },
+        {
+          "letra": "B",
+          "texto": "La responsabilidad recae únicamente sobre los ciudadanos",
+          "correcta": false,
+          "explicacion": "La responsabilidad republicana alcanza especialmente a quienes ejercen funciones públicas."
+        },
+        {
+          "letra": "C",
+          "texto": "Los funcionarios no responden ante nadie por sus decisiones",
+          "correcta": false,
+          "explicacion": "La irresponsabilidad es propia de regímenes absolutistas, no de la república."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo el presidente es responsable de todo el gobierno",
+          "correcta": false,
+          "explicacion": "Todos los funcionarios responden por sus propios actos, no solo el presidente."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Cuáles son los tres niveles de gobierno en la organización del Estado argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Central, departamental y vecinal",
+          "correcta": false,
+          "explicacion": "No corresponde a la organización argentina; los términos no son los oficiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Ejecutivo, legislativo y judicial",
+          "correcta": false,
+          "explicacion": "Esos son los poderes del Estado, no los niveles de gobierno territoriales."
+        },
+        {
+          "letra": "C",
+          "texto": "Nacional, provincial y municipal",
+          "correcta": true,
+          "explicacion": "Correcto: el Estado federal se organiza en estos tres niveles de gobierno."
+        },
+        {
+          "letra": "D",
+          "texto": "Federal, regional y comunal",
+          "correcta": false,
+          "explicacion": "Las regiones no constituyen un nivel de gobierno formal en la Constitución."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Ley Orgánica, ¿en cuántos agrupamientos se integran los funcionarios y empleados del MPF?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuatro: jurídico, administrativo, técnico y de maestranza.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 57, fija tres agrupamientos, no cuatro."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres: técnico jurídico, técnico administrativo y servicios auxiliares.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 57, establece tres agrupamientos: técnico jurídico, técnico administrativo y servicios auxiliares."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco agrupamientos escalafonarios.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 57, establece exactamente tres agrupamientos."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos: magistrados y empleados.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 57, prevé tres agrupamientos de funcionarios y empleados, no dos categorías."
+        }
+      ]
+    }
+  ]
+}

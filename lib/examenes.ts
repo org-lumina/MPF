@@ -117,7 +117,7 @@ function letraCorrectaDe(p: Pregunta): Letra | null {
  */
 export function corregirExamen(
   respuestasUsuario: RespuestasUsuario,
-  examen: Examen
+  examen: { examen_id: number; preguntas: Pregunta[] }
 ): ResultadoCorreccion {
   const detalle: DetallePregunta[] = [];
   const porTema: Record<string, ResumenTema> = {};
@@ -185,4 +185,41 @@ export function generarDevolucion(
     partes.push("Completá un examen para obtener tu devolución por tema.");
   }
   return partes.join(" ");
+}
+
+// ====================================================================
+//  Contenido adicional: examen administrativo y casos prácticos
+// ====================================================================
+
+export interface ExamenAdmin {
+  examen_id: number;
+  agrupacion: string;
+  preguntas: Pregunta[]; // 20 preguntas, cada una con tema; sin caso
+}
+
+export interface CasoPractico {
+  caso_id: number;
+  eje: string;
+  planteo: string;
+  preguntas: { id: number; enunciado: string; opciones: Opcion[] }[]; // 5
+  resolucion_didactica: string;
+}
+
+const DIR_ADMIN = path.join(process.cwd(), "data", "examenes-administrativo");
+const DIR_CASOS = path.join(process.cwd(), "data", "casos");
+
+/** Lee los exámenes administrativos presentes (ordenados por examen_id). */
+export function cargarAdministrativos(dir: string = DIR_ADMIN): ExamenAdmin[] {
+  const archivos = fs.readdirSync(dir).filter((f) => f.endsWith(".json")).sort();
+  return archivos
+    .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8")) as ExamenAdmin)
+    .sort((a, b) => a.examen_id - b.examen_id);
+}
+
+/** Lee los casos prácticos presentes (tolera huecos, ej. caso-03 borrado). */
+export function cargarCasos(dir: string = DIR_CASOS): CasoPractico[] {
+  const archivos = fs.readdirSync(dir).filter((f) => f.endsWith(".json")).sort();
+  return archivos
+    .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8")) as CasoPractico)
+    .sort((a, b) => a.caso_id - b.caso_id);
 }

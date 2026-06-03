@@ -1,0 +1,626 @@
+{
+  "examen_id": 3,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La 'libertad de expresión' como derecho civil comprende, principalmente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a decir cualquier cosa sin ninguna consecuencia.",
+          "correcta": false,
+          "explicacion": "No hay censura previa, pero puede existir responsabilidad ulterior por daños como la calumnia."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a difundir ideas y opiniones sin censura previa, con responsabilidad ulterior.",
+          "correcta": true,
+          "explicacion": "Implica expresar y publicar ideas sin censura previa, aunque puede haber responsabilidad posterior por abusos."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a votar en las elecciones.",
+          "correcta": false,
+          "explicacion": "Votar es un derecho político distinto de la libertad de expresión."
+        },
+        {
+          "letra": "D",
+          "texto": "Un permiso que otorga el Estado caso por caso.",
+          "correcta": false,
+          "explicacion": "Es un derecho, no un permiso discrecional del Estado."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 37, el sufragio es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Restringido a los mayores contribuyentes",
+          "correcta": false,
+          "explicacion": "El art. 37 de la Constitución Nacional consagra el sufragio universal, sin restricción por contribución."
+        },
+        {
+          "letra": "B",
+          "texto": "Indirecto y facultativo",
+          "correcta": false,
+          "explicacion": "El art. 37 de la Constitución Nacional define el sufragio como obligatorio, no facultativo."
+        },
+        {
+          "letra": "C",
+          "texto": "Universal, igual, secreto y obligatorio",
+          "correcta": true,
+          "explicacion": "El art. 37 de la Constitución Nacional define el sufragio como universal, igual, secreto y obligatorio."
+        },
+        {
+          "letra": "D",
+          "texto": "Calificado, público y voluntario",
+          "correcta": false,
+          "explicacion": "El art. 37 de la Constitución Nacional lo define como universal, igual, secreto y obligatorio, no calificado ni voluntario."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El dirigente derrocado al inicio de la Revolución Mexicana, que gobernaba el país desde hacía décadas, era:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Emiliano Zapata",
+          "correcta": false,
+          "explicacion": "Incorrecta: Zapata fue líder revolucionario campesino, no el gobernante derrocado."
+        },
+        {
+          "letra": "B",
+          "texto": "Francisco Madero",
+          "correcta": false,
+          "explicacion": "Incorrecta: Madero encabezó la oposición a Díaz y luego fue presidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Pancho Villa",
+          "correcta": false,
+          "explicacion": "Incorrecta: Villa fue un caudillo revolucionario del norte."
+        },
+        {
+          "letra": "D",
+          "texto": "Porfirio Díaz",
+          "correcta": true,
+          "explicacion": "Correcta: el Porfiriato fue el largo período de dominio de Díaz, terminado por la Revolución."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La participación ciudadana puede ejercerse de muchas formas. ¿Cuál de las siguientes es una forma de participación NO electoral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sufragar en una consulta popular vinculante.",
+          "correcta": false,
+          "explicacion": "La consulta popular es un mecanismo de votación, es decir, electoral."
+        },
+        {
+          "letra": "B",
+          "texto": "Integrar una organización de la sociedad civil o participar en una audiencia pública.",
+          "correcta": true,
+          "explicacion": "Asociaciones civiles, ONG y audiencias públicas son formas de participación no electoral."
+        },
+        {
+          "letra": "C",
+          "texto": "Elegir representantes en internas partidarias.",
+          "correcta": false,
+          "explicacion": "Eso es participación electoral dentro de los partidos."
+        },
+        {
+          "letra": "D",
+          "texto": "Votar en elecciones generales.",
+          "correcta": false,
+          "explicacion": "El voto es la forma electoral por excelencia."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Cuántos senadores nacionales elige cada provincia y la Ciudad de Buenos Aires?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Uno",
+          "correcta": false,
+          "explicacion": "No corresponde; cada distrito elige tres senadores."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres",
+          "correcta": true,
+          "explicacion": "Correcto: tras la reforma de 1994 cada distrito elige tres senadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco",
+          "correcta": false,
+          "explicacion": "No corresponde al número de senadores por distrito."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos",
+          "correcta": false,
+          "explicacion": "Eran dos antes de 1994; actualmente son tres."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué reforma de 1860 a la Constitución se relacionó con la incorporación de Buenos Aires a la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La reforma de 1898",
+          "correcta": false,
+          "explicacion": "La reforma de 1898 modificó otros aspectos, no la incorporación de Buenos Aires."
+        },
+        {
+          "letra": "B",
+          "texto": "La reforma de 1949",
+          "correcta": false,
+          "explicacion": "La reforma de 1949 fue muy posterior, de mediados del siglo XX."
+        },
+        {
+          "letra": "C",
+          "texto": "La reforma de 1860",
+          "correcta": true,
+          "explicacion": "Tras el Pacto de San José de Flores, la reforma de 1860 permitió la incorporación de Buenos Aires."
+        },
+        {
+          "letra": "D",
+          "texto": "La reforma de 1853",
+          "correcta": false,
+          "explicacion": "1853 es la sanción original, no una reforma para incorporar Buenos Aires."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 59, cuando el acusado en juicio político sea el presidente de la Nación, el Senado será presidido por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Procurador General de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 59 de la Constitución Nacional no atribuye esa función al Procurador General."
+        },
+        {
+          "letra": "B",
+          "texto": "El vicepresidente de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 59 de la Constitución Nacional excluye al vicepresidente en ese caso y atribuye la presidencia al presidente de la Corte Suprema."
+        },
+        {
+          "letra": "C",
+          "texto": "El presidente de la Corte Suprema",
+          "correcta": true,
+          "explicacion": "El art. 59 de la Constitución Nacional dispone que, cuando el acusado sea el presidente de la Nación, el Senado será presidido por el presidente de la Corte Suprema."
+        },
+        {
+          "letra": "D",
+          "texto": "El presidente de la Cámara de Diputados",
+          "correcta": false,
+          "explicacion": "El art. 59 de la Constitución Nacional asigna esa presidencia al presidente de la Corte Suprema."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Entre los deberes de los ciudadanos en una democracia se encuentra:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pagar impuestos solo si se reciben beneficios directos.",
+          "correcta": false,
+          "explicacion": "El deber tributario no se condiciona a beneficios directos individuales."
+        },
+        {
+          "letra": "B",
+          "texto": "Obedecer únicamente las leyes con las que se está de acuerdo.",
+          "correcta": false,
+          "explicacion": "El deber de cumplir la ley no depende de estar de acuerdo con ella."
+        },
+        {
+          "letra": "C",
+          "texto": "Renunciar a peticionar a las autoridades.",
+          "correcta": false,
+          "explicacion": "Peticionar es un derecho, no algo a lo que deba renunciarse."
+        },
+        {
+          "letra": "D",
+          "texto": "Cumplir la ley, respetar los derechos de los demás y, cuando corresponde, votar.",
+          "correcta": true,
+          "explicacion": "Los deberes ciudadanos incluyen obedecer la ley, respetar a los otros y participar, por ejemplo votando."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué consecuencia social tuvo la inmigración masiva en la composición de la población argentina hacia 1900?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminuyó la población urbana",
+          "correcta": false,
+          "explicacion": "La inmigración aumentó la población, sobre todo en las ciudades."
+        },
+        {
+          "letra": "B",
+          "texto": "Eliminó las diferencias sociales",
+          "correcta": false,
+          "explicacion": "Las desigualdades sociales persistieron y en parte se acentuaron."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentó notablemente la población y diversificó su origen",
+          "correcta": true,
+          "explicacion": "La inmigración hizo crecer la población y diversificó su composición étnica y cultural."
+        },
+        {
+          "letra": "D",
+          "texto": "Despobló la región pampeana",
+          "correcta": false,
+          "explicacion": "La pampa recibió y empleó a numerosos inmigrantes."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué tipo de vivienda popular urbana alojaba a muchas familias inmigrantes en cuartos compartiendo patio y servicios?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El palacete",
+          "correcta": false,
+          "explicacion": "El palacete era una residencia de familias acomodadas."
+        },
+        {
+          "letra": "B",
+          "texto": "La chacra",
+          "correcta": false,
+          "explicacion": "La chacra es una explotación agrícola, no vivienda urbana popular."
+        },
+        {
+          "letra": "C",
+          "texto": "La estancia",
+          "correcta": false,
+          "explicacion": "La estancia era una unidad productiva rural, no vivienda popular urbana."
+        },
+        {
+          "letra": "D",
+          "texto": "El conventillo",
+          "correcta": true,
+          "explicacion": "El conventillo era una vivienda colectiva donde varias familias compartían patio y servicios."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Convención Americana sobre Derechos Humanos (Ley N° 23.054), ¿qué consagra su art. 7?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a la propiedad privada",
+          "correcta": false,
+          "explicacion": "CADH (Ley N° 23.054), art. 21: regula el derecho a la propiedad privada; el art. 7 trata la libertad personal."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a la nacionalidad",
+          "correcta": false,
+          "explicacion": "CADH (Ley N° 23.054), art. 20: regula el derecho a la nacionalidad; el art. 7 es libertad personal."
+        },
+        {
+          "letra": "C",
+          "texto": "La libertad de pensamiento y de expresión",
+          "correcta": false,
+          "explicacion": "CADH (Ley N° 23.054), art. 13: trata la libertad de pensamiento y expresión; el art. 7 es libertad personal."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a la libertad y a la seguridad personales",
+          "correcta": true,
+          "explicacion": "CADH (Ley N° 23.054), art. 7.1: toda persona tiene derecho a la libertad y a la seguridad personales."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 114, el Consejo de la Magistratura tendrá a su cargo:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La selección de los magistrados y la administración del Poder Judicial",
+          "correcta": true,
+          "explicacion": "El art. 114 de la Constitución Nacional dispone que el Consejo de la Magistratura tendrá a su cargo la selección de los magistrados y la administración del Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "Declarar la inconstitucionalidad de las leyes",
+          "correcta": false,
+          "explicacion": "El art. 114 de la Constitución Nacional no atribuye al Consejo el control de constitucionalidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Designar al Procurador General de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 114 de la Constitución Nacional no le asigna esa función; el Ministerio Público se regula en el art. 120."
+        },
+        {
+          "letra": "D",
+          "texto": "Dictar las sentencias de última instancia",
+          "correcta": false,
+          "explicacion": "El art. 114 de la Constitución Nacional le encomienda la selección de magistrados y la administración del Poder Judicial, no dictar sentencias."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El militar que encabezó la dictadura chilena tras el golpe de 1973 fue:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Augusto Pinochet",
+          "correcta": true,
+          "explicacion": "Correcta: Pinochet gobernó Chile dictatorialmente entre 1973 y 1990."
+        },
+        {
+          "letra": "B",
+          "texto": "Alfredo Stroessner",
+          "correcta": false,
+          "explicacion": "Incorrecta: Stroessner gobernó Paraguay, no Chile."
+        },
+        {
+          "letra": "C",
+          "texto": "Salvador Allende",
+          "correcta": false,
+          "explicacion": "Incorrecta: Allende fue el presidente derrocado."
+        },
+        {
+          "letra": "D",
+          "texto": "Hugo Banzer",
+          "correcta": false,
+          "explicacion": "Incorrecta: Banzer encabezó una dictadura en Bolivia."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 110, los jueces de la Corte Suprema y de los tribunales inferiores conservarán sus empleos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta cumplir sesenta años",
+          "correcta": false,
+          "explicacion": "El art. 110 de la Constitución Nacional liga la permanencia a la buena conducta; la edad de 75 años se trata en el art. 99 inc. 4."
+        },
+        {
+          "letra": "B",
+          "texto": "Mientras dure su buena conducta",
+          "correcta": true,
+          "explicacion": "El art. 110 de la Constitución Nacional establece que los jueces conservan sus empleos mientras dure su buena conducta."
+        },
+        {
+          "letra": "C",
+          "texto": "Por un período fijo de seis años",
+          "correcta": false,
+          "explicacion": "El art. 110 de la Constitución Nacional no fija un plazo; los jueces permanecen mientras dure su buena conducta."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el tiempo que decida el Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "El art. 110 de la Constitución Nacional garantiza la permanencia mientras dure la buena conducta, no a voluntad del Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué ciudad se reunió el Congreso que declaró la Independencia el 9 de julio de 1816?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Buenos Aires",
+          "correcta": false,
+          "explicacion": "El Congreso no sesionó en Buenos Aires sino en el interior."
+        },
+        {
+          "letra": "B",
+          "texto": "San Miguel de Tucumán",
+          "correcta": true,
+          "explicacion": "El Congreso General Constituyente se reunió en San Miguel de Tucumán y allí se declaró la Independencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Córdoba",
+          "correcta": false,
+          "explicacion": "Córdoba no fue sede de la declaración de 1816."
+        },
+        {
+          "letra": "D",
+          "texto": "Mendoza",
+          "correcta": false,
+          "explicacion": "Mendoza fue base de San Martín, no sede del Congreso."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "Tras 1955, el peronismo fue proscripto. ¿Qué significaba esa proscripción?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el peronismo no podía presentar candidatos ni participar legalmente en elecciones",
+          "correcta": true,
+          "explicacion": "Correcta: la proscripción impidió la participación electoral del peronismo durante años."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se suspendía la Constitución de 1853",
+          "correcta": false,
+          "explicacion": "Incorrecta: la proscripción era una exclusión política, no la abolición constitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el radicalismo quedaba ilegalizado",
+          "correcta": false,
+          "explicacion": "Incorrecta: la proscripción afectó al peronismo, no a la UCR."
+        },
+        {
+          "letra": "D",
+          "texto": "Que se prohibía el voto femenino",
+          "correcta": false,
+          "explicacion": "Incorrecta: el voto femenino no fue eliminado por la proscripción del peronismo."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 31, son la ley suprema de la Nación:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esta Constitución, las leyes de la Nación dictadas en su consecuencia y los tratados con potencias extranjeras",
+          "correcta": true,
+          "explicacion": "El art. 31 de la Constitución Nacional declara ley suprema a la Constitución, las leyes nacionales dictadas en su consecuencia y los tratados con las potencias extranjeras."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente los reglamentos municipales",
+          "correcta": false,
+          "explicacion": "El art. 31 de la Constitución Nacional no menciona los reglamentos municipales."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo los decretos del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "El art. 31 de la Constitución Nacional no incluye los decretos del Ejecutivo dentro de la ley suprema."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo las constituciones provinciales",
+          "correcta": false,
+          "explicacion": "El art. 31 de la Constitución Nacional no menciona a las constituciones provinciales como ley suprema; ellas deben conformarse a la Constitución."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El proceso de formación de una ley nacional normalmente requiere:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La aprobación de la Corte Suprema",
+          "correcta": false,
+          "explicacion": "La Corte no participa en la sanción de leyes; eso es función legislativa."
+        },
+        {
+          "letra": "B",
+          "texto": "La aprobación de ambas cámaras del Congreso y la promulgación del Ejecutivo",
+          "correcta": true,
+          "explicacion": "Una ley necesita sanción de Diputados y Senadores, y luego promulgación por el Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Un referéndum obligatorio para cada ley",
+          "correcta": false,
+          "explicacion": "No se requiere referéndum para cada ley; basta el trámite legislativo."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo la firma del presidente",
+          "correcta": false,
+          "explicacion": "El presidente no crea leyes por sí solo; debe intervenir el Congreso."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), la evaluación de idoneidad del agrupamiento 'Técnico Jurídico' consiste en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo la valoración de antecedentes académicos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 55, exige también la prueba escrita de oposición, condición para pasar a antecedentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos pruebas: teórica e informática.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esas dos pruebas corresponden al Técnico Administrativo (Res. PGN N° 507/14, art. 42); el Técnico Jurídico evalúa oposición y antecedentes (art. 55)."
+        },
+        {
+          "letra": "C",
+          "texto": "Una entrevista personal de hasta treinta minutos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La entrevista personal es del agrupamiento de Servicios Auxiliares (Res. PGN N° 507/14, art. 35); el Técnico Jurídico tiene prueba escrita y antecedentes (art. 55)."
+        },
+        {
+          "letra": "D",
+          "texto": "Una prueba escrita de oposición de tenor jurídico y la valoración de los antecedentes, sucesivas y eliminatorias.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 55, prevé prueba escrita de oposición y valoración de antecedentes, etapas sucesivas y eliminatorias."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El sufragio, según la legislación argentina, es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo para quienes pagan impuestos",
+          "correcta": false,
+          "explicacion": "El sufragio universal no condiciona el voto al pago de impuestos."
+        },
+        {
+          "letra": "B",
+          "texto": "Universal, igual, secreto y obligatorio",
+          "correcta": true,
+          "explicacion": "La Ley Sáenz Peña (1912) consagró el voto universal, secreto y obligatorio; es además igual."
+        },
+        {
+          "letra": "C",
+          "texto": "Calificado, público y voluntario",
+          "correcta": false,
+          "explicacion": "El voto calificado y cantado caracterizó al sistema anterior a 1912, ya superado."
+        },
+        {
+          "letra": "D",
+          "texto": "Restringido a los propietarios de tierras",
+          "correcta": false,
+          "explicacion": "El sufragio universal no restringe el voto por propiedad; eso era el voto censitario."
+        }
+      ]
+    }
+  ]
+}

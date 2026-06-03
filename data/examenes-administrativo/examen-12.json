@@ -1,0 +1,626 @@
+{
+  "examen_id": 12,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "El principio de eficiencia y desformalización del MPF implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cada fiscalía actúa de forma aislada para mayor eficiencia.",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 19 inc. a) de la Ley N° 27.148 evita compartimientos estancos; la eficiencia (art. 9º inc. h) no implica aislamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Procurará que los procedimientos sean ágiles y simples sin más formalidades que las que establezcan las leyes.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. h), establece la eficiencia y desformalización procurando procedimientos ágiles y simples."
+        },
+        {
+          "letra": "C",
+          "texto": "Se eliminan todas las leyes procesales aplicables.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. h), respeta las formalidades que establezcan las leyes."
+        },
+        {
+          "letra": "D",
+          "texto": "Los procesos deben ajustarse a la mayor cantidad de formalidades posibles.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 9º inc. h), busca lo contrario: agilidad y simplicidad, sin más formalidades que las legales."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Disposición Transitoria Primera, la Nación Argentina ratifica su legítima e imprescriptible soberanía sobre:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los ríos interiores de la Nación",
+          "correcta": false,
+          "explicacion": "La Disposición Transitoria Primera de la Constitución Nacional se refiere a las islas del Atlántico Sur, no a los ríos interiores."
+        },
+        {
+          "letra": "B",
+          "texto": "La Antártida exclusivamente",
+          "correcta": false,
+          "explicacion": "La Disposición Transitoria Primera de la Constitución Nacional menciona Malvinas, Georgias del Sur y Sandwich del Sur, no la Antártida."
+        },
+        {
+          "letra": "C",
+          "texto": "La ciudad de Buenos Aires",
+          "correcta": false,
+          "explicacion": "La Disposición Transitoria Primera de la Constitución Nacional ratifica la soberanía sobre las islas del Atlántico Sur, no sobre la ciudad de Buenos Aires."
+        },
+        {
+          "letra": "D",
+          "texto": "Las islas Malvinas, Georgias del Sur y Sandwich del Sur",
+          "correcta": true,
+          "explicacion": "La Disposición Transitoria Primera de la Constitución Nacional ratifica la soberanía sobre las islas Malvinas, Georgias del Sur y Sandwich del Sur y los espacios marítimos e insulares correspondientes."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Quiénes integran el Poder Legislativo nacional argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Corte Suprema y los tribunales",
+          "correcta": false,
+          "explicacion": "Constituyen el Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "El Presidente y sus ministros",
+          "correcta": false,
+          "explicacion": "Integran el Poder Ejecutivo, no el Legislativo."
+        },
+        {
+          "letra": "C",
+          "texto": "La Cámara de Diputados y la Cámara de Senadores",
+          "correcta": true,
+          "explicacion": "Correcto: el Congreso es bicameral, formado por Diputados y Senadores."
+        },
+        {
+          "letra": "D",
+          "texto": "Los gobernadores provinciales",
+          "correcta": false,
+          "explicacion": "Los gobernadores encabezan los ejecutivos provinciales, no el Congreso nacional."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El partido político liderado por Hipólito Yrigoyen era:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Unión Cívica Radical",
+          "correcta": true,
+          "explicacion": "Correcta: el radicalismo, surgido de la Unión Cívica en 1891."
+        },
+        {
+          "letra": "B",
+          "texto": "El Partido Socialista",
+          "correcta": false,
+          "explicacion": "Incorrecta: el PS fue liderado por Juan B. Justo y otros."
+        },
+        {
+          "letra": "C",
+          "texto": "El Partido Justicialista",
+          "correcta": false,
+          "explicacion": "Incorrecta: el justicialismo (peronismo) surgió en la década de 1940."
+        },
+        {
+          "letra": "D",
+          "texto": "El Partido Autonomista Nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta: el PAN fue el partido del régimen oligárquico previo a 1916."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el CPPF (Ley N° 27.063 / 27.482), ¿qué derecho se reconoce a la víctima en su art. 12?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a que las autoridades rechacen sus denuncias",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 12: las autoridades no podrán, bajo pretexto alguno, dejar de recibir sus denuncias o reclamos."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a dictar sentencia en su causa",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), arts. 9 y 19: dictar sentencia corresponde a los jueces, no a la víctima."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a ser asistida solo en delitos de acción privada",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 12: los derechos de la víctima rigen con carácter general, no solo en acción privada."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a una tutela judicial efectiva y a la protección integral de su persona, familia y bienes",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 12: la víctima tiene derecho a una tutela judicial efectiva y a la protección integral de su persona, su familia y sus bienes frente a las consecuencias del delito."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El Preámbulo de la Constitución expresa, entre sus objetivos, 'afianzar la justicia, consolidar la paz interior' y:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Promover el bienestar general y asegurar los beneficios de la libertad",
+          "correcta": true,
+          "explicacion": "Correcto: el Preámbulo incluye estos fines junto a constituir la unión nacional y proveer a la defensa común."
+        },
+        {
+          "letra": "B",
+          "texto": "Concentrar el poder en una sola persona",
+          "correcta": false,
+          "explicacion": "Es contrario al espíritu republicano y de división de poderes del texto."
+        },
+        {
+          "letra": "C",
+          "texto": "Imponer una religión oficial obligatoria",
+          "correcta": false,
+          "explicacion": "La Constitución sostiene el culto católico pero garantiza libertad de cultos; no impone religión obligatoria."
+        },
+        {
+          "letra": "D",
+          "texto": "Garantizar la riqueza de los gobernantes",
+          "correcta": false,
+          "explicacion": "El Preámbulo no menciona beneficio personal de los gobernantes."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "De acuerdo con la Ley N° 26.743, el trámite de rectificación registral, una vez cumplidos los requisitos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tiene un costo equivalente al de un nuevo DNI más tasas",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 6: los trámites de rectificación registral son gratuitos."
+        },
+        {
+          "letra": "B",
+          "texto": "Requiere sentencia judicial previa en todos los casos",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 6: el trámite procede sin necesidad de trámite judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "Exige la intervención obligatoria de un abogado",
+          "correcta": false,
+          "explicacion": "Ley N° 26.743, art. 6: no es necesaria la intermediación de ningún gestor o abogado."
+        },
+        {
+          "letra": "D",
+          "texto": "Procede sin necesidad de ningún trámite judicial o administrativo, y es gratuito y personal",
+          "correcta": true,
+          "explicacion": "Ley N° 26.743, arts. 6: el oficial público procede sin necesidad de trámite judicial o administrativo; los trámites son gratuitos y personales."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Tratar a todas las personas con la misma dignidad y sin discriminación responde al valor de la:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Exclusividad",
+          "correcta": false,
+          "explicacion": "Supone reservar algo para unos pocos, contrario a la igualdad."
+        },
+        {
+          "letra": "B",
+          "texto": "Jerarquía",
+          "correcta": false,
+          "explicacion": "Implica orden de superioridad, distinto del trato igualitario."
+        },
+        {
+          "letra": "C",
+          "texto": "Privilegio",
+          "correcta": false,
+          "explicacion": "El privilegio otorga ventajas a unos, lo opuesto a la igualdad."
+        },
+        {
+          "letra": "D",
+          "texto": "Igualdad",
+          "correcta": true,
+          "explicacion": "Correcto: la igualdad reconoce a todos la misma dignidad y derechos ante la ley."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme la Convención de Belém do Pará (Ley N° 24.632), ¿qué derecho consagra su art. 3?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a la identidad de género",
+          "correcta": false,
+          "explicacion": "El derecho a la identidad de género está en la Ley N° 26.743, no en el art. 3 de Belém do Pará."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho de toda mujer a una vida libre de violencia, en el ámbito público y privado",
+          "correcta": true,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 3: toda mujer tiene derecho a una vida libre de violencia, tanto en el ámbito público como en el privado."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho al voto femenino",
+          "correcta": false,
+          "explicacion": "Convención de Belém do Pará (Ley N° 24.632), art. 3: consagra el derecho a una vida libre de violencia; el derecho al voto se aborda en la CEDAW (Ley N° 23.179, art. 7)."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a la rectificación registral",
+          "correcta": false,
+          "explicacion": "La rectificación registral corresponde a la Ley N° 26.743, no a Belém do Pará."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué año se sancionó la Constitución Nacional Argentina que organizó al país de forma duradera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1860",
+          "correcta": false,
+          "explicacion": "En 1860 se reformó la Constitución para incorporar a Buenos Aires, pero el texto original es de 1853."
+        },
+        {
+          "letra": "B",
+          "texto": "1816",
+          "correcta": false,
+          "explicacion": "1816 corresponde a la Declaración de la Independencia, no a la Constitución."
+        },
+        {
+          "letra": "C",
+          "texto": "1880",
+          "correcta": false,
+          "explicacion": "1880 marca la federalización de Buenos Aires, no la sanción constitucional."
+        },
+        {
+          "letra": "D",
+          "texto": "1853",
+          "correcta": true,
+          "explicacion": "La Constitución Nacional fue sancionada en 1853 por el Congreso de Santa Fe."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué dos victorias obtuvo Manuel Belgrano al frente del Ejército del Norte en 1812 y 1813?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Suipacha y Cotagaita",
+          "correcta": false,
+          "explicacion": "No corresponden a las grandes victorias de Belgrano en el norte."
+        },
+        {
+          "letra": "B",
+          "texto": "Tucumán y Salta",
+          "correcta": true,
+          "explicacion": "Belgrano venció en Tucumán (1812) y Salta (1813) frente a las fuerzas realistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Vilcapugio y Ayohúma",
+          "correcta": false,
+          "explicacion": "Vilcapugio y Ayohúma fueron derrotas de Belgrano, no victorias."
+        },
+        {
+          "letra": "D",
+          "texto": "Chacabuco y Maipú",
+          "correcta": false,
+          "explicacion": "Chacabuco y Maipú fueron victorias de San Martín en Chile, no de Belgrano."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Qué ley aprobó la Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ley N° 27.063",
+          "correcta": false,
+          "explicacion": "Ley N° 27.063: aprueba el Código Procesal Penal Federal, no la CADH."
+        },
+        {
+          "letra": "B",
+          "texto": "Ley N° 24.632",
+          "correcta": false,
+          "explicacion": "Ley N° 24.632: aprueba la Convención de Belém do Pará, no la CADH."
+        },
+        {
+          "letra": "C",
+          "texto": "Ley N° 23.054",
+          "correcta": true,
+          "explicacion": "Ley N° 23.054, art. 1: aprueba la Convención Americana sobre Derechos Humanos, llamada Pacto de San José de Costa Rica."
+        },
+        {
+          "letra": "D",
+          "texto": "Ley N° 23.179",
+          "correcta": false,
+          "explicacion": "Ley N° 23.179: aprueba la CEDAW, no el Pacto de San José."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué política exterior provocó el bloqueo anglofrancés y el combate de la Vuelta de Obligado en tiempos de Rosas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La cesión de las Malvinas",
+          "correcta": false,
+          "explicacion": "La cuestión Malvinas no fue causa de Vuelta de Obligado."
+        },
+        {
+          "letra": "B",
+          "texto": "La adhesión a tratados de libre comercio con Europa",
+          "correcta": false,
+          "explicacion": "El conflicto fue precisamente por la resistencia a la apertura impuesta."
+        },
+        {
+          "letra": "C",
+          "texto": "La defensa de la soberanía sobre la navegación de los ríos interiores",
+          "correcta": true,
+          "explicacion": "Rosas resistió la pretensión anglofrancesa de navegar libremente los ríos interiores, defendiendo la soberanía."
+        },
+        {
+          "letra": "D",
+          "texto": "La libre navegación impuesta por Rosas a las potencias",
+          "correcta": false,
+          "explicacion": "Rosas defendía el control de los ríos interiores, no la libre navegación de las potencias."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quiénes se desempeñaron como secretarios de la Primera Junta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manuel Belgrano y Juan José Castelli",
+          "correcta": false,
+          "explicacion": "Belgrano y Castelli fueron vocales, no secretarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Manuel Alberti y Miguel de Azcuénaga",
+          "correcta": false,
+          "explicacion": "Alberti y Azcuénaga fueron vocales de la Junta, no secretarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Mariano Moreno y Juan José Paso",
+          "correcta": true,
+          "explicacion": "Moreno y Paso fueron los dos secretarios de la Primera Junta."
+        },
+        {
+          "letra": "D",
+          "texto": "Cornelio Saavedra y Domingo Matheu",
+          "correcta": false,
+          "explicacion": "Saavedra fue presidente y Matheu vocal; ninguno secretario."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "El episodio de 1962 en que la instalación de misiles soviéticos en Cuba llevó al mundo al borde de un conflicto nuclear se conoce como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Bloqueo Continental",
+          "correcta": false,
+          "explicacion": "Incorrecta: el Bloqueo Continental fue una política napoleónica del siglo XIX."
+        },
+        {
+          "letra": "B",
+          "texto": "La invasión de Bahía de Cochinos",
+          "correcta": false,
+          "explicacion": "Incorrecta: Bahía de Cochinos fue el desembarco fallido de 1961, evento distinto."
+        },
+        {
+          "letra": "C",
+          "texto": "La Guerra Fría de las Malvinas",
+          "correcta": false,
+          "explicacion": "Incorrecta: no existe tal evento; mezcla conceptos ajenos."
+        },
+        {
+          "letra": "D",
+          "texto": "La Crisis de los Misiles",
+          "correcta": true,
+          "explicacion": "Correcta: la crisis de octubre de 1962 enfrentó a EE.UU. y la URSS por los misiles en Cuba."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿En qué país europeo falleció José de San Martín en 1850, tras años de exilio voluntario?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Francia",
+          "correcta": true,
+          "explicacion": "San Martín murió en Boulogne-sur-Mer, Francia, en 1850."
+        },
+        {
+          "letra": "B",
+          "texto": "España",
+          "correcta": false,
+          "explicacion": "San Martín no falleció en España."
+        },
+        {
+          "letra": "C",
+          "texto": "Inglaterra",
+          "correcta": false,
+          "explicacion": "Vivió un tiempo en Europa, pero no falleció en Inglaterra."
+        },
+        {
+          "letra": "D",
+          "texto": "Bélgica",
+          "correcta": false,
+          "explicacion": "Residió un período en Bruselas, pero murió en Francia."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El carácter 'federal' del Estado argentino significa que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las provincias son Estados independientes que pueden separarse libremente",
+          "correcta": false,
+          "explicacion": "Las provincias integran una sola Nación; no son Estados soberanos ni pueden secesionarse."
+        },
+        {
+          "letra": "B",
+          "texto": "Coexisten un gobierno nacional y gobiernos provinciales autónomos",
+          "correcta": true,
+          "explicacion": "El federalismo reparte el poder entre la Nación y las provincias, que conservan autonomía."
+        },
+        {
+          "letra": "C",
+          "texto": "Existe un único nivel de gobierno centralizado en la Capital",
+          "correcta": false,
+          "explicacion": "Eso describe un Estado unitario, lo contrario del federalismo."
+        },
+        {
+          "letra": "D",
+          "texto": "El gobierno nacional designa a los gobernadores provinciales",
+          "correcta": false,
+          "explicacion": "Los gobernadores son elegidos por el pueblo de cada provincia, no designados por la Nación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Ley N° 26.861, ¿qué principios deben respetarse en la sustanciación de los concursos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Publicidad, concurrencia, igualdad y transparencia.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 12, exige respetar los principios de publicidad, concurrencia, igualdad y transparencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Oralidad, inmediación y continuidad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esos son principios procesales; la Ley N° 26.861, art. 12, exige publicidad, concurrencia, igualdad y transparencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Antigüedad, jerarquía y mérito exclusivo.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 12, enumera publicidad, concurrencia, igualdad y transparencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Reserva, selectividad y discrecionalidad.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 12, consagra publicidad y transparencia, opuestas a la reserva y discrecionalidad."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "¿Qué órgano es la cabeza del Poder Judicial de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": true,
+          "explicacion": "Correcto: es el máximo tribunal del país y cabeza del Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "El Senado de la Nación",
+          "correcta": false,
+          "explicacion": "Es una cámara del Congreso, parte del Poder Legislativo."
+        },
+        {
+          "letra": "C",
+          "texto": "El Ministerio de Justicia",
+          "correcta": false,
+          "explicacion": "Es un órgano administrativo del Ejecutivo, no del Poder Judicial."
+        },
+        {
+          "letra": "D",
+          "texto": "La Jefatura de Gabinete",
+          "correcta": false,
+          "explicacion": "Pertenece al Poder Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La 'periodicidad de las funciones', rasgo de la república, implica que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las elecciones se realizan solo cuando lo decide el presidente",
+          "correcta": false,
+          "explicacion": "Las elecciones siguen plazos fijados por ley, no la voluntad del gobernante."
+        },
+        {
+          "letra": "B",
+          "texto": "Los cargos públicos electivos son vitalicios",
+          "correcta": false,
+          "explicacion": "La periodicidad significa lo contrario: los cargos tienen duración limitada."
+        },
+        {
+          "letra": "C",
+          "texto": "Los cargos públicos electivos duran un tiempo determinado y se renuevan",
+          "correcta": true,
+          "explicacion": "En la república los mandatos son temporales y se someten periódicamente a elección."
+        },
+        {
+          "letra": "D",
+          "texto": "Los funcionarios pueden ser reelegidos indefinidamente sin límite",
+          "correcta": false,
+          "explicacion": "La periodicidad implica renovación, y suele haber límites de reelección."
+        }
+      ]
+    }
+  ]
+}

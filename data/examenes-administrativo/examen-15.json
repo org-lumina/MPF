@@ -1,0 +1,626 @@
+{
+  "examen_id": 15,
+  "agrupacion": "tecnico-administrativo",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el Reglamento (Res. PGN 507/14), para ingresar al agrupamiento 'Técnico Jurídico' se exige, además de los requisitos generales:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acreditar diez años de ejercicio profesional.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 54, exige el título de abogado/a, sin imponer antigüedad de ejercicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Poseer educación primaria completa.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La primaria completa es requisito de Servicios Auxiliares (Res. PGN N° 507/14, art. 32); el Técnico Jurídico exige título de abogado/a (art. 54)."
+        },
+        {
+          "letra": "C",
+          "texto": "Poseer estudios secundarios completos.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los estudios secundarios son requisito del Técnico Administrativo (Res. PGN N° 507/14, art. 41); el Técnico Jurídico exige título de abogado/a (art. 54)."
+        },
+        {
+          "letra": "D",
+          "texto": "Ser abogado/a graduado/a en universidad nacional pública o privada oficialmente reconocida o extranjera homologada.",
+          "correcta": true,
+          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 54, exige el título de abogado/a en esas condiciones."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El principio de no discriminación establece que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está permitido excluir a personas por su origen siempre que lo decida una empresa.",
+          "correcta": false,
+          "explicacion": "La discriminación arbitraria está prohibida también para los particulares."
+        },
+        {
+          "letra": "B",
+          "texto": "La discriminación es legítima si la mayoría está de acuerdo.",
+          "correcta": false,
+          "explicacion": "Los derechos no se someten a la voluntad de la mayoría para ser desconocidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Nadie puede ser tratado de forma desfavorable por motivos como sexo, religión, origen, color de piel u opinión.",
+          "correcta": true,
+          "explicacion": "La no discriminación prohíbe distinciones arbitrarias y es base de la igualdad; lo refuerza la Ley 23.592."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo el Estado debe evitar discriminar; los particulares no.",
+          "correcta": false,
+          "explicacion": "La prohibición alcanza tanto al Estado como a los particulares."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién fue el primer presidente de la Nación Argentina unificada, electo en 1862?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nicolás Avellaneda",
+          "correcta": false,
+          "explicacion": "Avellaneda fue presidente recién en 1874."
+        },
+        {
+          "letra": "B",
+          "texto": "Bartolomé Mitre",
+          "correcta": true,
+          "explicacion": "Mitre fue el primer presidente de la Argentina unificada (1862-1868)."
+        },
+        {
+          "letra": "C",
+          "texto": "Justo José de Urquiza",
+          "correcta": false,
+          "explicacion": "Urquiza fue presidente de la Confederación (1854-1860), antes de la unificación."
+        },
+        {
+          "letra": "D",
+          "texto": "Domingo F. Sarmiento",
+          "correcta": false,
+          "explicacion": "Sarmiento sucedió a Mitre en 1868."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La Guerra de Malvinas, librada contra el Reino Unido, se desarrolló en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1983, durante la transición",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1983 ya regía el retorno democrático tras la derrota."
+        },
+        {
+          "letra": "B",
+          "texto": "1978, junto al Mundial de fútbol",
+          "correcta": false,
+          "explicacion": "Incorrecta: el Mundial fue en 1978, pero la guerra fue en 1982."
+        },
+        {
+          "letra": "C",
+          "texto": "1976, al inicio del Proceso",
+          "correcta": false,
+          "explicacion": "Incorrecta: la guerra ocurrió en 1982, no al comienzo de la dictadura."
+        },
+        {
+          "letra": "D",
+          "texto": "1982, durante la dictadura de Galtieri",
+          "correcta": true,
+          "explicacion": "Correcta: el conflicto se desarrolló entre abril y junio de 1982."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La Revolución Mexicana, gran proceso latinoamericano del siglo XX, se inició en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1917",
+          "correcta": false,
+          "explicacion": "Incorrecta: 1917 fue el año de la nueva Constitución mexicana, no del inicio."
+        },
+        {
+          "letra": "B",
+          "texto": "1929",
+          "correcta": false,
+          "explicacion": "Incorrecta: en 1929 se fundó el partido que luego sería el PRI, ya avanzado el proceso."
+        },
+        {
+          "letra": "C",
+          "texto": "1910",
+          "correcta": true,
+          "explicacion": "Correcta: estalló en 1910 contra el régimen de Porfirio Díaz."
+        },
+        {
+          "letra": "D",
+          "texto": "1898",
+          "correcta": false,
+          "explicacion": "Incorrecta: 1898 corresponde a la guerra hispano-estadounidense."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el CPPF (Ley N° 27.063 / 27.482), las pruebas serán valoradas por los jueces conforme:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La sana crítica racional, observando las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia",
+          "correcta": true,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 10: las pruebas se valoran según la sana crítica racional, observando la lógica, los conocimientos científicos y las máximas de la experiencia."
+        },
+        {
+          "letra": "B",
+          "texto": "La libre apreciación sin necesidad de prueba válida",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 10: los elementos de prueba solo valen si fueron obtenidos e incorporados conforme a la Constitución y al Código."
+        },
+        {
+          "letra": "C",
+          "texto": "La íntima convicción sin fundamentación",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), arts. 10 y 20: se exige sana crítica racional y motivación de las decisiones."
+        },
+        {
+          "letra": "D",
+          "texto": "El sistema de prueba legal o tasada",
+          "correcta": false,
+          "explicacion": "CPPF (Leyes N° 27.063 y 27.482), art. 10: el sistema es de sana crítica racional, no de prueba tasada."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "¿Cuál de los siguientes NO es uno de los tres agrupamientos de la estructura escalafonaria del MPF?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Servicios auxiliares.",
+          "correcta": false,
+          "explicacion": "Incorrecta como respuesta: sí es un agrupamiento. Ley N° 27.148 (Ley Orgánica del MPF), art. 57 inc. c)."
+        },
+        {
+          "letra": "B",
+          "texto": "Técnico administrativo.",
+          "correcta": false,
+          "explicacion": "Incorrecta como respuesta: sí es un agrupamiento. Ley N° 27.148 (Ley Orgánica del MPF), art. 57 inc. b)."
+        },
+        {
+          "letra": "C",
+          "texto": "Agrupamiento de investigación criminal.",
+          "correcta": true,
+          "explicacion": "Correcta (como opción que NO existe). Ley N° 27.148 (Ley Orgánica del MPF), art. 57, solo prevé técnico jurídico, técnico administrativo y servicios auxiliares; no existe un agrupamiento de investigación criminal."
+        },
+        {
+          "letra": "D",
+          "texto": "Técnico jurídico.",
+          "correcta": false,
+          "explicacion": "Incorrecta como respuesta: sí es un agrupamiento. Ley N° 27.148 (Ley Orgánica del MPF), art. 57 inc. a)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué consecuencia tuvo la Conquista del Desierto para los pueblos originarios de la región pampeana y patagónica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fueron integrados como ciudadanos con plenos derechos",
+          "correcta": false,
+          "explicacion": "No fueron incorporados con plenos derechos, sino marginados."
+        },
+        {
+          "letra": "B",
+          "texto": "Recibieron tierras en propiedad colectiva",
+          "correcta": false,
+          "explicacion": "Las tierras pasaron al Estado y a grandes propietarios, no a las comunidades."
+        },
+        {
+          "letra": "C",
+          "texto": "Sufrieron muertes, sometimiento y despojo de sus tierras",
+          "correcta": true,
+          "explicacion": "Las comunidades indígenas fueron diezmadas, sometidas y despojadas de sus territorios."
+        },
+        {
+          "letra": "D",
+          "texto": "Obtuvieron el reconocimiento de sus territorios",
+          "correcta": false,
+          "explicacion": "Por el contrario, perdieron sus tierras y autonomía."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Cívica y formación ética",
+      "enunciado": "La consulta popular prevista en la Constitución (art. 40) puede ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre obligatoria y vinculante para todos los temas.",
+          "correcta": false,
+          "explicacion": "No siempre es vinculante; depende del tipo de consulta."
+        },
+        {
+          "letra": "B",
+          "texto": "Aplicable solo a reformas de la Constitución.",
+          "correcta": false,
+          "explicacion": "No se limita a reformas constitucionales."
+        },
+        {
+          "letra": "C",
+          "texto": "Convocada exclusivamente por la Corte Suprema.",
+          "correcta": false,
+          "explicacion": "La convocan el Congreso o el Poder Ejecutivo, no la Corte."
+        },
+        {
+          "letra": "D",
+          "texto": "Vinculante o no vinculante, según quién la convoque y cómo se regule.",
+          "correcta": true,
+          "explicacion": "El art. 40 prevé la consulta vinculante (convocada por el Congreso) y la no vinculante (convocable por el Ejecutivo)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Cívica y formación ética",
+      "enunciado": "El Poder Legislativo nacional tiene como función principal:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aplicar las leyes a casos concretos en juicios",
+          "correcta": false,
+          "explicacion": "Aplicar leyes a casos concretos es función del Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "Declarar la inconstitucionalidad de las leyes",
+          "correcta": false,
+          "explicacion": "El control de constitucionalidad lo ejerce el Poder Judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "Administrar el país y conducir las relaciones exteriores",
+          "correcta": false,
+          "explicacion": "Administrar el país corresponde al Poder Ejecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Sancionar, modificar y derogar las leyes",
+          "correcta": true,
+          "explicacion": "El Congreso es el órgano encargado de dictar las leyes de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según la Res. PGN 3329/2016, al modificarse el artículo 51 del Reglamento, las personas desinsaculadas en el sorteo del agrupamiento 'Técnico Administrativo' pasaron a ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta veinte (20) titulares sin suplentes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Res. PGN 3329/2016 (punto III) fija diez titulares y diez suplentes, no veinte titulares."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta cien (100) personas en total.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Cien era el tope de la lista enviada a sorteo en el texto anterior; la Res. PGN 3329/2016 fija diez titulares y diez suplentes desinsaculados (punto III)."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta diez (10) titulares y diez (10) suplentes.",
+          "correcta": true,
+          "explicacion": "Correcta. Resolución PGN N° 3329/2016, punto III, modifica el art. 51 del Reglamento fijando un tope de diez titulares y diez suplentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Hasta cinco (5) titulares y cinco (5) suplentes.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Resolución PGN N° 3329/2016, punto III, establece diez titulares y diez suplentes."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Conforme al artículo 45, los diputados son elegidos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Directamente por el pueblo de las provincias y de la ciudad de Buenos Aires",
+          "correcta": true,
+          "explicacion": "El art. 45 de la Constitución Nacional dispone que los diputados son elegidos directamente por el pueblo de las provincias y de la ciudad de Buenos Aires."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el Poder Ejecutivo nacional",
+          "correcta": false,
+          "explicacion": "El art. 45 de la Constitución Nacional prevé elección popular directa, no designación del Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Por las legislaturas provinciales",
+          "correcta": false,
+          "explicacion": "El art. 45 de la Constitución Nacional establece la elección directa por el pueblo, no por las legislaturas."
+        },
+        {
+          "letra": "D",
+          "texto": "Por sorteo entre los ciudadanos",
+          "correcta": false,
+          "explicacion": "El art. 45 de la Constitución Nacional prevé elección directa por el pueblo, no sorteo."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cívica y formación ética",
+      "enunciado": "En sentido amplio, la ciudadanía se entiende como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La condición de quien paga impuestos únicamente.",
+          "correcta": false,
+          "explicacion": "Pagar impuestos es un deber, pero no define por sí solo la ciudadanía."
+        },
+        {
+          "letra": "B",
+          "texto": "Un título que se compra al Estado.",
+          "correcta": false,
+          "explicacion": "La ciudadanía no se compra; se adquiere por nacimiento o naturalización."
+        },
+        {
+          "letra": "C",
+          "texto": "La condición de pertenecer a una comunidad política, con derechos y deberes, y la participación activa en ella.",
+          "correcta": true,
+          "explicacion": "La ciudadanía combina pertenencia, derechos, deberes y participación en la vida pública."
+        },
+        {
+          "letra": "D",
+          "texto": "El simple hecho de habitar en una ciudad.",
+          "correcta": false,
+          "explicacion": "Vivir en una ciudad no equivale a ser ciudadano en sentido político."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Qué cargo solicitó y obtuvo San Martín para preparar desde allí el cruce de los Andes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Presidente del Congreso",
+          "correcta": false,
+          "explicacion": "No presidió el Congreso de Tucumán."
+        },
+        {
+          "letra": "B",
+          "texto": "Virrey del Río de la Plata",
+          "correcta": false,
+          "explicacion": "El cargo de virrey había sido abolido con la Revolución."
+        },
+        {
+          "letra": "C",
+          "texto": "Director Supremo",
+          "correcta": false,
+          "explicacion": "San Martín no buscó el cargo de Director Supremo."
+        },
+        {
+          "letra": "D",
+          "texto": "Gobernador intendente de Cuyo",
+          "correcta": true,
+          "explicacion": "San Martín fue gobernador intendente de Cuyo, base desde la cual organizó el Ejército de los Andes."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "La última dictadura militar argentina se autodenominó:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Revolución Argentina",
+          "correcta": false,
+          "explicacion": "Incorrecta: corresponde a la dictadura de 1966."
+        },
+        {
+          "letra": "B",
+          "texto": "Revolución Libertadora",
+          "correcta": false,
+          "explicacion": "Incorrecta: fue el golpe de 1955."
+        },
+        {
+          "letra": "C",
+          "texto": "Proceso de Reorganización Nacional",
+          "correcta": true,
+          "explicacion": "Correcta: así se nombró el régimen instaurado el 24 de marzo de 1976."
+        },
+        {
+          "letra": "D",
+          "texto": "Década Infame",
+          "correcta": false,
+          "explicacion": "Incorrecta: refiere al período 1930-1943."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "Según el artículo 120, el Ministerio Público está integrado por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los ministros del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "El art. 120 de la Constitución Nacional integra el Ministerio Público con el procurador y el defensor generales, no con ministros del Ejecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Un procurador general de la Nación y un defensor general de la Nación, y los demás miembros que la ley establezca",
+          "correcta": true,
+          "explicacion": "El art. 120 de la Constitución Nacional dispone que está integrado por un procurador general de la Nación y un defensor general de la Nación y los demás miembros que la ley establezca."
+        },
+        {
+          "letra": "C",
+          "texto": "El Defensor del Pueblo y sus adjuntos",
+          "correcta": false,
+          "explicacion": "El Defensor del Pueblo es un órgano del art. 86 de la Constitución Nacional, distinto del Ministerio Público del art. 120."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres jueces designados por la Corte Suprema",
+          "correcta": false,
+          "explicacion": "El art. 120 de la Constitución Nacional prevé un procurador y un defensor generales, no jueces designados por la Corte."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Historia argentina y latinoamericana",
+      "enunciado": "¿Quién fue el caudillo de la Banda Oriental, líder federal y artífice de la Liga de los Pueblos Libres?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Facundo Quiroga",
+          "correcta": false,
+          "explicacion": "Quiroga fue caudillo riojano, no el líder de la Banda Oriental."
+        },
+        {
+          "letra": "B",
+          "texto": "Juan Manuel de Rosas",
+          "correcta": false,
+          "explicacion": "Rosas fue un caudillo posterior de Buenos Aires, no el de la Banda Oriental."
+        },
+        {
+          "letra": "C",
+          "texto": "José Gervasio Artigas",
+          "correcta": true,
+          "explicacion": "Artigas fue el caudillo oriental, defensor del federalismo y líder de la Liga de los Pueblos Libres."
+        },
+        {
+          "letra": "D",
+          "texto": "Estanislao López",
+          "correcta": false,
+          "explicacion": "López fue caudillo de Santa Fe, aliado de Artigas pero no el líder oriental."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Sistema constitucional y MPF",
+      "enunciado": "La capacitación de los agentes del MPF, según la Ley Orgánica, constituye:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una facultad exclusiva de los magistrados, vedada a los empleados.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 56, la extiende a todos los agentes del MPF."
+        },
+        {
+          "letra": "B",
+          "texto": "Un derecho y un deber de todos los agentes, de carácter integral, permanente y gratuito.",
+          "correcta": true,
+          "explicacion": "Correcta. Ley N° 27.148 (Ley Orgánica del MPF), art. 56, define la capacitación como derecho y deber, integral, permanente y gratuita."
+        },
+        {
+          "letra": "C",
+          "texto": "Un requisito únicamente para acceder al cargo de Procurador General.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 56, la concibe como condición esencial del desempeño de todos los agentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Una actividad arancelada a cargo del agente.",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ley N° 27.148 (Ley Orgánica del MPF), art. 56, establece que la capacitación será gratuita."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cívica y formación ética",
+      "enunciado": "Una función propia del Poder Ejecutivo es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Administrar el Estado y ser jefe de las Fuerzas Armadas",
+          "correcta": true,
+          "explicacion": "El presidente administra el país y es comandante en jefe de las Fuerzas Armadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Juzgar a las personas en causas penales",
+          "correcta": false,
+          "explicacion": "Juzgar corresponde al Poder Judicial, no al Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Dictar las leyes de presupuesto",
+          "correcta": false,
+          "explicacion": "Sancionar la ley de presupuesto corresponde al Congreso, aunque el Ejecutivo la ejecuta."
+        },
+        {
+          "letra": "D",
+          "texto": "Reformar la Constitución por sí solo",
+          "correcta": false,
+          "explicacion": "La reforma constitucional exige una Convención Constituyente, no la decisión del presidente."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cívica y formación ética",
+      "enunciado": "En Argentina, una persona extranjera puede obtener la ciudadanía mediante:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La sola residencia de un mes en el país.",
+          "correcta": false,
+          "explicacion": "Se exige, en general, residencia continuada (habitualmente dos años o más)."
+        },
+        {
+          "letra": "B",
+          "texto": "El pago de una tasa única sin más requisitos.",
+          "correcta": false,
+          "explicacion": "No basta con pagar: hay requisitos legales y un proceso de naturalización."
+        },
+        {
+          "letra": "C",
+          "texto": "La naturalización, cumpliendo los requisitos legales (por ejemplo, residencia continuada).",
+          "correcta": true,
+          "explicacion": "La ciudadanía por naturalización se otorga al extranjero que cumple requisitos como la residencia, mediante trámite judicial."
+        },
+        {
+          "letra": "D",
+          "texto": "Un decreto presidencial automático al ingresar al país.",
+          "correcta": false,
+          "explicacion": "No es automático ni por simple ingreso; requiere trámite."
+        }
+      ]
+    }
+  ]
+}
