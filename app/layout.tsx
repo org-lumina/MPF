@@ -46,6 +46,7 @@ export default function RootLayout({
             <nav className="nav-links">
               <Link href="/#simuladores">Simuladores</Link>
               <Link href="/#como">Cómo funciona</Link>
+              <Link href="/foro">Foro</Link>
               <Link href="/login">Ingresar</Link>
               <Link href="/examen" className="btn btn-sm">
                 Empezar práctica

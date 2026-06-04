@@ -318,3 +318,65 @@ h1.hero-title em { font-style: normal; color: var(--yellow); }
   .mascot-tag { top: 120px; right: 14px; }
   .hero-inner { padding: 28px 24px 30px; }
 }
+
+/* ===== Foro (estética Pop) ===== */
+.foro-sec { padding: 40px 0 70px; }
+.foro-intro { max-width: 640px; font-weight: 600; margin: 10px 0 26px; }
+.foro-grid { display: grid; grid-template-columns: 260px 1fr; gap: 24px; align-items: start; }
+
+.foro-canales { background: var(--paper-2); padding: 18px; box-shadow: var(--shadow); }
+.foro-canales-head { display: flex; align-items: center; justify-content: space-between; font-family: var(--font-display); font-weight: 700; font-size: 17px; margin-bottom: 12px; }
+.canal-add { width: 34px; height: 34px; border: var(--outline); border-radius: 11px; background: var(--yellow); font-size: 22px; font-weight: 800; line-height: 1; cursor: pointer; box-shadow: 3px 3px 0 var(--ink); color: var(--ink); }
+.canal-add:active { transform: translate(2px, 2px); box-shadow: none; }
+.canal-nuevo { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
+.canal-nuevo input { font-family: var(--font-text); font-weight: 600; border: 3px solid var(--ink); border-radius: 11px; padding: 9px 11px; box-shadow: 3px 3px 0 var(--ink); }
+.canal-nuevo input:focus { outline: none; border-color: var(--teal); }
+.canal-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 9px; }
+.canal-chip { display: block; text-decoration: none; font-weight: 700; color: var(--ink); background: #fff; border: 3px solid var(--ink); border-radius: 13px; padding: 10px 13px; box-shadow: 3px 3px 0 var(--ink); transition: transform 0.1s ease; }
+.canal-chip:hover { transform: translate(-1px, -1px); }
+.canal-chip.activa { background: var(--teal); color: #fff; }
+.canal-vacio { color: var(--grey-ink); font-weight: 600; font-size: 14px; }
+
+.foro-panel { background: #fff; padding: 20px 22px; box-shadow: var(--shadow); display: flex; flex-direction: column; min-height: 420px; }
+.foro-panel-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; border-bottom: 3px solid var(--ink); padding-bottom: 12px; margin-bottom: 14px; }
+.foro-panel-head h2 { font-family: var(--font-display); font-weight: 700; font-size: 22px; margin: 0; }
+.canal-del { font-family: var(--font-text); font-weight: 700; font-size: 13px; color: #c0392b; background: #fff; border: 2.5px solid #c0392b; border-radius: 10px; padding: 6px 11px; cursor: pointer; }
+.canal-del:hover { background: #c0392b; color: #fff; }
+
+.foro-muro { display: flex; flex-direction: column; gap: 14px; max-height: 56vh; overflow-y: auto; padding: 4px 4px 8px; }
+.foro-empty { color: var(--grey-ink); font-weight: 600; text-align: center; padding: 30px 0; }
+.foro-msg { border: 3px solid var(--ink); border-radius: 15px; padding: 12px 14px; background: var(--paper); box-shadow: 4px 4px 0 var(--ink); }
+.foro-msg.mio { background: #eafdfb; }
+.msg-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; margin-bottom: 6px; flex-wrap: wrap; }
+.msg-autor { font-family: var(--font-display); font-weight: 700; font-size: 15px; }
+.msg-fecha { font-size: 12px; font-weight: 700; color: var(--grey-ink); }
+.msg-fecha em { font-style: normal; }
+.msg-texto { margin: 0; font-weight: 600; white-space: pre-wrap; word-break: break-word; }
+.msg-acciones { display: flex; gap: 14px; margin-top: 8px; }
+.msg-link { background: none; border: none; padding: 0; cursor: pointer; font-family: var(--font-text); font-weight: 800; font-size: 13px; color: var(--teal-dark); text-decoration: underline; }
+.msg-link.danger { color: #c0392b; }
+.msg-edit textarea { width: 100%; font-family: var(--font-text); font-weight: 600; border: 3px solid var(--ink); border-radius: 11px; padding: 9px 11px; box-shadow: 3px 3px 0 var(--ink); resize: vertical; }
+.msg-edit textarea:focus { outline: none; border-color: var(--teal); }
+.msg-edit-actions { display: flex; align-items: center; gap: 10px; margin-top: 8px; }
+.btn-mini { padding: 6px 12px; font-size: 13px; box-shadow: 3px 3px 0 var(--ink); }
+
+.foro-aviso { font-size: 13px; font-weight: 700; color: var(--grey-ink); text-align: center; margin: 0 0 10px; }
+.foro-hilo { display: flex; flex-direction: column; gap: 10px; }
+.foro-respuestas { margin-left: 26px; padding-left: 16px; border-left: 4px solid var(--teal); display: flex; flex-direction: column; gap: 10px; }
+.foro-msg.respuesta { background: #f4fbfa; box-shadow: 3px 3px 0 var(--ink); }
+.foro-msg.respuesta.mio { background: #eafdfb; }
+.foro-reply-form { margin-left: 26px; padding-left: 16px; border-left: 4px solid var(--teal); }
+.foro-reply-form textarea { width: 100%; font-family: var(--font-text); font-weight: 600; border: 3px solid var(--ink); border-radius: 11px; padding: 9px 11px; box-shadow: 3px 3px 0 var(--ink); resize: vertical; }
+.foro-reply-form textarea:focus { outline: none; border-color: var(--teal); }
+
+.foro-form { margin-top: 16px; border-top: 3px solid var(--ink); padding-top: 14px; }
+.foro-form textarea { width: 100%; font-family: var(--font-text); font-weight: 600; font-size: 15px; color: var(--ink); background: #fff; border: 3px solid var(--ink); border-radius: 13px; padding: 11px 13px; box-shadow: 3px 3px 0 var(--ink); resize: vertical; }
+.foro-form textarea:focus { outline: none; border-color: var(--teal); box-shadow: 4px 4px 0 var(--teal-dark); }
+.foro-form-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 10px; }
+
+@media (max-width: 760px) {
+  .foro-grid { grid-template-columns: 1fr; }
+  .foro-canales { position: static; }
+  .canal-list { flex-direction: row; flex-wrap: wrap; }
+  .canal-chip { padding: 8px 12px; }
+}
