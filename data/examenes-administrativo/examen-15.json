@@ -5,31 +5,31 @@
     {
       "id": 1,
       "tema": "Sistema constitucional y MPF",
-      "enunciado": "Según el Reglamento (Res. PGN 507/14), para ingresar al agrupamiento 'Técnico Jurídico' se exige, además de los requisitos generales:",
+      "enunciado": "La CEDAW (Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, Ley N° 23.179) busca, ante todo:",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Acreditar diez años de ejercicio profesional.",
-          "correcta": false,
-          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 54, exige el título de abogado/a, sin imponer antigüedad de ejercicio."
+          "texto": "Eliminar todas las formas de discriminación contra la mujer",
+          "correcta": true,
+          "explicacion": "Correcta. La CEDAW (Ley N° 23.179) tiene por objeto eliminar todas las formas de discriminación contra la mujer."
         },
         {
           "letra": "B",
-          "texto": "Poseer educación primaria completa.",
+          "texto": "Regular el procedimiento penal federal",
           "correcta": false,
-          "explicacion": "Incorrecta. La primaria completa es requisito de Servicios Auxiliares (Res. PGN N° 507/14, art. 32); el Técnico Jurídico exige título de abogado/a (art. 54)."
+          "explicacion": "Incorrecta. Eso corresponde al Código Procesal Penal Federal, no a la CEDAW (Ley N° 23.179)."
         },
         {
           "letra": "C",
-          "texto": "Poseer estudios secundarios completos.",
+          "texto": "Establecer el cupo laboral por discapacidad",
           "correcta": false,
-          "explicacion": "Incorrecta. Los estudios secundarios son requisito del Técnico Administrativo (Res. PGN N° 507/14, art. 41); el Técnico Jurídico exige título de abogado/a (art. 54)."
+          "explicacion": "Incorrecta. El cupo corresponde a la Ley N° 22.431, no a la CEDAW."
         },
         {
           "letra": "D",
-          "texto": "Ser abogado/a graduado/a en universidad nacional pública o privada oficialmente reconocida o extranjera homologada.",
-          "correcta": true,
-          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 54, exige el título de abogado/a en esas condiciones."
+          "texto": "Crear el Ministerio Público Fiscal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Ministerio Público surge de la Constitución Nacional (art. 120), no de la CEDAW."
         }
       ]
     },

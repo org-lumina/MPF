@@ -5,31 +5,31 @@
     {
       "id": 1,
       "tema": "Sistema constitucional y MPF",
-      "enunciado": "En los concursos de cargos letrados de la Ley N° 26.861, el titular de la dependencia puede seleccionar al postulante dentro de:",
+      "enunciado": "Según la Ley N° 26.861, ¿cómo se realiza, como regla, el ingreso de personal al Poder Judicial y al Ministerio Público de la Nación?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Cualquier postulante de la lista, sin límite.",
+          "texto": "Por designación directa del titular de la dependencia",
           "correcta": false,
-          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 33, limita la elección a los veinte primeros del orden de mérito."
+          "explicacion": "Incorrecta. La Ley N° 26.861 instaura el ingreso por concurso, no la designación directa."
         },
         {
           "letra": "B",
-          "texto": "Los veinte (20) primeros del orden de mérito.",
+          "texto": "Mediante concurso público (ingreso democrático e igualitario)",
           "correcta": true,
-          "explicacion": "Correcta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 33, permite seleccionar al postulante dentro de los veinte (20) primeros del orden de mérito."
+          "explicacion": "Correcta. La Ley N° 26.861 establece el ingreso democrático e igualitario mediante concurso público."
         },
         {
           "letra": "C",
-          "texto": "Los cinco (5) primeros del orden de mérito.",
+          "texto": "Por herencia o continuidad del cargo",
           "correcta": false,
-          "explicacion": "Incorrecta. Ley N° 26.861 (Ingreso democrático e igualitario), art. 33, fija los veinte primeros."
+          "explicacion": "Incorrecta. La Ley N° 26.861 no admite ese mecanismo."
         },
         {
           "letra": "D",
-          "texto": "Los diez (10) primeros del orden de mérito.",
+          "texto": "Por antigüedad acreditada en otro organismo",
           "correcta": false,
-          "explicacion": "Incorrecta. El tope de diez aplica al sorteo de Técnico Administrativo (Reglamento); en cargos letrados son los veinte primeros (Ley N° 26.861, art. 33)."
+          "explicacion": "Incorrecta. La regla de la Ley N° 26.861 es el concurso público, no la antigüedad."
         }
       ]
     },

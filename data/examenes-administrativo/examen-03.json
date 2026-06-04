@@ -563,31 +563,31 @@
     {
       "id": 19,
       "tema": "Sistema constitucional y MPF",
-      "enunciado": "Según el Reglamento (Res. PGN 507/14), la evaluación de idoneidad del agrupamiento 'Técnico Jurídico' consiste en:",
+      "enunciado": "Conforme al artículo 120 de la Constitución Nacional, ¿qué caracteriza al Ministerio Público?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Solo la valoración de antecedentes académicos.",
+          "texto": "Depende jerárquicamente del Poder Ejecutivo",
           "correcta": false,
-          "explicacion": "Incorrecta. Reglamento (Res. PGN N° 507/14), art. 55, exige también la prueba escrita de oposición, condición para pasar a antecedentes."
+          "explicacion": "Incorrecta. El art. 120 de la Constitución Nacional establece su independencia, no la dependencia del Ejecutivo."
         },
         {
           "letra": "B",
-          "texto": "Dos pruebas: teórica e informática.",
-          "correcta": false,
-          "explicacion": "Incorrecta. Esas dos pruebas corresponden al Técnico Administrativo (Res. PGN N° 507/14, art. 42); el Técnico Jurídico evalúa oposición y antecedentes (art. 55)."
+          "texto": "Es un órgano independiente, con autonomía funcional y autarquía financiera",
+          "correcta": true,
+          "explicacion": "Correcta. El art. 120 de la Constitución Nacional define al Ministerio Público como órgano independiente con autonomía funcional y autarquía financiera."
         },
         {
           "letra": "C",
-          "texto": "Una entrevista personal de hasta treinta minutos.",
+          "texto": "Forma parte de la Corte Suprema de Justicia",
           "correcta": false,
-          "explicacion": "Incorrecta. La entrevista personal es del agrupamiento de Servicios Auxiliares (Res. PGN N° 507/14, art. 35); el Técnico Jurídico tiene prueba escrita y antecedentes (art. 55)."
+          "explicacion": "Incorrecta. El Ministerio Público no integra la Corte Suprema (art. 120, Constitución Nacional)."
         },
         {
           "letra": "D",
-          "texto": "Una prueba escrita de oposición de tenor jurídico y la valoración de los antecedentes, sucesivas y eliminatorias.",
-          "correcta": true,
-          "explicacion": "Correcta. Reglamento para el Ingreso Democrático e Igualitario al MPF (Res. PGN N° 507/14), art. 55, prevé prueba escrita de oposición y valoración de antecedentes, etapas sucesivas y eliminatorias."
+          "texto": "Depende del Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El art. 120 de la Constitución Nacional consagra su autonomía, no la dependencia del Congreso."
         }
       ]
     },

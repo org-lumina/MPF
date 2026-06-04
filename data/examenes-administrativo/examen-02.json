@@ -98,31 +98,31 @@
     {
       "id": 4,
       "tema": "Sistema constitucional y MPF",
-      "enunciado": "De acuerdo con la Ley N° 26.791, ¿qué pena prevé el art. 80 del Código Penal para los homicidios allí agravados?",
+      "enunciado": "La figura del femicidio fue incorporada a nuestro derecho mediante una reforma legislativa. ¿Qué ley la introdujo?",
       "opciones": [
         {
           "letra": "A",
-          "texto": "Reclusión perpetua o prisión perpetua",
-          "correcta": true,
-          "explicacion": "Ley N° 26.791, art. 1 (art. 80 CP): se impondrá reclusión perpetua o prisión perpetua."
+          "texto": "Ley N° 26.485 (Protección Integral a las Mujeres)",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Ley N° 26.485 protege a las mujeres contra la violencia, pero no incorporó el femicidio al Código Penal."
         },
         {
           "letra": "B",
-          "texto": "Prisión de ocho a veinticinco años en todos los casos",
+          "texto": "Ley N° 26.743 (Identidad de Género)",
           "correcta": false,
-          "explicacion": "Ley N° 26.791, art. 3: la pena de ocho a veinticinco años solo procede ante circunstancias extraordinarias de atenuación del inc. 1, no como regla general."
+          "explicacion": "Incorrecta. La Ley N° 26.743 regula la identidad de género, no el femicidio."
         },
         {
           "letra": "C",
-          "texto": "Prisión de tres a quince años",
-          "correcta": false,
-          "explicacion": "Ley N° 26.791: el art. 80 CP prevé reclusión o prisión perpetua, no de tres a quince años."
+          "texto": "Ley N° 26.791 (modificatoria del Código Penal)",
+          "correcta": true,
+          "explicacion": "Correcta. La Ley N° 26.791 reformó el Código Penal e incorporó la figura del femicidio."
         },
         {
           "letra": "D",
-          "texto": "Multa e inhabilitación",
+          "texto": "Ley N° 24.632 (Convención de Belém do Pará)",
           "correcta": false,
-          "explicacion": "Ley N° 26.791: el art. 80 CP prevé pena perpetua, no multa ni inhabilitación."
+          "explicacion": "Incorrecta. La Ley N° 24.632 aprueba la Convención de Belém do Pará; no incorporó el femicidio al Código Penal."
         }
       ]
     },
