@@ -4,11 +4,12 @@ import { obtenerAcceso } from "@/lib/acceso";
 import BotonPago from "@/components/BotonPago";
 
 const BENEFICIOS = [
-  "Acceso a los 30 exámenes completos: 25 preguntas de opción múltiple + 1 caso práctico cada uno.",
+  "Un solo pago, acceso completo a las dos agrupaciones: Técnico Jurídico y Técnico Administrativo.",
+  "Técnico Jurídico: 30 exámenes (25 de opción múltiple + 1 caso práctico) y el modo “Solo casos” penales para resolver.",
+  "Técnico Administrativo: 20 exámenes de opción múltiple (historia argentina y latinoamericana, sistema constitucional y MPF, cívica).",
   "Corrección automática con la explicación de cada respuesta citando la norma y el artículo.",
-  "Devolución por tema: ves de un vistazo qué dominás y qué reforzar, y la descargás en PDF.",
-  "Exámenes y casos basados en el material oficial del concurso.",
-  "Modo “Solo casos” penales y procesales (a medida que se vaya habilitando).",
+  "Devolución por tema con gráficos, descargable en PDF.",
+  "Contenido basado en el material oficial del concurso.",
   "6 meses de acceso, con intentos ilimitados.",
 ];
 
@@ -66,7 +67,7 @@ export default async function PagoPage({
       <div className="pago-cta">
         {!email ? (
           <p>
-            Primero <Link href="/login" className="volver-inicio">iniciá sesión</Link> para activar tu acceso.
+            Primero <Link href="/login?redirectTo=/pago" className="volver-inicio">iniciá sesión</Link> para activar tu acceso.
           </p>
         ) : (
           <BotonPago />

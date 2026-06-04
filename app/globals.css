@@ -380,3 +380,13 @@ h1.hero-title em { font-style: normal; color: var(--yellow); }
   .canal-list { flex-direction: row; flex-wrap: wrap; }
   .canal-chip { padding: 8px 12px; }
 }
+
+/* ===== Sello del hero como CTA de pago + botón "Suscribite" del nav ===== */
+a.hero-sello-cta { cursor: pointer; text-decoration: none; display: block; }
+a.hero-sello-cta:hover { transform: rotate(-3deg) translate(-2px, -2px); box-shadow: 12px 12px 0 var(--ink); }
+a.hero-sello-cta:active { transform: rotate(-3deg) translate(2px, 2px); box-shadow: 3px 3px 0 var(--ink); }
+.hero-sello .sello-pagar { display: block; font-family: var(--font-display); font-weight: 700; font-size: 15px; letter-spacing: 1px; text-transform: uppercase; color: var(--pink-dark); margin-bottom: 4px; }
+
+.btn-suscribite { padding: 11px 20px; font-size: 16px; background: var(--yellow); color: var(--ink); box-shadow: 5px 5px 0 var(--ink); }
+.btn-suscribite:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--ink); }
+@media (max-width: 640px) { .hero-sello .sello-pagar { font-size: 13px; } }

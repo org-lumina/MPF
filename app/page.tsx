@@ -17,10 +17,15 @@ export default function HomeHub() {
               <img src="/alberdi.jpg" alt="Alberdi" />
             </div>
             <div className="mascot-tag">¡Tomá las Bases! 📜</div>
-            <div className="hero-sello" aria-label="Precio: $5000 por 6 meses, todo incluido">
+            <Link
+              href="/pago"
+              className="hero-sello hero-sello-cta"
+              aria-label="Pagar: $5000 por 6 meses, todo incluido"
+            >
+              <span className="sello-pagar">Pagar</span>
               <span className="precio">$5000</span>
               <span className="sub">6 meses · todo incluido</span>
-            </div>
+            </Link>
             <div className="hero-inner">
               <span className="eyebrow">
                 <span className="dot" /> Simuladores para preparar pruebas reales

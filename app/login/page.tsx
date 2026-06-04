@@ -3,11 +3,19 @@ import { auth, signIn, signOut } from "@/auth";
 export default async function LoginPage({
   searchParams,
 }: {
-  searchParams: Promise<{ motivo?: string }>;
+  searchParams: Promise<{ motivo?: string; redirectTo?: string }>;
 }) {
-  const { motivo } = await searchParams;
+  const { motivo, redirectTo } = await searchParams;
   const session = await auth();
   const user = session?.user;
+
+  // Destino post-login: por defecto /examen (comportamiento histórico). Solo si
+  // viene un redirectTo interno válido (ej. desde /pago) se vuelve ahí. Se exige
+  // que empiece con "/" y no con "//" para evitar open-redirects.
+  const destino =
+    redirectTo && redirectTo.startsWith("/") && !redirectTo.startsWith("//")
+      ? redirectTo
+      : "/examen";
 
   return (
     <section className="panel">
@@ -45,7 +53,7 @@ export default async function LoginPage({
           <form
             action={async () => {
               "use server";
-              await signIn("google", { redirectTo: "/examen" });
+              await signIn("google", { redirectTo: destino });
             }}
           >
             <button type="submit" className="cta">

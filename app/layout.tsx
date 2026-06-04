@@ -51,6 +51,9 @@ export default function RootLayout({
               <Link href="/examen" className="btn btn-sm">
                 Empezar práctica
               </Link>
+              <Link href="/pago" className="btn btn-suscribite">
+                Suscribite
+              </Link>
             </nav>
           </div>
         </header>
