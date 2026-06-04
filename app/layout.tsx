@@ -27,8 +27,12 @@ export default function RootLayout({
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,700&display=swap"
         />
-        <img className="watermark wm-1" src="/sarmiento.jpg" alt="" aria-hidden />
-        <img className="watermark wm-2" src="/piano.jpg" alt="" aria-hidden />
+        <div className="collage-fondo" aria-hidden>
+          {Array.from({ length: 16 }, (_, i) => i + 1).map((n) => (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img key={n} className={`col col-${n}`} src={`/caricaturas/c${((n - 1) % 8) + 1}.webp`} alt="" />
+          ))}
+        </div>
 
         <header className="site-nav">
           <div className="nav-in">
