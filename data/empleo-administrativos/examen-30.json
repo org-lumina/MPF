@@ -1,0 +1,794 @@
+{
+  "examen_id": 30,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comer con poca luz o muy apurados nos impide disfrutar de la comida. Tomarse un momento tranquilo para comer ayuda a sentirse mejor. La forma en que comemos también es parte de los hábitos saludables.",
+      "enunciado": "Según el texto, ¿qué ayuda a sentirse mejor al comer?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Comer muy apurados",
+          "correcta": false,
+          "explicacion": "El texto menciona el apuro como algo que impide disfrutar."
+        },
+        {
+          "letra": "B",
+          "texto": "Comer mirando la pantalla de la computadora",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Tomarse un momento tranquilo»."
+        },
+        {
+          "letra": "C",
+          "texto": "Comer siempre con poca luz",
+          "correcta": false,
+          "explicacion": "El texto presenta la poca luz como obstáculo."
+        },
+        {
+          "letra": "D",
+          "texto": "Tomarse un momento tranquilo",
+          "correcta": true,
+          "explicacion": "El texto dice que tomarse un momento tranquilo para comer ayuda a sentirse mejor."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Desenchufar los aparatos que no estamos usando ayuda a ahorrar energía. Muchos artefactos siguen consumiendo electricidad aunque estén apagados si quedan enchufados. A ese gasto silencioso se lo conoce como consumo en espera.",
+      "enunciado": "Según el texto, ¿cómo se llama el gasto de electricidad de los aparatos apagados pero enchufados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Consumo natural.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ese término."
+        },
+        {
+          "letra": "B",
+          "texto": "Consumo activo.",
+          "correcta": false,
+          "explicacion": "El texto habla de aparatos apagados, no activos."
+        },
+        {
+          "letra": "C",
+          "texto": "Consumo en espera.",
+          "correcta": true,
+          "explicacion": "El texto llama a ese gasto silencioso consumo en espera."
+        },
+        {
+          "letra": "D",
+          "texto": "Consumo total.",
+          "correcta": false,
+          "explicacion": "El texto no usa esa expresión."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Durante un simulacro de evacuación, todos deben caminar sin correr y dirigirse al punto de encuentro indicado. Correr puede provocar caídas y aglomeraciones que dificultan la salida ordenada de las personas.",
+      "enunciado": "Según el texto, ¿por qué no se debe correr durante la evacuación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque está prohibido por ley",
+          "correcta": false,
+          "explicacion": "El texto no apela a una prohibición legal sino a la seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque ensucia los pisos del edificio",
+          "correcta": false,
+          "explicacion": "El texto no relaciona correr con la limpieza de los pisos."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque consume mucha energía",
+          "correcta": false,
+          "explicacion": "El texto no menciona el consumo de energía como motivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque puede provocar caídas y aglomeraciones",
+          "correcta": true,
+          "explicacion": "El texto explica que correr puede provocar caídas y aglomeraciones."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando un peatón espera para cruzar en la esquina, el conductor que dobla debe cederle el paso. El peatón tiene prioridad en la senda. Respetar esta regla protege a quienes caminan por la ciudad.",
+      "enunciado": "Según el texto, ¿qué debe hacer el conductor que dobla cuando un peatón espera para cruzar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tocar bocina para que se aparte.",
+          "correcta": false,
+          "explicacion": "El texto no menciona tocar bocina."
+        },
+        {
+          "letra": "B",
+          "texto": "Pasar antes que el peatón.",
+          "correcta": false,
+          "explicacion": "El texto da prioridad al peatón, no al conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Acelerar la maniobra.",
+          "correcta": false,
+          "explicacion": "El texto no menciona acelerar."
+        },
+        {
+          "letra": "D",
+          "texto": "Cederle el paso al peatón.",
+          "correcta": true,
+          "explicacion": "El texto dice que el conductor que dobla debe cederle el paso al peatón."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los matafuegos deben revisarse periódicamente para garantizar que estén cargados y en condiciones de uso. Un extintor descargado o vencido no servirá en el momento en que realmente se lo necesite.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los empleados deben saber química del fuego",
+          "correcta": false,
+          "explicacion": "El texto no menciona conocimientos de química del fuego."
+        },
+        {
+          "letra": "B",
+          "texto": "Los matafuegos son más útiles que las salidas de emergencia",
+          "correcta": false,
+          "explicacion": "El texto no compara matafuegos con salidas de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Los matafuegos deben colocarse cerca de la puerta",
+          "correcta": false,
+          "explicacion": "El texto no habla de la ubicación de los matafuegos."
+        },
+        {
+          "letra": "D",
+          "texto": "La revisión periódica de los matafuegos asegura que funcionen cuando se los necesite",
+          "correcta": true,
+          "explicacion": "El texto se centra en revisar los matafuegos para que sirvan al momento de usarlos."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Usar las dos caras de una hoja antes de descartarla permite aprovecharla mejor. Muchas veces escribimos o imprimimos en un solo lado y tiramos la hoja a medio usar. Aprovechar ambas caras reduce el consumo de papel.",
+      "enunciado": "Según el texto, ¿qué se logra al usar las dos caras de una hoja?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se ahorra tinta de color.",
+          "correcta": false,
+          "explicacion": "El texto se refiere al papel, no a la tinta."
+        },
+        {
+          "letra": "B",
+          "texto": "Se reduce el consumo de papel.",
+          "correcta": true,
+          "explicacion": "El texto afirma que aprovechar ambas caras reduce el consumo de papel."
+        },
+        {
+          "letra": "C",
+          "texto": "Se aumenta la cantidad de hojas necesarias.",
+          "correcta": false,
+          "explicacion": "El texto plantea reducir el consumo, no aumentarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "Se mejora la calidad de la impresión.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la calidad de impresión."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El ombú es una planta típica de la llanura pampeana. Aunque por su gran tamaño parece un árbol, en realidad es una hierba gigante de tronco blando. Su sombra fue refugio de muchos viajeros del campo argentino.",
+      "enunciado": "¿Qué afirma el texto sobre el ombú?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que en realidad es una hierba gigante.",
+          "correcta": true,
+          "explicacion": "El texto dice que, pese a su tamaño, es una hierba gigante de tronco blando."
+        },
+        {
+          "letra": "B",
+          "texto": "Que da frutos comestibles muy dulces.",
+          "correcta": false,
+          "explicacion": "El texto no menciona frutos del ombú."
+        },
+        {
+          "letra": "C",
+          "texto": "Que crece solo en zonas de montaña.",
+          "correcta": false,
+          "explicacion": "El texto lo ubica en la llanura pampeana, no en la montaña."
+        },
+        {
+          "letra": "D",
+          "texto": "Que es un árbol de tronco muy duro.",
+          "correcta": false,
+          "explicacion": "El texto aclara que su tronco es blando y que no es un árbol verdadero."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La plancha de pelo alcanza temperaturas muy altas en pocos segundos. Apóyela siempre sobre su soporte resistente al calor y nunca sobre superficies que puedan quemarse, como toallas o cubrecamas.",
+      "enunciado": "Según el texto, ¿sobre qué debe apoyarse la plancha de pelo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sobre una toalla.",
+          "correcta": false,
+          "explicacion": "El texto advierte no apoyarla sobre toallas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sobre una hoja de papel.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el papel y pide una superficie resistente al calor."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobre su soporte resistente al calor.",
+          "correcta": true,
+          "explicacion": "El texto indica apoyarla sobre su soporte resistente al calor."
+        },
+        {
+          "letra": "D",
+          "texto": "Sobre el cubrecama.",
+          "correcta": false,
+          "explicacion": "El texto advierte no apoyarla sobre cubrecamas."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mucha gente confunde reutilizar con reciclar, pero no son lo mismo. Reutilizar es volver a usar un objeto tal como está, mientras que reciclar implica transformar el material en otra cosa. Ambas acciones ayudan a cuidar el ambiente.",
+      "enunciado": "Según el texto, ¿qué diferencia hay entre reutilizar y reciclar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Son exactamente lo mismo.",
+          "correcta": false,
+          "explicacion": "El texto aclara que no son lo mismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Reutilizar es volver a usar el objeto; reciclar es transformar el material.",
+          "correcta": true,
+          "explicacion": "El texto define reutilizar como volver a usar el objeto y reciclar como transformar el material."
+        },
+        {
+          "letra": "C",
+          "texto": "Reutilizar implica transformar el material.",
+          "correcta": false,
+          "explicacion": "Esa es la definición de reciclar, según el texto."
+        },
+        {
+          "letra": "D",
+          "texto": "Reciclar es volver a usar el objeto tal como está.",
+          "correcta": false,
+          "explicacion": "Esa es la definición de reutilizar, según el texto."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Apagar las luces al salir de una habitación es una costumbre simple que evita el derroche de energía. Dejar artefactos encendidos sin usarlos consume electricidad de manera innecesaria. Adoptar este hábito reduce el gasto del hogar.",
+      "enunciado": "¿Qué evita el hábito de apagar las luces al salir de una habitación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El consumo de agua caliente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua caliente."
+        },
+        {
+          "letra": "B",
+          "texto": "El derroche de energía.",
+          "correcta": true,
+          "explicacion": "El texto afirma que apagar las luces evita el derroche de energía."
+        },
+        {
+          "letra": "C",
+          "texto": "El desgaste de las lámparas.",
+          "correcta": false,
+          "explicacion": "El texto se refiere al derroche de energía, no al desgaste."
+        },
+        {
+          "letra": "D",
+          "texto": "La acumulación de residuos.",
+          "correcta": false,
+          "explicacion": "El texto trata sobre energía, no sobre residuos."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El barbijo protege las vías respiratorias del polvo fino y de partículas en suspensión. En tareas de lijado o pintura conviene usarlo para evitar inhalar sustancias dañinas.",
+      "enunciado": "Según el texto, ¿qué protege el barbijo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los oídos",
+          "correcta": false,
+          "explicacion": "Los oídos se protegen con protectores auditivos, no con barbijo."
+        },
+        {
+          "letra": "B",
+          "texto": "Los pies",
+          "correcta": false,
+          "explicacion": "Los pies se protegen con calzado de seguridad, no con barbijo."
+        },
+        {
+          "letra": "C",
+          "texto": "Las manos",
+          "correcta": false,
+          "explicacion": "Las manos se protegen con guantes según otros usos, no es lo del texto."
+        },
+        {
+          "letra": "D",
+          "texto": "Las vías respiratorias",
+          "correcta": true,
+          "explicacion": "El texto dice que protege las vías respiratorias del polvo y partículas."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las personas tienen derecho a denunciar situaciones que afecten la seguridad de su barrio. Pueden hacerlo ante las autoridades correspondientes. La participación de los vecinos contribuye a mejorar la vida en común.",
+      "enunciado": "Según el texto, ¿ante quién pueden los vecinos denunciar situaciones de inseguridad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ante cualquier vecino del barrio.",
+          "correcta": false,
+          "explicacion": "El texto menciona a las autoridades, no a cualquier vecino."
+        },
+        {
+          "letra": "B",
+          "texto": "Ante los comercios de la zona.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a los comercios."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente en redes sociales.",
+          "correcta": false,
+          "explicacion": "El texto no menciona las redes sociales."
+        },
+        {
+          "letra": "D",
+          "texto": "Ante las autoridades correspondientes.",
+          "correcta": true,
+          "explicacion": "El texto indica que pueden hacerlo ante las autoridades correspondientes."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La sandwichera debe precalentarse durante unos minutos antes de colocar los alimentos. La luz indicadora se apaga cuando alcanza la temperatura adecuada; recién entonces conviene comenzar a cocinar.",
+      "enunciado": "Completá la oración con la palabra que falta: \"La luz indicadora se apaga cuando alcanza la _____ adecuada\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "velocidad",
+          "correcta": false,
+          "explicacion": "El texto no menciona velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "humedad",
+          "correcta": false,
+          "explicacion": "El texto se refiere a la temperatura, no a la humedad."
+        },
+        {
+          "letra": "C",
+          "texto": "presión",
+          "correcta": false,
+          "explicacion": "El texto no menciona la presión."
+        },
+        {
+          "letra": "D",
+          "texto": "temperatura",
+          "correcta": true,
+          "explicacion": "El texto indica que la luz se apaga al alcanzar la temperatura adecuada."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 340?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "107",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "102",
+          "correcta": true,
+          "explicacion": "El 30 % de 340 se calcula 30 ÷ 100 × 340 = 102."
+        },
+        {
+          "letra": "C",
+          "texto": "204",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "112",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 260?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "312",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "161",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "156",
+          "correcta": true,
+          "explicacion": "El 60 % de 260 se calcula 60 ÷ 100 × 260 = 156."
+        },
+        {
+          "letra": "D",
+          "texto": "166",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 180 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "100",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 180 − 80 = 100."
+        },
+        {
+          "letra": "C",
+          "texto": "110",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 460 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "540",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "380",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 460 − 80 = 380."
+        },
+        {
+          "letra": "D",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 280 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "540",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "20",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 280 − 260 = 20."
+        },
+        {
+          "letra": "D",
+          "texto": "10",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 960?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "485",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "960",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "El 50 % de 960 se calcula 50 ÷ 100 × 960 = 480."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 400?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "El 60 % de 400 se calcula 60 ÷ 100 × 400 = 240."
+        },
+        {
+          "letra": "C",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "245",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 640 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "605",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 640 − 35 = 605."
+        },
+        {
+          "letra": "B",
+          "texto": "675",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "615",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "595",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 43 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "129",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 43 × 3 = 129."
+        },
+        {
+          "letra": "B",
+          "texto": "126",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "172",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "46",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 640?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "325",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "330",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "320",
+          "correcta": true,
+          "explicacion": "El 50 % de 640 se calcula 50 ÷ 100 × 640 = 320."
+        },
+        {
+          "letra": "D",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 200 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "440",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 200 + 240 = 440."
+        },
+        {
+          "letra": "B",
+          "texto": "430",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "460",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 192 hojas en partes iguales entre 3 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "189",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "69",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "59",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "64",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 192 ÷ 3 = 64."
+        }
+      ]
+    }
+  ]
+}

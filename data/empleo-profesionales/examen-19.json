@@ -1,0 +1,789 @@
+{
+  "examen_id": 19,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El correo electrónico tiene una casilla de spam donde se acumulan los mensajes sospechosos. Revisarla de vez en cuando ayuda a no perder un correo importante por error. Pero conviene no abrir lo que parezca dudoso.",
+      "enunciado": "Según el texto, ¿para qué conviene revisar la casilla de spam de vez en cuando?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para cambiar la contraseña.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contraseñas."
+        },
+        {
+          "letra": "B",
+          "texto": "Para liberar la batería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la batería."
+        },
+        {
+          "letra": "C",
+          "texto": "Para mejorar la señal.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la señal."
+        },
+        {
+          "letra": "D",
+          "texto": "Para no perder un correo importante por error.",
+          "correcta": true,
+          "explicacion": "El texto dice que ayuda a no perder un correo importante por error."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para extender la vida de la batería del taladro inalámbrico, no la deje descargada por completo durante mucho tiempo. Guarde la herramienta con la batería parcialmente cargada y en un lugar templado.",
+      "enunciado": "Según el texto, ¿cómo conviene guardar la batería del taladro?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de la heladera.",
+          "correcta": false,
+          "explicacion": "El texto recomienda un lugar templado, no frío."
+        },
+        {
+          "letra": "B",
+          "texto": "Conectada al cargador todo el tiempo.",
+          "correcta": false,
+          "explicacion": "El texto no recomienda dejarla siempre conectada."
+        },
+        {
+          "letra": "C",
+          "texto": "Completamente descargada.",
+          "correcta": false,
+          "explicacion": "El texto desaconseja dejarla descargada por completo."
+        },
+        {
+          "letra": "D",
+          "texto": "Parcialmente cargada.",
+          "correcta": true,
+          "explicacion": "El texto indica guardarla con la batería parcialmente cargada."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El yaguareté es el felino más grande de América. En la Argentina habita en zonas del norte, como Misiones y el Chaco. Hoy quedan muy pocos ejemplares, por lo que se trabaja para protegerlo.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El yaguareté solo vive en zonas de montaña.",
+          "correcta": false,
+          "explicacion": "El texto lo ubica en el norte, en Misiones y el Chaco."
+        },
+        {
+          "letra": "B",
+          "texto": "El yaguareté abunda en toda la Argentina.",
+          "correcta": false,
+          "explicacion": "El texto dice que quedan muy pocos ejemplares."
+        },
+        {
+          "letra": "C",
+          "texto": "El yaguareté es un felino grande del norte que está en peligro.",
+          "correcta": true,
+          "explicacion": "El texto describe al yaguareté, dónde vive y que quedan pocos ejemplares."
+        },
+        {
+          "letra": "D",
+          "texto": "El yaguareté es un ave que vive en Misiones.",
+          "correcta": false,
+          "explicacion": "El texto dice que es un felino, no un ave."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La constancia de domicilio se tramita con turno previo. El día de la cita, el solicitante debe presentar el documento de identidad y el turno impreso o en pantalla del teléfono.",
+      "enunciado": "¿Qué debe presentar el solicitante el día de la cita?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una nota explicando el motivo.",
+          "correcta": false,
+          "explicacion": "El texto no pide una nota explicativa."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo el documento de identidad.",
+          "correcta": false,
+          "explicacion": "El texto exige además el turno."
+        },
+        {
+          "letra": "C",
+          "texto": "El documento de identidad y el turno impreso o en pantalla.",
+          "correcta": true,
+          "explicacion": "El texto pide ambos elementos el día de la cita."
+        },
+        {
+          "letra": "D",
+          "texto": "Un comprobante de pago de tasa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona comprobante de pago."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La nieve está formada por pequeños cristales de hielo. Cae cuando hace mucho frío y las gotas de agua de las nubes se congelan. En las montañas del sur argentino, la nieve cubre los cerros en invierno.",
+      "enunciado": "Según el texto, ¿de qué está formada la nieve?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De vapor caliente.",
+          "correcta": false,
+          "explicacion": "El texto relaciona la nieve con el frío, no con el calor."
+        },
+        {
+          "letra": "B",
+          "texto": "De pequeños cristales de hielo.",
+          "correcta": true,
+          "explicacion": "El texto afirma que la nieve está formada por cristales de hielo."
+        },
+        {
+          "letra": "C",
+          "texto": "De pequeñas gotas de lluvia.",
+          "correcta": false,
+          "explicacion": "El texto dice que está formada por cristales de hielo."
+        },
+        {
+          "letra": "D",
+          "texto": "De polvo blanco.",
+          "correcta": false,
+          "explicacion": "El texto no menciona polvo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las líneas amarillas pintadas en el cordón indican que está prohibido estacionar. Respetar esta señal evita obstruir el tránsito y los accesos. Estacionar en esos lugares puede generar una multa.",
+      "enunciado": "Según el texto, ¿qué indican las líneas amarillas en el cordón?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que está prohibido estacionar.",
+          "correcta": true,
+          "explicacion": "El texto dice que las líneas amarillas indican que está prohibido estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Que es zona de carga y descarga.",
+          "correcta": false,
+          "explicacion": "El texto no menciona carga y descarga."
+        },
+        {
+          "letra": "C",
+          "texto": "Que se puede estacionar gratis.",
+          "correcta": false,
+          "explicacion": "El texto indica prohibición, no estacionamiento gratuito."
+        },
+        {
+          "letra": "D",
+          "texto": "Que hay una parada de colectivo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona paradas de colectivo."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cargador del teléfono debe desconectarse del tomacorriente cuando no esté en uso. Dejarlo enchufado de forma permanente consume energía y, con el tiempo, puede acortar la vida útil del propio cargador.",
+      "enunciado": "Según el texto, ¿qué puede ocurrir si el cargador queda enchufado de forma permanente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mejora el rendimiento de la batería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona mejoras en la batería."
+        },
+        {
+          "letra": "B",
+          "texto": "Carga más rápido el teléfono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona una carga más rápida."
+        },
+        {
+          "letra": "C",
+          "texto": "Acorta la vida útil del cargador.",
+          "correcta": true,
+          "explicacion": "El texto dice que dejarlo enchufado puede acortar la vida útil del cargador."
+        },
+        {
+          "letra": "D",
+          "texto": "No tiene ningún efecto.",
+          "correcta": false,
+          "explicacion": "El texto señala consumo de energía y desgaste, sí hay efecto."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Hacer ejercicio por la mañana le da energía a muchas personas para empezar el día. Otras prefieren la tarde o la noche. Lo importante no es la hora exacta, sino encontrar el momento que mejor se adapte a cada uno.",
+      "enunciado": "De acuerdo con el texto, ¿qué es lo importante respecto del horario de ejercicio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacerlo siempre solo de noche",
+          "correcta": false,
+          "explicacion": "El texto no impone la noche."
+        },
+        {
+          "letra": "B",
+          "texto": "Hacerlo únicamente a la mañana",
+          "correcta": false,
+          "explicacion": "El texto no obliga a la mañana."
+        },
+        {
+          "letra": "C",
+          "texto": "Encontrar el momento que mejor se adapte a cada uno",
+          "correcta": true,
+          "explicacion": "El texto dice que lo importante es hallar el momento que mejor se adapte a cada persona."
+        },
+        {
+          "letra": "D",
+          "texto": "No hacer ejercicio en ningún horario",
+          "correcta": false,
+          "explicacion": "El texto promueve la actividad física."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 213 hojas en partes iguales entre 3 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "210",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "71",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 213 ÷ 3 = 71."
+        },
+        {
+          "letra": "C",
+          "texto": "76",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "66",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 39 unidades y hay 6 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "234",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 39 × 6 = 234."
+        },
+        {
+          "letra": "C",
+          "texto": "228",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "273",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 920?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "148",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "143",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "138",
+          "correcta": true,
+          "explicacion": "El 15 % de 920 se calcula 15 ÷ 100 × 920 = 138."
+        },
+        {
+          "letra": "D",
+          "texto": "276",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 740?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "74",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "47",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "37",
+          "correcta": true,
+          "explicacion": "El 5 % de 740 se calcula 5 ÷ 100 × 740 = 37."
+        },
+        {
+          "letra": "D",
+          "texto": "42",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 10 cuadernos cuestan $500, ¿cuánto cuestan 20 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1.000",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $500 ÷ 10 = $50; entonces 20 cuestan $50 × 20 = $1.000."
+        },
+        {
+          "letra": "B",
+          "texto": "1.050",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "950",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "520",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 120 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "0",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 120 + 120 = 240."
+        },
+        {
+          "letra": "D",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 4 cuadernos cuestan $200, ¿cuánto cuestan 7 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "350",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $200 ÷ 4 = $50; entonces 7 cuestan $50 × 7 = $350."
+        },
+        {
+          "letra": "C",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "207",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 420 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "635",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "205",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 420 − 215 = 205."
+        },
+        {
+          "letra": "C",
+          "texto": "215",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "195",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿por qué la Constitución es la ley suprema?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque las demás leyes deben respetar sus lineamientos",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que es ley suprema 'porque las demás leyes deben respetar sus lineamientos'."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque solo puede aplicarse en la Ciudad de Buenos Aires",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no limita su aplicación territorial."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque la dicta directamente el Presidente de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no atribuye su supremacía al Presidente."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque es la más antigua de todas las leyes del país",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona la antigüedad como motivo de su supremacía."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ante una orden del superior jerárquico, el agente tiene el deber de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obedecer toda orden, sin importar su contenido",
+          "correcta": false,
+          "explicacion": "El deber se limita a órdenes que reúnan las formalidades y tengan por objeto actos de servicio compatibles con la función."
+        },
+        {
+          "letra": "B",
+          "texto": "Obedecer la orden que reúna las formalidades y tenga por objeto actos de servicio compatibles con su función",
+          "correcta": true,
+          "explicacion": "El art. 23 inc. e) impone obedecer toda orden del superior jerárquico competente que reúna las formalidades del caso y tenga por objeto actos de servicio compatibles con la función."
+        },
+        {
+          "letra": "C",
+          "texto": "Obedecer sólo las órdenes escritas",
+          "correcta": false,
+          "explicacion": "El art. 23 inc. e) no exige que la orden sea escrita."
+        },
+        {
+          "letra": "D",
+          "texto": "Consultar al sindicato antes de cumplir cualquier orden",
+          "correcta": false,
+          "explicacion": "No se requiere consulta sindical previa para cumplir órdenes de servicio."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de contratos con el Estado, ¿cuál de los siguientes vínculos debe informarse en la Declaración Jurada de Intereses?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Amistad pública con gran familiaridad y trato frecuente",
+          "correcta": true,
+          "explicacion": "El régimen incluye, entre los vínculos a informar, la amistad pública con gran familiaridad y trato frecuente."
+        },
+        {
+          "letra": "B",
+          "texto": "Haber estudiado en la misma universidad",
+          "correcta": false,
+          "explicacion": "Ese no es uno de los vínculos enumerados en el régimen."
+        },
+        {
+          "letra": "C",
+          "texto": "Compartir afiliación a un mismo club deportivo",
+          "correcta": false,
+          "explicacion": "Ese vínculo no está previsto en el régimen de declaración jurada de intereses."
+        },
+        {
+          "letra": "D",
+          "texto": "Vivir en la misma localidad",
+          "correcta": false,
+          "explicacion": "La residencia compartida no figura entre los vínculos a declarar."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿a quiénes representan los Senadores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los gremios y a los trabajadores",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no asigna esa representación a los senadores."
+        },
+        {
+          "letra": "B",
+          "texto": "Al pueblo de toda la Nación en conjunto",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material indica que los senadores representan a las provincias y a la CABA."
+        },
+        {
+          "letra": "C",
+          "texto": "A las provincias y a la CABA",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que los Senadores representan a las provincias y a la CABA."
+        },
+        {
+          "letra": "D",
+          "texto": "Al Poder Ejecutivo ante el Congreso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona esa representación de los senadores."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué representa el Presidente de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Representa al pueblo en la Cámara de Diputados",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los diputados representan al pueblo, no el Presidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Representa a nuestro país ante los demás Estados",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Presidente representa a nuestro país ante los demás Estados."
+        },
+        {
+          "letra": "C",
+          "texto": "Representa a las provincias ante el gobierno federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no le asigna esa función; los senadores representan a las provincias."
+        },
+        {
+          "letra": "D",
+          "texto": "Representa al Poder Judicial ante el Congreso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no atribuye esa representación al Presidente."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 85, ¿qué integra el sistema de contabilidad gubernamental?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conjunto de principios, órganos, normas y procedimientos técnicos para registrar y exponer los hechos económicos que afecten el patrimonio de las entidades públicas",
+          "correcta": true,
+          "explicacion": "El art. 85 define así el sistema de contabilidad gubernamental."
+        },
+        {
+          "letra": "B",
+          "texto": "Las estructuras de control interno y externo del sector público",
+          "correcta": false,
+          "explicacion": "Eso corresponde a los sistemas de control (art. 3), no a la contabilidad gubernamental."
+        },
+        {
+          "letra": "C",
+          "texto": "Los principios que rigen el endeudamiento del Estado",
+          "correcta": false,
+          "explicacion": "El endeudamiento se rige por el sistema de crédito público (Título III), no por la definición del art. 85."
+        },
+        {
+          "letra": "D",
+          "texto": "El conjunto de órganos que recaudan los ingresos y efectúan los pagos",
+          "correcta": false,
+          "explicacion": "Eso describe al sistema de tesorería (art. 72), no al de contabilidad."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 7 de la Ley 25.188, la falta de remisión de las declaraciones juradas en el plazo establecido, sin causa justificada, será considerada:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un delito penal de acción pública",
+          "correcta": false,
+          "explicacion": "El art. 7 la califica como falta grave administrativa, no como delito."
+        },
+        {
+          "letra": "B",
+          "texto": "Falta grave del funcionario responsable del área",
+          "correcta": true,
+          "explicacion": "El art. 7 dispone que la falta de remisión sin causa justificada es falta grave del funcionario responsable del área."
+        },
+        {
+          "letra": "C",
+          "texto": "Falta leve del funcionario responsable del área",
+          "correcta": false,
+          "explicacion": "El art. 7 la califica como falta grave, no leve."
+        },
+        {
+          "letra": "D",
+          "texto": "Una infracción sin consecuencias disciplinarias",
+          "correcta": false,
+          "explicacion": "El art. 7 la considera falta grave, con consecuencias disciplinarias."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Entre los deberes y pautas de comportamiento ético de la Ley 25.188, se incluye:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizar los bienes del Estado para fines particulares razonables",
+          "correcta": false,
+          "explicacion": "Se debe emplear los bienes del Estado sólo con los fines autorizados (art. 2, inc. f)."
+        },
+        {
+          "letra": "B",
+          "texto": "Privilegiar el interés particular sobre el público cuando sea más eficiente",
+          "correcta": false,
+          "explicacion": "El deber es exactamente el contrario: privilegiar el interés público sobre el particular (art. 2, inc. c)."
+        },
+        {
+          "letra": "C",
+          "texto": "Velar por los intereses del Estado, privilegiando el interés público sobre el particular",
+          "correcta": true,
+          "explicacion": "El art. 2, inc. c, obliga a velar por los intereses del Estado privilegiando el interés público sobre el particular."
+        },
+        {
+          "letra": "D",
+          "texto": "Reservar la mayor cantidad de información posible para uso interno",
+          "correcta": false,
+          "explicacion": "El deber es mostrar la mayor transparencia y no restringir información salvo norma o interés público (art. 2, inc. e)."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué establece la garantía relativa a la detención de personas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El arresto solo procede mediante hábeas data",
+          "correcta": false,
+          "explicacion": "Incorrecta. El hábeas data protege datos personales, no regula el arresto."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna persona puede ser arrestada sin orden escrita de la autoridad correspondiente",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que ninguna persona puede ser arrestada sin orden escrita de la autoridad correspondiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Las personas pueden ser arrestadas sin orden durante 48 horas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no prevé ese plazo; exige orden escrita."
+        },
+        {
+          "letra": "D",
+          "texto": "Toda persona puede ser arrestada por cualquier funcionario público",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material exige orden escrita de la autoridad correspondiente."
+        }
+      ]
+    }
+  ]
+}

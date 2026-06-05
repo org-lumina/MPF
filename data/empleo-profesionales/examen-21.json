@@ -1,0 +1,789 @@
+{
+  "examen_id": 21,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El control remoto utiliza dos pilas tipo AAA. Si no va a usar el aparato durante un tiempo prolongado, retire las pilas para evitar que se sulfaten y dañen los contactos internos del control.",
+      "enunciado": "Según el texto, ¿qué conviene hacer si no se usará el control por mucho tiempo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Retirar las pilas.",
+          "correcta": true,
+          "explicacion": "El texto recomienda retirar las pilas para evitar que se sulfaten."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiar las pilas por unas nuevas.",
+          "correcta": false,
+          "explicacion": "El texto pide retirarlas, no reemplazarlas."
+        },
+        {
+          "letra": "C",
+          "texto": "Dejar el control encendido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona dejar el control encendido."
+        },
+        {
+          "letra": "D",
+          "texto": "Guardarlo junto al aparato.",
+          "correcta": false,
+          "explicacion": "El texto no habla de dónde guardar el control."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las pérdidas de gas o de agua en una casa pueden pasar desapercibidas durante mucho tiempo. Revisar de vez en cuando las cañerías y los artefactos ayuda a detectarlas a tiempo. Una reparación temprana evita derroches y peligros.",
+      "enunciado": "Según el texto, ¿para qué sirve revisar de vez en cuando las cañerías y los artefactos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para cambiar el color de las cañerías.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color de las cañerías."
+        },
+        {
+          "letra": "B",
+          "texto": "Para detectar las pérdidas a tiempo.",
+          "correcta": true,
+          "explicacion": "El texto dice que revisar ayuda a detectar las pérdidas a tiempo."
+        },
+        {
+          "letra": "C",
+          "texto": "Para gastar más agua y gas.",
+          "correcta": false,
+          "explicacion": "El texto busca evitar derroches, no aumentarlos."
+        },
+        {
+          "letra": "D",
+          "texto": "Para aumentar la presión del agua.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la presión del agua."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las copias de seguridad automáticas se hacen solas según una programación. Por ejemplo, cada noche cuando el teléfono está cargando. Así no dependés de acordarte de hacerlas.",
+      "enunciado": "Según el texto, ¿qué ventaja tienen las copias de seguridad automáticas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentan el brillo de la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el brillo."
+        },
+        {
+          "letra": "B",
+          "texto": "Se hacen solas según una programación.",
+          "correcta": true,
+          "explicacion": "El texto dice que se hacen solas según una programación."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambian la contraseña sola.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contraseñas."
+        },
+        {
+          "letra": "D",
+          "texto": "Mejoran la cámara.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cámara."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El manual señala que la limpieza profunda del equipo debe realizarse con el aparato desconectado y frío. No utilice solventes ni esponjas metálicas, porque rayan las superficies y dañan los recubrimientos.",
+      "enunciado": "Completá la oración con las palabras que faltan: \"La limpieza profunda debe realizarse con el aparato desconectado y _____\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "caliente",
+          "correcta": false,
+          "explicacion": "El texto pide que esté frío, no caliente."
+        },
+        {
+          "letra": "B",
+          "texto": "encendido",
+          "correcta": false,
+          "explicacion": "El texto pide que esté desconectado, no encendido."
+        },
+        {
+          "letra": "C",
+          "texto": "húmedo",
+          "correcta": false,
+          "explicacion": "El texto no menciona que deba estar húmedo."
+        },
+        {
+          "letra": "D",
+          "texto": "frío",
+          "correcta": true,
+          "explicacion": "El texto indica realizar la limpieza con el aparato desconectado y frío."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los productos de limpieza no deben mezclarse entre sí, ya que algunas combinaciones liberan gases tóxicos. Conviene leer siempre las etiquetas y usarlos en lugares ventilados.",
+      "enunciado": "Según el texto, ¿qué puede ocurrir al mezclar productos de limpieza?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pierden todo su olor",
+          "correcta": false,
+          "explicacion": "El texto no habla de la pérdida del olor."
+        },
+        {
+          "letra": "B",
+          "texto": "Se vuelven más baratos",
+          "correcta": false,
+          "explicacion": "El texto no menciona el costo de los productos."
+        },
+        {
+          "letra": "C",
+          "texto": "Limpian mucho mejor",
+          "correcta": false,
+          "explicacion": "El texto no afirma que limpien mejor; advierte del peligro."
+        },
+        {
+          "letra": "D",
+          "texto": "Pueden liberar gases tóxicos",
+          "correcta": true,
+          "explicacion": "El texto advierte que algunas combinaciones liberan gases tóxicos."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Guardar los alimentos en la heladera ayuda a conservarlos mejor. El frío frena el desarrollo de microorganismos que pueden echar a perder la comida. Por eso conviene no dejar alimentos perecederos mucho tiempo fuera.",
+      "enunciado": "Según el texto, ¿qué hace el frío de la heladera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Elimina la necesidad de cocinar",
+          "correcta": false,
+          "explicacion": "El texto no afirma eso."
+        },
+        {
+          "letra": "B",
+          "texto": "Agrega vitaminas a la comida",
+          "correcta": false,
+          "explicacion": "El texto no menciona agregar vitaminas."
+        },
+        {
+          "letra": "C",
+          "texto": "Hace más dulces los alimentos",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el frío con el sabor."
+        },
+        {
+          "letra": "D",
+          "texto": "Frena el desarrollo de microorganismos",
+          "correcta": true,
+          "explicacion": "El texto dice que el frío frena el desarrollo de microorganismos."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Existen estafas en las que se hacen pasar por un familiar pidiendo dinero urgente por mensaje. Suelen decir que cambiaron de número. Ante la duda, conviene llamar a la persona para confirmar.",
+      "enunciado": "Según el texto, ¿qué conviene hacer si un supuesto familiar pide dinero urgente por mensaje?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reenviar el mensaje a otros.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere reenviarlo."
+        },
+        {
+          "letra": "B",
+          "texto": "Bloquear el wifi.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el wifi."
+        },
+        {
+          "letra": "C",
+          "texto": "Enviar el dinero enseguida.",
+          "correcta": false,
+          "explicacion": "El texto advierte sobre la estafa."
+        },
+        {
+          "letra": "D",
+          "texto": "Llamar a la persona para confirmar.",
+          "correcta": true,
+          "explicacion": "El texto recomienda llamar a la persona para confirmar."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La senda peatonal es el lugar destinado para que las personas crucen la calle de manera segura. Los conductores deben respetar la prioridad del peatón que se encuentra cruzando por ella. Cruzar fuera de la senda aumenta el riesgo de accidentes.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los conductores no tienen obligaciones con los peatones.",
+          "correcta": false,
+          "explicacion": "El texto dice lo contrario: deben respetar la prioridad del peatón."
+        },
+        {
+          "letra": "B",
+          "texto": "Cruzar fuera de la senda no genera riesgos.",
+          "correcta": false,
+          "explicacion": "El texto afirma que cruzar fuera de la senda aumenta el riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "La senda peatonal permite cruzar la calle de forma segura y debe respetarse.",
+          "correcta": true,
+          "explicacion": "El texto presenta la senda como lugar para cruzar con seguridad y la prioridad del peatón."
+        },
+        {
+          "letra": "D",
+          "texto": "Las sendas peatonales solo existen en avenidas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que existan únicamente en avenidas."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 5, 10, 15, 20, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "25",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 5; el siguiente es 20 + 5 = 25."
+        },
+        {
+          "letra": "C",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 640?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "El 75 % de 640 se calcula 75 ÷ 100 × 640 = 480."
+        },
+        {
+          "letra": "B",
+          "texto": "485",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "960",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 660 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "625",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 660 − 35 = 625."
+        },
+        {
+          "letra": "B",
+          "texto": "615",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "635",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "695",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 340 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "170",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 340 − 170 = 170."
+        },
+        {
+          "letra": "C",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 180 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "420",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 180 + 240 = 420."
+        },
+        {
+          "letra": "D",
+          "texto": "410",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 900?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "550",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "540",
+          "correcta": true,
+          "explicacion": "El 60 % de 900 se calcula 60 ÷ 100 × 900 = 540."
+        },
+        {
+          "letra": "C",
+          "texto": "545",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "1.080",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 8, 16, 24, 32, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "39",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "40",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 8; el siguiente es 32 + 8 = 40."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 540 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "610",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "460",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "620",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 540 + 80 = 620."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 8 de la Ley 19.549, ¿cómo debe manifestarse el acto administrativo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Exclusivamente en soporte papel",
+          "correcta": false,
+          "explicacion": "El art. 8 admite forma gráfica, electrónica o digital, no exclusivamente papel."
+        },
+        {
+          "letra": "B",
+          "texto": "Expresamente y por escrito, ya sea gráfica, electrónica o digital",
+          "correcta": true,
+          "explicacion": "El art. 8 dispone que el acto se manifestará expresamente y por escrito, en forma gráfica, electrónica o digital, con lugar, fecha y firma."
+        },
+        {
+          "letra": "C",
+          "texto": "En forma verbal por regla general",
+          "correcta": false,
+          "explicacion": "La regla es la manifestación expresa y por escrito; la forma verbal es excepcional."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo de manera implícita",
+          "correcta": false,
+          "explicacion": "El acto debe manifestarse expresamente, no de modo implícito, conforme al art. 8."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué protege el hábeas data?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La libertad física frente a una detención ilegal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde al hábeas corpus."
+        },
+        {
+          "letra": "B",
+          "texto": "El domicilio y la correspondencia frente a registros sin orden judicial",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es otra garantía distinta del hábeas data."
+        },
+        {
+          "letra": "C",
+          "texto": "Los datos personales cuando son usados sin el consentimiento de la persona",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el hábeas data protege los datos personales cuando son usados sin el consentimiento de la persona."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a la defensa en juicio",
+          "correcta": false,
+          "explicacion": "Incorrecta. La defensa en juicio es otra garantía mencionada por separado."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, la aplicación de apercibimiento y suspensión de hasta cinco días:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Requiere autorización del sindicato",
+          "correcta": false,
+          "explicacion": "El art. 35 no exige autorización sindical."
+        },
+        {
+          "letra": "B",
+          "texto": "Requiere siempre instrucción de sumario",
+          "correcta": false,
+          "explicacion": "El art. 35 dispone que no requiere instrucción de sumario en ese caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Requiere sentencia judicial previa",
+          "correcta": false,
+          "explicacion": "No se exige sentencia judicial para estas sanciones."
+        },
+        {
+          "letra": "D",
+          "texto": "No requerirá la instrucción de sumario",
+          "correcta": true,
+          "explicacion": "El art. 35 establece que la aplicación de apercibimiento y suspensión hasta el máximo de cinco días no requerirá la instrucción de sumario."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, los circuitos electorales son subdivisiones de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las mesas",
+          "correcta": false,
+          "explicacion": "La mesa es la unidad más pequeña; el circuito agrupa mesas (art. 39, inc. 3)."
+        },
+        {
+          "letra": "B",
+          "texto": "Las secciones",
+          "correcta": true,
+          "explicacion": "El art. 39, inc. 3 establece que los circuitos son subdivisiones de las secciones y agrupan a los electores por proximidad de domicilios."
+        },
+        {
+          "letra": "C",
+          "texto": "Los distritos",
+          "correcta": false,
+          "explicacion": "Las subdivisiones directas de los distritos son las secciones; los circuitos lo son de las secciones (art. 39)."
+        },
+        {
+          "letra": "D",
+          "texto": "Las provincias",
+          "correcta": false,
+          "explicacion": "El art. 39 define el circuito como subdivisión de la sección, no de la provincia."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué garantía rige respecto del domicilio y la correspondencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pueden revisarse con orden de cualquier funcionario público",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material exige orden de un juez, no de cualquier funcionario."
+        },
+        {
+          "letra": "B",
+          "texto": "Pueden ser revisados por cualquier autoridad sin restricciones",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material los declara inviolables, salvo orden de un juez."
+        },
+        {
+          "letra": "C",
+          "texto": "Son inviolables y nadie puede revisarlos sin orden de un juez",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el domicilio y la correspondencia son inviolables y nadie puede revisarlos sin orden de un juez."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo el domicilio es inviolable, no la correspondencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material declara inviolables tanto el domicilio como la correspondencia."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿qué comprende el derecho a la estabilidad del personal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Percibir un adicional vitalicio",
+          "correcta": false,
+          "explicacion": "El art. 17 no prevé un adicional vitalicio dentro de la estabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Conservar la misma dependencia física de trabajo",
+          "correcta": false,
+          "explicacion": "La estabilidad no garantiza una dependencia física determinada; la movilidad es atribución del empleador (art. 15)."
+        },
+        {
+          "letra": "C",
+          "texto": "Conservar el empleo, el nivel y el grado de la carrera alcanzado",
+          "correcta": true,
+          "explicacion": "El art. 17 establece que el personal con estabilidad tiene derecho a conservar el empleo, el nivel y el grado de la carrera alcanzado."
+        },
+        {
+          "letra": "D",
+          "texto": "Mantener el mismo superior jerárquico",
+          "correcta": false,
+          "explicacion": "La ley no garantiza la conservación del superior jerárquico."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿cuál es el deber del elector en materia de voto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Votar únicamente en las elecciones presidenciales",
+          "correcta": false,
+          "explicacion": "El art. 12 abarca toda elección nacional en su distrito, no solo las presidenciales."
+        },
+        {
+          "letra": "B",
+          "texto": "Votar en la elección nacional que se realice en su distrito",
+          "correcta": true,
+          "explicacion": "El art. 12 establece que todo elector tiene el deber de votar en la elección nacional que se realice en su distrito."
+        },
+        {
+          "letra": "C",
+          "texto": "Votar en cualquier mesa del país",
+          "correcta": false,
+          "explicacion": "El art. 12 vincula el deber a la elección que se realice en su distrito; el voto se emite en la mesa donde está inscripto."
+        },
+        {
+          "letra": "D",
+          "texto": "Votar solo si así lo decide voluntariamente",
+          "correcta": false,
+          "explicacion": "El art. 12 establece un deber, no una mera facultad."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué forma de gobierno adopta nuestra Constitución Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Representativa, republicana y federal",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que la forma de gobierno es 'Representativa, republicana y federal'."
+        },
+        {
+          "letra": "B",
+          "texto": "Representativa, presidencialista y unitaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El sistema es federal, no unitario, según el material."
+        },
+        {
+          "letra": "C",
+          "texto": "Parlamentaria, republicana y federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material describe forma representativa, no parlamentaria."
+        },
+        {
+          "letra": "D",
+          "texto": "Democrática, popular y federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona esta combinación; la fórmula es representativa, republicana y federal."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, la suspensión preventiva del personal sumariado no podrá extenderse por más de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Doce (12) meses desde la iniciación del sumario",
+          "correcta": false,
+          "explicacion": "El máximo de suspensión preventiva es de tres meses."
+        },
+        {
+          "letra": "B",
+          "texto": "Seis (6) meses desde la iniciación del sumario",
+          "correcta": false,
+          "explicacion": "El art. 36 fija tres meses; los seis meses son el límite para resolver el sumario (art. 38)."
+        },
+        {
+          "letra": "C",
+          "texto": "Un (1) mes desde la iniciación del sumario",
+          "correcta": false,
+          "explicacion": "El plazo del art. 36 no es de un mes."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres (3) meses desde la fecha de iniciación del sumario",
+          "correcta": true,
+          "explicacion": "El art. 36 establece que la suspensión preventiva no podrá extenderse en ningún caso por más de tres meses desde la fecha de iniciación del sumario."
+        }
+      ]
+    }
+  ]
+}

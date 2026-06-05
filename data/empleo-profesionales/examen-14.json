@@ -1,0 +1,789 @@
+{
+  "examen_id": 14,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Configurar la privacidad de un perfil permite elegir quién ve tus publicaciones. Con un perfil privado, solo tus contactos aprobados pueden verlas. Esto reduce la exposición de tu información.",
+      "enunciado": "Según el texto, ¿qué permite un perfil privado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se borren los mensajes solos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el borrado de mensajes."
+        },
+        {
+          "letra": "B",
+          "texto": "Que cualquiera comente tus fotos.",
+          "correcta": false,
+          "explicacion": "El texto indica lo contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el teléfono funcione más rápido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la velocidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Que solo tus contactos aprobados vean tus publicaciones.",
+          "correcta": true,
+          "explicacion": "El texto dice que con perfil privado solo los contactos aprobados ven las publicaciones."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El buzón de trámites de la entrada se habilita para recibir notas fuera del horario de atención. Lo depositado allí se registra a primera hora del día hábil siguiente.",
+      "enunciado": "¿Cuándo se registra lo depositado en el buzón de trámites?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el mismo momento del depósito.",
+          "correcta": false,
+          "explicacion": "El registro ocurre al día hábil siguiente, no en el momento."
+        },
+        {
+          "letra": "B",
+          "texto": "Al cabo de una semana.",
+          "correcta": false,
+          "explicacion": "El texto menciona el día hábil siguiente, no una semana."
+        },
+        {
+          "letra": "C",
+          "texto": "A primera hora del día hábil siguiente.",
+          "correcta": true,
+          "explicacion": "El texto dice que se registra a primera hora del día hábil siguiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo los días lunes.",
+          "correcta": false,
+          "explicacion": "El texto no limita el registro a los lunes."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El glaciar Perito Moreno se encuentra en la provincia de Santa Cruz. Es una enorme masa de hielo que avanza muy lentamente. De vez en cuando, grandes bloques se desprenden y caen al agua con un fuerte estruendo.",
+      "enunciado": "Según el texto, ¿qué sucede a veces con los bloques del glaciar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se transforman en niebla espesa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona niebla."
+        },
+        {
+          "letra": "B",
+          "texto": "Se derriten por completo en verano.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que el glaciar se derrita por completo."
+        },
+        {
+          "letra": "C",
+          "texto": "Se desprenden y caen al agua con estruendo.",
+          "correcta": true,
+          "explicacion": "El texto dice que grandes bloques se desprenden y caen al agua con un fuerte estruendo."
+        },
+        {
+          "letra": "D",
+          "texto": "Cambian de color durante la noche.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cambios de color."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Beber agua en lugar de bebidas azucaradas ayuda a cuidar la salud. Las gaseosas y los jugos comerciales suelen contener mucha azúcar. Elegir agua es una forma sencilla de reducir el consumo de azúcar.",
+      "enunciado": "De acuerdo con el texto, ¿qué conviene elegir para reducir el azúcar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Gaseosas",
+          "correcta": false,
+          "explicacion": "El texto señala que las gaseosas tienen mucha azúcar."
+        },
+        {
+          "letra": "B",
+          "texto": "Bebidas azucaradas en general",
+          "correcta": false,
+          "explicacion": "El texto propone reemplazarlas por agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Agua",
+          "correcta": true,
+          "explicacion": "El texto dice que elegir agua es una forma sencilla de reducir el azúcar."
+        },
+        {
+          "letra": "D",
+          "texto": "Jugos comerciales",
+          "correcta": false,
+          "explicacion": "El texto los incluye entre las bebidas con mucha azúcar."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El protector solar protege la piel del sol y debe aplicarse incluso en días nublados. La radiación atraviesa las nubes, así que el cuidado no es solo para los días soleados. Conviene reaplicarlo cada cierto tiempo si pasamos muchas horas al aire libre.",
+      "enunciado": "Según el texto, ¿por qué hay que usar protector solar en días nublados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque reemplaza al agua",
+          "correcta": false,
+          "explicacion": "El texto no compara el protector con el agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque la radiación atraviesa las nubes",
+          "correcta": true,
+          "explicacion": "El texto explica que la radiación atraviesa las nubes."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque hace que la piel se seque más rápido",
+          "correcta": false,
+          "explicacion": "El texto no menciona ese efecto."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque las nubes aumentan la sed",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las nubes con la sed."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La cartelera informativa se actualiza todos los lunes. Los avisos vencidos se retiran ese mismo día para evitar confusiones con la información vigente.",
+      "enunciado": "¿Con qué frecuencia se actualiza la cartelera informativa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los días.",
+          "correcta": false,
+          "explicacion": "El texto especifica los lunes, no todos los días."
+        },
+        {
+          "letra": "B",
+          "texto": "Una vez por mes.",
+          "correcta": false,
+          "explicacion": "El texto menciona una actualización semanal, no mensual."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada quince días.",
+          "correcta": false,
+          "explicacion": "El texto no menciona una frecuencia quincenal."
+        },
+        {
+          "letra": "D",
+          "texto": "Todos los lunes.",
+          "correcta": true,
+          "explicacion": "El texto indica que la cartelera se actualiza todos los lunes."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando una persona presencia un accidente, puede ayudar llamando a los servicios de emergencia. Es importante dar la ubicación exacta y describir lo ocurrido. La rapidez en avisar puede salvar vidas.",
+      "enunciado": "Según el texto, ¿qué es importante informar al llamar a los servicios de emergencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El precio de los vehículos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el precio de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "El nombre de los autos involucrados.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el nombre de los autos."
+        },
+        {
+          "letra": "C",
+          "texto": "La ubicación exacta y lo ocurrido.",
+          "correcta": true,
+          "explicacion": "El texto indica dar la ubicación exacta y describir lo ocurrido."
+        },
+        {
+          "letra": "D",
+          "texto": "La hora en que sale el sol.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la hora del amanecer."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El trabajo prolongado frente a la computadora puede causar molestias en la vista y la espalda. Hacer pausas, ajustar la silla y la altura de la pantalla ayuda a prevenir estas molestias.",
+      "enunciado": "Según el texto, ¿qué ayuda a prevenir las molestias frente a la computadora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apagar la luz del ambiente",
+          "correcta": false,
+          "explicacion": "El texto no menciona apagar la luz."
+        },
+        {
+          "letra": "B",
+          "texto": "Hacer pausas y ajustar la silla y la pantalla",
+          "correcta": true,
+          "explicacion": "El texto recomienda pausas y ajustar silla y altura de pantalla."
+        },
+        {
+          "letra": "C",
+          "texto": "Trabajar sin descanso",
+          "correcta": false,
+          "explicacion": "El texto recomienda pausas, no trabajar sin descanso."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumentar el volumen del equipo",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el volumen con las molestias."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 760 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "625",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "645",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "635",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 760 − 125 = 635."
+        },
+        {
+          "letra": "D",
+          "texto": "885",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 200 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "350",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 200 + 160 = 360."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "25",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "20",
+          "correcta": true,
+          "explicacion": "El 25 % de 80 se calcula 25 ÷ 100 × 80 = 20."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuántas horas hay en 2 días completos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "48",
+          "correcta": true,
+          "explicacion": "Cada día tiene 24 horas: 2 × 24 = 48."
+        },
+        {
+          "letra": "C",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 800?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "245",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "El 30 % de 800 se calcula 30 ÷ 100 × 800 = 240."
+        },
+        {
+          "letra": "D",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 360 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 360 + 120 = 480."
+        },
+        {
+          "letra": "C",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 480 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "220",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 480 − 260 = 220."
+        },
+        {
+          "letra": "B",
+          "texto": "230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "210",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "740",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 220?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "21",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "11",
+          "correcta": true,
+          "explicacion": "El 5 % de 220 se calcula 5 ÷ 100 × 220 = 11."
+        },
+        {
+          "letra": "C",
+          "texto": "22",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "16",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿De quién depende la Sindicatura General de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De la Jefatura de Gabinete de Ministros",
+          "correcta": false,
+          "explicacion": "El art. 97 establece la dependencia del Presidente de la Nación, no de la Jefatura de Gabinete."
+        },
+        {
+          "letra": "B",
+          "texto": "Del Ministerio de Economía",
+          "correcta": false,
+          "explicacion": "El art. 97 dispone que la Sindicatura depende del Presidente de la Nación, no del Ministerio de Economía."
+        },
+        {
+          "letra": "C",
+          "texto": "Del Presidente de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 97 establece que la Sindicatura General de la Nación depende del Presidente de la Nación."
+        },
+        {
+          "letra": "D",
+          "texto": "Del Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "Del Congreso depende la Auditoría General de la Nación (art. 116), no la Sindicatura."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cuánto dura en su cargo el Presidente de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "4 años",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que dura 4 años en su cargo."
+        },
+        {
+          "letra": "B",
+          "texto": "8 años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material establece 4 años de mandato."
+        },
+        {
+          "letra": "C",
+          "texto": "5 años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material establece 4 años, no 5."
+        },
+        {
+          "letra": "D",
+          "texto": "6 años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material establece 4 años para el Presidente."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿qué plazo de prescripción corresponde a las causales que dan lugar a la exoneración?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un (1) año",
+          "correcta": false,
+          "explicacion": "Un año corresponde a apercibimiento y suspensión (art. 37 inc. a)."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos (2) años",
+          "correcta": false,
+          "explicacion": "Dos años corresponde a la cesantía (art. 37 inc. b)."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuatro (4) años",
+          "correcta": true,
+          "explicacion": "El art. 37 inc. c) fija un plazo de prescripción de cuatro años para las causales que dan lugar a la exoneración."
+        },
+        {
+          "letra": "D",
+          "texto": "Seis (6) años",
+          "correcta": false,
+          "explicacion": "El art. 37 no prevé un plazo de seis años."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material de Derecho Fácil sobre silencio, si las normas no establecen un plazo específico para responder, la Administración tendrá para pronunciarse un plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45 días",
+          "correcta": false,
+          "explicacion": "El material indica 60 días, no 45, como plazo supletorio para pronunciarse."
+        },
+        {
+          "letra": "B",
+          "texto": "90 días",
+          "correcta": false,
+          "explicacion": "El plazo supletorio es de 60 días, no de 90."
+        },
+        {
+          "letra": "C",
+          "texto": "60 días",
+          "correcta": true,
+          "explicacion": "El material señala que, si las normas no establecen plazo específico, la Administración tendrá 60 días para pronunciarse, en línea con el art. 10 de la Ley 19.549."
+        },
+        {
+          "letra": "D",
+          "texto": "30 días",
+          "correcta": false,
+          "explicacion": "El plazo supletorio para pronunciarse no es de 30 días."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿quién tiene derecho a impugnar el voto del compareciente por falseamiento de identidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo el apoderado general del partido",
+          "correcta": false,
+          "explicacion": "El art. 91 habilita al presidente y a los fiscales de mesa para impugnar la identidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier elector presente en el local",
+          "correcta": false,
+          "explicacion": "El art. 91 reconoce el derecho a impugnar al presidente y a los fiscales, no a cualquier elector."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente el juez electoral",
+          "correcta": false,
+          "explicacion": "El art. 91 atribuye esa facultad al presidente y a los fiscales, no al juez."
+        },
+        {
+          "letra": "D",
+          "texto": "El presidente de mesa y los fiscales de los partidos",
+          "correcta": true,
+          "explicacion": "El art. 91 establece que el presidente y los fiscales tienen derecho a impugnar el voto del compareciente cuando a su juicio hubiere falseado su identidad."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿cómo deben votar los electores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En la mesa más cercana a su domicilio el día del comicio",
+          "correcta": false,
+          "explicacion": "El art. 86 obliga a votar en la mesa de su lista, no en la más cercana."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier mesa del circuito al que pertenezcan",
+          "correcta": false,
+          "explicacion": "El art. 86 exige votar en la mesa donde figura asentado el elector, no en cualquiera del circuito."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente en la mesa receptora en cuya lista figuren asentados y con su documento cívico habilitante",
+          "correcta": true,
+          "explicacion": "El art. 86 establece que los electores podrán votar únicamente en la mesa en cuya lista figuren asentados y con el documento cívico habilitante."
+        },
+        {
+          "letra": "D",
+          "texto": "En cualquier mesa exhibiendo una constancia de domicilio",
+          "correcta": false,
+          "explicacion": "El art. 86 requiere votar en la mesa de inscripción con el documento cívico habilitante."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿en cuáles regímenes puede revistar el personal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Planta permanente, pasantías o becas",
+          "correcta": false,
+          "explicacion": "La ley no enumera pasantías ni becas como regímenes del art. 7."
+        },
+        {
+          "letra": "B",
+          "texto": "Estabilidad, contrataciones o personal de gabinete",
+          "correcta": true,
+          "explicacion": "El art. 7 establece que el personal podrá revistar en el régimen de estabilidad, de contrataciones o como personal de gabinete de las autoridades superiores."
+        },
+        {
+          "letra": "C",
+          "texto": "Carrera, jerárquico o político",
+          "correcta": false,
+          "explicacion": "Esa no es la clasificación que establece el art. 7."
+        },
+        {
+          "letra": "D",
+          "texto": "Permanente, transitorio o eventual",
+          "correcta": false,
+          "explicacion": "El art. 7 no usa esa terminología para los regímenes del personal."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de contratos con el Estado, entre los mecanismos a aplicar con intervención de la Oficina Anticorrupción y la SIGEN se incluye:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La celebración de pactos de integridad",
+          "correcta": true,
+          "explicacion": "El régimen menciona, entre los mecanismos, la celebración de pactos de integridad, junto con testigos sociales, veeduría especial y audiencias públicas."
+        },
+        {
+          "letra": "B",
+          "texto": "La intervención del organismo contratante",
+          "correcta": false,
+          "explicacion": "Ese no es uno de los mecanismos enumerados en el régimen."
+        },
+        {
+          "letra": "C",
+          "texto": "La suspensión automática de toda contratación del organismo",
+          "correcta": false,
+          "explicacion": "El régimen no prevé una suspensión general; enumera pactos de integridad, testigos sociales, veeduría y audiencias públicas."
+        },
+        {
+          "letra": "D",
+          "texto": "La designación de un interventor judicial",
+          "correcta": false,
+          "explicacion": "Ese mecanismo no está previsto en el régimen, que sí incluye pactos de integridad."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿quién designa a los apoderados de los partidos políticos ante las juntas electorales?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Cámara Nacional Electoral",
+          "correcta": false,
+          "explicacion": "El art. 55 atribuye la designación a los partidos, no a la Cámara Nacional Electoral."
+        },
+        {
+          "letra": "B",
+          "texto": "Las juntas electorales",
+          "correcta": false,
+          "explicacion": "El art. 55 deja la designación en manos de los partidos políticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los jueces electorales",
+          "correcta": false,
+          "explicacion": "Los jueces remiten la nómina, pero la designación la hacen los partidos (art. 55)."
+        },
+        {
+          "letra": "D",
+          "texto": "Los propios partidos políticos",
+          "correcta": true,
+          "explicacion": "El art. 55 establece que los partidos solo podrán designar un apoderado general por cada distrito y un suplente."
+        }
+      ]
+    }
+  ]
+}

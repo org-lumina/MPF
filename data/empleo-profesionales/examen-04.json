@@ -1,0 +1,789 @@
+{
+  "examen_id": 4,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cardón es un cacto que crece en el noroeste argentino. Puede alcanzar varios metros de altura y resiste muy bien la falta de agua. Sus brazos espinosos forman parte del paisaje de los valles.",
+      "enunciado": "Completá la oración según el texto: El cardón resiste muy bien la falta de _____.",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "luz.",
+          "correcta": false,
+          "explicacion": "El texto habla de la falta de agua, no de luz."
+        },
+        {
+          "letra": "B",
+          "texto": "calor.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la falta de calor."
+        },
+        {
+          "letra": "C",
+          "texto": "agua.",
+          "correcta": true,
+          "explicacion": "El texto dice que el cardón resiste muy bien la falta de agua."
+        },
+        {
+          "letra": "D",
+          "texto": "viento.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el viento."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las baterías de los autos y de algunos aparatos contienen materiales que requieren un tratamiento especial. Si se desechan junto con la basura común, pueden liberar sustancias dañinas. Por eso deben entregarse en sitios autorizados para su reciclaje.",
+      "enunciado": "Según el texto, ¿dónde deben entregarse las baterías para su reciclaje?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el patio de la casa.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere dejarlas en el patio."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier tacho de basura común.",
+          "correcta": false,
+          "explicacion": "El texto advierte que no deben ir a la basura común."
+        },
+        {
+          "letra": "C",
+          "texto": "En sitios autorizados.",
+          "correcta": true,
+          "explicacion": "El texto dice que deben entregarse en sitios autorizados para su reciclaje."
+        },
+        {
+          "letra": "D",
+          "texto": "En el desagüe de la calle.",
+          "correcta": false,
+          "explicacion": "El texto no propone arrojarlas al desagüe."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El búho es un ave que caza de noche. Tiene ojos muy grandes que le permiten ver bien con poca luz. Además, vuela en silencio para sorprender a sus presas.",
+      "enunciado": "Según el texto, ¿por qué el búho ve bien de noche?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque produce su propia luz.",
+          "correcta": false,
+          "explicacion": "El texto no dice que produzca luz."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque vuela muy alto.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona ver de noche con volar alto."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque tiene ojos muy grandes.",
+          "correcta": true,
+          "explicacion": "El texto dice que sus ojos grandes le permiten ver bien con poca luz."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque tiene oídos muy finos.",
+          "correcta": false,
+          "explicacion": "El texto menciona los ojos, no los oídos, para ver."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cable del aparato no debe pasar por debajo de alfombras ni quedar atrapado por muebles pesados. La presión constante puede pelar el recubrimiento y dejar los conductores al descubierto.",
+      "enunciado": "Según el texto, ¿por dónde no debe pasar el cable del aparato?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por encima de la mesada.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la mesada."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el borde de la pared.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el borde de la pared."
+        },
+        {
+          "letra": "C",
+          "texto": "Por debajo de alfombras.",
+          "correcta": true,
+          "explicacion": "El texto indica que el cable no debe pasar por debajo de alfombras."
+        },
+        {
+          "letra": "D",
+          "texto": "Junto al enchufe.",
+          "correcta": false,
+          "explicacion": "El texto no prohíbe que esté junto al enchufe."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Lavar el auto con un balde y una esponja gasta mucha menos agua que hacerlo con la manguera abierta. La manguera deja correr el agua de manera continua, mientras que con el balde se usa solo la necesaria. Es un cambio simple que ahorra muchos litros.",
+      "enunciado": "Según el texto, ¿por qué conviene lavar el auto con balde en lugar de manguera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el balde lava más rápido.",
+          "correcta": false,
+          "explicacion": "El texto se refiere al ahorro de agua, no a la rapidez."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque gasta mucha menos agua.",
+          "correcta": true,
+          "explicacion": "El texto afirma que el balde gasta mucha menos agua que la manguera abierta."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque deja el auto más brillante.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el brillo del auto."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque la manguera contamina el agua.",
+          "correcta": false,
+          "explicacion": "El texto no habla de contaminación del agua."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El manual recomienda no manipular el enchufe con las manos mojadas. La humedad reduce la resistencia de la piel y facilita el paso de la corriente, lo que aumenta el riesgo de electrocución.",
+      "enunciado": "Según el texto, ¿por qué no hay que tocar el enchufe con las manos mojadas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque se ensucia el enchufe.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la suciedad del enchufe."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el aparato se apaga.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el apagado del aparato."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque aumenta el riesgo de electrocución.",
+          "correcta": true,
+          "explicacion": "El texto dice que la humedad facilita el paso de la corriente y aumenta ese riesgo."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque consume más energía.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el consumo de energía."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Realizar actividad física de forma regular ayuda a mantener un peso saludable y mejora el ánimo. No es necesario ser un deportista experto: lo importante es moverse seguido. Encontrar una actividad que guste hace más fácil mantener la costumbre.",
+      "enunciado": "Según el texto, ¿qué hace más fácil mantener la costumbre de moverse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacer ejercicio una sola vez al año",
+          "correcta": false,
+          "explicacion": "El texto recomienda moverse seguido."
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar todo tipo de movimiento",
+          "correcta": false,
+          "explicacion": "El texto promueve la actividad física."
+        },
+        {
+          "letra": "C",
+          "texto": "Encontrar una actividad que guste",
+          "correcta": true,
+          "explicacion": "El texto dice que hallar una actividad que guste facilita mantener la costumbre."
+        },
+        {
+          "letra": "D",
+          "texto": "Ser un deportista experto",
+          "correcta": false,
+          "explicacion": "El texto aclara que no es necesario ser experto."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los matafuegos y las salidas de emergencia deben permanecer libres de obstáculos. Bloquearlos dificulta una evacuación rápida en caso de incendio. Mantener despejados estos elementos protege la seguridad de todos.",
+      "enunciado": "Según el texto, ¿por qué los matafuegos y las salidas de emergencia deben estar libres?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para evitar el ruido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "B",
+          "texto": "Para no dificultar una evacuación rápida en caso de incendio.",
+          "correcta": true,
+          "explicacion": "El texto dice que bloquearlos dificulta la evacuación ante un incendio."
+        },
+        {
+          "letra": "C",
+          "texto": "Para ahorrar electricidad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la electricidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Para que se vean más bonitos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la estética."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 240?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "12",
+          "correcta": true,
+          "explicacion": "El 5 % de 240 se calcula 5 ÷ 100 × 240 = 12."
+        },
+        {
+          "letra": "B",
+          "texto": "17",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "22",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 180 hojas en partes iguales entre 5 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "31",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "36",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 180 ÷ 5 = 36."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 740 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 740 − 260 = 480."
+        },
+        {
+          "letra": "B",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "1.000",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 580?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "290",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "155",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "145",
+          "correcta": true,
+          "explicacion": "El 25 % de 580 se calcula 25 ÷ 100 × 580 = 145."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 880?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "44",
+          "correcta": true,
+          "explicacion": "El 5 % de 880 se calcula 5 ÷ 100 × 880 = 44."
+        },
+        {
+          "letra": "B",
+          "texto": "54",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "49",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "88",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 60 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "140",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 60 + 80 = 140."
+        },
+        {
+          "letra": "D",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 700 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "735",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "665",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 700 − 35 = 665."
+        },
+        {
+          "letra": "C",
+          "texto": "675",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "655",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 340?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "136",
+          "correcta": true,
+          "explicacion": "El 40 % de 340 se calcula 40 ÷ 100 × 340 = 136."
+        },
+        {
+          "letra": "B",
+          "texto": "141",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "146",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "272",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, el personal de gabinete cesa en sus funciones:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al cumplir doce meses de servicio",
+          "correcta": false,
+          "explicacion": "No existe un plazo de doce meses para el cese del personal de gabinete."
+        },
+        {
+          "letra": "B",
+          "texto": "Simultáneamente con la autoridad cuyo gabinete integra",
+          "correcta": true,
+          "explicacion": "El art. 10 dispone que el personal cesa simultáneamente con la autoridad cuyo gabinete integra y su designación puede cancelarse en cualquier momento."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando adquiere la estabilidad",
+          "correcta": false,
+          "explicacion": "El personal de gabinete no adquiere estabilidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo mediante sumario administrativo",
+          "correcta": false,
+          "explicacion": "El cese no requiere sumario; opera con el cese de la autoridad."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 7 de la Ley 19.549, el objeto del acto administrativo debe ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cierto, física y jurídicamente posible",
+          "correcta": true,
+          "explicacion": "El art. 7, inc. c) exige que el objeto sea cierto, física y jurídicamente posible y decida todas las peticiones formuladas."
+        },
+        {
+          "letra": "B",
+          "texto": "Genérico y abierto a interpretación",
+          "correcta": false,
+          "explicacion": "El objeto debe ser cierto, no genérico ni abierto, según el art. 7, inc. c)."
+        },
+        {
+          "letra": "C",
+          "texto": "Incierto pero conveniente",
+          "correcta": false,
+          "explicacion": "El objeto debe ser cierto, no incierto, conforme al art. 7, inc. c)."
+        },
+        {
+          "letra": "D",
+          "texto": "Reservado y de carácter secreto",
+          "correcta": false,
+          "explicacion": "El carácter reservado no es un requisito del objeto; éste debe ser cierto y posible."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, la movilidad por adscripción a otro poder del Estado no podrá exceder de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Trescientos sesenta y cinco (365) días corridos",
+          "correcta": true,
+          "explicacion": "El art. 15 establece que la adscripción no podrá exceder los trescientos sesenta y cinco (365) días corridos, salvo excepción fundada."
+        },
+        {
+          "letra": "B",
+          "texto": "Noventa (90) días corridos",
+          "correcta": false,
+          "explicacion": "El art. 15 fija 365 días, no 90."
+        },
+        {
+          "letra": "C",
+          "texto": "Setecientos treinta (730) días corridos",
+          "correcta": false,
+          "explicacion": "El plazo máximo de adscripción es de 365 días corridos."
+        },
+        {
+          "letra": "D",
+          "texto": "Ciento ochenta (180) días corridos",
+          "correcta": false,
+          "explicacion": "El plazo del art. 15 no es de 180 días."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 14 de la Ley 19.549, cuando el acto es dictado con incompetencia en razón del grado por una autoridad distinta dentro de una misma esfera de competencias, la nulidad, por regla, es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Absoluta e insanable",
+          "correcta": false,
+          "explicacion": "La incompetencia en razón del grado, por regla, genera nulidad relativa, no absoluta, salvo competencias excluyentes asignadas por ley."
+        },
+        {
+          "letra": "B",
+          "texto": "Inexistente",
+          "correcta": false,
+          "explicacion": "La incompetencia en razón del grado no torna inexistente al acto; genera nulidad relativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Relativa",
+          "correcta": true,
+          "explicacion": "El art. 14, inc. b) (i) prevé que en la incompetencia en razón del grado la nulidad es relativa, salvo competencias excluyentes asignadas por ley en virtud de una idoneidad especial."
+        },
+        {
+          "letra": "D",
+          "texto": "Provisoria",
+          "correcta": false,
+          "explicacion": "La ley no contempla la nulidad provisoria; en este caso la nulidad es relativa."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 17 de la Ley 25.188, los actos alcanzados por los supuestos de los arts. 13, 14 y 15 serán:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anulables a pedido de parte interesada",
+          "correcta": false,
+          "explicacion": "El art. 17 los declara nulos de nulidad absoluta, no meramente anulables."
+        },
+        {
+          "letra": "B",
+          "texto": "Nulos de nulidad absoluta, sin perjuicio de los derechos de terceros de buena fe",
+          "correcta": true,
+          "explicacion": "El art. 17 establece que esos actos serán nulos de nulidad absoluta, sin perjuicio de los derechos de terceros de buena fe."
+        },
+        {
+          "letra": "C",
+          "texto": "Válidos pero pasibles de revisión administrativa",
+          "correcta": false,
+          "explicacion": "El art. 17 dispone nulidad absoluta, no validez con revisión."
+        },
+        {
+          "letra": "D",
+          "texto": "Suspendidos hasta su ratificación por el superior",
+          "correcta": false,
+          "explicacion": "El art. 17 los considera nulos de nulidad absoluta, no suspendidos."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿a qué hora declara el presidente abierto el acto electoral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A las siete (7:00) horas",
+          "correcta": false,
+          "explicacion": "El art. 83 establece las ocho en punto para la apertura."
+        },
+        {
+          "letra": "B",
+          "texto": "A las siete y cuarenta y cinco (7:45) horas",
+          "correcta": false,
+          "explicacion": "A las 7:45 las autoridades deben estar presentes (art. 81); la apertura es a las ocho (art. 83)."
+        },
+        {
+          "letra": "C",
+          "texto": "A las nueve (9:00) horas",
+          "correcta": false,
+          "explicacion": "El art. 83 fija la apertura a las ocho en punto."
+        },
+        {
+          "letra": "D",
+          "texto": "A las ocho (8:00) horas en punto",
+          "correcta": true,
+          "explicacion": "El art. 83 establece que a la hora ocho en punto el presidente declarará abierto el acto electoral y labrará el acta pertinente."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿cuáles son las medidas disciplinarias previstas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apercibimiento, descuento, retrogradación y baja",
+          "correcta": false,
+          "explicacion": "El descuento y la retrogradación no son sanciones del art. 30."
+        },
+        {
+          "letra": "B",
+          "texto": "Suspensión, traslado, cesantía e inhabilitación",
+          "correcta": false,
+          "explicacion": "El traslado y la inhabilitación no integran el catálogo del art. 30."
+        },
+        {
+          "letra": "C",
+          "texto": "Apercibimiento, suspensión, cesantía y exoneración",
+          "correcta": true,
+          "explicacion": "El art. 30 enumera como medidas disciplinarias el apercibimiento, la suspensión, la cesantía y la exoneración."
+        },
+        {
+          "letra": "D",
+          "texto": "Llamado de atención, multa, cesantía y exoneración",
+          "correcta": false,
+          "explicacion": "El llamado de atención y la multa no figuran en el art. 30."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, el listado de infractores al deber de votar comprende a los electores de cierta franja etaria. ¿Cuál es?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mayores de veintiún (21) y menores de setenta y cinco (75) años",
+          "correcta": false,
+          "explicacion": "El art. 18 establece dieciocho y setenta años como límites."
+        },
+        {
+          "letra": "B",
+          "texto": "Mayores de dieciséis (16) y menores de sesenta y cinco (65) años",
+          "correcta": false,
+          "explicacion": "El art. 18 fija la franja entre dieciocho y setenta años, no esta."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayores de dieciocho (18) y menores de setenta (70) años",
+          "correcta": true,
+          "explicacion": "El art. 18 establece que el listado abarca a los electores mayores de dieciocho y menores de setenta años de edad."
+        },
+        {
+          "letra": "D",
+          "texto": "Todos los electores sin distinción de edad",
+          "correcta": false,
+          "explicacion": "El art. 18 restringe el listado a la franja de dieciocho a setenta años."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 15 de la Ley 19.549, el acto administrativo es de nulidad relativa y solo anulable en sede judicial cuando:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fue emitido con incompetencia en razón de la materia",
+          "correcta": false,
+          "explicacion": "La incompetencia en razón de la materia genera nulidad absoluta (art. 14), no relativa."
+        },
+        {
+          "letra": "B",
+          "texto": "Su objeto no es jurídicamente posible",
+          "correcta": false,
+          "explicacion": "El objeto no posible jurídicamente acarrea nulidad absoluta (art. 14), no relativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Presenta un defecto o vicio no previsto en el art. 14",
+          "correcta": true,
+          "explicacion": "El art. 15 dispone que el acto es de nulidad relativa, anulable en sede judicial, si presenta un defecto o vicio no previsto en el art. 14."
+        },
+        {
+          "letra": "D",
+          "texto": "Carece de causa por hechos falsos",
+          "correcta": false,
+          "explicacion": "La carencia de causa por hechos falsos es supuesto de nulidad absoluta (art. 14), no de nulidad relativa."
+        }
+      ]
+    }
+  ]
+}

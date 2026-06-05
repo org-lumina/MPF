@@ -1,0 +1,794 @@
+{
+  "examen_id": 15,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Un gestor de contraseñas guarda todas tus claves de forma cifrada. Solo necesitás recordar una contraseña maestra para acceder a ellas. Así podés usar claves distintas y seguras en cada sitio.",
+      "enunciado": "Según el texto, ¿qué necesitás recordar para usar un gestor de contraseñas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El número de teléfono del banco.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el banco."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas las claves de memoria.",
+          "correcta": false,
+          "explicacion": "El texto dice que solo se recuerda una clave maestra."
+        },
+        {
+          "letra": "C",
+          "texto": "Una contraseña maestra.",
+          "correcta": true,
+          "explicacion": "El texto dice que solo hace falta recordar una contraseña maestra."
+        },
+        {
+          "letra": "D",
+          "texto": "El modelo del dispositivo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el modelo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se solicita a los agentes mantener el escritorio ordenado al finalizar la jornada. Los expedientes en trámite deben guardarse bajo llave y no pueden quedar a la vista durante la noche.",
+      "enunciado": "Según la circular, ¿cómo deben quedar los expedientes al terminar la jornada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entregados a la Dirección cada noche.",
+          "correcta": false,
+          "explicacion": "El texto no menciona entregarlos a la Dirección."
+        },
+        {
+          "letra": "B",
+          "texto": "Apilados sobre el escritorio.",
+          "correcta": false,
+          "explicacion": "El texto pide ordenar el escritorio, no apilarlos a la vista."
+        },
+        {
+          "letra": "C",
+          "texto": "Llevados al domicilio del agente.",
+          "correcta": false,
+          "explicacion": "El texto no autoriza llevar expedientes al domicilio."
+        },
+        {
+          "letra": "D",
+          "texto": "Guardados bajo llave y fuera de la vista.",
+          "correcta": true,
+          "explicacion": "El texto pide guardar los expedientes bajo llave, no a la vista durante la noche."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de tirar o vender un teléfono viejo, conviene borrar toda la información. Si no lo hacés, otra persona podría ver tus fotos y mensajes. Una forma de hacerlo es restablecerlo de fábrica.",
+      "enunciado": "Según el texto, ¿qué conviene hacer antes de vender un teléfono viejo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambiarle la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la pantalla."
+        },
+        {
+          "letra": "B",
+          "texto": "Dejar las fotos para que el nuevo dueño las vea.",
+          "correcta": false,
+          "explicacion": "El texto advierte justamente sobre ese riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "Borrar toda la información, por ejemplo restableciéndolo de fábrica.",
+          "correcta": true,
+          "explicacion": "El texto recomienda borrar la información y menciona el restablecimiento de fábrica."
+        },
+        {
+          "letra": "D",
+          "texto": "Cargar la batería al máximo.",
+          "correcta": false,
+          "explicacion": "El texto no habla de la batería."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Al circular en zonas escolares, los conductores deben extremar la precaución. En esos lugares es habitual la presencia de niños que cruzan la calle. Reducir la velocidad ayuda a evitar accidentes.",
+      "enunciado": "Según el texto, ¿por qué los conductores deben extremar la precaución en zonas escolares?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el camino es de tierra.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el tipo de camino."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la presencia de niños que cruzan la calle.",
+          "correcta": true,
+          "explicacion": "El texto menciona la habitual presencia de niños cruzando."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque hay más semáforos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cantidad de semáforos."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque las calles están cortadas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona calles cortadas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El imán es un objeto capaz de atraer ciertos metales, como el hierro. Sus dos extremos se llaman polos. Si acercamos dos imanes por polos iguales, en lugar de atraerse, se rechazan.",
+      "enunciado": "Según el texto, ¿qué ocurre si acercamos dos imanes por polos iguales?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se atraen con mucha fuerza.",
+          "correcta": false,
+          "explicacion": "El texto dice que por polos iguales se rechazan."
+        },
+        {
+          "letra": "B",
+          "texto": "Se rechazan.",
+          "correcta": true,
+          "explicacion": "El texto afirma que por polos iguales los imanes se rechazan."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambian de color.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cambios de color."
+        },
+        {
+          "letra": "D",
+          "texto": "Se quedan totalmente quietos.",
+          "correcta": false,
+          "explicacion": "El texto dice que se rechazan, no que queden quietos."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La balanza de cocina debe colocarse sobre una superficie plana antes de encenderla. Encienda el equipo sin nada sobre el plato y espere a que la pantalla marque cero antes de pesar los alimentos.",
+      "enunciado": "Según el texto, ¿qué debe marcar la pantalla antes de pesar los alimentos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La fecha y la hora.",
+          "correcta": false,
+          "explicacion": "El texto no menciona fecha ni hora."
+        },
+        {
+          "letra": "B",
+          "texto": "La capacidad máxima.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la capacidad máxima en pantalla."
+        },
+        {
+          "letra": "C",
+          "texto": "El último peso registrado.",
+          "correcta": false,
+          "explicacion": "El texto pide que marque cero, no un peso previo."
+        },
+        {
+          "letra": "D",
+          "texto": "Cero.",
+          "correcta": true,
+          "explicacion": "El texto indica esperar a que la pantalla marque cero."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las publicaciones en redes sociales pueden quedar disponibles mucho tiempo. Incluso al borrarlas, otra persona podría haber sacado una captura. Por eso conviene pensar antes de publicar.",
+      "enunciado": "La idea principal del texto es que en redes sociales conviene:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Borrar la aplicación cada semana.",
+          "correcta": false,
+          "explicacion": "El texto no menciona borrar la aplicación."
+        },
+        {
+          "letra": "B",
+          "texto": "Pensar antes de publicar, porque el contenido puede quedar disponible.",
+          "correcta": true,
+          "explicacion": "El texto cierra con esa recomendación y explica que el contenido puede perdurar."
+        },
+        {
+          "letra": "C",
+          "texto": "Publicar todo rápido para tener más seguidores.",
+          "correcta": false,
+          "explicacion": "El texto aconseja prudencia, no publicar rápido."
+        },
+        {
+          "letra": "D",
+          "texto": "Compartir solo capturas de pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no recomienda eso."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El botiquín de primeros auxilios debe estar en un lugar accesible y conocido por todos. Es importante revisarlo con frecuencia para reponer los elementos usados y descartar los que estén vencidos.",
+      "enunciado": "Según el texto, ¿por qué hay que revisar el botiquín con frecuencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para reponer lo usado y descartar lo vencido",
+          "correcta": true,
+          "explicacion": "El texto dice que se revisa para reponer lo usado y descartar lo vencido."
+        },
+        {
+          "letra": "B",
+          "texto": "Para cambiarlo de lugar cada semana",
+          "correcta": false,
+          "explicacion": "El texto pide que sea accesible, no que se mueva cada semana."
+        },
+        {
+          "letra": "C",
+          "texto": "Para trasladarlo a un lugar más alto cada mes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Para reponer lo usado y descartar lo vencido»."
+        },
+        {
+          "letra": "D",
+          "texto": "Para esterilizar los envases plásticos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Para reponer lo usado y descartar lo vencido»."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de instalar una aplicación, conviene mirar las opiniones de otros usuarios. Muchas valoraciones negativas pueden ser una advertencia. También ayuda ver cuántas personas la descargaron.",
+      "enunciado": "Según el texto, ¿qué conviene mirar antes de instalar una aplicación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La hora del día.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la hora."
+        },
+        {
+          "letra": "B",
+          "texto": "Las opiniones de otros usuarios.",
+          "correcta": true,
+          "explicacion": "El texto recomienda mirar las opiniones de otros usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "El color del ícono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color del ícono."
+        },
+        {
+          "letra": "D",
+          "texto": "El nivel de batería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la batería."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Ante un corte que sangra, lo primero es lavarse las manos y luego presionar la herida con una gasa limpia. La presión sostenida ayuda a detener la hemorragia hasta que llegue la asistencia médica.",
+      "enunciado": "Según el texto, ¿qué ayuda a detener la hemorragia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejar la herida descubierta al aire",
+          "correcta": false,
+          "explicacion": "El texto recomienda presionar con gasa limpia, no dejarla descubierta."
+        },
+        {
+          "letra": "B",
+          "texto": "La presión sostenida sobre la herida",
+          "correcta": true,
+          "explicacion": "El texto afirma que la presión sostenida ayuda a detener la hemorragia."
+        },
+        {
+          "letra": "C",
+          "texto": "Frotar la zona con fuerza",
+          "correcta": false,
+          "explicacion": "Frotar no aparece en el texto y agravaría el sangrado."
+        },
+        {
+          "letra": "D",
+          "texto": "Soplar la herida para enfriarla",
+          "correcta": false,
+          "explicacion": "El texto no menciona soplar; indica presionar con una gasa."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El registro de visitantes es obligatorio en la portería. Cada visitante debe dejar un documento, recibir una credencial provisoria y devolverla al retirarse del edificio.",
+      "enunciado": "¿Qué debe hacer el visitante al retirarse del edificio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejar nuevamente su documento.",
+          "correcta": false,
+          "explicacion": "El documento se deja al ingresar, no al salir."
+        },
+        {
+          "letra": "B",
+          "texto": "Pagar una tasa de ingreso.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ninguna tasa."
+        },
+        {
+          "letra": "C",
+          "texto": "Devolver la credencial provisoria.",
+          "correcta": true,
+          "explicacion": "El texto indica que debe devolver la credencial al retirarse."
+        },
+        {
+          "letra": "D",
+          "texto": "Firmar un acta de salida ante la Dirección.",
+          "correcta": false,
+          "explicacion": "El texto no menciona acta de salida."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El uniforme o la credencial deben llevarse durante toda la jornada de atención. El personal sin identificación visible no podrá ubicarse en los puestos de contacto con el público.",
+      "enunciado": "¿Qué no podrá hacer el personal sin identificación visible?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ingresar al edificio.",
+          "correcta": false,
+          "explicacion": "El texto no prohíbe el ingreso, sino ubicarse en puestos de atención."
+        },
+        {
+          "letra": "B",
+          "texto": "Retirar las llaves de portería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona las llaves."
+        },
+        {
+          "letra": "C",
+          "texto": "Usar la fotocopiadora común.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la fotocopiadora."
+        },
+        {
+          "letra": "D",
+          "texto": "Ubicarse en los puestos de contacto con el público.",
+          "correcta": true,
+          "explicacion": "El texto dice que sin identificación no podrá ubicarse en los puestos de contacto con el público."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Muchas botellas de plástico pueden volver a usarse como macetas, portalápices o recipientes. Reutilizar objetos antes de tirarlos alarga su vida útil y disminuye la cantidad de basura. Esta es una forma sencilla de cuidar el ambiente desde casa.",
+      "enunciado": "Según el texto, ¿qué se logra al reutilizar objetos antes de tirarlos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se reduce el consumo de agua potable.",
+          "correcta": false,
+          "explicacion": "El texto habla de basura, no de agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Se fabrican nuevos envases de vidrio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la fabricación de envases."
+        },
+        {
+          "letra": "C",
+          "texto": "Se alarga su vida útil y disminuye la basura.",
+          "correcta": true,
+          "explicacion": "El texto dice que reutilizar alarga la vida útil y disminuye la cantidad de basura."
+        },
+        {
+          "letra": "D",
+          "texto": "Se aumenta el precio de los productos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona precios."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 660 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "740",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "590",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "580",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 660 − 80 = 580."
+        },
+        {
+          "letra": "D",
+          "texto": "570",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 800?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "85",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "80",
+          "correcta": true,
+          "explicacion": "El 10 % de 800 se calcula 10 ÷ 100 × 800 = 80."
+        },
+        {
+          "letra": "D",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 15 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 15 × 3 = 45."
+        },
+        {
+          "letra": "B",
+          "texto": "42",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "18",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 19 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "171",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 19 × 9 = 171."
+        },
+        {
+          "letra": "B",
+          "texto": "28",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "162",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 200 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "320",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 200 + 120 = 320."
+        },
+        {
+          "letra": "B",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "310",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 160 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "200",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 160 + 40 = 200."
+        },
+        {
+          "letra": "D",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 80 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "280",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 80 + 200 = 280."
+        },
+        {
+          "letra": "B",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 320 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "400",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 320 + 80 = 400."
+        },
+        {
+          "letra": "C",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 660?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "396",
+          "correcta": true,
+          "explicacion": "El 60 % de 660 se calcula 60 ÷ 100 × 660 = 396."
+        },
+        {
+          "letra": "B",
+          "texto": "406",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "792",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "401",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 11 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "19",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "88",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 11 × 8 = 88."
+        },
+        {
+          "letra": "C",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "99",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 620 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "700",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "550",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "530",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "540",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 620 − 80 = 540."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 220?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "110",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "65",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "55",
+          "correcta": true,
+          "explicacion": "El 25 % de 220 se calcula 25 ÷ 100 × 220 = 55."
+        }
+      ]
+    }
+  ]
+}

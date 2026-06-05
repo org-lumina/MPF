@@ -81,6 +81,16 @@ export default function HomeHub() {
           <div className="grid">
             <SimuladorMPFCard />
 
+            <article className="card card-sim sim-pink">
+              <span className="sim-badge"><span className="dot" /> DISPONIBLE</span>
+              <div className="sim-icon">
+                <svg viewBox="0 0 36 36" fill="none"><rect x="6" y="9" width="24" height="20" rx="2" stroke="#1C1B33" strokeWidth="3" /><path d="M13 9V6h10v3M6 17h24M18 17v12" stroke="#1C1B33" strokeWidth="3" strokeLinecap="round" /></svg>
+              </div>
+              <h3 className="sim-name">Sistema Nacional de Empleo Público</h3>
+              <p className="sim-desc">Dos módulos: Administrativos y Servicios Generales, y Profesionales.</p>
+              <Link href="/empleo" className="btn btn-sim">Ver módulos ▸</Link>
+            </article>
+
             <article className="card card-soon">
               <span className="soon-ribbon">PRÓXIMAMENTE</span>
               <div className="soon-body">
@@ -88,17 +98,6 @@ export default function HomeHub() {
                   <svg viewBox="0 0 36 36" fill="none"><path d="M5 28V14m7 14V9m7 19V16m7 12V6" stroke="#8A8472" strokeWidth="3" strokeLinecap="round" /><path d="M5 30h26" stroke="#8A8472" strokeWidth="3" strokeLinecap="round" /></svg>
                 </div>
                 <h3 className="soon-name">Comisión Nacional de Valores</h3>
-                <span className="soon-meta">🔔 Avisame cuando esté</span>
-              </div>
-            </article>
-
-            <article className="card card-soon">
-              <span className="soon-ribbon">PRÓXIMAMENTE</span>
-              <div className="soon-body">
-                <div className="soon-icon">
-                  <svg viewBox="0 0 36 36" fill="none"><rect x="6" y="9" width="24" height="20" rx="2" stroke="#8A8472" strokeWidth="3" /><path d="M13 9V6h10v3M6 17h24M18 17v12" stroke="#8A8472" strokeWidth="3" strokeLinecap="round" /></svg>
-                </div>
-                <h3 className="soon-name">Sistema Nacional de Empleo Público</h3>
                 <span className="soon-meta">🔔 Avisame cuando esté</span>
               </div>
             </article>

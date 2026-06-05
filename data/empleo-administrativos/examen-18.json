@@ -1,0 +1,794 @@
+{
+  "examen_id": 18,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El respeto por los espacios verdes es parte de la convivencia ciudadana. Pisar los canteros o arrancar las plantas daña el cuidado del lugar. Disfrutar de estos espacios sin deteriorarlos beneficia a toda la comunidad.",
+      "enunciado": "Según el texto, ¿qué acción daña el cuidado de los espacios verdes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Caminar por los senderos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona caminar por senderos como daño."
+        },
+        {
+          "letra": "B",
+          "texto": "Regar las plantas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona regar las plantas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sentarse en los bancos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona sentarse en bancos como daño."
+        },
+        {
+          "letra": "D",
+          "texto": "Pisar los canteros o arrancar las plantas.",
+          "correcta": true,
+          "explicacion": "El texto señala que pisar canteros o arrancar plantas daña el lugar."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Regar las plantas temprano por la mañana o al atardecer permite que el agua se aproveche mejor. Durante esas horas hace menos calor y el agua no se evapora tan rápido. De ese modo las plantas reciben más humedad con la misma cantidad.",
+      "enunciado": "Según el texto, ¿por qué conviene regar temprano o al atardecer?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el agua no se evapora tan rápido y se aprovecha mejor.",
+          "correcta": true,
+          "explicacion": "El texto explica que en esas horas el agua no se evapora tan rápido."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el agua está más limpia de mañana.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la limpieza del agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque las plantas crecen solo de noche.",
+          "correcta": false,
+          "explicacion": "El texto no afirma eso sobre el crecimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque a esa hora la canilla tiene más presión.",
+          "correcta": false,
+          "explicacion": "El texto no habla de presión de la canilla."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El sur de la Argentina tiene un clima frío y ventoso. En invierno, en la cordillera patagónica suele caer mucha nieve. Por eso, varias localidades reciben turistas que disfrutan de los deportes de montaña.",
+      "enunciado": "¿Qué afirma el texto sobre el clima del sur argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que es seco y muy caluroso.",
+          "correcta": false,
+          "explicacion": "El texto describe un clima frío, no caluroso."
+        },
+        {
+          "letra": "B",
+          "texto": "Que nunca cae nieve allí.",
+          "correcta": false,
+          "explicacion": "El texto dice que en invierno cae mucha nieve."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es frío y ventoso.",
+          "correcta": true,
+          "explicacion": "El texto afirma que el sur tiene un clima frío y ventoso."
+        },
+        {
+          "letra": "D",
+          "texto": "Que es cálido y húmedo todo el año.",
+          "correcta": false,
+          "explicacion": "El texto dice que es frío y ventoso."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El compostaje transforma los restos orgánicos, como cáscaras de fruta y yerba usada, en un abono natural para las plantas. Para hacerlo se acumulan los desechos en un recipiente con tierra y se los mezcla cada tanto. Con el tiempo, los microorganismos descomponen la materia y producen compost.",
+      "enunciado": "Según el texto, ¿en qué se transforman los restos orgánicos mediante el compostaje?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En plástico reciclado.",
+          "correcta": false,
+          "explicacion": "El texto habla de abono, no de plástico."
+        },
+        {
+          "letra": "B",
+          "texto": "En agua para riego.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la obtención de agua."
+        },
+        {
+          "letra": "C",
+          "texto": "En un abono natural para las plantas.",
+          "correcta": true,
+          "explicacion": "El texto dice que el compostaje los transforma en un abono natural para las plantas."
+        },
+        {
+          "letra": "D",
+          "texto": "En energía eléctrica para el hogar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona producción de energía eléctrica."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El límite de velocidad en zonas urbanas suele ser menor que en las rutas. Esto se debe a la mayor presencia de peatones y vehículos en las ciudades. Respetar estos límites reduce la cantidad de accidentes.",
+      "enunciado": "Según el texto, ¿por qué el límite de velocidad es menor en zonas urbanas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la mayor presencia de peatones y vehículos.",
+          "correcta": true,
+          "explicacion": "El texto atribuye el límite menor a la mayor presencia de peatones y vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque hay menos semáforos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cantidad de semáforos."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque los autos son más lentos.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que los autos sean más lentos."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque las calles son más anchas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ancho de las calles."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Beber agua segura es fundamental para la salud. En algunos lugares conviene asegurarse de que el agua sea apta para el consumo. Cuando hay dudas, hervirla es una forma de hacerla más segura.",
+      "enunciado": "De acuerdo con el texto, cuando hay dudas sobre el agua, ¿qué conviene hacer?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejarla al sol",
+          "correcta": false,
+          "explicacion": "El texto no menciona dejarla al sol."
+        },
+        {
+          "letra": "B",
+          "texto": "Beberla sin tomar precauciones",
+          "correcta": false,
+          "explicacion": "El texto recomienda precauciones cuando hay dudas."
+        },
+        {
+          "letra": "C",
+          "texto": "Hervirla para hacerla más segura",
+          "correcta": true,
+          "explicacion": "El texto dice que hervir el agua es una forma de hacerla más segura."
+        },
+        {
+          "letra": "D",
+          "texto": "Agregarle azúcar",
+          "correcta": false,
+          "explicacion": "El texto no menciona el azúcar."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mantener la heladera bien cerrada y no abrirla más de lo necesario ayuda a que consuma menos energía. Cada vez que se abre la puerta, se escapa frío y el motor trabaja de más para recuperarlo. Una buena costumbre es decidir qué se va a sacar antes de abrirla.",
+      "enunciado": "Según el texto, ¿qué ocurre cada vez que se abre la puerta de la heladera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se enfrían más rápido los alimentos.",
+          "correcta": false,
+          "explicacion": "El texto plantea lo contrario: se pierde frío."
+        },
+        {
+          "letra": "B",
+          "texto": "El motor se detiene por completo.",
+          "correcta": false,
+          "explicacion": "El texto dice que el motor trabaja de más, no que se detiene."
+        },
+        {
+          "letra": "C",
+          "texto": "Se ahorra energía eléctrica.",
+          "correcta": false,
+          "explicacion": "El texto indica que se consume más, no que se ahorra."
+        },
+        {
+          "letra": "D",
+          "texto": "Se escapa frío y el motor trabaja de más.",
+          "correcta": true,
+          "explicacion": "El texto dice que se escapa frío y el motor trabaja de más para recuperarlo."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Use el horno microondas solo con recipientes aptos para este tipo de cocción. No introduzca elementos metálicos ni vajilla con bordes dorados, ya que producen chispas y pueden dañar el magnetrón.",
+      "enunciado": "Según el texto, ¿qué no debe introducirse en el microondas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Platos de cerámica común.",
+          "correcta": false,
+          "explicacion": "El texto no prohíbe la cerámica común sin bordes dorados."
+        },
+        {
+          "letra": "B",
+          "texto": "Recipientes plásticos aptos.",
+          "correcta": false,
+          "explicacion": "El texto no prohíbe los plásticos aptos."
+        },
+        {
+          "letra": "C",
+          "texto": "Elementos metálicos.",
+          "correcta": true,
+          "explicacion": "El texto indica no introducir elementos metálicos."
+        },
+        {
+          "letra": "D",
+          "texto": "Recipientes de vidrio aptos.",
+          "correcta": false,
+          "explicacion": "El texto permite los recipientes aptos para microondas."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mantener una buena postura al sentarse cuida la espalda. Apoyar bien los pies y mantener la espalda recta evita molestias con el tiempo. Es una atención importante para quienes pasan muchas horas sentados.",
+      "enunciado": "Según el texto, ¿qué ayuda a cuidar la espalda al sentarse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Evitar sentarse para siempre",
+          "correcta": false,
+          "explicacion": "El texto se dirige a quienes pasan horas sentados."
+        },
+        {
+          "letra": "B",
+          "texto": "Sentarse siempre encorvado",
+          "correcta": false,
+          "explicacion": "El texto recomienda una buena postura."
+        },
+        {
+          "letra": "C",
+          "texto": "Apoyar bien los pies y mantener la espalda recta",
+          "correcta": true,
+          "explicacion": "El texto dice que apoyar los pies y mantener la espalda recta evita molestias."
+        },
+        {
+          "letra": "D",
+          "texto": "No apoyar nunca los pies",
+          "correcta": false,
+          "explicacion": "El texto propone apoyar bien los pies."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Completá la oración: \"En caso de incendio, mantené la _____ para no entrar en pánico y poder evacuar de forma ordenada.\"",
+      "enunciado": "¿Qué palabra completa la oración: \"En caso de incendio, mantené la _____ para no entrar en pánico y poder evacuar de forma ordenada.\"?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "luz",
+          "correcta": false,
+          "explicacion": "Mantener la luz no se relaciona con no entrar en pánico."
+        },
+        {
+          "letra": "B",
+          "texto": "distancia",
+          "correcta": false,
+          "explicacion": "Distancia no encaja con la idea de no entrar en pánico."
+        },
+        {
+          "letra": "C",
+          "texto": "calma",
+          "correcta": true,
+          "explicacion": "El sentido de no entrar en pánico y evacuar ordenado se completa con calma."
+        },
+        {
+          "letra": "D",
+          "texto": "prisa",
+          "correcta": false,
+          "explicacion": "La prisa se opone a evacuar de forma ordenada."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mantener el pelo limpio forma parte de la higiene personal. Lavarlo con la frecuencia adecuada quita la grasa y la suciedad que se acumulan. Cada persona puede tener una frecuencia distinta según su tipo de cabello.",
+      "enunciado": "Según el texto, ¿qué quita lavar el pelo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las vitaminas del cuerpo",
+          "correcta": false,
+          "explicacion": "El texto no menciona vitaminas."
+        },
+        {
+          "letra": "B",
+          "texto": "El sueño",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el lavado con el sueño."
+        },
+        {
+          "letra": "C",
+          "texto": "El hambre",
+          "correcta": false,
+          "explicacion": "El texto no menciona el hambre."
+        },
+        {
+          "letra": "D",
+          "texto": "La grasa y la suciedad acumuladas",
+          "correcta": true,
+          "explicacion": "El texto dice que lavar el pelo quita la grasa y la suciedad."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comer una variedad de alimentos asegura que el cuerpo reciba distintos nutrientes. Ningún alimento por sí solo aporta todo lo que el organismo necesita. Por eso una dieta variada es más completa que una basada en pocos alimentos.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los nutrientes no son importantes",
+          "correcta": false,
+          "explicacion": "El texto destaca los nutrientes."
+        },
+        {
+          "letra": "B",
+          "texto": "Un solo alimento aporta todo lo necesario",
+          "correcta": false,
+          "explicacion": "El texto afirma lo contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Una dieta variada aporta distintos nutrientes y es más completa",
+          "correcta": true,
+          "explicacion": "El texto concluye que una dieta variada es más completa."
+        },
+        {
+          "letra": "D",
+          "texto": "Conviene comer siempre lo mismo",
+          "correcta": false,
+          "explicacion": "El texto valora la variedad."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Calzar zapatillas cómodas y adecuadas es importante al hacer ejercicio. Un buen calzado protege los pies y ayuda a evitar molestias. Antes de comprar, conviene probarse las zapatillas para ver que calcen bien.",
+      "enunciado": "Según el texto, ¿qué hace un buen calzado al hacer ejercicio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Protege los pies y ayuda a evitar molestias",
+          "correcta": true,
+          "explicacion": "El texto dice que un buen calzado protege los pies y evita molestias."
+        },
+        {
+          "letra": "B",
+          "texto": "Reemplaza la necesidad de hidratarse",
+          "correcta": false,
+          "explicacion": "El texto no menciona la hidratación."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumenta la velocidad de manera garantizada",
+          "correcta": false,
+          "explicacion": "El texto no promete mayor velocidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Mejora la digestión",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el calzado con la digestión."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 500 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "320",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "330",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 500 − 170 = 330."
+        },
+        {
+          "letra": "C",
+          "texto": "670",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 720?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "720",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "365",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "El 50 % de 720 se calcula 50 ÷ 100 × 720 = 360."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 390 hojas en partes iguales entre 5 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "73",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "83",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "78",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 390 ÷ 5 = 78."
+        },
+        {
+          "letra": "D",
+          "texto": "385",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 60?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "6",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "8",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "13",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "3",
+          "correcta": true,
+          "explicacion": "El 5 % de 60 se calcula 5 ÷ 100 × 60 = 3."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 600 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "530",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "520",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 600 − 80 = 520."
+        },
+        {
+          "letra": "D",
+          "texto": "680",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 320 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 320 + 160 = 480."
+        },
+        {
+          "letra": "C",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 540?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "216",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "118",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "108",
+          "correcta": true,
+          "explicacion": "El 20 % de 540 se calcula 20 ÷ 100 × 540 = 108."
+        },
+        {
+          "letra": "D",
+          "texto": "113",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 600?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "455",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "460",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "450",
+          "correcta": true,
+          "explicacion": "El 75 % de 600 se calcula 75 ÷ 100 × 600 = 450."
+        },
+        {
+          "letra": "D",
+          "texto": "900",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 120?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "22",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "12",
+          "correcta": true,
+          "explicacion": "El 10 % de 120 se calcula 10 ÷ 100 × 120 = 12."
+        },
+        {
+          "letra": "D",
+          "texto": "17",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 49 unidades y hay 5 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "294",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "54",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "245",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 49 × 5 = 245."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 13 unidades y hay 7 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "91",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 13 × 7 = 91."
+        },
+        {
+          "letra": "B",
+          "texto": "104",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "84",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 39 unidades y hay 4 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "43",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "152",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "156",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 39 × 4 = 156."
+        },
+        {
+          "letra": "D",
+          "texto": "195",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

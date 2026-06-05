@@ -390,3 +390,20 @@ a.hero-sello-cta:active { transform: rotate(-3deg) translate(2px, 2px); box-shad
 .btn-suscribite { padding: 11px 20px; font-size: 16px; background: var(--yellow); color: var(--ink); box-shadow: 5px 5px 0 var(--ink); }
 .btn-suscribite:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--ink); }
 @media (max-width: 640px) { .hero-sello .sello-pagar { font-size: 13px; } }
+
+/* ===== Tarjetas de simulador activas (mismo tamaño que las "Próximamente") ===== */
+.card-sim { min-height: 200px; padding: 22px 22px 24px; display: flex; flex-direction: column; gap: 10px; box-shadow: var(--shadow); overflow: hidden; }
+.card-sim.sim-teal { background: var(--teal); color: #fff; }
+.card-sim.sim-pink { background: var(--pink); color: #fff; }
+.card-sim:hover { transform: translate(-3px, -3px); box-shadow: 12px 12px 0 var(--ink); }
+.sim-badge { align-self: flex-start; display: inline-flex; align-items: center; gap: 8px; background: var(--yellow); color: var(--ink); border: var(--outline); border-radius: 999px; padding: 5px 12px; font-weight: 800; font-size: 12px; box-shadow: 3px 3px 0 var(--ink); }
+.sim-badge .dot { width: 9px; height: 9px; border-radius: 50%; background: #2ecc71; border: 2px solid var(--ink); }
+.sim-icon { width: 58px; height: 58px; border: var(--outline); border-radius: 16px; background: #fff; display: grid; place-items: center; box-shadow: 3px 3px 0 var(--ink); }
+.sim-icon svg { width: 34px; height: 34px; }
+.sim-name { font-family: var(--font-display); font-weight: 700; font-size: 19px; line-height: 1.08; }
+.sim-desc { font-weight: 700; font-size: 13.5px; color: #fff; opacity: 0.95; flex: 1; }
+.btn-sim { align-self: flex-start; margin-top: auto; background: var(--ink); color: #fff; padding: 9px 16px; font-size: 14px; box-shadow: 4px 4px 0 rgba(0,0,0,0.35); }
+.btn-sim:hover { transform: translate(-1px, -1px); }
+
+/* Texto base de Comprensión Lectora (rendición y repaso) */
+.texto-base { border: 3px solid var(--ink); border-left-width: 8px; background: var(--paper-2); border-radius: 12px; padding: 12px 14px; margin: 10px 0 14px; font-weight: 600; box-shadow: 3px 3px 0 var(--ink); white-space: pre-wrap; }

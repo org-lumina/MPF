@@ -1,0 +1,789 @@
+{
+  "examen_id": 8,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las ventanas con buen cierre ayudan a mantener la temperatura dentro de la casa. En invierno conservan el calor y en verano el fresco, lo que reduce el uso de calefacción y de aire acondicionado. Así se gasta menos energía.",
+      "enunciado": "Según el texto, ¿qué beneficio tienen las ventanas con buen cierre?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ayudan a mantener la temperatura y reducen el uso de calefacción y aire.",
+          "correcta": true,
+          "explicacion": "El texto dice que conservan el calor o el fresco y reducen el uso de calefacción y aire acondicionado."
+        },
+        {
+          "letra": "B",
+          "texto": "Contaminan el aire del hogar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contaminación del aire."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentan el consumo de energía.",
+          "correcta": false,
+          "explicacion": "El texto dice que se gasta menos energía."
+        },
+        {
+          "letra": "D",
+          "texto": "Dejan escapar el calor en invierno.",
+          "correcta": false,
+          "explicacion": "El texto dice que conservan el calor en invierno."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El Cerro de los Siete Colores se encuentra en la provincia de Jujuy. Sus laderas muestran franjas de distintos colores formadas a lo largo de muchísimos años. Es uno de los paisajes más visitados del norte.",
+      "enunciado": "Según el texto, ¿en qué provincia está el Cerro de los Siete Colores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En Chubut.",
+          "correcta": false,
+          "explicacion": "El texto no menciona Chubut."
+        },
+        {
+          "letra": "B",
+          "texto": "En Jujuy.",
+          "correcta": true,
+          "explicacion": "El texto dice que se encuentra en la provincia de Jujuy."
+        },
+        {
+          "letra": "C",
+          "texto": "En Mendoza.",
+          "correcta": false,
+          "explicacion": "El texto menciona Jujuy, no Mendoza."
+        },
+        {
+          "letra": "D",
+          "texto": "En Neuquén.",
+          "correcta": false,
+          "explicacion": "El texto no menciona Neuquén."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los residuos peligrosos, como medicamentos vencidos o productos químicos, no deben tirarse con la basura común. Requieren un manejo especial para no dañar el ambiente ni la salud. Lo correcto es consultar dónde entregarlos de forma segura.",
+      "enunciado": "Según el texto, ¿qué conviene hacer con los residuos peligrosos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Guardarlos para reutilizarlos.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere reutilizar residuos peligrosos."
+        },
+        {
+          "letra": "B",
+          "texto": "Arrojarlos por el inodoro.",
+          "correcta": false,
+          "explicacion": "El texto no propone arrojarlos por el inodoro."
+        },
+        {
+          "letra": "C",
+          "texto": "Tirarlos con la basura común.",
+          "correcta": false,
+          "explicacion": "El texto dice que no deben tirarse con la basura común."
+        },
+        {
+          "letra": "D",
+          "texto": "Consultar dónde entregarlos de forma segura.",
+          "correcta": true,
+          "explicacion": "El texto dice que lo correcto es consultar dónde entregarlos de forma segura."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Si tu computadora se vuelve muy lenta de golpe y aparecen ventanas raras, podría tener un virus. En ese caso, conviene pasar el antivirus y evitar ingresar contraseñas. También ayuda pedir asistencia a alguien de confianza.",
+      "enunciado": "Según el texto, ¿qué conviene hacer si la computadora se vuelve lenta y aparecen ventanas raras?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ingresar todas las contraseñas para revisarlas.",
+          "correcta": false,
+          "explicacion": "El texto aconseja evitar ingresar contraseñas."
+        },
+        {
+          "letra": "B",
+          "texto": "Pasar el antivirus y evitar ingresar contraseñas.",
+          "correcta": true,
+          "explicacion": "El texto recomienda pasar el antivirus y no ingresar contraseñas."
+        },
+        {
+          "letra": "C",
+          "texto": "Subir el brillo de la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el brillo."
+        },
+        {
+          "letra": "D",
+          "texto": "Publicar el problema en redes.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere publicarlo."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La señalización de los riesgos en el lugar de trabajo advierte sobre peligros como pisos resbaladizos, alta tensión o cargas suspendidas. Respetar estas señales ayuda a prevenir accidentes.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Respetar la señalización de riesgos ayuda a prevenir accidentes",
+          "correcta": true,
+          "explicacion": "El texto plantea que respetar las señales previene accidentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo los supervisores leen las señales",
+          "correcta": false,
+          "explicacion": "El texto no restringe quién debe respetarlas."
+        },
+        {
+          "letra": "C",
+          "texto": "Las señales reemplazan a los matafuegos",
+          "correcta": false,
+          "explicacion": "El texto no compara señales con matafuegos."
+        },
+        {
+          "letra": "D",
+          "texto": "Las señales deben ser de gran tamaño",
+          "correcta": false,
+          "explicacion": "El texto no menciona el tamaño de las señales."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las campañas de limpieza de plazas y costas reúnen a vecinos que recogen la basura que ensucia esos espacios. Además de dejarlos limpios, estas jornadas ayudan a tomar conciencia sobre la cantidad de residuos que se generan. Participar es una forma de cuidar lo común.",
+      "enunciado": "Según el texto, ¿qué hacen los vecinos en las campañas de limpieza?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Construyen nuevas plazas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona construir plazas."
+        },
+        {
+          "letra": "B",
+          "texto": "Plantan árboles en las costas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona plantar árboles en este caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Recogen la basura que ensucia los espacios.",
+          "correcta": true,
+          "explicacion": "El texto dice que los vecinos recogen la basura que ensucia esos espacios."
+        },
+        {
+          "letra": "D",
+          "texto": "Arrojan más residuos en las plazas.",
+          "correcta": false,
+          "explicacion": "El texto plantea recoger basura, no arrojarla."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Si recibís un mensaje que dice que ganaste un premio sin haber participado, desconfiá. Suelen pedirte datos o un pago para entregarlo. En general, esos mensajes son estafas.",
+      "enunciado": "Según el texto, un mensaje que avisa de un premio no solicitado suele ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un recordatorio del banco.",
+          "correcta": false,
+          "explicacion": "El texto no menciona al banco."
+        },
+        {
+          "letra": "B",
+          "texto": "Una estafa.",
+          "correcta": true,
+          "explicacion": "El texto dice que en general esos mensajes son estafas."
+        },
+        {
+          "letra": "C",
+          "texto": "Una copia de seguridad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona copias de seguridad."
+        },
+        {
+          "letra": "D",
+          "texto": "Una actualización del sistema.",
+          "correcta": false,
+          "explicacion": "El texto no menciona actualizaciones."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se recuerda que las puertas de emergencia deben permanecer despejadas en todo momento. Está prohibido colocar muebles, cajas o cualquier objeto que obstruya su apertura.",
+      "enunciado": "¿Cuál es la idea principal del aviso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener despejadas las puertas de emergencia.",
+          "correcta": true,
+          "explicacion": "El texto se centra en que las puertas de emergencia queden despejadas y sin obstrucciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiar la ubicación de los muebles.",
+          "correcta": false,
+          "explicacion": "El texto no trata sobre reubicar muebles en general."
+        },
+        {
+          "letra": "C",
+          "texto": "Reducir la cantidad de cajas de archivo.",
+          "correcta": false,
+          "explicacion": "El texto no se refiere a la cantidad de cajas."
+        },
+        {
+          "letra": "D",
+          "texto": "Prohibir el ingreso por las puertas de emergencia.",
+          "correcta": false,
+          "explicacion": "El texto pide despejarlas, no prohibir su uso."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 840?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "262",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "504",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "257",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "252",
+          "correcta": true,
+          "explicacion": "El 30 % de 840 se calcula 30 ÷ 100 × 840 = 252."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 680?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "170",
+          "correcta": true,
+          "explicacion": "El 25 % de 680 se calcula 25 ÷ 100 × 680 = 170."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 520?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "395",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "780",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "390",
+          "correcta": true,
+          "explicacion": "El 75 % de 520 se calcula 75 ÷ 100 × 520 = 390."
+        },
+        {
+          "letra": "D",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 520 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "395",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 520 − 125 = 395."
+        },
+        {
+          "letra": "B",
+          "texto": "645",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "385",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "405",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 100?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "35",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "30",
+          "correcta": true,
+          "explicacion": "El 30 % de 100 se calcula 30 ÷ 100 × 100 = 30."
+        },
+        {
+          "letra": "D",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 220 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "195",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "185",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 220 − 35 = 185."
+        },
+        {
+          "letra": "C",
+          "texto": "255",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 31 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "93",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 31 × 3 = 93."
+        },
+        {
+          "letra": "B",
+          "texto": "124",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "34",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 180 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "380",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 180 + 200 = 380."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿cuál es la misión de los fiscales de los partidos políticos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fiscalizar las operaciones del acto electoral y formalizar los reclamos que correspondan",
+          "correcta": true,
+          "explicacion": "El art. 57 dispone que la misión de los fiscales será fiscalizar las operaciones del acto electoral y formalizar los reclamos que estimaren correspondan."
+        },
+        {
+          "letra": "B",
+          "texto": "Designar a las autoridades de mesa",
+          "correcta": false,
+          "explicacion": "El art. 57 no atribuye a los fiscales la designación de autoridades de mesa."
+        },
+        {
+          "letra": "C",
+          "texto": "Confeccionar el padrón de la mesa",
+          "correcta": false,
+          "explicacion": "El art. 57 limita su misión a fiscalizar y reclamar, no a confeccionar padrones."
+        },
+        {
+          "letra": "D",
+          "texto": "Presidir la mesa en ausencia del presidente",
+          "correcta": false,
+          "explicacion": "El art. 57 no asigna a los fiscales la presidencia; eso corresponde al suplente (art. 72)."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿cuál es causal para imponer la cesantía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una sola llegada tarde",
+          "correcta": false,
+          "explicacion": "Una llegada tarde no constituye causal de cesantía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sentencia condenatoria por delito contra la Administración Pública",
+          "correcta": false,
+          "explicacion": "Esa es causal de exoneración (art. 33 inc. a), no de cesantía."
+        },
+        {
+          "letra": "C",
+          "texto": "Pérdida de la residencia permanente",
+          "correcta": false,
+          "explicacion": "La pérdida de residencia es causal de exoneración (art. 33 inc. c)."
+        },
+        {
+          "letra": "D",
+          "texto": "Inasistencias injustificadas que excedan de cinco (5) días discontinuos en doce (12) meses",
+          "correcta": true,
+          "explicacion": "El art. 32 inc. a) prevé como causal de cesantía las inasistencias injustificadas que excedan de cinco días discontinuos en los doce meses inmediatos anteriores."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, si la administración no dicta el acto de ratificación, transcurridos 30 días de vencido el período de prueba:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La designación se considera efectuada y el agente adquiere la estabilidad",
+          "correcta": true,
+          "explicacion": "El art. 17 dispone que transcurridos 30 días sin acto administrativo, la designación se considera efectuada y el agente adquiere la estabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Se reinicia el período de prueba",
+          "correcta": false,
+          "explicacion": "El art. 17 no prevé el reinicio del período de prueba."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe instruirse un sumario",
+          "correcta": false,
+          "explicacion": "No se requiere sumario; la designación se considera efectuada."
+        },
+        {
+          "letra": "D",
+          "texto": "El agente pierde su designación",
+          "correcta": false,
+          "explicacion": "El art. 17 prevé lo contrario: la designación se considera efectuada."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿qué efecto adicional tiene la exoneración?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Conlleva la baja en todos los cargos públicos que ejerciere el agente",
+          "correcta": true,
+          "explicacion": "El art. 33 dispone que la exoneración conllevará necesariamente la baja en todos los cargos públicos que ejerciere el agente sancionado."
+        },
+        {
+          "letra": "B",
+          "texto": "Suspende el cargo por seis meses",
+          "correcta": false,
+          "explicacion": "La exoneración no es una suspensión temporal."
+        },
+        {
+          "letra": "C",
+          "texto": "Permite mantener otros cargos en otra jurisdicción",
+          "correcta": false,
+          "explicacion": "El art. 33 prevé la baja en todos los cargos, no la conservación de otros."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo afecta el cargo donde se cometió la falta",
+          "correcta": false,
+          "explicacion": "La baja alcanza a todos los cargos públicos del agente."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 15 de la Ley 25.188, durante su gestión el funcionario debe abstenerse de intervenir en cuestiones relacionadas con personas o asuntos a los que estuvo vinculado en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los últimos tres años o respecto de los que tenga participación societaria",
+          "correcta": true,
+          "explicacion": "El art. 15, inc. b, obliga a abstenerse en cuestiones relacionadas con personas o asuntos vinculados en los últimos tres años o respecto de los que tenga participación societaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Los últimos cinco años",
+          "correcta": false,
+          "explicacion": "El plazo del art. 15, inc. b, es de tres años."
+        },
+        {
+          "letra": "C",
+          "texto": "El último año",
+          "correcta": false,
+          "explicacion": "El art. 15, inc. b, refiere a los últimos tres años, no uno."
+        },
+        {
+          "letra": "D",
+          "texto": "Toda su carrera profesional anterior",
+          "correcta": false,
+          "explicacion": "El art. 15, inc. b, acota el deber a los últimos tres años o a la participación societaria."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 95, ¿antes de qué fecha debe presentarse anualmente la cuenta de inversión al Congreso Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes del 15 de septiembre del año siguiente",
+          "correcta": false,
+          "explicacion": "El 15 de septiembre es el plazo de presentación del proyecto de presupuesto (art. 26), no de la cuenta de inversión."
+        },
+        {
+          "letra": "B",
+          "texto": "Antes del 30 de junio del año siguiente",
+          "correcta": true,
+          "explicacion": "El art. 95 establece que la cuenta de inversión deberá presentarse anualmente al Congreso Nacional antes del 30 de junio del año siguiente al que corresponda."
+        },
+        {
+          "letra": "C",
+          "texto": "Antes del 1 de mayo del año siguiente",
+          "correcta": false,
+          "explicacion": "El 1 de mayo es el plazo de la memoria de la AGN (art. 119); la cuenta de inversión vence el 30 de junio (art. 95)."
+        },
+        {
+          "letra": "D",
+          "texto": "Antes del 31 de marzo del año siguiente",
+          "correcta": false,
+          "explicacion": "El art. 95 fija el 30 de junio; el 31 de marzo es la fecha del presupuesto consolidado (art. 55)."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 1° bis de la Ley 19.549, la solicitud de vista de las actuaciones produce sobre los plazos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La interrupción definitiva de todos los plazos",
+          "correcta": false,
+          "explicacion": "La vista suspende, no interrumpe definitivamente; además quedan excluidos los plazos de prescripción."
+        },
+        {
+          "letra": "B",
+          "texto": "La suspensión de los plazos para presentar descargos, recursos o reclamos, salvo los de prescripción",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. g) (vii) dispone que la solicitud de vista suspende todos los plazos para descargos, recursos o reclamos, salvo los de prescripción."
+        },
+        {
+          "letra": "C",
+          "texto": "La caducidad automática del procedimiento",
+          "correcta": false,
+          "explicacion": "La vista suspende plazos; no provoca la caducidad del procedimiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Ningún efecto sobre los plazos en curso",
+          "correcta": false,
+          "explicacion": "La vista sí afecta los plazos, suspendiéndolos según el inc. g) (vii)."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿cuál de los siguientes es un voto válido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El voto en blanco, cuando no se marca preferencia en una o más categorías",
+          "correcta": true,
+          "explicacion": "El art. 101, ap. I considera votos válidos a los afirmativos y a los votos en blanco cuando la persona no marca preferencia en una o más categorías."
+        },
+        {
+          "letra": "B",
+          "texto": "El emitido mediante boleta única no oficializada",
+          "correcta": false,
+          "explicacion": "Ese es voto nulo según el art. 101, ap. II, inc. a)."
+        },
+        {
+          "letra": "C",
+          "texto": "El que incluye objetos extraños junto a la boleta plegada",
+          "correcta": false,
+          "explicacion": "Ese supuesto configura voto nulo según el art. 101, ap. II, inc. e)."
+        },
+        {
+          "letra": "D",
+          "texto": "El que contiene dos marcas de distintas agrupaciones para la misma categoría",
+          "correcta": false,
+          "explicacion": "Ese es voto nulo en esa categoría según el art. 101, ap. II, inc. b)."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿cuántas autoridades tiene cada mesa electoral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una comisión de tres miembros designados por la junta",
+          "correcta": false,
+          "explicacion": "El art. 72 establece presidente único y suplente, no una comisión."
+        },
+        {
+          "letra": "B",
+          "texto": "Un presidente y dos vocales titulares",
+          "correcta": false,
+          "explicacion": "El art. 72 contempla presidente y suplente, no vocales."
+        },
+        {
+          "letra": "C",
+          "texto": "Un presidente y un vicepresidente con iguales facultades",
+          "correcta": false,
+          "explicacion": "El art. 72 prevé un presidente como única autoridad y un suplente, no un vicepresidente."
+        },
+        {
+          "letra": "D",
+          "texto": "Un presidente como única autoridad y un suplente que lo auxilia y reemplaza",
+          "correcta": true,
+          "explicacion": "El art. 72 establece que cada mesa tendrá como única autoridad un presidente y se designará también un suplente que lo auxiliará y reemplazará."
+        }
+      ]
+    }
+  ]
+}

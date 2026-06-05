@@ -1,0 +1,794 @@
+{
+  "examen_id": 2,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El día y la noche se producen porque la Tierra gira sobre sí misma. La parte que mira al Sol tiene día, y la parte opuesta tiene noche. Este giro completo dura aproximadamente veinticuatro horas.",
+      "enunciado": "Según el texto, ¿por qué se producen el día y la noche?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el Sol se apaga de noche.",
+          "correcta": false,
+          "explicacion": "El texto no dice que el Sol se apague."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque las nubes cubren el cielo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona nubes."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque la Luna tapa al Sol.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a la Luna como causa."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque la Tierra gira sobre sí misma.",
+          "correcta": true,
+          "explicacion": "El texto dice que el día y la noche se producen porque la Tierra gira sobre sí misma."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las actualizaciones automáticas instalan las mejoras sin que tengas que recordarlas. Esto mantiene los programas al día con menos esfuerzo. Por eso muchos recomiendan activarlas.",
+      "enunciado": "Según el texto, ¿qué ventaja tienen las actualizaciones automáticas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Crean nuevas contraseñas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contraseñas."
+        },
+        {
+          "letra": "B",
+          "texto": "Instalan las mejoras sin que tengas que recordarlas.",
+          "correcta": true,
+          "explicacion": "El texto dice que instalan las mejoras sin que tengas que recordarlas."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentan el tamaño de la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la pantalla."
+        },
+        {
+          "letra": "D",
+          "texto": "Eliminan la publicidad de internet.",
+          "correcta": false,
+          "explicacion": "El texto no menciona publicidad."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las cadenas de mensajes que piden reenviar a varios contactos suelen ser falsas. Muchas difunden información engañosa. Lo mejor es no reenviarlas y verificar antes de creerlas.",
+      "enunciado": "De acuerdo con el texto, ¿qué conviene hacer con las cadenas de mensajes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reenviarlas a todos los contactos.",
+          "correcta": false,
+          "explicacion": "El texto recomienda lo contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Imprimirlas para conservarlas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona imprimir."
+        },
+        {
+          "letra": "C",
+          "texto": "No reenviarlas y verificar antes de creerlas.",
+          "correcta": true,
+          "explicacion": "El texto aconseja no reenviarlas y verificar."
+        },
+        {
+          "letra": "D",
+          "texto": "Guardarlas como copia de seguridad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona copias de seguridad."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Conectar el teléfono a un cargador desconocido en un lugar público tiene sus riesgos. Algunos puertos podrían transferir datos sin tu permiso. Es más seguro usar tu propio cargador y enchufe.",
+      "enunciado": "Según el texto, ¿qué riesgo tiene un cargador desconocido en un lugar público?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se borren los contactos solos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona borrado de contactos."
+        },
+        {
+          "letra": "B",
+          "texto": "Que algunos puertos transfieran datos sin tu permiso.",
+          "correcta": true,
+          "explicacion": "El texto menciona que algunos puertos podrían transferir datos sin permiso."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la pantalla cambie de color.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la pantalla."
+        },
+        {
+          "letra": "D",
+          "texto": "Que aumente el volumen.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el volumen."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Un descanso reparador necesita un ambiente adecuado. Un cuarto oscuro, silencioso y con una temperatura agradable favorece el sueño. Cuidar estos detalles puede mejorar la calidad del descanso.",
+      "enunciado": "Completá: \"Un cuarto oscuro, silencioso y con una temperatura agradable ______ el sueño\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "impide",
+          "correcta": false,
+          "explicacion": "El texto plantea que favorece, no que impide."
+        },
+        {
+          "letra": "B",
+          "texto": "reemplaza",
+          "correcta": false,
+          "explicacion": "El ambiente no reemplaza al sueño según el texto."
+        },
+        {
+          "letra": "C",
+          "texto": "retrasa",
+          "correcta": false,
+          "explicacion": "El texto no dice que retrase el sueño."
+        },
+        {
+          "letra": "D",
+          "texto": "favorece",
+          "correcta": true,
+          "explicacion": "El texto dice que ese tipo de ambiente favorece el sueño."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Un correo legítimo de un banco nunca pide tu clave completa por escrito. Si recibís un mensaje así, probablemente sea un fraude. Lo seguro es comunicarte con el banco por sus canales oficiales.",
+      "enunciado": "De acuerdo con el texto, ¿qué nunca pide un correo legítimo de un banco?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La fecha de nacimiento.",
+          "correcta": false,
+          "explicacion": "El texto habla de la clave completa, no de la fecha."
+        },
+        {
+          "letra": "B",
+          "texto": "El nombre del titular.",
+          "correcta": false,
+          "explicacion": "El texto se refiere a la clave, no al nombre."
+        },
+        {
+          "letra": "C",
+          "texto": "La clave completa por escrito.",
+          "correcta": true,
+          "explicacion": "El texto dice que un banco nunca pide la clave completa por escrito."
+        },
+        {
+          "letra": "D",
+          "texto": "El número de sucursal.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la sucursal."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La separación de residuos en origen consiste en clasificar la basura dentro del hogar antes de sacarla. Los materiales secos y limpios, como papel, cartón y plástico, se colocan en un recipiente, mientras que los restos de comida van en otro. Esta práctica facilita el trabajo de las plantas de reciclaje.",
+      "enunciado": "Según el texto, ¿en qué consiste la separación de residuos en origen?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En reducir la cantidad de comida que se compra.",
+          "correcta": false,
+          "explicacion": "El texto trata de clasificar residuos, no de reducir compras."
+        },
+        {
+          "letra": "B",
+          "texto": "En llevar todos los residuos juntos a la planta.",
+          "correcta": false,
+          "explicacion": "El texto indica separar los materiales, no llevarlos juntos."
+        },
+        {
+          "letra": "C",
+          "texto": "En clasificar la basura dentro del hogar antes de sacarla.",
+          "correcta": true,
+          "explicacion": "El texto dice que consiste en clasificar la basura dentro del hogar antes de sacarla."
+        },
+        {
+          "letra": "D",
+          "texto": "En quemar los restos de comida en el patio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona quemar nada; habla de clasificar."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Si sospechás que alguien accedió a tu cuenta, lo primero es cambiar la contraseña. Después conviene revisar la actividad reciente. Si el servicio lo permite, activá la verificación en dos pasos.",
+      "enunciado": "Según el texto, ¿qué es lo primero que conviene hacer si alguien accedió a tu cuenta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambiar la contraseña.",
+          "correcta": true,
+          "explicacion": "El texto dice que lo primero es cambiar la contraseña."
+        },
+        {
+          "letra": "B",
+          "texto": "Apagar la computadora.",
+          "correcta": false,
+          "explicacion": "El texto no menciona apagar el equipo."
+        },
+        {
+          "letra": "C",
+          "texto": "Borrar la cuenta de inmediato.",
+          "correcta": false,
+          "explicacion": "El texto no menciona borrar la cuenta."
+        },
+        {
+          "letra": "D",
+          "texto": "Formatear el teléfono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona formatear."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mantener el sistema operativo actualizado ayuda a corregir fallas de seguridad. Las actualizaciones suelen incluir parches contra nuevas amenazas. Por eso no conviene posponerlas demasiado.",
+      "enunciado": "La idea principal del texto es que las actualizaciones del sistema:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Eliminan la necesidad de usar contraseñas.",
+          "correcta": false,
+          "explicacion": "El texto no dice que reemplacen las contraseñas."
+        },
+        {
+          "letra": "B",
+          "texto": "Ayudan a corregir fallas de seguridad.",
+          "correcta": true,
+          "explicacion": "El texto afirma que mantener el sistema actualizado corrige fallas de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sirven para cambiar el color de la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cambios estéticos."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumentan el espacio de almacenamiento.",
+          "correcta": false,
+          "explicacion": "El texto habla de seguridad, no de almacenamiento."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El equipo de audio puede dañarse si se lo expone a la luz solar directa durante horas. Ubíquelo en un lugar fresco y seco, lejos de ventanas por las que entre sol en forma prolongada.",
+      "enunciado": "Según el texto, ¿dónde conviene ubicar el equipo de audio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Junto a una ventana soleada.",
+          "correcta": false,
+          "explicacion": "El texto desaconseja la luz solar directa."
+        },
+        {
+          "letra": "B",
+          "texto": "En un lugar fresco y seco.",
+          "correcta": true,
+          "explicacion": "El texto recomienda ubicarlo en un lugar fresco y seco."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro de un ambiente húmedo.",
+          "correcta": false,
+          "explicacion": "El texto pide un lugar seco, no húmedo."
+        },
+        {
+          "letra": "D",
+          "texto": "Cerca de una fuente de calor.",
+          "correcta": false,
+          "explicacion": "El texto no recomienda fuentes de calor."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las firmas en los formularios deben coincidir con la del documento de identidad. Si el personal advierte diferencias notorias, podrá pedir una firma adicional para su verificación.",
+      "enunciado": "¿Qué puede pedir el personal si advierte diferencias notorias en la firma?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una firma adicional para verificarla.",
+          "correcta": true,
+          "explicacion": "El texto habilita a pedir una firma adicional para su verificación."
+        },
+        {
+          "letra": "B",
+          "texto": "La presencia de un testigo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona testigos."
+        },
+        {
+          "letra": "C",
+          "texto": "Un certificado bancario de firma.",
+          "correcta": false,
+          "explicacion": "El texto no menciona certificados bancarios."
+        },
+        {
+          "letra": "D",
+          "texto": "El rechazo inmediato del trámite.",
+          "correcta": false,
+          "explicacion": "El texto plantea una verificación, no el rechazo inmediato."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Dormir las horas suficientes permite que el cuerpo descanse y se recupere. Una persona que duerme bien suele estar más atenta y de mejor humor durante el día. En cambio, dormir poco puede causar cansancio y dificultad para concentrarse.",
+      "enunciado": "Según el texto, ¿qué puede causar dormir poco?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mayor apetito por las mañanas",
+          "correcta": false,
+          "explicacion": "El texto no relaciona dormir poco con el apetito."
+        },
+        {
+          "letra": "B",
+          "texto": "Cansancio y dificultad para concentrarse",
+          "correcta": true,
+          "explicacion": "El texto dice que dormir poco puede causar cansancio y dificultad para concentrarse."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumento de la fuerza física",
+          "correcta": false,
+          "explicacion": "El texto no menciona la fuerza física."
+        },
+        {
+          "letra": "D",
+          "texto": "Mejor humor y mayor atención",
+          "correcta": false,
+          "explicacion": "Esos efectos los produce dormir bien, no dormir poco."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para levantar una carga pesada del suelo, se deben doblar las rodillas y mantener la espalda recta. Levantar el peso con la fuerza de las piernas evita lesiones en la columna.",
+      "enunciado": "Según el texto, ¿cómo se debe levantar una carga pesada del suelo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estirando los brazos sin flexionar las piernas",
+          "correcta": false,
+          "explicacion": "El texto pide usar la fuerza de las piernas flexionando las rodillas."
+        },
+        {
+          "letra": "B",
+          "texto": "Inclinando la espalda hacia adelante",
+          "correcta": false,
+          "explicacion": "El texto recomienda mantener la espalda recta, no inclinarla."
+        },
+        {
+          "letra": "C",
+          "texto": "Doblando las rodillas y manteniendo la espalda recta",
+          "correcta": true,
+          "explicacion": "El texto indica doblar las rodillas y mantener la espalda recta."
+        },
+        {
+          "letra": "D",
+          "texto": "Girando el tronco con rapidez",
+          "correcta": false,
+          "explicacion": "El texto no menciona girar el tronco."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 380 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "120",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 380 − 260 = 120."
+        },
+        {
+          "letra": "C",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "110",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 340 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "570",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "580",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 340 + 240 = 580."
+        },
+        {
+          "letra": "D",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 340 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "295",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "315",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "305",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 340 − 35 = 305."
+        },
+        {
+          "letra": "D",
+          "texto": "375",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 39 unidades y hay 5 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "234",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "44",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "195",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 39 × 5 = 195."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 21 unidades y hay 4 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "84",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 21 × 4 = 84."
+        },
+        {
+          "letra": "B",
+          "texto": "25",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "105",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuántos minutos hay en 1 hora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "60",
+          "correcta": true,
+          "explicacion": "Cada hora tiene 60 minutos: 1 × 60 = 60."
+        },
+        {
+          "letra": "C",
+          "texto": "70",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 37 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "296",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 37 × 8 = 296."
+        },
+        {
+          "letra": "C",
+          "texto": "288",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "333",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 740?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "74",
+          "correcta": true,
+          "explicacion": "El 10 % de 740 se calcula 10 ÷ 100 × 740 = 74."
+        },
+        {
+          "letra": "B",
+          "texto": "84",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "79",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "148",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 360?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "216",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "108",
+          "correcta": true,
+          "explicacion": "El 30 % de 360 se calcula 30 ÷ 100 × 360 = 108."
+        },
+        {
+          "letra": "C",
+          "texto": "118",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "113",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 660 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "545",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "535",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 660 − 125 = 535."
+        },
+        {
+          "letra": "C",
+          "texto": "525",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "785",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 540 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "325",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 540 − 215 = 325."
+        },
+        {
+          "letra": "B",
+          "texto": "755",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "315",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "335",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 280?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "145",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "140",
+          "correcta": true,
+          "explicacion": "El 50 % de 280 se calcula 50 ÷ 100 × 280 = 140."
+        },
+        {
+          "letra": "D",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

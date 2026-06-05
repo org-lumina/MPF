@@ -1,0 +1,789 @@
+{
+  "examen_id": 28,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando un sitio te ofrece descargar un programa gratis que normalmente es pago, conviene desconfiar. Muchas veces esas descargas vienen con software dañino oculto. Lo seguro es buscar la fuente oficial.",
+      "enunciado": "Según el texto, ¿qué puede traer una descarga gratuita de un programa que suele ser pago?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una copia de seguridad gratis.",
+          "correcta": false,
+          "explicacion": "El texto no menciona copias de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Más espacio de almacenamiento.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el almacenamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Software dañino oculto.",
+          "correcta": true,
+          "explicacion": "El texto dice que esas descargas pueden traer software dañino oculto."
+        },
+        {
+          "letra": "D",
+          "texto": "Una mejor cámara.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cámara."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las solicitudes presentadas en nombre de una empresa requieren acreditar la representación. Para ello se acompaña el estatuto y la constancia de designación del firmante como autoridad.",
+      "enunciado": "¿Qué debe acompañarse para acreditar la representación de una empresa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo el documento del firmante.",
+          "correcta": false,
+          "explicacion": "El texto pide además el estatuto y la designación."
+        },
+        {
+          "letra": "B",
+          "texto": "Un poder otorgado a cualquier empleado.",
+          "correcta": false,
+          "explicacion": "El texto se refiere a la designación del firmante como autoridad, no a cualquier empleado."
+        },
+        {
+          "letra": "C",
+          "texto": "El estatuto y la constancia de designación del firmante.",
+          "correcta": true,
+          "explicacion": "El texto exige el estatuto y la constancia de designación del firmante."
+        },
+        {
+          "letra": "D",
+          "texto": "Una factura reciente de la empresa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona facturas."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mantener las uñas cortas y limpias forma parte de la higiene de las manos. Debajo de las uñas largas pueden acumularse restos y suciedad. Por eso conviene cortarlas con regularidad.",
+      "enunciado": "Según el texto, ¿por qué conviene mantener las uñas cortas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque mejoran el sueño",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las uñas con el sueño."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque las uñas cortas crecen más despacio",
+          "correcta": false,
+          "explicacion": "El texto no habla de la velocidad de crecimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque así se ahorra jabón",
+          "correcta": false,
+          "explicacion": "El texto no menciona el jabón."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque debajo de las uñas largas se acumula suciedad",
+          "correcta": true,
+          "explicacion": "El texto explica que bajo las uñas largas se acumulan restos y suciedad."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Subir las escaleras en lugar de usar el ascensor es una manera de sumar movimiento a la rutina diaria. No hace falta hacer largas sesiones de ejercicio para estar activos. Pequeñas elecciones cotidianas también cuentan.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Conviene evitar todo movimiento",
+          "correcta": false,
+          "explicacion": "El texto promueve el movimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "El ascensor es la mejor opción",
+          "correcta": false,
+          "explicacion": "El texto propone usar las escaleras."
+        },
+        {
+          "letra": "C",
+          "texto": "Pequeñas elecciones cotidianas suman movimiento",
+          "correcta": true,
+          "explicacion": "El texto destaca que las elecciones cotidianas, como usar escaleras, suman actividad."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo el ejercicio largo es útil",
+          "correcta": false,
+          "explicacion": "El texto afirma que no hace falta hacer sesiones largas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Después de hacer ejercicio conviene reponer el líquido perdido. Durante la actividad física transpiramos y eliminamos agua. Beber luego de entrenar ayuda al cuerpo a recuperarse.",
+      "enunciado": "Completá: \"Durante la actividad física transpiramos y eliminamos ______\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vitaminas",
+          "correcta": false,
+          "explicacion": "El texto no menciona pérdida de vitaminas."
+        },
+        {
+          "letra": "B",
+          "texto": "fibra",
+          "correcta": false,
+          "explicacion": "El texto no menciona fibra."
+        },
+        {
+          "letra": "C",
+          "texto": "agua",
+          "correcta": true,
+          "explicacion": "El texto dice que durante la actividad física transpiramos y eliminamos agua."
+        },
+        {
+          "letra": "D",
+          "texto": "horas de sueño",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el ejercicio con el sueño."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Al usar una computadora pública en una biblioteca, evitá guardar tus contraseñas en el navegador. Si las guardás, quedan disponibles para el próximo usuario. Es preferible escribirlas cada vez.",
+      "enunciado": "Según el texto, ¿por qué no conviene guardar la contraseña en el navegador de una computadora pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque hacen lenta la computadora.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque quedan disponibles para el próximo usuario.",
+          "correcta": true,
+          "explicacion": "El texto advierte que quedan disponibles para el próximo usuario."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque borran el historial.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el historial."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque ocupan mucho espacio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el espacio."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las herramientas con cables eléctricos dañados no deben usarse. Un cable pelado o cortado puede provocar una descarga o un cortocircuito.",
+      "enunciado": "Según el texto, ¿qué puede provocar un cable pelado o cortado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un ahorro de energía",
+          "correcta": false,
+          "explicacion": "El texto presenta un riesgo, no un ahorro."
+        },
+        {
+          "letra": "B",
+          "texto": "Una descarga o un cortocircuito",
+          "correcta": true,
+          "explicacion": "El texto dice que puede provocar descarga o cortocircuito."
+        },
+        {
+          "letra": "C",
+          "texto": "Una herramienta más liviana",
+          "correcta": false,
+          "explicacion": "El texto no menciona el peso."
+        },
+        {
+          "letra": "D",
+          "texto": "Una mejora en la potencia",
+          "correcta": false,
+          "explicacion": "El texto no menciona mejora en la potencia."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mantener una rutina de sueño ayuda al descanso. Acostarse y levantarse a horarios parecidos todos los días le permite al cuerpo acostumbrarse. Así resulta más fácil conciliar el sueño por la noche.",
+      "enunciado": "Completá: \"Acostarse y levantarse a horarios parecidos le permite al cuerpo ______\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumentar la sed",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la rutina de sueño con la sed."
+        },
+        {
+          "letra": "B",
+          "texto": "acostumbrarse",
+          "correcta": true,
+          "explicacion": "El texto dice que esos horarios le permiten al cuerpo acostumbrarse."
+        },
+        {
+          "letra": "C",
+          "texto": "adelgazar rápidamente",
+          "correcta": false,
+          "explicacion": "El texto no menciona adelgazar."
+        },
+        {
+          "letra": "D",
+          "texto": "perder el apetito",
+          "correcta": false,
+          "explicacion": "El texto no habla de pérdida de apetito."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 280 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "65",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 280 − 215 = 65."
+        },
+        {
+          "letra": "B",
+          "texto": "495",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "75",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "55",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 108 hojas en partes iguales entre 3 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "31",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "36",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 108 ÷ 3 = 36."
+        },
+        {
+          "letra": "C",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "105",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 340?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "265",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "255",
+          "correcta": true,
+          "explicacion": "El 75 % de 340 se calcula 75 ÷ 100 × 340 = 255."
+        },
+        {
+          "letra": "D",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 680?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "204",
+          "correcta": true,
+          "explicacion": "El 30 % de 680 se calcula 30 ÷ 100 × 680 = 204."
+        },
+        {
+          "letra": "B",
+          "texto": "209",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "214",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "408",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 320?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "El 75 % de 320 se calcula 75 ÷ 100 × 320 = 240."
+        },
+        {
+          "letra": "C",
+          "texto": "245",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 620?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "496",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "253",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "248",
+          "correcta": true,
+          "explicacion": "El 40 % de 620 se calcula 40 ÷ 100 × 620 = 248."
+        },
+        {
+          "letra": "D",
+          "texto": "258",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 520 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "630",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "640",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 520 + 120 = 640."
+        },
+        {
+          "letra": "D",
+          "texto": "660",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 160?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "24",
+          "correcta": true,
+          "explicacion": "El 15 % de 160 se calcula 15 ÷ 100 × 160 = 24."
+        },
+        {
+          "letra": "B",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "34",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "29",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, ¿cuál de estos derechos NO alcanza al personal contratado y de gabinete?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estabilidad",
+          "correcta": true,
+          "explicacion": "El art. 16 dispone que al personal de contrataciones y de gabinete sólo le alcanzan ciertos incisos, entre los que no figura la estabilidad (inc. a)."
+        },
+        {
+          "letra": "B",
+          "texto": "Retribución justa por sus servicios",
+          "correcta": false,
+          "explicacion": "La retribución justa (inc. b) sí alcanza al personal contratado y de gabinete según el art. 16."
+        },
+        {
+          "letra": "C",
+          "texto": "Renuncia",
+          "correcta": false,
+          "explicacion": "El derecho a la renuncia (inc. k) sí alcanza a ese personal."
+        },
+        {
+          "letra": "D",
+          "texto": "Interposición de recursos",
+          "correcta": false,
+          "explicacion": "La interposición de recursos (inc. i) sí alcanza al personal contratado y de gabinete."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué derecho de quienes trabajan se relaciona con la duración del trabajo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Jornada laboral limitada",
+          "correcta": true,
+          "explicacion": "Correcta. El material menciona la 'jornada laboral limitada' entre los derechos de quienes trabajan."
+        },
+        {
+          "letra": "B",
+          "texto": "Protección contra el despido arbitrario",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa protección se refiere a la estabilidad, no a la duración de la jornada."
+        },
+        {
+          "letra": "C",
+          "texto": "Salario mínimo, vital y móvil",
+          "correcta": false,
+          "explicacion": "Incorrecta. El salario mínimo se relaciona con la remuneración, no con la duración del trabajo."
+        },
+        {
+          "letra": "D",
+          "texto": "Retribución justa",
+          "correcta": false,
+          "explicacion": "Incorrecta. La retribución justa se vincula al salario, no a la duración del trabajo."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cómo son elegidos los integrantes del Congreso de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por acuerdo de la Corte Suprema",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no atribuye esa función a la Corte Suprema."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo de la Magistratura interviene en la selección de jueces, no de legisladores."
+        },
+        {
+          "letra": "C",
+          "texto": "Por designación del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material indica que son elegidos por el voto del pueblo."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el voto del pueblo",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que los integrantes del Congreso son elegidos por el voto del pueblo."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué organismo se crea como órgano de control interno del Poder Ejecutivo Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 96 crea la Sindicatura General de la Nación como órgano de control interno del Poder Ejecutivo Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "La Comisión Parlamentaria Mixta Revisora de Cuentas",
+          "correcta": false,
+          "explicacion": "Esa comisión es parlamentaria y controla a la AGN; el control interno corresponde a la Sindicatura (art. 96)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "La AGN se crea como ente de control externo dependiente del Congreso (art. 116)."
+        },
+        {
+          "letra": "D",
+          "texto": "La Contaduría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Contaduría General es el órgano rector de la contabilidad gubernamental (art. 88)."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿qué carácter tiene el sufragio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es facultativo en todos los casos",
+          "correcta": false,
+          "explicacion": "El art. 9 se refiere al carácter individual; el deber de votar surge del art. 12."
+        },
+        {
+          "letra": "B",
+          "texto": "Es colectivo y se ejerce por agrupaciones de electores",
+          "correcta": false,
+          "explicacion": "El art. 9 establece expresamente el carácter individual del sufragio."
+        },
+        {
+          "letra": "C",
+          "texto": "Es individual y nadie puede obligar al elector a votar en grupos",
+          "correcta": true,
+          "explicacion": "El art. 9 establece que el sufragio es individual y que ninguna autoridad, persona o partido puede obligar al elector a votar en grupos."
+        },
+        {
+          "letra": "D",
+          "texto": "Es delegable en un apoderado",
+          "correcta": false,
+          "explicacion": "El art. 9 consagra el carácter individual del voto, que no es delegable."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, el abandono de servicio se considera consumado cuando el agente registra:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Más de tres (3) inasistencias continuas sin causa, previa intimación fehaciente",
+          "correcta": true,
+          "explicacion": "El art. 32 inc. b) considera consumado el abandono cuando el agente registra más de tres inasistencias continuas sin causa que lo justifique y fue intimado previamente en forma fehaciente a retomar tareas."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco inasistencias discontinuas en el año",
+          "correcta": false,
+          "explicacion": "Esa hipótesis corresponde a otra causal (art. 32 inc. a)), no al abandono."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez días corridos de ausencia",
+          "correcta": false,
+          "explicacion": "El art. 32 inc. b) habla de más de tres inasistencias continuas, no de diez días."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos faltas sin aviso previo",
+          "correcta": false,
+          "explicacion": "El abandono requiere más de tres inasistencias continuas e intimación previa."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cuál de los siguientes valores se menciona en el Preámbulo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La soberanía monetaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona la soberanía monetaria entre los valores del Preámbulo."
+        },
+        {
+          "letra": "B",
+          "texto": "La unión nacional",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera entre los valores del Preámbulo 'la unión nacional'."
+        },
+        {
+          "letra": "C",
+          "texto": "El crecimiento económico",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no incluye el crecimiento económico en la enumeración del Preámbulo."
+        },
+        {
+          "letra": "D",
+          "texto": "La integración regional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no enumera la integración regional entre los valores del Preámbulo."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, ¿quiénes no pueden ser puestos en situación de disponibilidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los contratados por tiempo determinado",
+          "correcta": false,
+          "explicacion": "El art. 12 protege a delegados y a agentes en ciertas licencias, no a los contratados."
+        },
+        {
+          "letra": "B",
+          "texto": "Los agentes con menos de un año de antigüedad",
+          "correcta": false,
+          "explicacion": "La antigüedad menor a un año no es causal de protección en el art. 12."
+        },
+        {
+          "letra": "C",
+          "texto": "Los agentes de mayor jerarquía",
+          "correcta": false,
+          "explicacion": "La jerarquía no es el criterio de protección del art. 12."
+        },
+        {
+          "letra": "D",
+          "texto": "Los delegados de personal con mandato vigente o tutela sindical pendiente",
+          "correcta": true,
+          "explicacion": "El art. 12 protege a los delegados de personal con mandato vigente o pendiente el año posterior de la tutela sindical."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué significa que la forma de gobierno sea 'representativa'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el pueblo gobierna en forma directa sin intermediarios",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material señala que gobierna por medio de representantes, no de forma directa."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el pueblo gobierna por medio de representantes que elige por el voto",
+          "correcta": true,
+          "explicacion": "Correcta. El material define 'Representativa' como que el pueblo gobierna por medio de representantes que elige por el voto."
+        },
+        {
+          "letra": "C",
+          "texto": "Que conviven gobiernos provinciales y el gobierno federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la definición del carácter federal."
+        },
+        {
+          "letra": "D",
+          "texto": "Que el poder se divide en tres poderes independientes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde al carácter republicano, no al representativo."
+        }
+      ]
+    }
+  ]
+}

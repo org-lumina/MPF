@@ -1,0 +1,789 @@
+{
+  "examen_id": 24,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La provincia de Buenos Aires es la más poblada de la Argentina. Tiene grandes ciudades y también extensos campos donde se cría ganado. Su llanura se extiende hasta donde llega la vista.",
+      "enunciado": "¿Qué afirma el texto sobre la provincia de Buenos Aires?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que no tiene ciudades grandes.",
+          "correcta": false,
+          "explicacion": "El texto dice que tiene grandes ciudades."
+        },
+        {
+          "letra": "B",
+          "texto": "Que está cubierta de montañas.",
+          "correcta": false,
+          "explicacion": "El texto menciona una llanura, no montañas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es un territorio desértico.",
+          "correcta": false,
+          "explicacion": "El texto no la describe como desértica."
+        },
+        {
+          "letra": "D",
+          "texto": "Que es la más poblada del país.",
+          "correcta": true,
+          "explicacion": "El texto dice que es la más poblada de la Argentina."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El hielo flota en el agua porque pesa menos que el agua líquida. Por eso, cuando ponemos cubitos en un vaso, no se hunden. Lo mismo ocurre con los grandes bloques de hielo en el mar.",
+      "enunciado": "Según el texto, ¿por qué flota el hielo en el agua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque tiene aire dentro.",
+          "correcta": false,
+          "explicacion": "El texto no menciona aire dentro del hielo."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque está muy frío.",
+          "correcta": false,
+          "explicacion": "El texto lo explica por el peso, no por el frío."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque pesa menos que el agua líquida.",
+          "correcta": true,
+          "explicacion": "El texto dice que el hielo flota porque pesa menos que el agua líquida."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque es transparente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la transparencia."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El manual recomienda no enchufar varios electrodomésticos de alto consumo en una misma zapatilla. La sobrecarga puede recalentar los contactos, fundir el plástico y, en casos extremos, iniciar un incendio.",
+      "enunciado": "Según el texto, ¿qué puede provocar enchufar varios aparatos de alto consumo en una sola zapatilla?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un mejor funcionamiento.",
+          "correcta": false,
+          "explicacion": "El texto advierte sobre riesgos, no mejoras."
+        },
+        {
+          "letra": "B",
+          "texto": "Una conexión más estable.",
+          "correcta": false,
+          "explicacion": "El texto advierte sobre inestabilidad y riesgo, no estabilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "El recalentamiento de los contactos.",
+          "correcta": true,
+          "explicacion": "El texto dice que la sobrecarga puede recalentar los contactos."
+        },
+        {
+          "letra": "D",
+          "texto": "Un ahorro en la factura.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los certificados solicitados se entregan únicamente al titular o a un apoderado. La entrega a terceros no autorizados está expresamente prohibida, aun cuando presenten el documento del titular.",
+      "enunciado": "¿A quién se entregan los certificados solicitados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A cualquier empleado del organismo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a empleados como destinatarios."
+        },
+        {
+          "letra": "B",
+          "texto": "A un familiar directo sin autorización.",
+          "correcta": false,
+          "explicacion": "El texto no habilita a familiares sin autorización."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente al titular o a un apoderado.",
+          "correcta": true,
+          "explicacion": "El texto limita la entrega al titular o a un apoderado."
+        },
+        {
+          "letra": "D",
+          "texto": "A cualquier persona que presente el documento del titular.",
+          "correcta": false,
+          "explicacion": "El texto prohíbe la entrega a terceros aunque presenten el documento del titular."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La provincia de Misiones tiene un suelo de color rojizo muy característico. Ese color se debe a la presencia de hierro en la tierra. Sobre ese suelo crece una selva muy verde y húmeda.",
+      "enunciado": "Según el texto, ¿a qué se debe el color rojizo del suelo de Misiones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al color de las plantas.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el color del suelo con las plantas."
+        },
+        {
+          "letra": "B",
+          "texto": "Al sol intenso de la zona.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sol como causa."
+        },
+        {
+          "letra": "C",
+          "texto": "A la presencia de hierro en la tierra.",
+          "correcta": true,
+          "explicacion": "El texto dice que el color se debe a la presencia de hierro."
+        },
+        {
+          "letra": "D",
+          "texto": "A la gran cantidad de lluvias.",
+          "correcta": false,
+          "explicacion": "El texto no atribuye el color a las lluvias."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las personas activas suelen tener más energía en su día a día. El movimiento regular mejora la resistencia y reduce la sensación de cansancio. Esto se nota en las tareas cotidianas.",
+      "enunciado": "Según el texto, ¿qué efecto tiene el movimiento regular?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumenta el cansancio para siempre",
+          "correcta": false,
+          "explicacion": "El texto dice que reduce la sensación de cansancio."
+        },
+        {
+          "letra": "B",
+          "texto": "Quita el apetito por completo",
+          "correcta": false,
+          "explicacion": "El texto no menciona el apetito."
+        },
+        {
+          "letra": "C",
+          "texto": "Disminuye las horas de sueño necesarias",
+          "correcta": false,
+          "explicacion": "El texto no habla del sueño."
+        },
+        {
+          "letra": "D",
+          "texto": "Mejora la resistencia y reduce el cansancio",
+          "correcta": true,
+          "explicacion": "El texto dice que el movimiento regular mejora la resistencia y reduce el cansancio."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para conservar el filo de las cuchillas de la procesadora, no procese alimentos congelados ni huesos. Utilice siempre la velocidad recomendada según el tipo de alimento que indica la tabla del manual.",
+      "enunciado": "Según el texto, ¿qué no debe procesarse con la procesadora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Verduras frescas y blandas.",
+          "correcta": false,
+          "explicacion": "El texto no prohíbe alimentos frescos y blandos."
+        },
+        {
+          "letra": "B",
+          "texto": "Frutas a velocidad recomendada.",
+          "correcta": false,
+          "explicacion": "El texto permite procesar a la velocidad recomendada."
+        },
+        {
+          "letra": "C",
+          "texto": "Salsas y purés líquidos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona prohibición de salsas o purés."
+        },
+        {
+          "letra": "D",
+          "texto": "Alimentos congelados y huesos.",
+          "correcta": true,
+          "explicacion": "El texto indica no procesar alimentos congelados ni huesos."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las paradas de colectivo están señalizadas para que los pasajeros esperen en un lugar seguro. El colectivo solo debe detenerse en esos puntos. Subir o bajar fuera de la parada puede ser peligroso.",
+      "enunciado": "Según el texto, ¿dónde debe detenerse el colectivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Donde el pasajero lo pida.",
+          "correcta": false,
+          "explicacion": "El texto no menciona detenerse donde el pasajero pida."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier esquina.",
+          "correcta": false,
+          "explicacion": "El texto limita las detenciones a las paradas señalizadas."
+        },
+        {
+          "letra": "C",
+          "texto": "En el medio de la avenida.",
+          "correcta": false,
+          "explicacion": "El texto no menciona detenerse en el medio de la avenida."
+        },
+        {
+          "letra": "D",
+          "texto": "En las paradas señalizadas.",
+          "correcta": true,
+          "explicacion": "El texto dice que el colectivo solo debe detenerse en esos puntos señalizados."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 45 unidades y hay 7 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "308",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "315",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 45 × 7 = 315."
+        },
+        {
+          "letra": "D",
+          "texto": "360",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 420?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "21",
+          "correcta": true,
+          "explicacion": "El 5 % de 420 se calcula 5 ÷ 100 × 420 = 21."
+        },
+        {
+          "letra": "C",
+          "texto": "42",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "31",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 3 cuadernos cuestan $150, ¿cuánto cuestan 5 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "155",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "250",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $150 ÷ 3 = $50; entonces 5 cuestan $50 × 5 = $250."
+        },
+        {
+          "letra": "D",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 320 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "520",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 320 + 200 = 520."
+        },
+        {
+          "letra": "C",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "540",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 3 cuadernos cuestan $120, ¿cuánto cuestan 5 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "200",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $120 ÷ 3 = $40; entonces 5 cuestan $40 × 5 = $200."
+        },
+        {
+          "letra": "D",
+          "texto": "125",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 160 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "440",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 160 + 280 = 440."
+        },
+        {
+          "letra": "B",
+          "texto": "460",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "430",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 580?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "464",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "237",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "232",
+          "correcta": true,
+          "explicacion": "El 40 % de 580 se calcula 40 ÷ 100 × 580 = 232."
+        },
+        {
+          "letra": "D",
+          "texto": "242",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 6 cuadernos cuestan $180, ¿cuánto cuestan 9 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "189",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "270",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $180 ÷ 6 = $30; entonces 9 cuestan $30 × 9 = $270."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿qué órgano realiza el escrutinio del distrito y proclama a los electos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Ministerio del Interior",
+          "correcta": false,
+          "explicacion": "El art. 52 atribuye el escrutinio del distrito y la proclamación a la junta electoral."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente de cada mesa",
+          "correcta": false,
+          "explicacion": "El presidente hace el escrutinio de su mesa; el del distrito corresponde a la junta (art. 52, inc. 5)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Dirección Nacional Electoral",
+          "correcta": false,
+          "explicacion": "El art. 52, inc. 5 asigna esa función a la junta electoral."
+        },
+        {
+          "letra": "D",
+          "texto": "La junta electoral",
+          "correcta": true,
+          "explicacion": "El art. 52, inc. 5 atribuye a las juntas electorales realizar el escrutinio del distrito, proclamar a los electos y otorgarles sus diplomas."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Preámbulo descripto en el material, ¿la libertad que se busca proteger es la de quiénes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De las provincias y la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material se refiere a la libertad de los habitantes, no de las provincias."
+        },
+        {
+          "letra": "B",
+          "texto": "De todos los habitantes",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Preámbulo expresa la protección de la libertad de todos los habitantes."
+        },
+        {
+          "letra": "C",
+          "texto": "De los representantes elegidos por el voto",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no limita la protección de la libertad a los representantes."
+        },
+        {
+          "letra": "D",
+          "texto": "De los ciudadanos argentinos exclusivamente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material habla de la libertad de todos los habitantes, no solo de los ciudadanos."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cuál de estos figura entre los derechos que protegen a la familia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El seguro social obligatorio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El seguro social obligatorio figura entre los derechos de la seguridad social."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho de huelga",
+          "correcta": false,
+          "explicacion": "Incorrecta. El derecho de huelga figura entre los derechos de los gremios."
+        },
+        {
+          "letra": "C",
+          "texto": "La retribución justa",
+          "correcta": false,
+          "explicacion": "Incorrecta. La retribución justa figura entre los derechos de quienes trabajan."
+        },
+        {
+          "letra": "D",
+          "texto": "El acceso a una vivienda digna",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera el 'acceso a una vivienda digna' entre los derechos que protegen a la familia."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cuál es un derecho de la seguridad social?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La jornada laboral limitada",
+          "correcta": false,
+          "explicacion": "Incorrecta. La jornada laboral limitada figura entre los derechos de quienes trabajan."
+        },
+        {
+          "letra": "B",
+          "texto": "El acceso a una vivienda digna",
+          "correcta": false,
+          "explicacion": "Incorrecta. El acceso a una vivienda digna figura entre los derechos que protegen a la familia."
+        },
+        {
+          "letra": "C",
+          "texto": "Los convenios colectivos de trabajo",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los convenios colectivos figuran entre los derechos de los gremios."
+        },
+        {
+          "letra": "D",
+          "texto": "Las jubilaciones y pensiones móviles",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera las 'jubilaciones y pensiones móviles' entre los derechos de la seguridad social."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 12 de la Ley 19.549, la Administración puede suspender de oficio o a pedido de parte la ejecución del acto, mediante resolución fundada, cuando:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hayan transcurrido más de noventa días del dictado",
+          "correcta": false,
+          "explicacion": "El mero transcurso de noventa días no habilita la suspensión prevista en el art. 12."
+        },
+        {
+          "letra": "B",
+          "texto": "El acto haya sido publicado en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "La publicación no es causal de suspensión; el art. 12 enumera interés público, mayores perjuicios o nulidad ostensible y absoluta."
+        },
+        {
+          "letra": "C",
+          "texto": "Se alegue fundadamente una nulidad ostensible y absoluta",
+          "correcta": true,
+          "explicacion": "El art. 12 permite suspender la ejecución por razones de interés público, cuando cause mayores perjuicios que su suspensión o cuando se alegue fundadamente una nulidad ostensible y absoluta."
+        },
+        {
+          "letra": "D",
+          "texto": "Lo solicite cualquier tercero ajeno al trámite",
+          "correcta": false,
+          "explicacion": "La suspensión no procede por pedido de cualquier tercero ajeno; depende de razones de interés público, perjuicios mayores o nulidad ostensible."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué ocurre con la reelección del Presidente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No puede ser reelegido en ningún caso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material indica que puede ser reelegido al terminar su mandato."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede ser reelegido de forma indefinida",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material establece un período de espera de al menos 4 años tras la reelección."
+        },
+        {
+          "letra": "C",
+          "texto": "Puede ser reelegido al terminar su mandato y luego no hasta que pasen al menos 4 años",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que puede ser reelegido cuando termina su mandato y luego no puede ser vuelto a elegir hasta que pasen al menos 4 años."
+        },
+        {
+          "letra": "D",
+          "texto": "Puede volver a ser elegido inmediatamente cuantas veces quiera",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material limita la posibilidad con un período de espera de al menos 4 años."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el material, ¿cuál de estos valores se enuncia en el Preámbulo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El desarrollo industrial",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona el desarrollo industrial en el Preámbulo."
+        },
+        {
+          "letra": "B",
+          "texto": "La autonomía municipal",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona la autonomía municipal en el Preámbulo."
+        },
+        {
+          "letra": "C",
+          "texto": "La igualdad tributaria",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no enuncia la igualdad tributaria en el Preámbulo."
+        },
+        {
+          "letra": "D",
+          "texto": "El bienestar general",
+          "correcta": true,
+          "explicacion": "Correcta. El material incluye 'el bienestar general' entre los valores del Preámbulo."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 4 de la Ley 25.188, ¿cuándo debe presentarse la última declaración jurada patrimonial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes de cumplirse el primer año de gestión",
+          "correcta": false,
+          "explicacion": "Esa sería la actualización anual; la última se presenta al cesar (art. 4)."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de los treinta días hábiles desde la fecha de cesación en el cargo",
+          "correcta": true,
+          "explicacion": "El art. 4 exige presentar una última declaración dentro de los treinta días hábiles desde la cesación en el cargo."
+        },
+        {
+          "letra": "C",
+          "texto": "En el mismo acto de renuncia, sin plazo adicional",
+          "correcta": false,
+          "explicacion": "La ley otorga treinta días hábiles desde la cesación (art. 4)."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentro de los noventa días desde la cesación",
+          "correcta": false,
+          "explicacion": "El plazo es de treinta días hábiles desde la cesación, no noventa (art. 4)."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 7 de la Ley 25.188, las declaraciones juradas quedan depositadas en los organismos respectivos, que deben remitir copia autenticada a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 7 indica la Comisión Nacional de Ética Pública como destinataria."
+        },
+        {
+          "letra": "B",
+          "texto": "La Comisión Nacional de Ética Pública",
+          "correcta": true,
+          "explicacion": "El art. 7 dispone remitir copia autenticada a la Comisión Nacional de Ética Pública dentro de los treinta días."
+        },
+        {
+          "letra": "C",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "La copia se remite a la Comisión Nacional de Ética Pública, no a la AGN (art. 7)."
+        },
+        {
+          "letra": "D",
+          "texto": "El juzgado en lo Contencioso Administrativo Federal",
+          "correcta": false,
+          "explicacion": "La copia se remite a la Comisión Nacional de Ética Pública (art. 7)."
+        }
+      ]
+    }
+  ]
+}

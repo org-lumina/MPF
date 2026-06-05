@@ -1,0 +1,789 @@
+{
+  "examen_id": 6,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Ducharse en lugar de bañarse en la bañadera ayuda a usar menos agua. Una ducha breve consume bastante menos que llenar una bañadera completa. Si además cerramos el agua mientras nos enjabonamos, el ahorro es mayor.",
+      "enunciado": "Según el texto, ¿qué conviene hacer para usar menos agua al asearse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejar la ducha abierta mientras nos enjabonamos.",
+          "correcta": false,
+          "explicacion": "El texto sugiere cerrar el agua al enjabonarse."
+        },
+        {
+          "letra": "B",
+          "texto": "Llenar la bañadera hasta el borde.",
+          "correcta": false,
+          "explicacion": "El texto dice que la bañadera consume más agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Ducharse durante mucho tiempo.",
+          "correcta": false,
+          "explicacion": "El texto habla de una ducha breve, no prolongada."
+        },
+        {
+          "letra": "D",
+          "texto": "Ducharse en lugar de llenar la bañadera.",
+          "correcta": true,
+          "explicacion": "El texto recomienda ducharse en lugar de bañarse en la bañadera para usar menos agua."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las porciones de frutas a lo largo del día son una buena alternativa de colación. En lugar de elegir golosinas, una fruta aporta vitaminas y fibra. Tener fruta a mano facilita esta elección saludable.",
+      "enunciado": "De acuerdo con el texto, ¿qué conviene elegir como colación en lugar de golosinas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bebidas azucaradas",
+          "correcta": false,
+          "explicacion": "El texto no menciona bebidas azucaradas."
+        },
+        {
+          "letra": "B",
+          "texto": "Una fruta",
+          "correcta": true,
+          "explicacion": "El texto propone elegir una fruta en lugar de golosinas."
+        },
+        {
+          "letra": "C",
+          "texto": "Barras de cereal ultraprocesadas",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Una fruta»."
+        },
+        {
+          "letra": "D",
+          "texto": "Galletitas dulces secas",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Una fruta»."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La afeitadora eléctrica recargable debe cargarse por completo antes del primer uso. Una vez cargada, desconéctela del cable y úsela de manera inalámbrica para mayor comodidad y seguridad.",
+      "enunciado": "Según el texto, ¿qué se debe hacer antes del primer uso de la afeitadora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lavarla con detergente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona lavarla con detergente."
+        },
+        {
+          "letra": "B",
+          "texto": "Usarla conectada al cable.",
+          "correcta": false,
+          "explicacion": "El texto recomienda usarla inalámbrica luego de cargarla."
+        },
+        {
+          "letra": "C",
+          "texto": "Cargarla por completo.",
+          "correcta": true,
+          "explicacion": "El texto indica cargarla por completo antes del primer uso."
+        },
+        {
+          "letra": "D",
+          "texto": "Cambiarle las cuchillas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el cambio de cuchillas."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Apagar y volver a encender un dispositivo soluciona muchos problemas menores. Al reiniciar, se cierran procesos que estaban fallando. Es una de las primeras cosas que conviene probar.",
+      "enunciado": "Según el texto, ¿qué efecto tiene reiniciar un dispositivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambia la contraseña.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contraseñas."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejora la cámara.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cámara."
+        },
+        {
+          "letra": "C",
+          "texto": "Borra todas las fotos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona borrado de fotos."
+        },
+        {
+          "letra": "D",
+          "texto": "Cierra procesos que estaban fallando.",
+          "correcta": true,
+          "explicacion": "El texto dice que al reiniciar se cierran procesos que fallaban."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cambio climático se relaciona con el aumento de gases que retienen el calor en la atmósfera. Muchas actividades humanas, como quemar combustibles, liberan esos gases. Reducir el consumo de energía ayuda a disminuir esas emisiones.",
+      "enunciado": "Según el texto, ¿con qué se relaciona el cambio climático?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el aumento del agua potable.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua potable en este caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el aumento de gases que retienen el calor en la atmósfera.",
+          "correcta": true,
+          "explicacion": "El texto dice que el cambio climático se relaciona con el aumento de esos gases."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la disminución de la basura.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el cambio climático con menos basura."
+        },
+        {
+          "letra": "D",
+          "texto": "Con el reciclaje de vidrio.",
+          "correcta": false,
+          "explicacion": "El texto no asocia el reciclaje de vidrio con el cambio climático."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La sombra se forma cuando un objeto bloquea la luz. Si nos paramos al sol, nuestro cuerpo impide que la luz llegue al suelo y aparece la sombra. Por eso la sombra cambia de tamaño según la posición del Sol.",
+      "enunciado": "Según el texto, ¿cómo se forma la sombra?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando hay mucho viento.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el viento."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando llueve sobre el suelo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la lluvia."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando un objeto bloquea la luz.",
+          "correcta": true,
+          "explicacion": "El texto dice que la sombra se forma cuando un objeto bloquea la luz."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando el Sol se oculta.",
+          "correcta": false,
+          "explicacion": "El texto dice que la sombra aparece al sol, no cuando se oculta."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La Mesa de Entradas atiende al público de lunes a viernes, de 8 a 14 horas. Los trámites que ingresen después de las 13 horas serán registrados con fecha del día hábil siguiente.",
+      "enunciado": "Según el texto, ¿qué ocurre con un trámite presentado a las 13:30?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se registra con la fecha del mismo día.",
+          "correcta": false,
+          "explicacion": "Solo se registra el mismo día lo ingresado antes de las 13 horas."
+        },
+        {
+          "letra": "B",
+          "texto": "No se recibe y debe volver al otro día.",
+          "correcta": false,
+          "explicacion": "El texto no dice que se rechace, sino que se registra con otra fecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Se registra recién la semana siguiente.",
+          "correcta": false,
+          "explicacion": "El texto menciona el día hábil siguiente, no la semana siguiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Se registra con fecha del día hábil siguiente.",
+          "correcta": true,
+          "explicacion": "El texto dice que lo ingresado después de las 13 horas se registra con fecha del día hábil siguiente."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Al instalar el lavarropas, asegúrese de retirar los tornillos de transporte ubicados en la parte trasera. Si se ponen en marcha sin quitarlos, el tambor no podrá girar libremente y el equipo sufrirá daños graves.",
+      "enunciado": "Según el texto, ¿qué hay que retirar antes de poner en marcha el lavarropas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La tapa del tambor.",
+          "correcta": false,
+          "explicacion": "El texto no menciona retirar la tapa del tambor."
+        },
+        {
+          "letra": "B",
+          "texto": "El cable de alimentación.",
+          "correcta": false,
+          "explicacion": "El texto no menciona retirar el cable."
+        },
+        {
+          "letra": "C",
+          "texto": "Los tornillos de transporte.",
+          "correcta": true,
+          "explicacion": "El texto indica retirar los tornillos de transporte de la parte trasera."
+        },
+        {
+          "letra": "D",
+          "texto": "La manguera de desagüe.",
+          "correcta": false,
+          "explicacion": "El texto no menciona retirar la manguera."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 400?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60",
+          "correcta": true,
+          "explicacion": "El 15 % de 400 se calcula 15 ÷ 100 × 400 = 60."
+        },
+        {
+          "letra": "B",
+          "texto": "65",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "70",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el doble de 12 más 8?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "32",
+          "correcta": true,
+          "explicacion": "El doble de 12 es 24; más 8 es 32."
+        },
+        {
+          "letra": "C",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "16",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 600 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "750",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "780",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "760",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 600 + 160 = 760."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 400?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "305",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "310",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "300",
+          "correcta": true,
+          "explicacion": "El 75 % de 400 se calcula 75 ÷ 100 × 400 = 300."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 780?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "312",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "161",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "166",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "156",
+          "correcta": true,
+          "explicacion": "El 20 % de 780 se calcula 20 ÷ 100 × 780 = 156."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 340?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "95",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "85",
+          "correcta": true,
+          "explicacion": "El 25 % de 340 se calcula 25 ÷ 100 × 340 = 85."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 400 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "285",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "265",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "525",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "275",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 400 − 125 = 275."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 900?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "685",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "1.350",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "680",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "675",
+          "correcta": true,
+          "explicacion": "El 75 % de 900 se calcula 75 ÷ 100 × 900 = 675."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 6 de la Ley 25.188, los otros bienes muebles deben individualizarse cuando uno de ellos supere la suma de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cincuenta mil pesos ($ 50.000)",
+          "correcta": false,
+          "explicacion": "El art. 6, inc. c, fija cinco mil pesos como umbral de individualización."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez mil pesos ($ 10.000)",
+          "correcta": false,
+          "explicacion": "El umbral del art. 6, inc. c, es de cinco mil pesos, no diez mil."
+        },
+        {
+          "letra": "C",
+          "texto": "Mil pesos ($ 1.000)",
+          "correcta": false,
+          "explicacion": "El monto fijado por el art. 6, inc. c, es de cinco mil pesos, no mil."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco mil pesos ($ 5.000)",
+          "correcta": true,
+          "explicacion": "El art. 6, inc. c, exige individualizar el bien mueble cuando supere los cinco mil pesos."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 15 de la Ley 19.549, las irregularidades u omisiones no esenciales:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No dan lugar a nulidad alguna",
+          "correcta": true,
+          "explicacion": "El art. 15 establece que las irregularidades u omisiones no esenciales no dan lugar a nulidad alguna."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligan a publicar nuevamente el acto",
+          "correcta": false,
+          "explicacion": "No imponen una nueva publicación; carecen de efecto nulificante según el art. 15."
+        },
+        {
+          "letra": "C",
+          "texto": "Generan siempre nulidad absoluta",
+          "correcta": false,
+          "explicacion": "Las irregularidades no esenciales no generan nulidad absoluta; no producen nulidad alguna."
+        },
+        {
+          "letra": "D",
+          "texto": "Provocan la caducidad del acto",
+          "correcta": false,
+          "explicacion": "No provocan caducidad; el art. 15 dispone que no dan lugar a nulidad alguna."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de regalos, ¿dónde deben registrarse los obsequios de cortesía o por costumbre diplomática?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el Registro de Obsequios a Funcionarios Públicos, a cargo de la Oficina Anticorrupción",
+          "correcta": true,
+          "explicacion": "Las normas indican registrarlos a través del sistema GEDO en el Registro de Obsequios a Funcionarios Públicos a cargo de la Oficina Anticorrupción."
+        },
+        {
+          "letra": "B",
+          "texto": "En la Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "El registro está a cargo de la Oficina Anticorrupción, no de la SIGEN."
+        },
+        {
+          "letra": "C",
+          "texto": "En el Boletín Oficial de la Nación",
+          "correcta": false,
+          "explicacion": "El registro se realiza en el Registro de Obsequios a Funcionarios Públicos, no en el Boletín Oficial."
+        },
+        {
+          "letra": "D",
+          "texto": "En la Comisión Nacional de Ética Pública",
+          "correcta": false,
+          "explicacion": "El registro corresponde al Registro de Obsequios a cargo de la Oficina Anticorrupción."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral Nacional, ¿desde qué edad son electores los argentinos naturalizados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desde los dieciocho (18) años de edad",
+          "correcta": true,
+          "explicacion": "El art. 1 dispone que los argentinos naturalizados son electores desde los dieciocho (18) años de edad."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde los veinticinco (25) años de edad",
+          "correcta": false,
+          "explicacion": "El art. 1 fija los dieciocho años, no los veinticinco."
+        },
+        {
+          "letra": "C",
+          "texto": "Desde los veintiún (21) años de edad",
+          "correcta": false,
+          "explicacion": "El art. 1 no establece los veintiún años para los naturalizados."
+        },
+        {
+          "letra": "D",
+          "texto": "Desde los dieciséis (16) años de edad",
+          "correcta": false,
+          "explicacion": "Los dieciséis años corresponden a los argentinos nativos y por opción (art. 1)."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el régimen de contratos con el Estado, ¿cuándo debe presentarse la Declaración Jurada de Intereses?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al momento de inscribirse como proveedor o contratista del Estado Nacional",
+          "correcta": true,
+          "explicacion": "El régimen establece que debe presentarse al momento de inscribirse como proveedor o contratista del Estado Nacional en los registros correspondientes."
+        },
+        {
+          "letra": "B",
+          "texto": "Al finalizar la ejecución del contrato",
+          "correcta": false,
+          "explicacion": "La presentación es al inscribirse como proveedor o contratista, no al finalizar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo después de firmado el contrato",
+          "correcta": false,
+          "explicacion": "Debe presentarse al inscribirse, no luego de firmar el contrato."
+        },
+        {
+          "letra": "D",
+          "texto": "Cada vez que se cobra una factura",
+          "correcta": false,
+          "explicacion": "La presentación se vincula con la inscripción como proveedor o contratista, no con cada cobro."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 7 de la Ley 19.549, el requisito de motivación del acto administrativo exige:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reservar las razones del acto por confidencialidad",
+          "correcta": false,
+          "explicacion": "La motivación implica expresar las razones, no reservarlas."
+        },
+        {
+          "letra": "B",
+          "texto": "Expresar en forma concreta las razones que inducen a emitir el acto",
+          "correcta": true,
+          "explicacion": "El art. 7, inc. e) dispone que el acto deberá ser motivado, expresando en forma concreta las razones que inducen a emitirlo."
+        },
+        {
+          "letra": "C",
+          "texto": "Remitir genéricamente a la normativa vigente",
+          "correcta": false,
+          "explicacion": "La motivación requiere razones concretas, no una remisión genérica a la normativa."
+        },
+        {
+          "letra": "D",
+          "texto": "Indicar únicamente el número de expediente",
+          "correcta": false,
+          "explicacion": "La sola indicación del expediente no satisface la motivación exigida por el art. 7, inc. e)."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cuál de estos es un derecho de todas las personas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Derecho a la integridad física",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera el 'derecho a la integridad física' entre los derechos de todas las personas."
+        },
+        {
+          "letra": "B",
+          "texto": "Derecho al seguro social obligatorio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El seguro social obligatorio figura entre los derechos de la seguridad social."
+        },
+        {
+          "letra": "C",
+          "texto": "Derecho a hacer convenios colectivos de trabajo",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los convenios colectivos figuran entre los derechos de los gremios."
+        },
+        {
+          "letra": "D",
+          "texto": "Derecho al salario mínimo, vital y móvil",
+          "correcta": false,
+          "explicacion": "Incorrecta. El salario mínimo, vital y móvil figura entre los derechos de quienes trabajan."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, el personal de planta permanente no podrá ser privado de su empleo ni sancionado:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Salvo decisión discrecional del superior",
+          "correcta": false,
+          "explicacion": "La discrecionalidad del superior no habilita a sancionar fuera de las causas legales."
+        },
+        {
+          "letra": "B",
+          "texto": "Sino por las causas y en las condiciones que expresamente se establecen",
+          "correcta": true,
+          "explicacion": "El art. 27 establece que el personal de planta permanente no podrá ser privado de su empleo ni sancionado sino por las causas y en las condiciones que expresamente se establecen."
+        },
+        {
+          "letra": "C",
+          "texto": "Excepto por razones presupuestarias",
+          "correcta": false,
+          "explicacion": "El art. 27 no contempla las razones presupuestarias como causal disciplinaria."
+        },
+        {
+          "letra": "D",
+          "texto": "Salvo orden verbal de la autoridad de aplicación",
+          "correcta": false,
+          "explicacion": "Una orden verbal no habilita a privar del empleo fuera del marco legal."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, la adquisición de la estabilidad requiere un período de prueba de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seis (6) meses de prestación de servicios efectivos",
+          "correcta": false,
+          "explicacion": "El período de prueba del art. 17 no es de seis meses."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) años de prestación de servicios efectivos",
+          "correcta": false,
+          "explicacion": "El art. 17 fija doce meses, no tres años."
+        },
+        {
+          "letra": "C",
+          "texto": "Veinticuatro (24) meses de prestación de servicios efectivos",
+          "correcta": false,
+          "explicacion": "El período de prueba es de doce meses, no veinticuatro."
+        },
+        {
+          "letra": "D",
+          "texto": "Doce (12) meses de prestación de servicios efectivos",
+          "correcta": true,
+          "explicacion": "El art. 17 inc. a) exige un período de prueba de doce (12) meses de prestación de servicios efectivos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "examen_id": 2,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La rana es un animal que vive cerca del agua. Nace de un huevo y al principio es un renacuajo con cola y sin patas. Con el tiempo, le crecen las patas y pierde la cola.",
+      "enunciado": "Según el texto, ¿cómo es la rana al principio de su vida?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Vive lejos del agua.",
+          "correcta": false,
+          "explicacion": "El texto dice que vive cerca del agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Tiene alas para saltar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona alas."
+        },
+        {
+          "letra": "C",
+          "texto": "Ya tiene cuatro patas grandes.",
+          "correcta": false,
+          "explicacion": "El texto dice que las patas le crecen después."
+        },
+        {
+          "letra": "D",
+          "texto": "Es un renacuajo con cola y sin patas.",
+          "correcta": true,
+          "explicacion": "El texto dice que al principio es un renacuajo con cola y sin patas."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de cruzar la calle, el peatón debe mirar hacia ambos lados. Conviene esperar a que los vehículos se detengan por completo. Cruzar con apuro o distraído puede provocar accidentes.",
+      "enunciado": "Según el texto, ¿qué debe hacer el peatón antes de cruzar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mirar solo hacia adelante.",
+          "correcta": false,
+          "explicacion": "El texto pide mirar hacia ambos lados, no solo adelante."
+        },
+        {
+          "letra": "B",
+          "texto": "Usar siempre el celular al cruzar.",
+          "correcta": false,
+          "explicacion": "El texto advierte contra cruzar distraído."
+        },
+        {
+          "letra": "C",
+          "texto": "Mirar hacia ambos lados.",
+          "correcta": true,
+          "explicacion": "El texto indica que el peatón debe mirar hacia ambos lados antes de cruzar."
+        },
+        {
+          "letra": "D",
+          "texto": "Correr para cruzar rápido.",
+          "correcta": false,
+          "explicacion": "El texto advierte que cruzar con apuro puede provocar accidentes."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se comunica que el ascensor de carga no debe usarse para el traslado de personas. Está reservado para el movimiento de cajas de archivo y equipos pesados entre los pisos.",
+      "enunciado": "¿Para qué está reservado el ascensor de carga?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para el movimiento de cajas de archivo y equipos pesados.",
+          "correcta": true,
+          "explicacion": "El texto indica que se reserva para cajas de archivo y equipos pesados."
+        },
+        {
+          "letra": "B",
+          "texto": "Para el traslado de personas con apuro.",
+          "correcta": false,
+          "explicacion": "El texto aclara que no debe usarse para trasladar personas."
+        },
+        {
+          "letra": "C",
+          "texto": "Para uso exclusivo de la Dirección.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a la Dirección."
+        },
+        {
+          "letra": "D",
+          "texto": "Para el ingreso de visitantes.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ingreso de visitantes."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Incorporar más fibra a la alimentación favorece la digestión. La fibra está presente en frutas, verduras, legumbres y cereales integrales. Una dieta con suficiente fibra ayuda al buen funcionamiento del intestino.",
+      "enunciado": "Según el texto, ¿en qué alimentos está presente la fibra?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Frutas, verduras, legumbres y cereales integrales",
+          "correcta": true,
+          "explicacion": "El texto enumera frutas, verduras, legumbres y cereales integrales."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo en el agua",
+          "correcta": false,
+          "explicacion": "El texto no atribuye fibra al agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en las gaseosas",
+          "correcta": false,
+          "explicacion": "El texto no menciona gaseosas."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente en las golosinas",
+          "correcta": false,
+          "explicacion": "El texto no menciona golosinas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La cafetera cuenta con un sistema de apagado automático que se activa luego de treinta minutos de inactividad. Esta función ahorra energía y evita que el café se recaliente en exceso dentro de la jarra.",
+      "enunciado": "Según el texto, ¿cuál es la idea principal del fragmento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El apagado automático ahorra energía y cuida el café.",
+          "correcta": true,
+          "explicacion": "El texto explica que esa función ahorra energía y evita el recalentamiento del café."
+        },
+        {
+          "letra": "B",
+          "texto": "La jarra debe lavarse cada treinta minutos.",
+          "correcta": false,
+          "explicacion": "El texto no habla de lavar la jarra cada media hora."
+        },
+        {
+          "letra": "C",
+          "texto": "La cafetera no tiene función de apagado.",
+          "correcta": false,
+          "explicacion": "El texto afirma que sí cuenta con apagado automático."
+        },
+        {
+          "letra": "D",
+          "texto": "El café debe servirse caliente siempre.",
+          "correcta": false,
+          "explicacion": "El texto busca evitar el recalentamiento, no asegurar el calor."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las tapitas de plástico que se juntan en campañas solidarias se venden para reciclaje y lo recaudado se destina a causas benéficas. De esta forma, un material que iba a desecharse se transforma en ayuda. Muchas escuelas y hospitales organizan estas colectas.",
+      "enunciado": "Según el texto, ¿a qué se destina lo recaudado por las tapitas de plástico?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A pagar el servicio de agua.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el servicio de agua."
+        },
+        {
+          "letra": "B",
+          "texto": "A comprar más plástico.",
+          "correcta": false,
+          "explicacion": "El texto no menciona comprar más plástico."
+        },
+        {
+          "letra": "C",
+          "texto": "A fabricar bolsas de tela.",
+          "correcta": false,
+          "explicacion": "El texto no habla de fabricar bolsas."
+        },
+        {
+          "letra": "D",
+          "texto": "A causas benéficas.",
+          "correcta": true,
+          "explicacion": "El texto dice que lo recaudado se destina a causas benéficas."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las escaleras de emergencia deben mantenerse despejadas y con la iluminación en funcionamiento. En un corte de energía, las luces de emergencia permiten ver los escalones y bajar con seguridad.",
+      "enunciado": "Según el texto, ¿para qué sirven las luces de emergencia en las escaleras?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para ahorrar electricidad",
+          "correcta": false,
+          "explicacion": "El texto no habla de ahorro de electricidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Para ver los escalones y bajar con seguridad en un corte de energía",
+          "correcta": true,
+          "explicacion": "El texto dice que permiten ver los escalones ante un corte de energía."
+        },
+        {
+          "letra": "C",
+          "texto": "Para decorar el edificio",
+          "correcta": false,
+          "explicacion": "El texto no menciona decoración."
+        },
+        {
+          "letra": "D",
+          "texto": "Para indicar la hora de salida",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las luces con la hora de salida."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Tomar sol con moderación ayuda al cuerpo, pero el exceso puede dañar la piel. Conviene evitar las horas del mediodía, cuando el sol es más fuerte. Usar sombrero y buscar la sombra son medidas de cuidado.",
+      "enunciado": "Según el texto, ¿qué horas conviene evitar para tomar sol?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las horas de la noche",
+          "correcta": false,
+          "explicacion": "De noche no hay sol; el texto no lo plantea."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier hora del día por igual",
+          "correcta": false,
+          "explicacion": "El texto señala específicamente el mediodía."
+        },
+        {
+          "letra": "C",
+          "texto": "Las primeras horas de la mañana",
+          "correcta": false,
+          "explicacion": "El texto no menciona evitar la mañana temprana."
+        },
+        {
+          "letra": "D",
+          "texto": "Las horas del mediodía",
+          "correcta": true,
+          "explicacion": "El texto recomienda evitar el mediodía, cuando el sol es más fuerte."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 800 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "710",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "730",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "720",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 800 − 80 = 720."
+        },
+        {
+          "letra": "D",
+          "texto": "880",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 540 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "710",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "370",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 540 − 170 = 370."
+        },
+        {
+          "letra": "C",
+          "texto": "360",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 680?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "510",
+          "correcta": true,
+          "explicacion": "El 75 % de 680 se calcula 75 ÷ 100 × 680 = 510."
+        },
+        {
+          "letra": "B",
+          "texto": "1.020",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "515",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "520",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 680?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "68",
+          "correcta": true,
+          "explicacion": "El 10 % de 680 se calcula 10 ÷ 100 × 680 = 68."
+        },
+        {
+          "letra": "B",
+          "texto": "136",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "78",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "73",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 31 unidades y hay 5 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "186",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "36",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "155",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 31 × 5 = 155."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 3 cuadernos cuestan $120, ¿cuánto cuestan 4 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "160",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $120 ÷ 3 = $40; entonces 4 cuestan $40 × 4 = $160."
+        },
+        {
+          "letra": "C",
+          "texto": "124",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es 2/3 de 180?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "121",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "120",
+          "correcta": true,
+          "explicacion": "2/3 de 180 = 180 ÷ 3 × 2 = 120."
+        },
+        {
+          "letra": "C",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 780 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "530",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "1.040",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "520",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 780 − 260 = 520."
+        },
+        {
+          "letra": "D",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿qué requisitos deben reunir los fiscales de los partidos políticos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Saber leer y escribir y ser electores del distrito en que pretendan actuar",
+          "correcta": true,
+          "explicacion": "El art. 58 exige que los fiscales sepan leer y escribir y sean electores del distrito en que pretendan actuar."
+        },
+        {
+          "letra": "B",
+          "texto": "Tener título universitario",
+          "correcta": false,
+          "explicacion": "El art. 58 no requiere título universitario."
+        },
+        {
+          "letra": "C",
+          "texto": "Ser mayores de veintiún años y afiliados al partido",
+          "correcta": false,
+          "explicacion": "El art. 58 no exige esa edad ni la afiliación, sino saber leer y escribir y ser electores del distrito."
+        },
+        {
+          "letra": "D",
+          "texto": "Residir en la sección donde funcione la mesa",
+          "correcta": false,
+          "explicacion": "El art. 58 exige ser elector del distrito; el requisito de residir en la sección es para las autoridades de mesa (art. 73)."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el texto sobre silencio de la administración, ¿qué se entiende por silencio administrativo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El hecho de que un organismo no responda en un plazo determinado a una solicitud",
+          "correcta": true,
+          "explicacion": "El material define el silencio administrativo como el hecho de que un organismo de la administración no responda en un plazo determinado a una solicitud presentada por un particular."
+        },
+        {
+          "letra": "B",
+          "texto": "La publicación tardía de un acto en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "El silencio es la ausencia de respuesta a una solicitud, no una publicación tardía."
+        },
+        {
+          "letra": "C",
+          "texto": "La demora del particular en presentar su solicitud",
+          "correcta": false,
+          "explicacion": "El silencio se refiere a la falta de respuesta del organismo, no a la demora del particular."
+        },
+        {
+          "letra": "D",
+          "texto": "El rechazo expreso de una solicitud por la Administración",
+          "correcta": false,
+          "explicacion": "El silencio no es un rechazo expreso, sino la falta de respuesta en un plazo determinado."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿a cuáles de estos grupos protegen los derechos mencionados en el apartado 'Además'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los jueces y a los legisladores",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona a jueces ni legisladores en ese apartado."
+        },
+        {
+          "letra": "B",
+          "texto": "A los partidos políticos y a los sindicatos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no enumera a partidos ni sindicatos en ese apartado."
+        },
+        {
+          "letra": "C",
+          "texto": "A los empleadores y a las empresas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona a empleadores ni empresas en ese apartado."
+        },
+        {
+          "letra": "D",
+          "texto": "A las personas mayores, con discapacidad, a las mujeres y a las personas indígenas",
+          "correcta": true,
+          "explicacion": "Correcta. El material menciona derechos que protegen a las personas mayores, a las personas con discapacidad, a las mujeres y a las personas indígenas."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 116, la Auditoría General de la Nación cuenta, para asegurar su independencia funcional, con:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Independencia financiera",
+          "correcta": true,
+          "explicacion": "El art. 116 establece que, a fin de asegurar su independencia funcional, la AGN cuenta con independencia financiera."
+        },
+        {
+          "letra": "B",
+          "texto": "Potestad para dictar la ley de presupuesto",
+          "correcta": false,
+          "explicacion": "La ley de presupuesto la sanciona el Congreso; el art. 116 le reconoce a la AGN independencia financiera."
+        },
+        {
+          "letra": "C",
+          "texto": "Subordinación a la Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "La AGN es independiente y de control externo; no se subordina a la Sindicatura (art. 116)."
+        },
+        {
+          "letra": "D",
+          "texto": "Dependencia jerárquica del Ministerio de Economía",
+          "correcta": false,
+          "explicacion": "La AGN depende del Congreso, no del Ministerio de Economía; el art. 116 le reconoce independencia financiera."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué protege el hábeas corpus?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los derechos urgentes ante un acto ilegal mediante decisión judicial rápida",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde a la acción de amparo, según el material."
+        },
+        {
+          "letra": "B",
+          "texto": "La libertad de las personas cuando se ve amenazada de forma ilegal por una autoridad",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el hábeas corpus protege la libertad de las personas cuando se ve amenazada de forma ilegal por una autoridad."
+        },
+        {
+          "letra": "C",
+          "texto": "La inviolabilidad del domicilio y la correspondencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es otra garantía distinta del hábeas corpus."
+        },
+        {
+          "letra": "D",
+          "texto": "Los datos personales usados sin consentimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde al hábeas data, según el material."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 19, ¿de cuántos títulos consta la ley de presupuesto general?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De dos títulos",
+          "correcta": false,
+          "explicacion": "El art. 19 establece tres títulos, no dos."
+        },
+        {
+          "letra": "B",
+          "texto": "De cuatro títulos",
+          "correcta": false,
+          "explicacion": "El art. 19 establece tres títulos, no cuatro."
+        },
+        {
+          "letra": "C",
+          "texto": "De tres títulos",
+          "correcta": true,
+          "explicacion": "El art. 19 dispone que la ley de presupuesto general constará de tres títulos: disposiciones generales; presupuesto de la administración central; y presupuestos de los organismos descentralizados."
+        },
+        {
+          "letra": "D",
+          "texto": "De cinco títulos",
+          "correcta": false,
+          "explicacion": "El art. 19 fija tres títulos para la ley de presupuesto general."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.188, ¿a quiénes se aplican los deberes y prohibiciones que establece?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo a los funcionarios designados por concurso",
+          "correcta": false,
+          "explicacion": "La ley alcanza a todos, cualquiera sea el medio de acceso al cargo (art. 1)."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente al personal de los organismos de control",
+          "correcta": false,
+          "explicacion": "La aplicación es general y no se restringe a organismos de control (art. 1)."
+        },
+        {
+          "letra": "C",
+          "texto": "A todas las personas que se desempeñen en la función pública, en forma permanente o transitoria",
+          "correcta": true,
+          "explicacion": "El art. 1 las aplica sin excepción a todos los niveles y jerarquías, en forma permanente o transitoria, por cualquier medio legal de acceso."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo a quienes ejercen cargos por elección popular",
+          "correcta": false,
+          "explicacion": "No se limita a cargos electivos; abarca designación directa, concurso u otro medio legal (art. 1)."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿De qué órgano del Estado depende la Auditoría General de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Del Ministerio de Economía",
+          "correcta": false,
+          "explicacion": "El art. 116 establece la dependencia del Congreso Nacional, no del Ministerio de Economía."
+        },
+        {
+          "letra": "B",
+          "texto": "Del Poder Ejecutivo Nacional",
+          "correcta": false,
+          "explicacion": "Del Poder Ejecutivo depende la Sindicatura (control interno); la AGN depende del Congreso (art. 116)."
+        },
+        {
+          "letra": "C",
+          "texto": "De la Corte Suprema de Justicia de la Nación",
+          "correcta": false,
+          "explicacion": "La AGN depende del Congreso Nacional, no del Poder Judicial (art. 116)."
+        },
+        {
+          "letra": "D",
+          "texto": "Del Congreso Nacional",
+          "correcta": true,
+          "explicacion": "El art. 116 crea la Auditoría General de la Nación como ente de control externo dependiente del Congreso Nacional."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuántos años duran en su función los Auditores Generales de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seis (6) años",
+          "correcta": false,
+          "explicacion": "El art. 121 establece ocho años, no seis."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez (10) años",
+          "correcta": false,
+          "explicacion": "El art. 121 fija ocho años de duración, no diez."
+        },
+        {
+          "letra": "C",
+          "texto": "Ocho (8) años",
+          "correcta": true,
+          "explicacion": "El art. 121 dispone que los Auditores Generales durarán ocho años en su función y podrán ser reelegidos."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuatro (4) años",
+          "correcta": false,
+          "explicacion": "El art. 121 fija un mandato de ocho años; cuatro es solo un período inicial transitorio por sorteo (art. 122)."
+        }
+      ]
+    }
+  ]
+}

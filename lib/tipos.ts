@@ -14,6 +14,7 @@ export interface SanitPregunta {
   tema: string;
   enunciado: string;
   opciones: SanitOpcion[];
+  texto_base?: string;
 }
 export interface SanitExamen {
   examen_id: number;
@@ -41,6 +42,7 @@ export interface PreguntaResultado {
   elegida: Letra | null;
   correcta: Letra | null;
   acerto: boolean;
+  texto_base?: string;
 }
 export interface ResultadoExamenUI {
   examenId: number;
@@ -63,6 +65,13 @@ export interface ResultadoExamenUI {
 export interface SanitAdmin {
   examen_id: number;
   preguntas: { id: number; tema: string; enunciado: string; opciones: SanitOpcion[] }[];
+}
+
+// ---- Examen Empleo Público (sanitizado para el cliente) ----
+export interface SanitEmpleo {
+  examen_id: number;
+  modulo: "administrativos" | "profesionales";
+  preguntas: { id: number; tema: string; enunciado: string; opciones: SanitOpcion[]; texto_base?: string }[];
 }
 
 // ---- Caso práctico "Solo casos" (sanitizado para el cliente) ----

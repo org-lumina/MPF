@@ -1,0 +1,794 @@
+{
+  "examen_id": 17,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las pantallas táctiles funcionan al tocarlas con el dedo. Conviene mantenerlas limpias para que respondan bien. Un paño suave y seco es suficiente para limpiarlas.",
+      "enunciado": "Según el texto, ¿con qué conviene limpiar una pantalla táctil?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con un paño suave y seco.",
+          "correcta": true,
+          "explicacion": "El texto dice que un paño suave y seco es suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Con papel absorbente húmedo",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Con un paño suave y seco.»."
+        },
+        {
+          "letra": "C",
+          "texto": "Con un cepillo duro.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cepillos duros."
+        },
+        {
+          "letra": "D",
+          "texto": "Con un paño empapado en alcohol puro",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Con un paño suave y seco.»."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El personal debe conocer la ubicación de los matafuegos, las salidas y el botiquín antes de que ocurra una emergencia. Saber dónde están estos elementos ahorra tiempo en el momento crítico.",
+      "enunciado": "Según el texto, ¿qué se logra al conocer la ubicación de estos elementos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir el sueldo del personal",
+          "correcta": false,
+          "explicacion": "El texto no menciona sueldos."
+        },
+        {
+          "letra": "B",
+          "texto": "Decorar mejor la oficina",
+          "correcta": false,
+          "explicacion": "El texto no habla de decoración."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentar la cantidad de matafuegos",
+          "correcta": false,
+          "explicacion": "El texto no menciona aumentar la cantidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Ahorrar tiempo en el momento crítico",
+          "correcta": true,
+          "explicacion": "El texto dice que conocerlos ahorra tiempo en el momento crítico."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua representa una gran parte del cuerpo humano y cumple muchas funciones. Ayuda a regular la temperatura y a transportar nutrientes. Por eso es tan importante mantenerse hidratado.",
+      "enunciado": "Según el texto, ¿qué funciones cumple el agua en el cuerpo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reemplazar a las proteínas",
+          "correcta": false,
+          "explicacion": "El texto no compara el agua con las proteínas."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar el azúcar en sangre",
+          "correcta": false,
+          "explicacion": "El texto no menciona el azúcar."
+        },
+        {
+          "letra": "C",
+          "texto": "Regular la temperatura y transportar nutrientes",
+          "correcta": true,
+          "explicacion": "El texto dice que el agua ayuda a regular la temperatura y a transportar nutrientes."
+        },
+        {
+          "letra": "D",
+          "texto": "Quitar la necesidad de dormir",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sueño."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El acceso al agua potable es un derecho básico de todas las personas. Los servicios públicos deben garantizar su provisión a la comunidad. Cuidar el agua y no desperdiciarla es también una responsabilidad ciudadana.",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde al texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El acceso al agua potable es un derecho y cuidarla es una responsabilidad.",
+          "correcta": true,
+          "explicacion": "El texto menciona el derecho al agua potable y la responsabilidad de cuidarla."
+        },
+        {
+          "letra": "B",
+          "texto": "Los servicios públicos no deben proveer agua.",
+          "correcta": false,
+          "explicacion": "El texto dice que deben garantizar su provisión."
+        },
+        {
+          "letra": "C",
+          "texto": "Desperdiciar agua no tiene consecuencias.",
+          "correcta": false,
+          "explicacion": "El texto plantea cuidar el agua y no desperdiciarla."
+        },
+        {
+          "letra": "D",
+          "texto": "El agua potable es un lujo para pocos.",
+          "correcta": false,
+          "explicacion": "El texto la presenta como un derecho de todas las personas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cepillo de dientes eléctrico es resistente al agua, por lo que puede enjuagarse bajo la canilla. Sin embargo, la base de carga nunca debe mojarse ni colocarse cerca de fuentes de agua.",
+      "enunciado": "Según el texto, ¿qué parte no debe mojarse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las cerdas del cepillo.",
+          "correcta": false,
+          "explicacion": "El texto no prohíbe mojar las cerdas."
+        },
+        {
+          "letra": "B",
+          "texto": "La base de carga.",
+          "correcta": true,
+          "explicacion": "El texto indica que la base de carga nunca debe mojarse."
+        },
+        {
+          "letra": "C",
+          "texto": "El cabezal del cepillo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el cabezal como riesgo."
+        },
+        {
+          "letra": "D",
+          "texto": "El cepillo de dientes.",
+          "correcta": false,
+          "explicacion": "El texto dice que el cepillo es resistente al agua."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Reparar la pérdida de una canilla que gotea es importante porque, aunque caigan pocas gotas, se desperdician muchos litros con el correr de los días. Una canilla que gotea de manera constante puede malgastar agua suficiente para varias personas. Arreglarla a tiempo evita ese desperdicio.",
+      "enunciado": "Según el texto, ¿por qué es importante reparar una canilla que gotea?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el goteo hace mucho ruido de noche.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque arruina la pintura de las paredes.",
+          "correcta": false,
+          "explicacion": "El texto se centra en el desperdicio de agua, no en la pintura."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque aumenta la presión del agua.",
+          "correcta": false,
+          "explicacion": "El texto no habla de presión."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque con el tiempo se desperdician muchos litros de agua.",
+          "correcta": true,
+          "explicacion": "El texto explica que se desperdician muchos litros con el correr de los días."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los trámites urgentes se identifican con una carátula de color rojo. Estos expedientes tienen prioridad de despacho y deben resolverse dentro de las setenta y dos horas de su ingreso.",
+      "enunciado": "¿Cómo se identifican los trámites urgentes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con una etiqueta verde en el lomo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona etiquetas verdes."
+        },
+        {
+          "letra": "B",
+          "texto": "Con una carátula de color rojo.",
+          "correcta": true,
+          "explicacion": "El texto indica que los trámites urgentes llevan carátula de color rojo."
+        },
+        {
+          "letra": "C",
+          "texto": "Con un sello de color azul.",
+          "correcta": false,
+          "explicacion": "El texto menciona carátula roja, no sello azul."
+        },
+        {
+          "letra": "D",
+          "texto": "Con una franja amarilla en la portada.",
+          "correcta": false,
+          "explicacion": "El texto no menciona franjas amarillas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las legumbres, como los porotos y las lentejas, son una buena fuente de proteínas de origen vegetal. Son económicas y se pueden combinar con arroz o verduras en muchas preparaciones. Incluirlas en la dieta aporta variedad a las comidas.",
+      "enunciado": "Según el texto, las legumbres son una buena fuente de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sal agregada",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las legumbres con la sal."
+        },
+        {
+          "letra": "B",
+          "texto": "Azúcares simples",
+          "correcta": false,
+          "explicacion": "El texto no menciona azúcares."
+        },
+        {
+          "letra": "C",
+          "texto": "Grasas saturadas",
+          "correcta": false,
+          "explicacion": "El texto no habla de grasas."
+        },
+        {
+          "letra": "D",
+          "texto": "Proteínas de origen vegetal",
+          "correcta": true,
+          "explicacion": "El texto afirma que las legumbres aportan proteínas de origen vegetal."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El sistema de seguridad de la cocina corta el gas si la llama se apaga de manera accidental. Esta función protege contra fugas, pero no reemplaza la atención del usuario mientras se cocina.",
+      "enunciado": "Según el texto, ¿qué hace el sistema de seguridad de la cocina?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Corta el gas si la llama se apaga.",
+          "correcta": true,
+          "explicacion": "El texto dice que corta el gas si la llama se apaga de manera accidental."
+        },
+        {
+          "letra": "B",
+          "texto": "Reemplaza la atención del usuario.",
+          "correcta": false,
+          "explicacion": "El texto aclara que no reemplaza la atención del usuario."
+        },
+        {
+          "letra": "C",
+          "texto": "Enciende la llama por sí solo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un encendido automático."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumenta la potencia de la llama.",
+          "correcta": false,
+          "explicacion": "El texto no menciona aumento de potencia."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Frenar de manera brusca y sin motivo puede provocar que el vehículo de atrás choque. Por eso, conviene anticipar las maniobras y frenar de forma gradual. La conducción suave aporta a la seguridad de todos.",
+      "enunciado": "Según el texto, ¿qué puede provocar frenar de manera brusca y sin motivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se encienda el semáforo.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el frenado con el semáforo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que aumente la velocidad.",
+          "correcta": false,
+          "explicacion": "El texto no dice que el frenado aumente la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo de atrás choque.",
+          "correcta": true,
+          "explicacion": "El texto dice que frenar brusco puede hacer que el vehículo de atrás choque."
+        },
+        {
+          "letra": "D",
+          "texto": "Que mejore el consumo de nafta.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el consumo de nafta."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los formularios pueden descargarse de la página web del organismo o retirarse en la Mesa de Entradas. En ambos casos se completan en letra de imprenta y con tinta negra o azul.",
+      "enunciado": "Según el texto, ¿con qué tinta se completan los formularios?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con tinta negra o azul.",
+          "correcta": true,
+          "explicacion": "El texto especifica tinta negra o azul."
+        },
+        {
+          "letra": "B",
+          "texto": "Con tinta de cualquier color.",
+          "correcta": false,
+          "explicacion": "El texto limita a negra o azul, no cualquier color."
+        },
+        {
+          "letra": "C",
+          "texto": "Con lápiz, para poder corregir.",
+          "correcta": false,
+          "explicacion": "El texto exige tinta, no lápiz."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente con tinta roja.",
+          "correcta": false,
+          "explicacion": "El texto no menciona tinta roja."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El plástico tirado en ríos y mares daña a muchos animales que lo confunden con comida. Algunas especies marinas tragan trozos de plástico y enferman. Reducir y reciclar el plástico ayuda a proteger esa fauna.",
+      "enunciado": "Según el texto, ¿qué daño causa el plástico tirado en ríos y mares?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumenta la cantidad de peces.",
+          "correcta": false,
+          "explicacion": "El texto dice que los animales enferman, no que aumentan."
+        },
+        {
+          "letra": "B",
+          "texto": "Genera energía renovable.",
+          "correcta": false,
+          "explicacion": "El texto no menciona energía renovable."
+        },
+        {
+          "letra": "C",
+          "texto": "Mejora la calidad del agua.",
+          "correcta": false,
+          "explicacion": "El texto plantea un daño, no una mejora."
+        },
+        {
+          "letra": "D",
+          "texto": "Daña a animales que lo confunden con comida.",
+          "correcta": true,
+          "explicacion": "El texto dice que el plástico daña a animales que lo confunden con comida."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comer fruta entera es preferible a tomarla solo en jugo. La fruta entera conserva la fibra, que se pierde en parte al hacer jugo. Además, masticar genera mayor sensación de saciedad.",
+      "enunciado": "Según el texto, ¿por qué es preferible la fruta entera al jugo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No aporta ningún nutriente",
+          "correcta": false,
+          "explicacion": "El texto valora sus nutrientes y fibra."
+        },
+        {
+          "letra": "B",
+          "texto": "Es más rápida de consumir",
+          "correcta": false,
+          "explicacion": "El texto no habla de la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Conserva la fibra y genera más saciedad",
+          "correcta": true,
+          "explicacion": "El texto dice que la fruta entera conserva la fibra y masticar da más saciedad."
+        },
+        {
+          "letra": "D",
+          "texto": "Tiene más azúcar agregada",
+          "correcta": false,
+          "explicacion": "El texto no menciona azúcar agregada."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el doble de 15 más 10?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "25",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "40",
+          "correcta": true,
+          "explicacion": "El doble de 15 es 30; más 10 es 40."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 19 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "144",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "27",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "171",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "152",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 19 × 8 = 152."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 280 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "560",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 280 + 280 = 560."
+        },
+        {
+          "letra": "B",
+          "texto": "580",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "550",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "0",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 180?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "72",
+          "correcta": true,
+          "explicacion": "El 40 % de 180 se calcula 40 ÷ 100 × 180 = 72."
+        },
+        {
+          "letra": "B",
+          "texto": "82",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "77",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "144",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 4 cuadernos cuestan $160, ¿cuánto cuestan 5 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "165",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "200",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $160 ÷ 4 = $40; entonces 5 cuestan $40 × 5 = $200."
+        },
+        {
+          "letra": "C",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 15, 30, 45, 60, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "74",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "75",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 15; el siguiente es 60 + 15 = 75."
+        },
+        {
+          "letra": "D",
+          "texto": "76",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 380?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "233",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "238",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "228",
+          "correcta": true,
+          "explicacion": "El 60 % de 380 se calcula 60 ÷ 100 × 380 = 228."
+        },
+        {
+          "letra": "D",
+          "texto": "456",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 720 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "560",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "890",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "550",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 720 − 170 = 550."
+        },
+        {
+          "letra": "D",
+          "texto": "540",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 6 cuadernos cuestan $180, ¿cuánto cuestan 7 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "210",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $180 ÷ 6 = $30; entonces 7 cuestan $30 × 7 = $210."
+        },
+        {
+          "letra": "B",
+          "texto": "187",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el doble de 30 más 15?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "76",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "75",
+          "correcta": true,
+          "explicacion": "El doble de 30 es 60; más 15 es 75."
+        },
+        {
+          "letra": "D",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 460?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "189",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "194",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "184",
+          "correcta": true,
+          "explicacion": "El 40 % de 460 se calcula 40 ÷ 100 × 460 = 184."
+        },
+        {
+          "letra": "D",
+          "texto": "368",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 920?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "700",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "690",
+          "correcta": true,
+          "explicacion": "El 75 % de 920 se calcula 75 ÷ 100 × 920 = 690."
+        },
+        {
+          "letra": "C",
+          "texto": "1.380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "695",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

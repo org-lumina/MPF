@@ -1,0 +1,789 @@
+{
+  "examen_id": 9,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El estiramiento antes y después de hacer deporte ayuda a cuidar los músculos. Preparar el cuerpo reduce el riesgo de molestias o lesiones. Es un hábito recomendable para quienes hacen actividad física.",
+      "enunciado": "De acuerdo con el texto, ¿para qué sirve el estiramiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para reemplazar el agua",
+          "correcta": false,
+          "explicacion": "El texto no habla de hidratación."
+        },
+        {
+          "letra": "B",
+          "texto": "Para aumentar el hambre",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el estiramiento con el apetito."
+        },
+        {
+          "letra": "C",
+          "texto": "Para dormir más horas",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sueño."
+        },
+        {
+          "letra": "D",
+          "texto": "Para reducir el riesgo de molestias o lesiones",
+          "correcta": true,
+          "explicacion": "El texto dice que preparar el cuerpo reduce el riesgo de molestias o lesiones."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se informa que las reuniones de coordinación se realizarán los primeros lunes de cada mes a las 10 horas en la sala grande. La asistencia es obligatoria para los responsables de cada área.",
+      "enunciado": "¿Quiénes tienen asistencia obligatoria a las reuniones de coordinación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los responsables de cada área.",
+          "correcta": true,
+          "explicacion": "El texto indica que la asistencia es obligatoria para los responsables de cada área."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo el personal de atención al público.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ese grupo en particular."
+        },
+        {
+          "letra": "C",
+          "texto": "Los visitantes con turno previo.",
+          "correcta": false,
+          "explicacion": "El texto no convoca a visitantes."
+        },
+        {
+          "letra": "D",
+          "texto": "Todo el personal del organismo.",
+          "correcta": false,
+          "explicacion": "El texto limita la obligatoriedad a los responsables de área."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Lavarse las manos antes de cocinar evita contaminar los alimentos. Las manos están en contacto con muchas superficies durante el día. Por eso, una buena higiene al cocinar protege a quienes van a comer.",
+      "enunciado": "Según el texto, ¿por qué hay que lavarse las manos antes de cocinar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para cocinar más rápido",
+          "correcta": false,
+          "explicacion": "El texto no menciona la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Para gastar menos agua",
+          "correcta": false,
+          "explicacion": "El texto no habla del gasto de agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Para evitar contaminar los alimentos",
+          "correcta": true,
+          "explicacion": "El texto dice que lavarse las manos antes de cocinar evita contaminar los alimentos."
+        },
+        {
+          "letra": "D",
+          "texto": "Para que la comida tenga más sabor",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el lavado con el sabor."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Aceptar solicitudes de personas desconocidas en redes sociales puede ser riesgoso. No siempre sabés quién está detrás de un perfil. Por eso conviene aceptar solo a personas que conocés.",
+      "enunciado": "El texto recomienda en redes sociales:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Publicar tu dirección para conseguir amigos.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere publicar datos personales."
+        },
+        {
+          "letra": "B",
+          "texto": "Aceptar solo a personas que conocés.",
+          "correcta": true,
+          "explicacion": "El texto aconseja aceptar solo a conocidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Compartir tu contraseña con tus contactos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona compartir contraseñas."
+        },
+        {
+          "letra": "D",
+          "texto": "Aceptar a todos los que escriben.",
+          "correcta": false,
+          "explicacion": "El texto advierte sobre los desconocidos."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El manual indica desenchufar el equipo durante una tormenta eléctrica. Los rayos pueden generar sobretensiones que ingresan por la línea y dañan los circuitos, incluso si el aparato está apagado.",
+      "enunciado": "Según el texto, ¿qué conviene hacer durante una tormenta eléctrica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desenchufar el equipo.",
+          "correcta": true,
+          "explicacion": "El texto indica desenchufar el equipo durante una tormenta eléctrica."
+        },
+        {
+          "letra": "B",
+          "texto": "Subir la potencia al máximo.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere subir la potencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Dejarlo en modo de espera.",
+          "correcta": false,
+          "explicacion": "El texto advierte que el daño ocurre incluso apagado, por eso pide desenchufar."
+        },
+        {
+          "letra": "D",
+          "texto": "Encender todos los equipos.",
+          "correcta": false,
+          "explicacion": "El texto recomienda desenchufar, no encender."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "No utilice el secador de pelo cerca de bañeras, lavabos u otros recipientes con agua. Aunque el aparato esté apagado, la cercanía con el agua representa un riesgo, por lo que se recomienda desconectarlo de la red luego de cada uso.",
+      "enunciado": "Según el texto, ¿qué se recomienda hacer luego de usar el secador?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejarlo enchufado junto al lavabo.",
+          "correcta": false,
+          "explicacion": "El texto desaconseja la cercanía con recipientes de agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Desconectarlo de la red.",
+          "correcta": true,
+          "explicacion": "El texto recomienda desconectarlo de la red luego de cada uso."
+        },
+        {
+          "letra": "C",
+          "texto": "Usarlo dentro de la bañera.",
+          "correcta": false,
+          "explicacion": "El texto prohíbe expresamente su uso cerca de bañeras."
+        },
+        {
+          "letra": "D",
+          "texto": "Sumergirlo en agua para enfriarlo.",
+          "correcta": false,
+          "explicacion": "El texto advierte sobre el peligro de la cercanía con el agua."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El microondas no debe ponerse en marcha vacío. Funcionar sin alimento ni líquido en su interior hace que las microondas reboten y se concentren, lo que puede dañar el magnetrón de forma permanente.",
+      "enunciado": "Según el texto, ¿por qué no debe ponerse en marcha el microondas vacío?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque puede dañar el magnetrón.",
+          "correcta": true,
+          "explicacion": "El texto dice que funcionar vacío puede dañar el magnetrón de forma permanente."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque hace mucho ruido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque consume más electricidad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el consumo eléctrico."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque tarda más en calentar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el tiempo de calentamiento."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Apagar las pantallas un rato antes de dormir favorece el descanso. La luz de los celulares y televisores puede dificultar que el cuerpo se prepare para el sueño. Leer un libro o escuchar música suave son alternativas más tranquilas.",
+      "enunciado": "Según el texto, ¿qué puede dificultar el sueño?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Beber agua durante el día",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el agua con el sueño."
+        },
+        {
+          "letra": "B",
+          "texto": "Leer un libro antes de dormir",
+          "correcta": false,
+          "explicacion": "El texto presenta la lectura como alternativa tranquila."
+        },
+        {
+          "letra": "C",
+          "texto": "Escuchar música suave",
+          "correcta": false,
+          "explicacion": "El texto la menciona como alternativa positiva."
+        },
+        {
+          "letra": "D",
+          "texto": "La luz de celulares y televisores",
+          "correcta": true,
+          "explicacion": "El texto dice que esa luz puede dificultar que el cuerpo se prepare para dormir."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 660?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "330",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "165",
+          "correcta": true,
+          "explicacion": "El 25 % de 660 se calcula 25 ÷ 100 × 660 = 165."
+        },
+        {
+          "letra": "C",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 540 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "760",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "730",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "740",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 540 + 200 = 740."
+        },
+        {
+          "letra": "D",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 420 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "680",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "160",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 420 − 260 = 160."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "13",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "8",
+          "correcta": true,
+          "explicacion": "El 10 % de 80 se calcula 10 ÷ 100 × 80 = 8."
+        },
+        {
+          "letra": "C",
+          "texto": "16",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "18",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuál es el promedio de 21, 24 y 27?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "22",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "72",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "24",
+          "correcta": true,
+          "explicacion": "El promedio es la suma dividida por la cantidad de valores: (21 + 24 + 27) ÷ 3 = 24."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 21 unidades y hay 6 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "27",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "126",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 21 × 6 = 126."
+        },
+        {
+          "letra": "D",
+          "texto": "147",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 340 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "260",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 340 − 80 = 260."
+        },
+        {
+          "letra": "C",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 180?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "140",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "135",
+          "correcta": true,
+          "explicacion": "El 75 % de 180 se calcula 75 ÷ 100 × 180 = 135."
+        },
+        {
+          "letra": "D",
+          "texto": "145",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 57, ¿cómo se denomina el endeudamiento que resulta de las operaciones de crédito público?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pasivo corriente",
+          "correcta": false,
+          "explicacion": "El término legal del art. 57 es deuda pública."
+        },
+        {
+          "letra": "B",
+          "texto": "Déficit fiscal",
+          "correcta": false,
+          "explicacion": "El art. 57 denomina al endeudamiento deuda pública, no déficit fiscal."
+        },
+        {
+          "letra": "C",
+          "texto": "Deuda flotante",
+          "correcta": false,
+          "explicacion": "El art. 57 lo denomina deuda pública, no deuda flotante."
+        },
+        {
+          "letra": "D",
+          "texto": "Deuda pública",
+          "correcta": true,
+          "explicacion": "El art. 57 dispone que el endeudamiento que resulte de las operaciones de crédito público se denominará deuda pública."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿quiénes quedan exentos del deber de votar por la distancia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Quienes se encuentren a más de doscientos (200) kilómetros",
+          "correcta": false,
+          "explicacion": "El art. 12, inc. b) fija la distancia en más de quinientos kilómetros, no doscientos."
+        },
+        {
+          "letra": "B",
+          "texto": "Quienes se encuentren fuera de su provincia",
+          "correcta": false,
+          "explicacion": "El art. 12, inc. b) usa el criterio de distancia en kilómetros, no de límites provinciales."
+        },
+        {
+          "letra": "C",
+          "texto": "Quienes el día de la elección se encuentren a más de quinientos (500) kilómetros del lugar donde deban votar",
+          "correcta": true,
+          "explicacion": "El art. 12, inc. b) exime a quienes se encuentren a más de quinientos (500) kilómetros del lugar de votación y justifiquen un motivo razonable."
+        },
+        {
+          "letra": "D",
+          "texto": "Quienes se encuentren a más de mil (1000) kilómetros",
+          "correcta": false,
+          "explicacion": "El art. 12, inc. b) establece quinientos kilómetros como umbral."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿qué establece la norma sobre la inadmisibilidad del voto de quien no figura en el padrón?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puede votar agregándose su nombre al padrón",
+          "correcta": false,
+          "explicacion": "El art. 87 prohíbe admitir el voto de quien no figura inscripto en el padrón."
+        },
+        {
+          "letra": "B",
+          "texto": "El juez electoral puede autorizar el voto de quien no figura en el padrón",
+          "correcta": false,
+          "explicacion": "El art. 87 prohíbe expresamente que el juez ordene admitir ese voto."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguna autoridad, ni aun el juez electoral, puede ordenar admitir el voto de quien no figura inscripto en el padrón",
+          "correcta": true,
+          "explicacion": "El art. 87 dispone que ninguna autoridad, ni aun el juez federal con competencia electoral, podrá ordenar al presidente que admita el voto de quien no figura en el padrón."
+        },
+        {
+          "letra": "D",
+          "texto": "El presidente puede admitirlo si el elector presenta su documento",
+          "correcta": false,
+          "explicacion": "El art. 87 impide admitir el voto de quien no está inscripto, aunque exhiba documento."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿qué órgano lleva el registro de infractores al deber de votar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Registro Nacional de las Personas",
+          "correcta": false,
+          "explicacion": "El art. 18 asigna esa función a la Cámara Nacional Electoral, no al RENAPER."
+        },
+        {
+          "letra": "B",
+          "texto": "El Ministerio del Interior",
+          "correcta": false,
+          "explicacion": "El art. 18 atribuye esa tarea a la Cámara Nacional Electoral."
+        },
+        {
+          "letra": "C",
+          "texto": "La junta electoral de cada distrito",
+          "correcta": false,
+          "explicacion": "El art. 18 encomienda el registro a la Cámara Nacional Electoral."
+        },
+        {
+          "letra": "D",
+          "texto": "La Cámara Nacional Electoral",
+          "correcta": true,
+          "explicacion": "El art. 18 dispone que la Cámara Nacional Electoral llevará un registro de infractores al deber de votar establecido en el art. 12."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿qué sucede con los procesados que cumplen prisión preventiva respecto del voto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tienen derecho a emitir su voto en los actos eleccionarios mientras estén detenidos",
+          "correcta": true,
+          "explicacion": "El art. 3 bis dispone que los procesados en prisión preventiva tienen derecho a votar en todos los actos eleccionarios durante su detención."
+        },
+        {
+          "letra": "B",
+          "texto": "Votan únicamente en elecciones provinciales",
+          "correcta": false,
+          "explicacion": "El art. 3 bis se refiere a todos los actos eleccionarios, sin esa limitación."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo pueden votar si la pena no supera los tres años",
+          "correcta": false,
+          "explicacion": "El art. 3 bis no condiciona el voto a la magnitud de la pena."
+        },
+        {
+          "letra": "D",
+          "texto": "Pierden el derecho a votar hasta la sentencia firme",
+          "correcta": false,
+          "explicacion": "El art. 3 bis les reconoce expresamente el derecho a votar durante la prisión preventiva."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 8 de la Ley 25.188, el incumplimiento de la intimación a presentar la declaración jurada será considerado:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Falta grave que dará lugar a la sanción disciplinaria respectiva",
+          "correcta": true,
+          "explicacion": "El art. 8 dispone que el incumplimiento de la intimación es falta grave y da lugar a la sanción disciplinaria respectiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Una causal de ascenso suspendido temporalmente",
+          "correcta": false,
+          "explicacion": "El art. 8 prevé falta grave y sanción disciplinaria, no una suspensión de ascenso."
+        },
+        {
+          "letra": "C",
+          "texto": "Un simple recordatorio administrativo",
+          "correcta": false,
+          "explicacion": "El incumplimiento configura falta grave (art. 8)."
+        },
+        {
+          "letra": "D",
+          "texto": "Una observación que se archiva sin trámite",
+          "correcta": false,
+          "explicacion": "El art. 8 lo califica como falta grave con sanción disciplinaria."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿cuál de las siguientes es una medida disciplinaria prevista?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducción de categoría",
+          "correcta": false,
+          "explicacion": "La reducción de categoría no está prevista en el art. 30."
+        },
+        {
+          "letra": "B",
+          "texto": "Apercibimiento",
+          "correcta": true,
+          "explicacion": "El art. 30 inc. a) enumera el apercibimiento entre las medidas disciplinarias."
+        },
+        {
+          "letra": "C",
+          "texto": "Multa pecuniaria",
+          "correcta": false,
+          "explicacion": "La multa pecuniaria no figura entre las sanciones del art. 30."
+        },
+        {
+          "letra": "D",
+          "texto": "Traslado definitivo",
+          "correcta": false,
+          "explicacion": "El traslado definitivo no es una de las medidas disciplinarias del art. 30."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿quién ejerce el Poder Legislativo Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Presidente de la Nación Argentina",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Presidente ejerce el Poder Ejecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "El Congreso de la Nación",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Poder Legislativo es ejercido por el Congreso de la Nación."
+        },
+        {
+          "letra": "C",
+          "texto": "La Corte Suprema de Justicia de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Corte Suprema integra el Poder Judicial."
+        },
+        {
+          "letra": "D",
+          "texto": "El Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo de la Magistratura interviene en la selección de jueces."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 9 de la Ley 19.549, la Administración debe abstenerse de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Notificar sus decisiones a los interesados",
+          "correcta": false,
+          "explicacion": "Notificar es una obligación; el art. 9 manda abstenerse de vías de hecho, no de notificar."
+        },
+        {
+          "letra": "B",
+          "texto": "Llevar a cabo comportamientos materiales que importen vías de hecho lesivas de derechos",
+          "correcta": true,
+          "explicacion": "El art. 9, inc. a) ordena a la Administración abstenerse de comportamientos materiales que importen vías de hecho lesivas de derechos o intereses jurídicamente tutelados."
+        },
+        {
+          "letra": "C",
+          "texto": "Producir dictámenes jurídicos",
+          "correcta": false,
+          "explicacion": "Producir dictámenes es parte del procedimiento; no es una vía de hecho prohibida."
+        },
+        {
+          "letra": "D",
+          "texto": "Dictar actos motivados",
+          "correcta": false,
+          "explicacion": "Dictar actos motivados es un deber, no una conducta de la que deba abstenerse."
+        }
+      ]
+    }
+  ]
+}

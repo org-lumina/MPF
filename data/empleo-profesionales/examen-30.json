@@ -1,0 +1,789 @@
+{
+  "examen_id": 30,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El plástico de un solo uso, como sorbetes y vasos descartables, se usa apenas unos minutos pero tarda cientos de años en desaparecer. Por eso conviene reemplazarlo por alternativas reutilizables. Llevar un vaso propio o usar sorbetes de metal son buenas opciones.",
+      "enunciado": "Según el texto, ¿cuál es el problema del plástico de un solo uso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se usa unos minutos pero tarda cientos de años en desaparecer.",
+          "correcta": true,
+          "explicacion": "El texto señala que se usa poco tiempo y tarda cientos de años en desaparecer."
+        },
+        {
+          "letra": "B",
+          "texto": "No se puede comprar en los comercios.",
+          "correcta": false,
+          "explicacion": "El texto no afirma eso."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuesta más caro que las alternativas.",
+          "correcta": false,
+          "explicacion": "El texto no compara los precios."
+        },
+        {
+          "letra": "D",
+          "texto": "Es muy difícil de fabricar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la dificultad de fabricación."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El eco se produce cuando el sonido choca contra una superficie y vuelve. Por eso, al gritar frente a una montaña, escuchamos nuestra voz repetida. El sonido regresa después de chocar contra las rocas.",
+      "enunciado": "Según el texto, ¿cómo se produce el eco?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando llueve en la montaña.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la lluvia."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando hay mucha gente gritando.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a la gente como causa."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando el viento sopla muy fuerte.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el viento."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando el sonido choca contra una superficie y vuelve.",
+          "correcta": true,
+          "explicacion": "El texto dice que el eco se produce cuando el sonido choca y vuelve."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para crear una cuenta nueva, los sitios suelen pedir un correo y una contraseña. Conviene usar un correo al que tengas acceso para poder recuperar la cuenta. La contraseña debe ser distinta de las que ya usás.",
+      "enunciado": "Según el texto, ¿por qué conviene usar un correo al que tengas acceso al crear una cuenta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para mejorar la cámara.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cámara."
+        },
+        {
+          "letra": "B",
+          "texto": "Para poder recuperar la cuenta.",
+          "correcta": true,
+          "explicacion": "El texto dice que sirve para recuperar la cuenta."
+        },
+        {
+          "letra": "C",
+          "texto": "Para liberar memoria.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la memoria."
+        },
+        {
+          "letra": "D",
+          "texto": "Para tener más seguidores.",
+          "correcta": false,
+          "explicacion": "El texto no menciona seguidores."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La Tierra tarda un año en dar una vuelta completa alrededor del Sol. Ese recorrido se llama traslación. Gracias a él se suceden las distintas estaciones del año.",
+      "enunciado": "Según el texto, ¿cuánto tarda la Tierra en dar una vuelta alrededor del Sol?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una semana.",
+          "correcta": false,
+          "explicacion": "El texto no menciona una semana."
+        },
+        {
+          "letra": "B",
+          "texto": "Un día.",
+          "correcta": false,
+          "explicacion": "El texto dice que tarda un año."
+        },
+        {
+          "letra": "C",
+          "texto": "Un mes.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un mes."
+        },
+        {
+          "letra": "D",
+          "texto": "Un año.",
+          "correcta": true,
+          "explicacion": "El texto afirma que la Tierra tarda un año en dar la vuelta al Sol."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las bebidas con cafeína consumidas muy tarde pueden afectar el sueño. La cafeína estimula y puede dificultar conciliar el descanso por la noche. Por eso conviene evitarlas en las horas previas a dormir.",
+      "enunciado": "Según el texto, ¿por qué conviene evitar la cafeína antes de dormir?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque hidrata demasiado",
+          "correcta": false,
+          "explicacion": "El texto no menciona ese efecto."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque da más hambre",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la cafeína con el hambre."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque estimula y dificulta conciliar el sueño",
+          "correcta": true,
+          "explicacion": "El texto dice que la cafeína estimula y puede dificultar el descanso."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque mejora el sueño",
+          "correcta": false,
+          "explicacion": "El texto dice que lo dificulta, no que lo mejora."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua no debe usarse para apagar incendios de origen eléctrico. El agua conduce la electricidad y podría provocar una descarga a quien intenta apagar el fuego.",
+      "enunciado": "Según el texto, ¿por qué no se usa agua en incendios eléctricos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el agua fría genera un choque térmico peligroso",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Porque el agua conduce la electricidad y puede dar descarga»."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque tarda en evaporarse",
+          "correcta": false,
+          "explicacion": "El texto no menciona la evaporación."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el agua daña irremediablemente los componentes plásticos",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Porque el agua conduce la electricidad y puede dar descarga»."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque el agua conduce la electricidad y puede dar descarga",
+          "correcta": true,
+          "explicacion": "El texto explica que el agua conduce la electricidad y puede dar descarga."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La sala de espera cuenta con un dispenser de números. El público debe tomar un número al llegar y aguardar a que sea llamado por la pantalla. No se atiende sin número.",
+      "enunciado": "¿Qué debe hacer el público al llegar a la sala de espera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dirigirse directamente a la ventanilla.",
+          "correcta": false,
+          "explicacion": "El texto aclara que no se atiende sin número."
+        },
+        {
+          "letra": "B",
+          "texto": "Solicitar el turno por teléfono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona turnos telefónicos para la sala de espera."
+        },
+        {
+          "letra": "C",
+          "texto": "Tomar un número y aguardar a ser llamado.",
+          "correcta": true,
+          "explicacion": "El texto indica tomar un número y esperar el llamado por pantalla."
+        },
+        {
+          "letra": "D",
+          "texto": "Anotarse en una lista en papel.",
+          "correcta": false,
+          "explicacion": "El texto menciona un dispenser de números, no una lista en papel."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua segura y los matafuegos del piso se controlan una vez por mes. El resultado del control se asienta en una etiqueta visible junto a cada equipo, con la fecha de la próxima revisión.",
+      "enunciado": "¿Qué información figura en la etiqueta junto a cada equipo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El número de serie del matafuego.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el número de serie."
+        },
+        {
+          "letra": "B",
+          "texto": "La fecha de la próxima revisión.",
+          "correcta": true,
+          "explicacion": "El texto dice que la etiqueta indica la fecha de la próxima revisión."
+        },
+        {
+          "letra": "C",
+          "texto": "El responsable de cada piso.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un responsable en la etiqueta."
+        },
+        {
+          "letra": "D",
+          "texto": "El nombre del proveedor del equipo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona al proveedor."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 560?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "168",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "84",
+          "correcta": true,
+          "explicacion": "El 15 % de 560 se calcula 15 ÷ 100 × 560 = 84."
+        },
+        {
+          "letra": "C",
+          "texto": "94",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "89",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 11 unidades y hay 7 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "77",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 11 × 7 = 77."
+        },
+        {
+          "letra": "B",
+          "texto": "88",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "18",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "70",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 980?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "495",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "980",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "490",
+          "correcta": true,
+          "explicacion": "El 50 % de 980 se calcula 50 ÷ 100 × 980 = 490."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 1.000?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "305",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "300",
+          "correcta": true,
+          "explicacion": "El 30 % de 1.000 se calcula 30 ÷ 100 × 1.000 = 300."
+        },
+        {
+          "letra": "D",
+          "texto": "310",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 280?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "112",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "66",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "56",
+          "correcta": true,
+          "explicacion": "El 20 % de 280 se calcula 20 ÷ 100 × 280 = 56."
+        },
+        {
+          "letra": "D",
+          "texto": "61",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 280?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "42",
+          "correcta": true,
+          "explicacion": "El 15 % de 280 se calcula 15 ÷ 100 × 280 = 42."
+        },
+        {
+          "letra": "B",
+          "texto": "47",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "84",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 45 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 45 × 8 = 360."
+        },
+        {
+          "letra": "B",
+          "texto": "53",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "405",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "352",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 340 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "410",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "420",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 340 + 80 = 420."
+        },
+        {
+          "letra": "D",
+          "texto": "440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 11 de la Ley 19.549, los actos de alcance general rigen:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desde el mismo día de su publicación",
+          "correcta": false,
+          "explicacion": "No rigen el mismo día sino después del octavo día de la publicación, salvo que el acto fije otra fecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Después del octavo día de su publicación oficial o desde el día que en ellos se determine",
+          "correcta": true,
+          "explicacion": "El art. 11 establece que los actos de alcance general rigen después del octavo día de su publicación oficial o desde el día que en ellos se determine."
+        },
+        {
+          "letra": "C",
+          "texto": "A los treinta días de su dictado",
+          "correcta": false,
+          "explicacion": "El plazo legal es el octavo día desde la publicación, no treinta días desde el dictado."
+        },
+        {
+          "letra": "D",
+          "texto": "Desde su firma por la autoridad",
+          "correcta": false,
+          "explicacion": "Rigen tras la publicación oficial (octavo día), no desde la firma."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al régimen de viajes, ¿dónde debe registrarse el viaje financiado por un tercero?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el Registro de viajes financiados por terceros, que funciona en la Oficina Anticorrupción",
+          "correcta": true,
+          "explicacion": "El régimen dispone registrar el viaje en el Registro de viajes financiados por terceros que funciona en la Oficina Anticorrupción a través del GEDO."
+        },
+        {
+          "letra": "B",
+          "texto": "En la Comisión Nacional de Ética Pública",
+          "correcta": false,
+          "explicacion": "El registro de viajes funciona en la Oficina Anticorrupción, no en la Comisión."
+        },
+        {
+          "letra": "C",
+          "texto": "En el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "El registro corresponde a la Oficina Anticorrupción, no al Boletín Oficial."
+        },
+        {
+          "letra": "D",
+          "texto": "En la Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "El registro de viajes está a cargo de la Oficina Anticorrupción."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 100, ¿por qué órganos queda conformado el sistema de control interno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la Contaduría General de la Nación y las unidades de control financiero",
+          "correcta": false,
+          "explicacion": "La Contaduría rige la contabilidad; el control interno lo conforman la Sindicatura y las unidades de auditoría interna (art. 100)."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la Auditoría General de la Nación y las unidades de auditoría externa",
+          "correcta": false,
+          "explicacion": "La AGN es control externo; el art. 100 refiere a la Sindicatura y a las unidades de auditoría interna."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la Sindicatura General de la Nación y las unidades de auditoría interna",
+          "correcta": true,
+          "explicacion": "El art. 100 dispone que el sistema de control interno queda conformado por la Sindicatura General de la Nación y las unidades de auditoría interna de cada jurisdicción y entidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Por la Sindicatura General de la Nación y el Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "El Congreso se vincula al control externo; el art. 100 menciona a la Sindicatura y las unidades de auditoría interna."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 12, ¿qué deben comprender los presupuestos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente los gastos de capital del ejercicio",
+          "correcta": false,
+          "explicacion": "El art. 12 comprende todos los recursos y gastos, no solo los de capital."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo los recursos estimados del ejercicio",
+          "correcta": false,
+          "explicacion": "El art. 12 abarca recursos y gastos, no solamente los recursos."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo los gastos previstos para el ejercicio",
+          "correcta": false,
+          "explicacion": "El art. 12 incluye tanto recursos como gastos, no solo los gastos."
+        },
+        {
+          "letra": "D",
+          "texto": "Todos los recursos y gastos previstos para el ejercicio",
+          "correcta": true,
+          "explicacion": "El art. 12 dispone que los presupuestos comprenderán todos los recursos y gastos previstos para el ejercicio, por sus montos íntegros y sin compensaciones."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, ¿sobre qué recae la impugnación del voto regulada en los artículos 91 y 92?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sobre la identidad del elector cuando se considera que la ha falseado",
+          "correcta": true,
+          "explicacion": "Los arts. 91 y 92 regulan la impugnación del voto fundada en el falseamiento de la identidad del compareciente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sobre la inhabilidad del elector para figurar en el padrón",
+          "correcta": false,
+          "explicacion": "El art. 88 prohíbe impugnar por inhabilidad para figurar en el padrón; la impugnación de los arts. 91 y 92 es por identidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobre la validez de la boleta única utilizada",
+          "correcta": false,
+          "explicacion": "La impugnación de los arts. 91 y 92 recae sobre la identidad del elector, no sobre la boleta."
+        },
+        {
+          "letra": "D",
+          "texto": "Sobre el horario en que el elector se presenta a votar",
+          "correcta": false,
+          "explicacion": "Los arts. 91 y 92 se refieren al falseamiento de la identidad, no al horario."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el material, ¿cuál de estos figura entre los derechos de la seguridad social?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho de huelga",
+          "correcta": false,
+          "explicacion": "Incorrecta. El derecho de huelga figura entre los derechos de los gremios."
+        },
+        {
+          "letra": "B",
+          "texto": "El seguro social obligatorio",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera el 'seguro social obligatorio' entre los derechos de la seguridad social."
+        },
+        {
+          "letra": "C",
+          "texto": "La compensación económica familiar",
+          "correcta": false,
+          "explicacion": "Incorrecta. La compensación económica familiar figura entre los derechos que protegen a la familia."
+        },
+        {
+          "letra": "D",
+          "texto": "La retribución justa",
+          "correcta": false,
+          "explicacion": "Incorrecta. La retribución justa figura entre los derechos de quienes trabajan."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al régimen de contratos con el Estado, ¿hasta qué grado de parentesco debe informarse en la Declaración Jurada de Intereses?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier parentesco sin límite de grado",
+          "correcta": false,
+          "explicacion": "El régimen acota el parentesco hasta primo hermano y a abuelos y hermanos de la pareja."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo hasta padres e hijos",
+          "correcta": false,
+          "explicacion": "El alcance llega hasta primos hermanos y a abuelos y hermanos de la pareja, no sólo a padres e hijos."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta tíos abuelos por línea materna",
+          "correcta": false,
+          "explicacion": "El régimen fija primos hermanos y abuelos y hermanos de la pareja como límite."
+        },
+        {
+          "letra": "D",
+          "texto": "Hasta primos hermanos y hasta los abuelos y hermanos de la pareja",
+          "correcta": true,
+          "explicacion": "El régimen indica que debe informarse el parentesco hasta primo hermano y hasta los abuelos y hermanos de la pareja."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué garantía debe respetarse siempre en relación con los procesos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La defensa en juicio",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que debe respetarse siempre la defensa en juicio."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho de huelga",
+          "correcta": false,
+          "explicacion": "Incorrecta. El derecho de huelga es un derecho de los gremios, no una garantía procesal."
+        },
+        {
+          "letra": "C",
+          "texto": "El acceso a una vivienda digna",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso es un derecho que protege a la familia, no una garantía procesal."
+        },
+        {
+          "letra": "D",
+          "texto": "La compensación económica familiar",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso es un derecho que protege a la familia, no una garantía procesal."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿existen otras normas de igual jerarquía que la Constitución Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, todos los tratados internacionales firmados por el país",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material limita la igual jerarquía a algunos tratados de derechos humanos, no a todos los tratados."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, todas las leyes dictadas por el Congreso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no equipara las leyes del Congreso a la Constitución."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, algunos Tratados Internacionales de Derechos Humanos",
+          "correcta": true,
+          "explicacion": "Correcta. El material afirma que sí, que algunos Tratados Internacionales de Derechos Humanos tienen igual jerarquía."
+        },
+        {
+          "letra": "D",
+          "texto": "No, ninguna norma tiene igual jerarquía que la Constitución",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material reconoce expresamente que algunos tratados sí tienen igual jerarquía."
+        }
+      ]
+    }
+  ]
+}

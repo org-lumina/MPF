@@ -1,0 +1,789 @@
+{
+  "examen_id": 16,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de usar la batidora por primera vez, lave los accesorios con agua tibia y detergente suave. No introduzca el cuerpo del motor en agua; límpielo únicamente con un paño apenas humedecido.",
+      "enunciado": "Según el texto, ¿cómo debe limpiarse el cuerpo del motor de la batidora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con un paño apenas humedecido.",
+          "correcta": true,
+          "explicacion": "El texto indica limpiar el motor solo con un paño apenas humedecido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sumergiéndolo en agua tibia.",
+          "correcta": false,
+          "explicacion": "El texto prohíbe introducir el motor en agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Con detergente fuerte y abundante agua.",
+          "correcta": false,
+          "explicacion": "Eso aplica a los accesorios, no al motor."
+        },
+        {
+          "letra": "D",
+          "texto": "Bajo el chorro de la canilla.",
+          "correcta": false,
+          "explicacion": "El texto no permite mojar el motor bajo la canilla."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El graffiti sin autorización sobre paredes ajenas es considerado una falta. Ensuciar fachadas o monumentos afecta el patrimonio común. El cuidado de los espacios públicos es un deber de cada ciudadano.",
+      "enunciado": "Completá: El graffiti sin autorización sobre paredes ajenas es considerado ______.",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una obra de arte",
+          "correcta": false,
+          "explicacion": "El texto no lo califica como obra de arte."
+        },
+        {
+          "letra": "B",
+          "texto": "una falta",
+          "correcta": true,
+          "explicacion": "El texto dice que el graffiti sin autorización es considerado una falta."
+        },
+        {
+          "letra": "C",
+          "texto": "una mejora del barrio",
+          "correcta": false,
+          "explicacion": "El texto lo asocia con afectar el patrimonio, no con mejorarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "un derecho ciudadano",
+          "correcta": false,
+          "explicacion": "El texto no lo presenta como un derecho."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comer en exceso, aunque sean alimentos sanos, puede no ser conveniente. La clave está en las porciones adecuadas para cada persona. Escuchar las señales de hambre y saciedad ayuda a comer la cantidad justa.",
+      "enunciado": "Según el texto, ¿qué ayuda a comer la cantidad justa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Comer siempre lo máximo posible",
+          "correcta": false,
+          "explicacion": "El texto advierte contra el exceso."
+        },
+        {
+          "letra": "B",
+          "texto": "Saltearse todas las comidas",
+          "correcta": false,
+          "explicacion": "El texto no propone saltear comidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Elegir solo alimentos dulces",
+          "correcta": false,
+          "explicacion": "El texto no menciona los dulces."
+        },
+        {
+          "letra": "D",
+          "texto": "Escuchar las señales de hambre y saciedad",
+          "correcta": true,
+          "explicacion": "El texto dice que escuchar esas señales ayuda a comer la cantidad justa."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las máquinas en mantenimiento deben señalizarse y desconectarse antes de repararlas. Bloquear su encendido evita que alguien las ponga en marcha mientras otra persona trabaja en ellas.",
+      "enunciado": "Según el texto, ¿qué evita bloquear el encendido de una máquina en mantenimiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que pierda la garantía",
+          "correcta": false,
+          "explicacion": "El texto no menciona la garantía."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la máquina se ensucie",
+          "correcta": false,
+          "explicacion": "El texto no menciona la suciedad."
+        },
+        {
+          "letra": "C",
+          "texto": "Que alguien la ponga en marcha mientras se la repara",
+          "correcta": true,
+          "explicacion": "El texto dice que evita que la enciendan mientras se trabaja en ella."
+        },
+        {
+          "letra": "D",
+          "texto": "Que consuma electricidad",
+          "correcta": false,
+          "explicacion": "El texto no habla del consumo eléctrico."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las lámparas de bajo consumo iluminan igual que las antiguas, pero gastan mucha menos electricidad. Por eso, cambiar las viejas bombitas por estas ayuda a reducir el gasto de energía en casa. Además, suelen durar más tiempo encendidas.",
+      "enunciado": "¿Cuál es la principal ventaja de las lámparas de bajo consumo según el texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Iluminan menos que las bombitas antiguas.",
+          "correcta": false,
+          "explicacion": "El texto dice que iluminan igual, no menos."
+        },
+        {
+          "letra": "B",
+          "texto": "Gastan mucha menos electricidad que las antiguas.",
+          "correcta": true,
+          "explicacion": "El texto indica que gastan mucha menos electricidad."
+        },
+        {
+          "letra": "C",
+          "texto": "No necesitan instalación eléctrica.",
+          "correcta": false,
+          "explicacion": "El texto no menciona nada sobre instalación."
+        },
+        {
+          "letra": "D",
+          "texto": "Son más baratas de comprar que las viejas.",
+          "correcta": false,
+          "explicacion": "El texto no compara los precios de compra."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de utilizar la amoladora, verifique que el disco esté bien sujeto y sin fisuras. Use siempre protección ocular, ya que durante el corte se desprenden chispas y partículas a gran velocidad.",
+      "enunciado": "Completá la oración con las palabras que faltan: \"Use siempre _____ , ya que durante el corte se desprenden chispas y partículas\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "auriculares de música",
+          "correcta": false,
+          "explicacion": "El texto no menciona auriculares de música."
+        },
+        {
+          "letra": "B",
+          "texto": "ropa liviana",
+          "correcta": false,
+          "explicacion": "El texto no menciona la ropa liviana."
+        },
+        {
+          "letra": "C",
+          "texto": "protección ocular",
+          "correcta": true,
+          "explicacion": "El texto indica usar siempre protección ocular durante el corte."
+        },
+        {
+          "letra": "D",
+          "texto": "guantes de lana",
+          "correcta": false,
+          "explicacion": "El texto no menciona guantes de lana."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El robot de cocina debe colocarse sobre una mesada estable y nivelada. No lo apoye sobre superficies inclinadas o mojadas, ya que durante el amasado puede desplazarse y caer al suelo.",
+      "enunciado": "Según el texto, ¿dónde debe colocarse el robot de cocina?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sobre un paño mojado.",
+          "correcta": false,
+          "explicacion": "El texto desaconseja las superficies mojadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sobre el borde de la mesa.",
+          "correcta": false,
+          "explicacion": "El texto no recomienda el borde de la mesa."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobre una mesada estable y nivelada.",
+          "correcta": true,
+          "explicacion": "El texto indica colocarlo sobre una mesada estable y nivelada."
+        },
+        {
+          "letra": "D",
+          "texto": "Sobre una superficie inclinada.",
+          "correcta": false,
+          "explicacion": "El texto desaconseja las superficies inclinadas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Tener la información dispersa en varios dispositivos dificulta encontrarla. Mantener una carpeta ordenada con tus archivos importantes ahorra tiempo. Además facilita hacer la copia de seguridad.",
+      "enunciado": "Según el texto, ¿qué ventaja tiene mantener una carpeta ordenada con los archivos importantes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Crea contraseñas automáticas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contraseñas."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejora la cámara.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cámara."
+        },
+        {
+          "letra": "C",
+          "texto": "Ahorra tiempo y facilita la copia de seguridad.",
+          "correcta": true,
+          "explicacion": "El texto dice que ahorra tiempo y facilita la copia de seguridad."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumenta la velocidad del wifi.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el wifi."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 400 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "660",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "140",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 400 − 260 = 140."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 440 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 440 + 40 = 480."
+        },
+        {
+          "letra": "D",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuántos minutos hay en 4 horas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "Cada hora tiene 60 minutos: 4 × 60 = 240."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 280?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "210",
+          "correcta": true,
+          "explicacion": "El 75 % de 280 se calcula 75 ÷ 100 × 280 = 210."
+        },
+        {
+          "letra": "D",
+          "texto": "215",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 340 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "610",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "620",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 340 + 280 = 620."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 23 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "31",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "184",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 23 × 8 = 184."
+        },
+        {
+          "letra": "C",
+          "texto": "176",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "207",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 380?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "285",
+          "correcta": true,
+          "explicacion": "El 75 % de 380 se calcula 75 ÷ 100 × 380 = 285."
+        },
+        {
+          "letra": "B",
+          "texto": "290",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "295",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "570",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 660 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "410",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "400",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 660 − 260 = 400."
+        },
+        {
+          "letra": "C",
+          "texto": "920",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de contratos con el Estado, ¿qué deben presentar quienes tienen relación con el Presidente, Vicepresidente, Jefe de Gabinete o un Ministro para contratar con el Estado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una Declaración Jurada de Intereses",
+          "correcta": true,
+          "explicacion": "El régimen de conflicto de intereses exige presentar una Declaración Jurada de Intereses informando los vínculos con esos funcionarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Un certificado de antecedentes penales",
+          "correcta": false,
+          "explicacion": "El régimen exige la Declaración Jurada de Intereses, no un certificado de antecedentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Una declaración jurada patrimonial integral",
+          "correcta": false,
+          "explicacion": "Lo requerido es la Declaración Jurada de Intereses, distinta de la patrimonial integral."
+        },
+        {
+          "letra": "D",
+          "texto": "Una autorización de la Oficina Anticorrupción",
+          "correcta": false,
+          "explicacion": "Se exige presentar la Declaración Jurada de Intereses, no una autorización previa."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el régimen de regalos, ¿qué sucede si un regalo de cortesía tiene un valor igual o mayor al establecido en la reglamentación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe registrarse y, además, ingresar al patrimonio del Estado Nacional",
+          "correcta": true,
+          "explicacion": "Las normas sobre regalos indican que si el valor es igual o mayor al establecido en la reglamentación, el regalo debe además ingresar al patrimonio del Estado Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe devolverse de inmediato a quien lo entregó",
+          "correcta": false,
+          "explicacion": "El régimen prevé su registración e ingreso al patrimonio del Estado, no su devolución."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo debe registrarse y nada más",
+          "correcta": false,
+          "explicacion": "Cuando alcanza el valor de la reglamentación, además debe ingresar al patrimonio del Estado."
+        },
+        {
+          "letra": "D",
+          "texto": "Debe registrarse pero queda en propiedad del funcionario",
+          "correcta": false,
+          "explicacion": "Si alcanza ese valor, además de registrarse ingresa al patrimonio del Estado Nacional."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿quién ejerce el Poder Judicial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Corte Suprema de Justicia de la Nación y los demás tribunales inferiores",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Poder Judicial lo ejercen la Corte Suprema de Justicia de la Nación y los demás tribunales inferiores."
+        },
+        {
+          "letra": "B",
+          "texto": "El Presidente de la Nación con acuerdo del Senado",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso describe cómo se eligen los jueces de la Corte, no quién ejerce el Poder Judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "El Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo de la Magistratura interviene en la selección de jueces, pero no ejerce el Poder Judicial."
+        },
+        {
+          "letra": "D",
+          "texto": "El Congreso de la Nación y sus comisiones",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Congreso ejerce el Poder Legislativo."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el material, ¿cuál de los siguientes es un derecho reconocido a todas las personas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Derecho a vacaciones pagas",
+          "correcta": false,
+          "explicacion": "Incorrecta. El descanso y las vacaciones pagas figuran entre los derechos de quienes trabajan."
+        },
+        {
+          "letra": "B",
+          "texto": "Derecho a la compensación económica familiar",
+          "correcta": false,
+          "explicacion": "Incorrecta. La compensación económica familiar figura entre los derechos que protegen a la familia."
+        },
+        {
+          "letra": "C",
+          "texto": "Derecho de peticionar a las autoridades",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera el 'derecho de peticionar a las autoridades' entre los derechos de todas las personas."
+        },
+        {
+          "letra": "D",
+          "texto": "Derecho a la protección contra el despido arbitrario",
+          "correcta": false,
+          "explicacion": "Incorrecta. La protección contra el despido arbitrario figura entre los derechos de quienes trabajan."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, los organismos suprimidos y los cargos eliminados no podrán ser creados nuevamente por un plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos (2) años a partir de su supresión",
+          "correcta": true,
+          "explicacion": "El art. 14 prohíbe crear nuevamente los organismos suprimidos y cargos eliminados por un plazo de dos años a partir de la fecha de su supresión."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez (10) años",
+          "correcta": false,
+          "explicacion": "El plazo de prohibición del art. 14 es de dos años."
+        },
+        {
+          "letra": "C",
+          "texto": "Un (1) año",
+          "correcta": false,
+          "explicacion": "El plazo del art. 14 no es de un año."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco (5) años",
+          "correcta": false,
+          "explicacion": "El art. 14 fija dos años, no cinco."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 110, ¿por cuántos síndicos generales adjuntos es asistido el síndico general?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por tres (3) síndicos generales adjuntos",
+          "correcta": true,
+          "explicacion": "El art. 110 dispone que el síndico general será asistido por tres síndicos generales adjuntos."
+        },
+        {
+          "letra": "B",
+          "texto": "Por dos (2) síndicos generales adjuntos",
+          "correcta": false,
+          "explicacion": "El art. 110 fija tres adjuntos, no dos."
+        },
+        {
+          "letra": "C",
+          "texto": "Por un (1) subsíndico general",
+          "correcta": false,
+          "explicacion": "El art. 110 prevé tres síndicos generales adjuntos, no un subsíndico."
+        },
+        {
+          "letra": "D",
+          "texto": "Por cinco (5) síndicos generales adjuntos",
+          "correcta": false,
+          "explicacion": "El art. 110 establece tres adjuntos, no cinco."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuál es el órgano rector del sistema presupuestario del sector público nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Contaduría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Contaduría General es el órgano rector del sistema de contabilidad gubernamental (art. 88)."
+        },
+        {
+          "letra": "B",
+          "texto": "La Oficina Nacional de Crédito Público",
+          "correcta": false,
+          "explicacion": "La Oficina Nacional de Crédito Público es el órgano rector del sistema de crédito público (art. 68)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Tesorería General de la Nación",
+          "correcta": false,
+          "explicacion": "La Tesorería General es el órgano rector del sistema de tesorería (art. 73), no del presupuestario."
+        },
+        {
+          "letra": "D",
+          "texto": "La Oficina Nacional de Presupuesto",
+          "correcta": true,
+          "explicacion": "El art. 16 establece que la Oficina Nacional de Presupuesto es el órgano rector del sistema presupuestario."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, la indemnización por desvinculación tras la disponibilidad equivale a:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un (1) mes de sueldo por cada año de servicio o fracción mayor de tres meses",
+          "correcta": true,
+          "explicacion": "El art. 11 establece una indemnización igual a un mes de sueldo por cada año de servicio o fracción mayor de tres meses, sobre la mejor remuneración mensual normal y habitual."
+        },
+        {
+          "letra": "B",
+          "texto": "Un monto fijo establecido por el Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "La indemnización se calcula por antigüedad, no es un monto fijo."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos meses de sueldo por año de servicio",
+          "correcta": false,
+          "explicacion": "El art. 11 no fija dos meses por año."
+        },
+        {
+          "letra": "D",
+          "texto": "Medio mes de sueldo por año de servicio",
+          "correcta": false,
+          "explicacion": "El art. 11 fija un mes de sueldo, no medio mes."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuál es el órgano rector del sistema de crédito público?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Tesorería General de la Nación",
+          "correcta": false,
+          "explicacion": "La Tesorería General es el órgano rector del sistema de tesorería (art. 73)."
+        },
+        {
+          "letra": "B",
+          "texto": "La Oficina Nacional de Crédito Público",
+          "correcta": true,
+          "explicacion": "El art. 68 establece que la Oficina Nacional de Crédito Público es el órgano rector del sistema de crédito público."
+        },
+        {
+          "letra": "C",
+          "texto": "La Contaduría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Contaduría General es el órgano rector de la contabilidad gubernamental (art. 88)."
+        },
+        {
+          "letra": "D",
+          "texto": "El Banco Central de la República Argentina",
+          "correcta": false,
+          "explicacion": "El BCRA emite opinión sobre el impacto en la balanza de pagos (art. 61), pero no es el órgano rector del crédito público."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "examen_id": 1,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El pago de la tasa administrativa se realiza antes de presentar el trámite. El comprobante de pago se adjunta al formulario, ya que sin él la presentación se considera incompleta.",
+      "enunciado": "¿Por qué se considera incompleta una presentación sin el comprobante de pago?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el comprobante debe adjuntarse al formulario.",
+          "correcta": true,
+          "explicacion": "El texto dice que sin el comprobante adjunto la presentación se considera incompleta."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el pago se hace después de presentar el trámite.",
+          "correcta": false,
+          "explicacion": "El texto indica que el pago se hace antes de presentar."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el formulario debe pagarse aparte.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un pago aparte del formulario."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque la tasa debe abonarse en cuotas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona pago en cuotas."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las veredas están destinadas a la circulación de los peatones. Por eso, no deben utilizarse para estacionar vehículos. Cuando un auto bloquea la vereda, obliga a las personas a bajar a la calle, lo que resulta peligroso.",
+      "enunciado": "Según el texto, ¿para qué están destinadas las veredas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para estacionar vehículos.",
+          "correcta": false,
+          "explicacion": "El texto indica que no deben usarse para estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Para colocar carteles publicitarios.",
+          "correcta": false,
+          "explicacion": "El texto no menciona carteles publicitarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Para la circulación de los peatones.",
+          "correcta": true,
+          "explicacion": "El texto dice que las veredas están destinadas a la circulación de los peatones."
+        },
+        {
+          "letra": "D",
+          "texto": "Para que circulen las motos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la circulación de motos por la vereda."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los carteles de \"PARE\" obligan al conductor a detenerse por completo antes de continuar. Recién después de verificar que no viene otro vehículo, puede avanzar. Esta señal busca ordenar el tránsito en los cruces.",
+      "enunciado": "Según el texto, ¿qué obliga a hacer el cartel de PARE?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse por completo antes de continuar.",
+          "correcta": true,
+          "explicacion": "El texto dice que el cartel de PARE obliga a detenerse por completo."
+        },
+        {
+          "letra": "B",
+          "texto": "Avanzar sin mirar.",
+          "correcta": false,
+          "explicacion": "El texto pide verificar que no venga otro vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Reducir levemente la velocidad.",
+          "correcta": false,
+          "explicacion": "El texto exige detenerse por completo, no solo reducir."
+        },
+        {
+          "letra": "D",
+          "texto": "Encender las luces de giro.",
+          "correcta": false,
+          "explicacion": "El texto no menciona las luces de giro."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando una aplicación deja de funcionar, conviene comprobar si hay una versión más nueva. Muchas veces el problema se soluciona al actualizarla. Si no, se puede consultar la ayuda del servicio.",
+      "enunciado": "Según el texto, ¿qué conviene comprobar cuando una aplicación deja de funcionar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si hay una versión más nueva.",
+          "correcta": true,
+          "explicacion": "El texto recomienda comprobar si hay una versión más nueva."
+        },
+        {
+          "letra": "B",
+          "texto": "Si la pantalla está limpia.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la pantalla."
+        },
+        {
+          "letra": "C",
+          "texto": "Si el wifi cambió de nombre.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el nombre del wifi."
+        },
+        {
+          "letra": "D",
+          "texto": "Si la batería está cargada.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la batería."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "No conviene usar la misma contraseña en varios servicios. Si alguien la descubre, podría entrar a todas tus cuentas. Lo recomendable es tener una contraseña distinta para cada sitio.",
+      "enunciado": "Según el texto, ¿por qué no conviene repetir la misma contraseña?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque ocupa más espacio en el teléfono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el espacio."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque si alguien la descubre podría entrar a todas las cuentas.",
+          "correcta": true,
+          "explicacion": "El texto explica ese riesgo de usar la misma contraseña."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque hace más lenta la conexión.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona contraseñas con velocidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque las contraseñas vencen cada día.",
+          "correcta": false,
+          "explicacion": "El texto no habla de vencimiento diario."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El brillo de la pantalla puede ajustarse para cuidar la vista. Una luz demasiado intensa cansa los ojos, sobre todo de noche. Reducir el brillo ayuda a usar el dispositivo con más comodidad.",
+      "enunciado": "Según el texto, ¿qué ayuda a usar el dispositivo con más comodidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cerrar todas las aplicaciones.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cerrar aplicaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Subir el volumen al máximo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el volumen."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambiar la contraseña a menudo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contraseñas."
+        },
+        {
+          "letra": "D",
+          "texto": "Reducir el brillo de la pantalla.",
+          "correcta": true,
+          "explicacion": "El texto dice que reducir el brillo ayuda a la comodidad."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El archivo general conserva los expedientes finalizados durante diez años. Cumplido ese plazo, los expedientes se evalúan para su guarda definitiva o su descarte, según las normas vigentes.",
+      "enunciado": "¿Durante cuántos años conserva el archivo general los expedientes finalizados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De manera permanente, sin excepción.",
+          "correcta": false,
+          "explicacion": "Tras el plazo se evalúa guarda definitiva o descarte."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante dos años.",
+          "correcta": false,
+          "explicacion": "El texto no menciona dos años."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante cinco años.",
+          "correcta": false,
+          "explicacion": "El texto menciona diez años, no cinco."
+        },
+        {
+          "letra": "D",
+          "texto": "Durante diez años.",
+          "correcta": true,
+          "explicacion": "El texto fija el plazo de conservación en diez años."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Ducharse de manera regular forma parte de la higiene personal. Mantener el cuerpo limpio ayuda a sentirse cómodo y a prevenir el mal olor. Después del baño, conviene secarse bien para evitar irritaciones en la piel.",
+      "enunciado": "Según el texto, ¿por qué conviene secarse bien después del baño?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para evitar irritaciones en la piel",
+          "correcta": true,
+          "explicacion": "El texto dice que secarse bien evita irritaciones en la piel."
+        },
+        {
+          "letra": "B",
+          "texto": "Para dormir más horas",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el secado con el sueño."
+        },
+        {
+          "letra": "C",
+          "texto": "Para aumentar la fuerza muscular",
+          "correcta": false,
+          "explicacion": "El texto no menciona la fuerza muscular."
+        },
+        {
+          "letra": "D",
+          "texto": "Para no gastar agua",
+          "correcta": false,
+          "explicacion": "El texto no habla del gasto de agua."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 87 hojas en partes iguales entre 3 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "29",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 87 ÷ 3 = 29."
+        },
+        {
+          "letra": "B",
+          "texto": "34",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "84",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 300?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "70",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "65",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "60",
+          "correcta": true,
+          "explicacion": "El 20 % de 300 se calcula 20 ÷ 100 × 300 = 60."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 600 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "360",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "830",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "840",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 600 + 240 = 840."
+        },
+        {
+          "letra": "D",
+          "texto": "860",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 420?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "215",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "210",
+          "correcta": true,
+          "explicacion": "El 50 % de 420 se calcula 50 ÷ 100 × 420 = 210."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 200 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 200 − 80 = 120."
+        },
+        {
+          "letra": "B",
+          "texto": "110",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 960?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "298",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "288",
+          "correcta": true,
+          "explicacion": "El 30 % de 960 se calcula 30 ÷ 100 × 960 = 288."
+        },
+        {
+          "letra": "C",
+          "texto": "293",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "576",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 760 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "840",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "670",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "690",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "680",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 760 − 80 = 680."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 360?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "95",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "90",
+          "correcta": true,
+          "explicacion": "El 25 % de 360 se calcula 25 ÷ 100 × 360 = 90."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué protege la acción de amparo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La inviolabilidad de la correspondencia",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es otra garantía distinta de la acción de amparo."
+        },
+        {
+          "letra": "B",
+          "texto": "Los datos personales usados sin consentimiento",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde al hábeas data."
+        },
+        {
+          "letra": "C",
+          "texto": "La libertad de las personas detenidas ilegalmente",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde al hábeas corpus."
+        },
+        {
+          "letra": "D",
+          "texto": "Los derechos cuando es urgente una decisión judicial que termine con un acto ilegal",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que la acción de amparo protege los derechos cuando es urgente tener una decisión judicial que termine con un acto ilegal."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Por cuántos miembros está integrada la Auditoría General de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siete (7) auditores generales",
+          "correcta": true,
+          "explicacion": "El art. 121 establece que la AGN estará a cargo de siete miembros, designados cada uno como Auditor General."
+        },
+        {
+          "letra": "B",
+          "texto": "Nueve (9) auditores generales",
+          "correcta": false,
+          "explicacion": "El art. 121 fija siete miembros, no nueve."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres (3) auditores generales",
+          "correcta": false,
+          "explicacion": "El art. 121 establece siete miembros; tres es la cantidad que designa cada Cámara de seis de ellos (art. 122)."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco (5) auditores generales",
+          "correcta": false,
+          "explicacion": "El art. 121 fija siete miembros, no cinco."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 1° bis de la Ley 19.549, en caso de recursos que deba resolver un órgano superior, el plazo para la elevación del expediente es de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos (2) días",
+          "correcta": false,
+          "explicacion": "Dos días es el plazo para la remisión de actuaciones en cuestiones de competencia (art. 5), no para la elevación de recursos."
+        },
+        {
+          "letra": "B",
+          "texto": "Diez (10) días",
+          "correcta": false,
+          "explicacion": "Diez días es el plazo supletorio general de trámites, no el de elevación del expediente."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco (5) días",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. g) (v) fija en cinco (5) días el plazo para elevar el expediente, salvo plazo menor."
+        },
+        {
+          "letra": "D",
+          "texto": "Quince (15) días",
+          "correcta": false,
+          "explicacion": "El plazo de elevación es de cinco días según el inc. g) (v), no quince."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 109, ¿qué título universitario se requiere para ser Síndico General de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Título universitario en cualquier disciplina",
+          "correcta": false,
+          "explicacion": "El art. 109 limita a Ciencias Económicas o Derecho, no a cualquier disciplina."
+        },
+        {
+          "letra": "B",
+          "texto": "Título universitario exclusivamente de contador público",
+          "correcta": false,
+          "explicacion": "El título de contador público se exige para el contador general (art. 89); para el Síndico General se admite Ciencias Económicas o Derecho (art. 109)."
+        },
+        {
+          "letra": "C",
+          "texto": "Título universitario en el área de Ciencias Económicas o Derecho",
+          "correcta": true,
+          "explicacion": "El art. 109 exige poseer título universitario en el área de Ciencias Económicas o Derecho y experiencia no inferior a ocho años."
+        },
+        {
+          "letra": "D",
+          "texto": "Título universitario en Ciencias Económicas o Ingeniería",
+          "correcta": false,
+          "explicacion": "El art. 109 exige Ciencias Económicas o Derecho, no Ingeniería."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué establece y regula la Ley 24.156?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El procedimiento administrativo de los organismos públicos",
+          "correcta": false,
+          "explicacion": "El procedimiento administrativo se rige por una ley distinta, no por la Ley 24.156."
+        },
+        {
+          "letra": "B",
+          "texto": "El régimen de contrataciones del Estado nacional",
+          "correcta": false,
+          "explicacion": "El régimen de contrataciones es objeto de otra norma; el art. 135 prevé un proyecto de ley aparte para regularlo."
+        },
+        {
+          "letra": "C",
+          "texto": "La organización del Poder Judicial de la Nación",
+          "correcta": false,
+          "explicacion": "La Ley 24.156 no regula la organización del Poder Judicial."
+        },
+        {
+          "letra": "D",
+          "texto": "La administración financiera y los sistemas de control del sector público nacional",
+          "correcta": true,
+          "explicacion": "Según el art. 1 de la Ley 24.156, la ley establece y regula la administración financiera y los sistemas de control del sector público nacional."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuál es el órgano rector del sistema de tesorería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "La Sindicatura General es el órgano rector del control interno (art. 7), no del sistema de tesorería."
+        },
+        {
+          "letra": "B",
+          "texto": "El Banco Central de la República Argentina",
+          "correcta": false,
+          "explicacion": "El BCRA coordina con la Tesorería la liquidez, pero el órgano rector de tesorería es la Tesorería General (art. 73)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Tesorería General de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 73 establece que la Tesorería General de la Nación es el órgano rector del sistema de tesorería."
+        },
+        {
+          "letra": "D",
+          "texto": "La Oficina Nacional de Presupuesto",
+          "correcta": false,
+          "explicacion": "La Oficina Nacional de Presupuesto es el órgano rector del sistema presupuestario (art. 16)."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 56, ¿qué prohíbe la Ley 24.156 respecto de las operaciones de crédito público?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Refinanciar pasivos del Estado",
+          "correcta": false,
+          "explicacion": "Refinanciar pasivos es un fin permitido por el art. 56."
+        },
+        {
+          "letra": "B",
+          "texto": "Financiar inversiones reproductivas",
+          "correcta": false,
+          "explicacion": "Financiar inversiones reproductivas es justamente un fin permitido por el art. 56."
+        },
+        {
+          "letra": "C",
+          "texto": "Financiar gastos operativos",
+          "correcta": true,
+          "explicacion": "El art. 56 establece que se prohíbe realizar operaciones de crédito público para financiar gastos operativos."
+        },
+        {
+          "letra": "D",
+          "texto": "Atender casos de evidente necesidad nacional",
+          "correcta": false,
+          "explicacion": "Atender casos de evidente necesidad nacional es un fin permitido por el art. 56."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 14 de la Ley 19.549, la voluntad de la Administración resulta excluida, generando nulidad absoluta, entre otros casos, por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La demora en resolver el procedimiento",
+          "correcta": false,
+          "explicacion": "La demora en resolver no es un vicio de la voluntad enumerado en el art. 14, inc. a)."
+        },
+        {
+          "letra": "B",
+          "texto": "El error material o de cálculo subsanable",
+          "correcta": false,
+          "explicacion": "El error material subsanable no excluye la voluntad; el inc. a) refiere al error esencial."
+        },
+        {
+          "letra": "C",
+          "texto": "La falta de publicación en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "La falta de publicación afecta la eficacia, no es un vicio de la voluntad del art. 14, inc. a)."
+        },
+        {
+          "letra": "D",
+          "texto": "Error esencial, dolo, violencia, simulación o grave defecto en la voluntad de un órgano colegiado",
+          "correcta": true,
+          "explicacion": "El art. 14, inc. a) enumera el error esencial, el dolo, la violencia física o moral, la simulación y el grave defecto en la formación de la voluntad de un órgano colegiado."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Ante qué Cámara debe presentar el Poder Ejecutivo el proyecto de ley de presupuesto general y antes de qué fecha?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al Congreso reunido en Asamblea, antes del 31 de marzo",
+          "correcta": false,
+          "explicacion": "El art. 26 establece la presentación a la Cámara de Diputados antes del 15 de septiembre."
+        },
+        {
+          "letra": "B",
+          "texto": "A la Cámara de Senadores, antes del 15 de septiembre",
+          "correcta": false,
+          "explicacion": "El art. 26 indica la Cámara de Diputados, no la de Senadores."
+        },
+        {
+          "letra": "C",
+          "texto": "A la Cámara de Diputados, antes del 15 de septiembre",
+          "correcta": true,
+          "explicacion": "El art. 26 dispone que el PEN presentará el proyecto a la Cámara de Diputados antes del 15 de septiembre del año anterior al que regirá."
+        },
+        {
+          "letra": "D",
+          "texto": "A la Cámara de Diputados, antes del 31 de diciembre",
+          "correcta": false,
+          "explicacion": "El art. 26 fija el 15 de septiembre como plazo, no el 31 de diciembre."
+        }
+      ]
+    }
+  ]
+}

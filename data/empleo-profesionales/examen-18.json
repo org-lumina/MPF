@@ -1,0 +1,789 @@
+{
+  "examen_id": 18,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Frente a un compañero que sufre un golpe de calor, se lo debe llevar a un lugar fresco y darle agua si está consciente. Aflojarle la ropa y refrescarlo ayuda a bajar su temperatura.",
+      "enunciado": "Según el texto, ¿qué se debe hacer ante un golpe de calor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejarlo al sol",
+          "correcta": false,
+          "explicacion": "El texto recomienda un lugar fresco, no el sol."
+        },
+        {
+          "letra": "B",
+          "texto": "Abrigarlo con una manta",
+          "correcta": false,
+          "explicacion": "El texto busca bajar la temperatura, no abrigarlo."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacerlo correr para activarse",
+          "correcta": false,
+          "explicacion": "El texto no recomienda hacerlo correr."
+        },
+        {
+          "letra": "D",
+          "texto": "Llevarlo a un lugar fresco y refrescarlo",
+          "correcta": true,
+          "explicacion": "El texto indica llevarlo a un lugar fresco y refrescarlo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las herramientas eléctricas no deben usarse con las manos mojadas ni cerca del agua. La humedad facilita el paso de la corriente y aumenta el riesgo de descarga eléctrica.",
+      "enunciado": "Según el texto, ¿por qué no deben usarse herramientas eléctricas con las manos mojadas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque la humedad facilita el paso de la corriente",
+          "correcta": true,
+          "explicacion": "El texto explica que la humedad facilita el paso de la corriente."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque se oxidan más rápido",
+          "correcta": false,
+          "explicacion": "El texto no menciona la oxidación."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque pierden la garantía",
+          "correcta": false,
+          "explicacion": "El texto no menciona la garantía."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque pesan más al estar húmedas",
+          "correcta": false,
+          "explicacion": "El texto no habla del peso."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua es la mejor bebida para acompañar las comidas. No aporta calorías y ayuda al proceso de la digestión. Elegirla en lugar de bebidas azucaradas es una decisión saludable.",
+      "enunciado": "Según el texto, ¿por qué el agua es la mejor bebida para las comidas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumenta el peso rápidamente",
+          "correcta": false,
+          "explicacion": "El texto no afirma eso."
+        },
+        {
+          "letra": "B",
+          "texto": "Reemplaza a todos los alimentos",
+          "correcta": false,
+          "explicacion": "El texto no plantea que reemplace los alimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "No aporta calorías y ayuda a la digestión",
+          "correcta": true,
+          "explicacion": "El texto dice que el agua no aporta calorías y ayuda a la digestión."
+        },
+        {
+          "letra": "D",
+          "texto": "Tiene mucho azúcar",
+          "correcta": false,
+          "explicacion": "El texto contrasta el agua con las bebidas azucaradas."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se recuerda al personal que el uso del estacionamiento interno está reservado a los vehículos oficiales. Los automóviles particulares deben utilizar el playón exterior, salvo autorización expresa de la administración.",
+      "enunciado": "¿Quiénes pueden usar el estacionamiento interno sin autorización especial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los vehículos oficiales.",
+          "correcta": true,
+          "explicacion": "El texto reserva el estacionamiento interno a los vehículos oficiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los automóviles particulares.",
+          "correcta": false,
+          "explicacion": "Los particulares deben usar el playón exterior salvo autorización."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente las autoridades en su día libre.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ese supuesto."
+        },
+        {
+          "letra": "D",
+          "texto": "Cualquier visitante de la oficina.",
+          "correcta": false,
+          "explicacion": "El texto no habilita a los visitantes."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Guardar las contraseñas en un papel pegado a la pantalla es un error frecuente. Cualquiera que pase puede leerlas. Es preferible memorizarlas o usar un gestor de contraseñas.",
+      "enunciado": "Según el texto, ¿por qué es un error pegar la contraseña en la pantalla?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el papel se borra con el sol.",
+          "correcta": false,
+          "explicacion": "El texto no habla del sol ni del borrado."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque cualquiera que pase puede leerla.",
+          "correcta": true,
+          "explicacion": "El texto dice que cualquiera que pase puede leerlas."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el papel daña la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona daño físico."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque ocupa espacio en el escritorio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el espacio."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las normas de convivencia buscan que las personas puedan vivir juntas en armonía. Estas reglas establecen tanto derechos como obligaciones para los ciudadanos. Cumplirlas favorece el bienestar de toda la comunidad.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las normas de convivencia se aplican solo a los conductores.",
+          "correcta": false,
+          "explicacion": "El texto habla de los ciudadanos en general."
+        },
+        {
+          "letra": "B",
+          "texto": "Las normas de convivencia perjudican a la comunidad.",
+          "correcta": false,
+          "explicacion": "El texto dice que cumplirlas favorece el bienestar de la comunidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Las normas de convivencia favorecen vivir en armonía y establecen derechos y obligaciones.",
+          "correcta": true,
+          "explicacion": "El texto resume que las normas buscan armonía y fijan derechos y obligaciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Las normas de convivencia solo establecen obligaciones.",
+          "correcta": false,
+          "explicacion": "El texto menciona también derechos, no solo obligaciones."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua de los ríos llega finalmente al mar. Allí, el calor del Sol la evapora y forma las nubes. Luego el agua vuelve a caer como lluvia y regresa a los ríos. A esto se lo llama ciclo del agua.",
+      "enunciado": "Según el texto, ¿cómo se llama el recorrido que hace el agua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cauce del río.",
+          "correcta": false,
+          "explicacion": "El texto no usa esa expresión."
+        },
+        {
+          "letra": "B",
+          "texto": "Marea del mar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la marea."
+        },
+        {
+          "letra": "C",
+          "texto": "Corriente del viento.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el viento."
+        },
+        {
+          "letra": "D",
+          "texto": "Ciclo del agua.",
+          "correcta": true,
+          "explicacion": "El texto dice que a este recorrido se lo llama ciclo del agua."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El Aconcagua es la montaña más alta de América. Se encuentra en la provincia de Mendoza y supera los 6.900 metros de altura. Muchos montañistas de distintos países intentan llegar a su cima cada verano.",
+      "enunciado": "¿Qué dato aporta el texto sobre el Aconcagua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que mide menos de 5.000 metros.",
+          "correcta": false,
+          "explicacion": "El texto dice que supera los 6.900 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Que es un volcán activo de Mendoza.",
+          "correcta": false,
+          "explicacion": "El texto no dice que sea un volcán."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es la montaña más alta de América.",
+          "correcta": true,
+          "explicacion": "El texto afirma que es la montaña más alta de América."
+        },
+        {
+          "letra": "D",
+          "texto": "Que está ubicado en la provincia de Salta.",
+          "correcta": false,
+          "explicacion": "El texto lo ubica en Mendoza, no en Salta."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 520 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "790",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "820",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "800",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 520 + 280 = 800."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 43 unidades y hay 4 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "172",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 43 × 4 = 172."
+        },
+        {
+          "letra": "B",
+          "texto": "168",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "47",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "215",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 520?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "88",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "78",
+          "correcta": true,
+          "explicacion": "El 15 % de 520 se calcula 15 ÷ 100 × 520 = 78."
+        },
+        {
+          "letra": "C",
+          "texto": "83",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "156",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 540 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "680",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "660",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 540 + 120 = 660."
+        },
+        {
+          "letra": "C",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 480 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "640",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 480 + 160 = 640."
+        },
+        {
+          "letra": "B",
+          "texto": "630",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "320",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "660",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 360 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "315",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "325",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 360 − 35 = 325."
+        },
+        {
+          "letra": "C",
+          "texto": "395",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "335",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 740 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "695",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "775",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "705",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 740 − 35 = 705."
+        },
+        {
+          "letra": "D",
+          "texto": "715",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 360?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "185",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "180",
+          "correcta": true,
+          "explicacion": "El 50 % de 360 se calcula 50 ÷ 100 × 360 = 180."
+        },
+        {
+          "letra": "D",
+          "texto": "360",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 2 de la Ley 25.188, ¿cuáles son los principios y pautas éticas que deben observarse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Legalidad, jerarquía, imparcialidad y obediencia",
+          "correcta": false,
+          "explicacion": "No son las pautas éticas que enumera el art. 2, inc. b."
+        },
+        {
+          "letra": "B",
+          "texto": "Eficiencia, celeridad, economía y sencillez",
+          "correcta": false,
+          "explicacion": "Esos son principios de procedimiento, no las pautas éticas del art. 2, inc. b."
+        },
+        {
+          "letra": "C",
+          "texto": "Honestidad, probidad, rectitud, buena fe y austeridad republicana",
+          "correcta": true,
+          "explicacion": "El art. 2, inc. b, enumera honestidad, probidad, rectitud, buena fe y austeridad republicana."
+        },
+        {
+          "letra": "D",
+          "texto": "Publicidad, igualdad, concurrencia y razonabilidad",
+          "correcta": false,
+          "explicacion": "Esos rigen las contrataciones públicas (art. 2, inc. h), no son las pautas éticas generales del inc. b."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿en cuántos poderes se dividen los Poderes del Estado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En tres: Legislativo, Ejecutivo y Judicial",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que se dividen en Poder Legislativo, Poder Ejecutivo y Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "En cuatro: Legislativo, Ejecutivo, Judicial y Electoral",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material solo menciona tres poderes."
+        },
+        {
+          "letra": "C",
+          "texto": "En dos: Legislativo y Ejecutivo",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material menciona tres poderes."
+        },
+        {
+          "letra": "D",
+          "texto": "En tres: Ejecutivo, Judicial y Constituyente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material menciona el Legislativo, no un poder constituyente como uno de los tres poderes del Estado."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el material, ¿cuál de estos figura entre los derechos de quienes trabajan?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El seguro social obligatorio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El seguro social obligatorio figura entre los derechos de la seguridad social."
+        },
+        {
+          "letra": "B",
+          "texto": "La compensación económica familiar",
+          "correcta": false,
+          "explicacion": "Incorrecta. La compensación económica familiar figura entre los derechos que protegen a la familia."
+        },
+        {
+          "letra": "C",
+          "texto": "El salario mínimo, vital y móvil",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera el 'salario mínimo, vital y móvil' entre los derechos de quienes trabajan."
+        },
+        {
+          "letra": "D",
+          "texto": "Los convenios colectivos de trabajo",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los convenios colectivos figuran entre los derechos de los gremios."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 1° bis de la Ley 19.549, ¿qué trámites se exceptúan de la caducidad del procedimiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los trámites relativos a previsión social",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. k) exceptúa de la caducidad los trámites relativos a previsión social y los que deban continuar por interés público."
+        },
+        {
+          "letra": "B",
+          "texto": "Los trámites de habilitación comercial",
+          "correcta": false,
+          "explicacion": "La habilitación comercial no es una excepción prevista; la norma cita previsión social e interés público."
+        },
+        {
+          "letra": "C",
+          "texto": "Los trámites en materia de contrataciones",
+          "correcta": false,
+          "explicacion": "Las contrataciones no figuran entre las excepciones; la norma menciona previsión social e interés público."
+        },
+        {
+          "letra": "D",
+          "texto": "Los recursos jerárquicos",
+          "correcta": false,
+          "explicacion": "Los recursos jerárquicos no están entre las excepciones del inc. k)."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, el Registro Nacional de Electores se caracteriza por ser:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Único y compuesto por varios subregistros",
+          "correcta": true,
+          "explicacion": "El art. 15 establece que el Registro Nacional de Electores es único y contiene varios subregistros."
+        },
+        {
+          "letra": "B",
+          "texto": "Confeccionado por cada partido político",
+          "correcta": false,
+          "explicacion": "El art. 15 no atribuye su confección a los partidos políticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Múltiple, con un registro por provincia",
+          "correcta": false,
+          "explicacion": "El art. 15 lo define como único, no como múltiple."
+        },
+        {
+          "letra": "D",
+          "texto": "Provisorio y renovado en cada elección",
+          "correcta": false,
+          "explicacion": "El art. 15 establece su carácter único y permanente, sin esa nota de provisoriedad."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al régimen de contratos con el Estado, cuando hay relación entre contratista y funcionario, ¿qué debe hacer el funcionario relacionado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solicitar un aumento de las garantías al contratista",
+          "correcta": false,
+          "explicacion": "El régimen impone el apartamiento del funcionario, no exigir garantías adicionales."
+        },
+        {
+          "letra": "B",
+          "texto": "Apartarse del procedimiento de contratación",
+          "correcta": true,
+          "explicacion": "El régimen exige que el funcionario relacionado con el contratista se aparte del procedimiento de contratación."
+        },
+        {
+          "letra": "C",
+          "texto": "Aprobar personalmente la contratación para transparentarla",
+          "correcta": false,
+          "explicacion": "Lo contrario: el funcionario debe apartarse del procedimiento, no aprobarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "Delegar la firma en un familiar",
+          "correcta": false,
+          "explicacion": "El régimen ordena que el funcionario se aparte del procedimiento."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué son las garantías constitucionales según el material?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las funciones asignadas a cada uno de los tres poderes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso corresponde a la división de poderes, no a las garantías."
+        },
+        {
+          "letra": "B",
+          "texto": "Las leyes que dicta el Congreso para crear nuevos derechos",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material define las garantías como mecanismos de protección, no como leyes que crean derechos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los mecanismos que la Constitución establece para proteger los derechos de las personas",
+          "correcta": true,
+          "explicacion": "Correcta. El material define las garantías como los mecanismos que la Constitución establece para proteger los derechos de las personas."
+        },
+        {
+          "letra": "D",
+          "texto": "Los valores expresados en el Preámbulo",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esos valores corresponden al Preámbulo, no a la definición de garantías."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿a qué hora deben encontrarse en el local el presidente y los suplentes el día del comicio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A las ocho y treinta (8:30) horas",
+          "correcta": false,
+          "explicacion": "Las 8:30 es la hora límite tras la cual se avisa la inasistencia (art. 81), no la de presentación."
+        },
+        {
+          "letra": "B",
+          "texto": "A las ocho (8:00) horas en punto",
+          "correcta": false,
+          "explicacion": "A las ocho en punto se declara abierto el acto (art. 83); las autoridades deben estar antes, a las 7:45 (art. 81)."
+        },
+        {
+          "letra": "C",
+          "texto": "A las siete (7:00) horas",
+          "correcta": false,
+          "explicacion": "El art. 81 fija las siete y cuarenta y cinco, no las siete."
+        },
+        {
+          "letra": "D",
+          "texto": "A las siete y cuarenta y cinco (7:45) horas",
+          "correcta": true,
+          "explicacion": "El art. 81 establece que deberán encontrarse en el local a las siete y cuarenta y cinco horas el día de la elección."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con los arts. 14 y 15 de la Ley 19.549, los actos administrativos pueden tener nulidad:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esencial o accesoria",
+          "correcta": false,
+          "explicacion": "Esencial o accesoria refiere a cláusulas (art. 16), no a las clases de nulidad de los actos."
+        },
+        {
+          "letra": "B",
+          "texto": "Relativa o provisoria",
+          "correcta": false,
+          "explicacion": "La nulidad provisoria no existe en la ley; las clases son absoluta y relativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Absoluta o contundente",
+          "correcta": false,
+          "explicacion": "No existe la categoría de nulidad contundente; las clases son absoluta y relativa."
+        },
+        {
+          "letra": "D",
+          "texto": "Absoluta o relativa",
+          "correcta": true,
+          "explicacion": "La ley distingue la nulidad absoluta e insanable (art. 14) de la nulidad relativa o anulabilidad (art. 15)."
+        }
+      ]
+    }
+  ]
+}

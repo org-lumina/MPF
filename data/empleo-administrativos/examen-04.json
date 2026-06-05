@@ -1,0 +1,794 @@
+{
+  "examen_id": 4,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los pisos mojados son una causa frecuente de resbalones y caídas en los lugares de trabajo. Por eso, cuando se lava un sector, se debe colocar un cartel de advertencia hasta que la superficie quede completamente seca.",
+      "enunciado": "Según el texto, ¿qué se debe hacer cuando se lava un sector?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cerrar todo el edificio",
+          "correcta": false,
+          "explicacion": "El texto no propone cerrar el edificio sino advertir del piso mojado."
+        },
+        {
+          "letra": "B",
+          "texto": "Colocar un cartel de advertencia hasta que seque",
+          "correcta": true,
+          "explicacion": "El texto indica colocar un cartel hasta que la superficie quede seca."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisar solo a los supervisores",
+          "correcta": false,
+          "explicacion": "El texto pide un cartel de advertencia general, no avisar solo a supervisores."
+        },
+        {
+          "letra": "D",
+          "texto": "Apagar las luces del sector",
+          "correcta": false,
+          "explicacion": "El texto no menciona apagar las luces."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las Cataratas del Iguazú se encuentran en la provincia de Misiones, en el noreste argentino. Están formadas por numerosos saltos de agua rodeados de selva. Cada año reciben a muchísimos visitantes de todo el mundo.",
+      "enunciado": "¿En qué provincia se encuentran las Cataratas del Iguazú según el texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En Formosa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona Formosa."
+        },
+        {
+          "letra": "B",
+          "texto": "En Misiones.",
+          "correcta": true,
+          "explicacion": "El texto dice claramente que están en la provincia de Misiones."
+        },
+        {
+          "letra": "C",
+          "texto": "En Salta.",
+          "correcta": false,
+          "explicacion": "El texto no menciona Salta."
+        },
+        {
+          "letra": "D",
+          "texto": "En Corrientes.",
+          "correcta": false,
+          "explicacion": "El texto indica Misiones, no Corrientes."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Caminar distancias cortas en lugar de usar el auto cuida el ambiente y también la salud. Para ir a la panadería o a la verdulería del barrio, muchas veces no hace falta el vehículo. Cada viaje a pie ahorra combustible y no contamina.",
+      "enunciado": "Según el texto, ¿qué se logra al caminar distancias cortas en lugar de usar el auto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se gasta más combustible.",
+          "correcta": false,
+          "explicacion": "El texto plantea un ahorro de combustible, no un gasto."
+        },
+        {
+          "letra": "B",
+          "texto": "Se generan más residuos.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona caminar con más residuos."
+        },
+        {
+          "letra": "C",
+          "texto": "Se tarda siempre menos que en auto.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que se tarde menos."
+        },
+        {
+          "letra": "D",
+          "texto": "Se ahorra combustible y no se contamina.",
+          "correcta": true,
+          "explicacion": "El texto dice que cada viaje a pie ahorra combustible y no contamina."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La atención de los días previos a un feriado puede tener mayor afluencia de público. Por eso se recomienda anticipar los trámites y no dejarlos para el último día hábil.",
+      "enunciado": "¿Qué se recomienda ante la mayor afluencia previa a un feriado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esperar a que pase el feriado.",
+          "correcta": false,
+          "explicacion": "El texto recomienda anticipar, no esperar."
+        },
+        {
+          "letra": "B",
+          "texto": "Hacer todos los trámites por teléfono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona hacerlos por teléfono."
+        },
+        {
+          "letra": "C",
+          "texto": "Realizar los trámites únicamente el último día.",
+          "correcta": false,
+          "explicacion": "El texto recomienda lo contrario: no dejarlos para el último día."
+        },
+        {
+          "letra": "D",
+          "texto": "Anticipar los trámites y no dejarlos para el último día hábil.",
+          "correcta": true,
+          "explicacion": "El texto recomienda anticipar los trámites y no dejarlos para el último día."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El voto es un derecho y un deber de los ciudadanos. A través de él, las personas eligen a sus representantes. Participar en las elecciones es una forma de intervenir en la vida democrática.",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde al texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El voto no influye en la democracia.",
+          "correcta": false,
+          "explicacion": "El texto lo presenta como forma de intervenir en la vida democrática."
+        },
+        {
+          "letra": "B",
+          "texto": "El voto es opcional y sin importancia.",
+          "correcta": false,
+          "explicacion": "El texto lo presenta como derecho y deber, con valor democrático."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo votan las autoridades.",
+          "correcta": false,
+          "explicacion": "El texto dice que es un derecho de los ciudadanos."
+        },
+        {
+          "letra": "D",
+          "texto": "El voto es un derecho y un deber con el que se eligen representantes.",
+          "correcta": true,
+          "explicacion": "El texto define el voto como derecho y deber para elegir representantes."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando una página te pide aceptar las cookies, conviene leer de qué se trata. Algunas sirven para recordar tus preferencias. Otras permiten seguir tu actividad para mostrarte publicidad.",
+      "enunciado": "Según el texto, ¿para qué pueden servir algunas cookies?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para seguir tu actividad y mostrarte publicidad.",
+          "correcta": true,
+          "explicacion": "El texto menciona que algunas permiten seguir tu actividad para mostrar publicidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Para eliminar los virus.",
+          "correcta": false,
+          "explicacion": "El texto no menciona virus."
+        },
+        {
+          "letra": "C",
+          "texto": "Para crear copias de seguridad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona copias de seguridad."
+        },
+        {
+          "letra": "D",
+          "texto": "Para cargar la batería más rápido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la batería."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El ruido excesivo en horarios de descanso afecta la convivencia entre vecinos. Muchas ciudades establecen horarios en los que se debe mantener silencio. Respetar esos horarios es una muestra de consideración hacia los demás.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El silencio solo importa de día.",
+          "correcta": false,
+          "explicacion": "El texto se refiere a los horarios de descanso, no solo al día."
+        },
+        {
+          "letra": "B",
+          "texto": "El ruido nunca molesta a los vecinos.",
+          "correcta": false,
+          "explicacion": "El texto dice que el ruido excesivo afecta la convivencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Respetar los horarios de silencio favorece la convivencia entre vecinos.",
+          "correcta": true,
+          "explicacion": "El texto destaca el respeto por los horarios de descanso como consideración hacia los demás."
+        },
+        {
+          "letra": "D",
+          "texto": "No existen horarios de silencio.",
+          "correcta": false,
+          "explicacion": "El texto menciona que muchas ciudades los establecen."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El zorro gris es un animal que vive en muchas zonas de la Argentina. Es astuto y se alimenta de pequeños animales y frutos. Suele salir de caza durante la noche.",
+      "enunciado": "Según el texto, ¿en qué momento suele cazar el zorro gris?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al amanecer.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el amanecer."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante la noche.",
+          "correcta": true,
+          "explicacion": "El texto dice que suele salir de caza durante la noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Al mediodía.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el mediodía."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo en invierno.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la caza con una estación."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Al estacionar, el conductor debe dejar libre el acceso a las rampas y a las sendas peatonales. De lo contrario, dificulta el paso de las personas. Respetar estos espacios garantiza la circulación de todos.",
+      "enunciado": "Según el texto, ¿qué debe dejar libre el conductor al estacionar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La entrada de los negocios.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la entrada de negocios."
+        },
+        {
+          "letra": "B",
+          "texto": "El acceso a las rampas y a las sendas peatonales.",
+          "correcta": true,
+          "explicacion": "El texto indica dejar libre el acceso a rampas y sendas peatonales."
+        },
+        {
+          "letra": "C",
+          "texto": "El carril del colectivo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el carril del colectivo."
+        },
+        {
+          "letra": "D",
+          "texto": "El centro de la calzada.",
+          "correcta": false,
+          "explicacion": "El texto menciona rampas y sendas, no el centro de la calzada."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La recepción de quejas se realiza por escrito y con identificación del reclamante. Las quejas anónimas se registran a título informativo, pero no generan una respuesta formal.",
+      "enunciado": "¿Qué ocurre con las quejas anónimas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se derivan a la Justicia.",
+          "correcta": false,
+          "explicacion": "El texto no menciona derivación a la Justicia."
+        },
+        {
+          "letra": "B",
+          "texto": "Se descartan sin registrarlas.",
+          "correcta": false,
+          "explicacion": "El texto indica que sí se registran, aunque sin respuesta formal."
+        },
+        {
+          "letra": "C",
+          "texto": "Se registran a título informativo, sin respuesta formal.",
+          "correcta": true,
+          "explicacion": "El texto dice que las quejas anónimas se registran a título informativo y no generan respuesta formal."
+        },
+        {
+          "letra": "D",
+          "texto": "Reciben respuesta dentro de cinco días.",
+          "correcta": false,
+          "explicacion": "El texto aclara que no generan respuesta formal."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Una contraseña anotada en el celular sin protección queda expuesta si pierde el equipo. Conviene guardarla en un lugar seguro y cifrado. Así, aunque pierdas el teléfono, la clave no queda a la vista.",
+      "enunciado": "Completá: 'Conviene guardar la contraseña en un lugar _______.'",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "anotado en la pared",
+          "correcta": false,
+          "explicacion": "El texto no menciona anotarla en la pared."
+        },
+        {
+          "letra": "B",
+          "texto": "compartido con amigos",
+          "correcta": false,
+          "explicacion": "El texto no sugiere compartirla."
+        },
+        {
+          "letra": "C",
+          "texto": "visible",
+          "correcta": false,
+          "explicacion": "El texto advierte contra dejarla expuesta."
+        },
+        {
+          "letra": "D",
+          "texto": "seguro y cifrado",
+          "correcta": true,
+          "explicacion": "El texto recomienda guardarla en un lugar seguro y cifrado."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El respeto por la diversidad es un valor fundamental de la convivencia. Todas las personas merecen un trato digno, sin importar su origen, creencia o forma de pensar. La discriminación atenta contra este principio.",
+      "enunciado": "Completá: Todas las personas merecen un trato digno, sin importar su origen, creencia o ______.",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "medio de transporte",
+          "correcta": false,
+          "explicacion": "El texto no menciona el medio de transporte."
+        },
+        {
+          "letra": "B",
+          "texto": "color de su casa",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color de la casa."
+        },
+        {
+          "letra": "C",
+          "texto": "lugar de trabajo",
+          "correcta": false,
+          "explicacion": "El texto no menciona el lugar de trabajo."
+        },
+        {
+          "letra": "D",
+          "texto": "forma de pensar",
+          "correcta": true,
+          "explicacion": "El texto enumera origen, creencia o forma de pensar."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Realizar controles de salud de forma periódica permite detectar problemas a tiempo. Muchas veces, una consulta a tiempo evita complicaciones mayores. Por eso conviene no postergar las visitas al profesional de la salud.",
+      "enunciado": "De acuerdo con el texto, ¿qué permiten los controles periódicos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reemplazar la alimentación",
+          "correcta": false,
+          "explicacion": "El texto no compara controles con alimentación."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar el peso corporal",
+          "correcta": false,
+          "explicacion": "El texto no relaciona los controles con el peso."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar dormir",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sueño."
+        },
+        {
+          "letra": "D",
+          "texto": "Detectar problemas a tiempo",
+          "correcta": true,
+          "explicacion": "El texto dice que los controles periódicos permiten detectar problemas a tiempo."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 380 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "595",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "155",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "165",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 380 − 215 = 165."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 520 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "590",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "620",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "600",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 520 + 80 = 600."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 500?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "385",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "375",
+          "correcta": true,
+          "explicacion": "El 75 % de 500 se calcula 75 ÷ 100 × 500 = 375."
+        },
+        {
+          "letra": "C",
+          "texto": "750",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 440?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "137",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "264",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "132",
+          "correcta": true,
+          "explicacion": "El 30 % de 440 se calcula 30 ÷ 100 × 440 = 132."
+        },
+        {
+          "letra": "D",
+          "texto": "142",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 920?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "92",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "46",
+          "correcta": true,
+          "explicacion": "El 5 % de 920 se calcula 5 ÷ 100 × 920 = 46."
+        },
+        {
+          "letra": "C",
+          "texto": "51",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "56",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 160?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "21",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "32",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "16",
+          "correcta": true,
+          "explicacion": "El 10 % de 160 se calcula 10 ÷ 100 × 160 = 16."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 360?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "82",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "72",
+          "correcta": true,
+          "explicacion": "El 20 % de 360 se calcula 20 ÷ 100 × 360 = 72."
+        },
+        {
+          "letra": "C",
+          "texto": "144",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "77",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 33 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "96",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "132",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "99",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 33 × 3 = 99."
+        },
+        {
+          "letra": "D",
+          "texto": "36",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 850 hojas en partes iguales entre 10 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "840",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "85",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 850 ÷ 10 = 85."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 6 cuadernos cuestan $180, ¿cuánto cuestan 12 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "330",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $180 ÷ 6 = $30; entonces 12 cuestan $30 × 12 = $360."
+        },
+        {
+          "letra": "C",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "192",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es 2/5 de 350?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "141",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "210",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "140",
+          "correcta": true,
+          "explicacion": "2/5 de 350 = 350 ÷ 5 × 2 = 140."
+        },
+        {
+          "letra": "D",
+          "texto": "70",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 41 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "49",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "328",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 41 × 8 = 328."
+        },
+        {
+          "letra": "C",
+          "texto": "320",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "369",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

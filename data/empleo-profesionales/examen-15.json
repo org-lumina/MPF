@@ -1,0 +1,789 @@
+{
+  "examen_id": 15,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Ventilar los ambientes de la casa todos los días renueva el aire. Abrir las ventanas un rato permite que salga el aire viciado y entre aire fresco. Es una medida simple para un hogar más sano.",
+      "enunciado": "De acuerdo con el texto, ¿qué se logra al abrir las ventanas un rato?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se gaste más agua",
+          "correcta": false,
+          "explicacion": "El texto no habla de agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la comida dure más",
+          "correcta": false,
+          "explicacion": "El texto no menciona la comida."
+        },
+        {
+          "letra": "C",
+          "texto": "Que aumente la temperatura siempre",
+          "correcta": false,
+          "explicacion": "El texto no menciona ese efecto."
+        },
+        {
+          "letra": "D",
+          "texto": "Que salga el aire viciado y entre aire fresco",
+          "correcta": true,
+          "explicacion": "El texto dice que abrir las ventanas permite renovar el aire."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La Patagonia es una vasta región del sur argentino. En gran parte de su territorio el paisaje es una estepa seca y ventosa. Allí pastan ovejas y viven animales como el guanaco.",
+      "enunciado": "Según el texto, ¿qué animal vive en la Patagonia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El guanaco.",
+          "correcta": true,
+          "explicacion": "El texto dice que en la Patagonia vive el guanaco."
+        },
+        {
+          "letra": "B",
+          "texto": "El cocodrilo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cocodrilos."
+        },
+        {
+          "letra": "C",
+          "texto": "El mono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona monos."
+        },
+        {
+          "letra": "D",
+          "texto": "El elefante.",
+          "correcta": false,
+          "explicacion": "El texto no menciona elefantes."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Lavarse las manos lleva apenas unos segundos, pero su efecto en la salud es enorme. Es un gesto sencillo que previene muchas enfermedades comunes. Por eso se recomienda hacerlo varias veces al día.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo hay que hacerlo una vez al mes",
+          "correcta": false,
+          "explicacion": "El texto recomienda hacerlo varias veces al día."
+        },
+        {
+          "letra": "B",
+          "texto": "Lavarse las manos lleva mucho tiempo",
+          "correcta": false,
+          "explicacion": "El texto dice que lleva apenas unos segundos."
+        },
+        {
+          "letra": "C",
+          "texto": "No conviene lavarse las manos",
+          "correcta": false,
+          "explicacion": "El texto lo recomienda."
+        },
+        {
+          "letra": "D",
+          "texto": "Lavarse las manos es un gesto sencillo que previene muchas enfermedades",
+          "correcta": true,
+          "explicacion": "El texto destaca que es un gesto sencillo con gran efecto preventivo."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las zonas con riesgo de caída a distinto nivel deben protegerse con barandas. Estas barandas impiden que las personas caigan al vacío desde plataformas o escaleras.",
+      "enunciado": "Según el texto, ¿qué impiden las barandas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se escape el calor",
+          "correcta": false,
+          "explicacion": "El texto no habla del calor."
+        },
+        {
+          "letra": "B",
+          "texto": "Que entre el polvo",
+          "correcta": false,
+          "explicacion": "El texto no menciona el polvo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que ingresen ruidos",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las barandas con el ruido."
+        },
+        {
+          "letra": "D",
+          "texto": "Que las personas caigan al vacío",
+          "correcta": true,
+          "explicacion": "El texto dice que las barandas impiden caer al vacío."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El reloj despertador funciona con una pila de respaldo que conserva la hora durante un corte de luz. Si la pantalla parpadea, significa que la hora debe reprogramarse porque la pila se agotó.",
+      "enunciado": "Según el texto, ¿qué indica que la pantalla parpadee?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la hora debe reprogramarse.",
+          "correcta": true,
+          "explicacion": "El texto dice que el parpadeo indica reprogramar la hora porque la pila se agotó."
+        },
+        {
+          "letra": "B",
+          "texto": "Que hay un corte de luz en curso.",
+          "correcta": false,
+          "explicacion": "La pila de respaldo conserva la hora durante el corte."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el reloj está adelantado.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que esté adelantado."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la alarma está sonando.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el parpadeo con la alarma."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El conductor debe respetar las indicaciones del personal de tránsito. Cuando un agente regula el cruce, sus señas tienen prioridad sobre el semáforo. Obedecer estas indicaciones evita confusiones y accidentes.",
+      "enunciado": "Según el texto, ¿qué tiene prioridad cuando un agente regula el cruce?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La bocina de los autos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la bocina."
+        },
+        {
+          "letra": "B",
+          "texto": "El cartel de PARE.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el cartel de PARE en este caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Las señas del agente de tránsito.",
+          "correcta": true,
+          "explicacion": "El texto dice que las señas del agente tienen prioridad sobre el semáforo."
+        },
+        {
+          "letra": "D",
+          "texto": "La luz del semáforo.",
+          "correcta": false,
+          "explicacion": "El texto dice que las señas del agente priman sobre el semáforo."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Completá la oración: \"Antes de usar una escalera de mano, se debe comprobar que esté firme y _____ para evitar caídas.\"",
+      "enunciado": "¿Qué palabra completa la oración: \"Antes de usar una escalera de mano, se debe comprobar que esté firme y _____ para evitar caídas.\"?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "estable",
+          "correcta": true,
+          "explicacion": "El sentido del texto, sobre evitar caídas, se completa con estable."
+        },
+        {
+          "letra": "B",
+          "texto": "colorida",
+          "correcta": false,
+          "explicacion": "El color no se relaciona con evitar caídas."
+        },
+        {
+          "letra": "C",
+          "texto": "liviana",
+          "correcta": false,
+          "explicacion": "Que sea liviana no asegura firmeza para evitar caídas."
+        },
+        {
+          "letra": "D",
+          "texto": "nueva",
+          "correcta": false,
+          "explicacion": "Ser nueva no equivale a estar firme y estable."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Una buena hidratación no depende solo del agua: muchas frutas y verduras contienen bastante líquido. Comer alimentos como la sandía o el pepino también ayuda a hidratarse. De todos modos, el agua sigue siendo la mejor opción.",
+      "enunciado": "De acuerdo con el texto, ¿qué alimentos también ayudan a hidratarse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La sandía y el pepino",
+          "correcta": true,
+          "explicacion": "El texto menciona la sandía y el pepino como alimentos con bastante líquido."
+        },
+        {
+          "letra": "B",
+          "texto": "Los frutos secos",
+          "correcta": false,
+          "explicacion": "El texto no menciona frutos secos."
+        },
+        {
+          "letra": "C",
+          "texto": "Las carnes asadas",
+          "correcta": false,
+          "explicacion": "El texto no incluye carnes."
+        },
+        {
+          "letra": "D",
+          "texto": "El pan y las galletitas secas",
+          "correcta": false,
+          "explicacion": "El texto no menciona esos alimentos."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 620 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "745",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "505",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "485",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "495",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 620 − 125 = 495."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 480 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "255",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "275",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "695",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "265",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 480 − 215 = 265."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 140?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "19",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "14",
+          "correcta": true,
+          "explicacion": "El 10 % de 140 se calcula 10 ÷ 100 × 140 = 14."
+        },
+        {
+          "letra": "C",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "28",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 600?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "30",
+          "correcta": true,
+          "explicacion": "El 5 % de 600 se calcula 5 ÷ 100 × 600 = 30."
+        },
+        {
+          "letra": "C",
+          "texto": "35",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 570 hojas en partes iguales entre 10 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "62",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "57",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 570 ÷ 10 = 57."
+        },
+        {
+          "letra": "D",
+          "texto": "560",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el doble de 40 más 20?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100",
+          "correcta": true,
+          "explicacion": "El doble de 40 es 80; más 20 es 100."
+        },
+        {
+          "letra": "B",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "101",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 740 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "670",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "660",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 740 − 80 = 660."
+        },
+        {
+          "letra": "D",
+          "texto": "820",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 200 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 200 + 40 = 240."
+        },
+        {
+          "letra": "C",
+          "texto": "230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cómo se designa al séptimo Auditor General, presidente del ente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la Comisión Parlamentaria Mixta Revisora de Cuentas",
+          "correcta": false,
+          "explicacion": "El art. 123 atribuye la designación a los presidentes de ambas Cámaras, no a esa comisión."
+        },
+        {
+          "letra": "B",
+          "texto": "Por sorteo entre los seis auditores ya designados",
+          "correcta": false,
+          "explicacion": "El sorteo del art. 122 define períodos iniciales, no la designación del séptimo auditor."
+        },
+        {
+          "letra": "C",
+          "texto": "Por resolución conjunta de los presidentes de las Cámaras de Senadores y de Diputados",
+          "correcta": true,
+          "explicacion": "El art. 123 dispone que el séptimo Auditor General será designado por resolución conjunta de los presidentes de ambas Cámaras y será el presidente del ente."
+        },
+        {
+          "letra": "D",
+          "texto": "Por decreto del Poder Ejecutivo Nacional",
+          "correcta": false,
+          "explicacion": "El art. 123 atribuye la designación a los presidentes de ambas Cámaras, no al Poder Ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 13 de la Ley 25.188, es incompatible con el ejercicio de la función pública:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ser proveedor por sí o por terceros de todo organismo del Estado donde se desempeñe",
+          "correcta": true,
+          "explicacion": "El art. 13, inc. b, declara incompatible ser proveedor por sí o por terceros de todo organismo del Estado donde el agente desempeñe sus funciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Tener cuentas bancarias en el exterior",
+          "correcta": false,
+          "explicacion": "Las incompatibilidades del art. 13 se vinculan con prestar servicios o proveer al Estado, no con cuentas en el exterior."
+        },
+        {
+          "letra": "C",
+          "texto": "Poseer un inmueble propio en cualquier provincia",
+          "correcta": false,
+          "explicacion": "Tener bienes propios no es la incompatibilidad del art. 13; ésta refiere a prestar servicios o ser proveedor."
+        },
+        {
+          "letra": "D",
+          "texto": "Realizar tareas docentes en universidades nacionales",
+          "correcta": false,
+          "explicacion": "El art. 13 no menciona la docencia como incompatibilidad."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de viajes, los funcionarios sólo pueden aceptar que un tercero les pague viajes y estadías si, entre otras condiciones:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El viaje tiene fines turísticos personales",
+          "correcta": false,
+          "explicacion": "El régimen no admite el pago de viajes de fines turísticos personales."
+        },
+        {
+          "letra": "B",
+          "texto": "El viaje lo paga cualquier empresa proveedora del organismo",
+          "correcta": false,
+          "explicacion": "Sólo puede pagarlo quien podría hacer regalos de cortesía o costumbre diplomática, no un proveedor con interés."
+        },
+        {
+          "letra": "C",
+          "texto": "El viaje es para dar conferencias, cursos o actividades académicas o culturales, o participar en ellas",
+          "correcta": true,
+          "explicacion": "El régimen de viajes exige que el viaje sea para dar conferencias, cursos o actividades académicas o culturales, o participar en esas actividades."
+        },
+        {
+          "letra": "D",
+          "texto": "El funcionario reintegra luego el costo al Estado",
+          "correcta": false,
+          "explicacion": "El régimen no requiere reintegro; fija condiciones para aceptar el pago de un tercero habilitado."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 14 de la Ley 19.549, la incompetencia que genera nulidad absoluta del acto se configura en razón de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La sola conveniencia administrativa",
+          "correcta": false,
+          "explicacion": "La conveniencia administrativa no es un supuesto de incompetencia generadora de nulidad."
+        },
+        {
+          "letra": "B",
+          "texto": "La materia, el territorio o el tiempo",
+          "correcta": true,
+          "explicacion": "El art. 14, inc. b) (i) establece la nulidad absoluta por incompetencia en razón de la materia, del territorio o del tiempo."
+        },
+        {
+          "letra": "C",
+          "texto": "El monto involucrado en el acto",
+          "correcta": false,
+          "explicacion": "El monto no es un criterio de incompetencia del art. 14, que refiere a materia, territorio, tiempo y grado."
+        },
+        {
+          "letra": "D",
+          "texto": "El grado, en todos los casos",
+          "correcta": false,
+          "explicacion": "La incompetencia en razón del grado genera, por regla, nulidad relativa, salvo competencias excluyentes asignadas por ley."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cómo es elegido el Presidente de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la Corte Suprema de Justicia",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material indica que es elegido por el pueblo."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Consejo de la Magistratura interviene en la selección de jueces, no del Presidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el pueblo",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Presidente es elegido por el pueblo."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material indica que es elegido por el pueblo."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 13 de la Ley 25.188, prestar servicios a quien tenga una concesión o sea proveedor del Estado es incompatible siempre que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La concesión supere un determinado monto anual",
+          "correcta": false,
+          "explicacion": "El art. 13, inc. a, no fija un monto; el criterio es la competencia funcional directa."
+        },
+        {
+          "letra": "B",
+          "texto": "El cargo público tenga competencia funcional directa sobre esas concesiones, beneficios o actividades",
+          "correcta": true,
+          "explicacion": "El art. 13, inc. a, exige que el cargo público tenga competencia funcional directa respecto de la contratación, obtención, gestión o control de tales concesiones, beneficios o actividades."
+        },
+        {
+          "letra": "C",
+          "texto": "El servicio se preste en horario laboral",
+          "correcta": false,
+          "explicacion": "El criterio del art. 13, inc. a, es la competencia funcional directa, no el horario."
+        },
+        {
+          "letra": "D",
+          "texto": "El funcionario perciba honorarios por ello",
+          "correcta": false,
+          "explicacion": "La condición del art. 13, inc. a, es la competencia funcional directa, no la percepción de honorarios."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 11 de la Ley 25.188, el uso ilegal de una declaración jurada es pasible de una multa de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mil pesos ($ 1.000) hasta cincuenta mil pesos ($ 50.000)",
+          "correcta": false,
+          "explicacion": "El rango del art. 11 es de quinientos a diez mil pesos."
+        },
+        {
+          "letra": "B",
+          "texto": "Quinientos pesos ($ 500) hasta diez mil pesos ($ 10.000)",
+          "correcta": true,
+          "explicacion": "El art. 11 establece una multa de quinientos pesos hasta diez mil pesos por uso ilegal de la declaración jurada."
+        },
+        {
+          "letra": "C",
+          "texto": "Cien pesos ($ 100) hasta mil pesos ($ 1.000)",
+          "correcta": false,
+          "explicacion": "El art. 11 fija de quinientos pesos hasta diez mil pesos, no ese rango."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco mil pesos ($ 5.000) hasta cien mil pesos ($ 100.000)",
+          "correcta": false,
+          "explicacion": "El art. 11 fija de quinientos a diez mil pesos."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, la renuncia produce la baja automática del agente a los:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Treinta (30) días corridos de su presentación, si antes no fue aceptada",
+          "correcta": true,
+          "explicacion": "El art. 22 establece la baja automática a los treinta (30) días corridos de presentada la renuncia si no fue aceptada antes por autoridad competente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sesenta (60) días corridos de su presentación",
+          "correcta": false,
+          "explicacion": "El art. 22 fija treinta días, no sesenta."
+        },
+        {
+          "letra": "C",
+          "texto": "Quince (15) días corridos de su presentación",
+          "correcta": false,
+          "explicacion": "El plazo del art. 22 no es de quince días."
+        },
+        {
+          "letra": "D",
+          "texto": "Noventa (90) días corridos de su presentación",
+          "correcta": false,
+          "explicacion": "El plazo de baja automática es de treinta días corridos."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuál es el órgano rector del sistema de contabilidad gubernamental?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "La Sindicatura General es el órgano rector del control interno (art. 7), no de la contabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "La Oficina Nacional de Presupuesto",
+          "correcta": false,
+          "explicacion": "La Oficina Nacional de Presupuesto es el órgano rector del sistema presupuestario (art. 16)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Auditoría General es el órgano rector del control externo (art. 7), no de la contabilidad."
+        },
+        {
+          "letra": "D",
+          "texto": "La Contaduría General de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 88 establece que la Contaduría General de la Nación es el órgano rector del sistema de contabilidad gubernamental."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "examen_id": 26,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El monitor de la computadora debe limpiarse con un paño de microfibra seco o apenas húmedo. Evite los productos abrasivos o el alcohol puro, porque pueden rayar la pantalla y borrar el tratamiento antirreflejo.",
+      "enunciado": "Según el texto, ¿qué se debe evitar al limpiar el monitor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El paño apenas húmedo.",
+          "correcta": false,
+          "explicacion": "El texto permite un paño apenas húmedo."
+        },
+        {
+          "letra": "B",
+          "texto": "Los productos abrasivos.",
+          "correcta": true,
+          "explicacion": "El texto indica evitar los productos abrasivos y el alcohol puro."
+        },
+        {
+          "letra": "C",
+          "texto": "Usar un plumero de cerdas duras",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Los productos abrasivos.»."
+        },
+        {
+          "letra": "D",
+          "texto": "El paño de microfibra.",
+          "correcta": false,
+          "explicacion": "El texto recomienda el paño de microfibra."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cartón de la leche y de los jugos está hecho de varias capas de materiales combinados. Por eso necesita un proceso especial para reciclarse y no debe mezclarse con el papel común. Enjuagarlo y aplastarlo facilita su recolección.",
+      "enunciado": "Según el texto, ¿por qué el cartón de la leche no debe mezclarse con el papel común?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque está hecho de varias capas y necesita un proceso especial.",
+          "correcta": true,
+          "explicacion": "El texto dice que está hecho de varias capas combinadas y necesita un proceso especial."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque no se puede reciclar de ninguna manera.",
+          "correcta": false,
+          "explicacion": "El texto indica que puede reciclarse con un proceso especial."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque es del mismo material que el papel.",
+          "correcta": false,
+          "explicacion": "El texto dice que combina varios materiales."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque contamina el agua de lluvia.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua de lluvia."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando una herida tiene un objeto clavado, no se debe retirarlo en el lugar. Quitarlo puede aumentar el sangrado; lo correcto es fijarlo y trasladar a la persona a un centro de salud.",
+      "enunciado": "Según el texto, una acción contraindicada ante un objeto clavado en una herida es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Retirarlo en el lugar",
+          "correcta": true,
+          "explicacion": "Correcta. El texto indica expresamente que no debe hacerse; es la acción contraindicada."
+        },
+        {
+          "letra": "B",
+          "texto": "Fijarlo para que no se mueva",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción contraindicada."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener la calma",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción contraindicada."
+        },
+        {
+          "letra": "D",
+          "texto": "Trasladar a la persona a un centro de salud",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción contraindicada."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La devolución de documentación retenida se efectúa contra entrega del comprobante. Quien haya extraviado el comprobante deberá presentar una declaración jurada de extravío para retirar sus papeles.",
+      "enunciado": "¿Qué debe presentar quien extravió el comprobante para retirar su documentación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una copia del documento de identidad solamente.",
+          "correcta": false,
+          "explicacion": "El texto pide la declaración jurada, no solo la copia del documento."
+        },
+        {
+          "letra": "B",
+          "texto": "Un nuevo comprobante emitido por caja.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la emisión de un nuevo comprobante."
+        },
+        {
+          "letra": "C",
+          "texto": "La autorización de un superior.",
+          "correcta": false,
+          "explicacion": "El texto no menciona autorización de un superior."
+        },
+        {
+          "letra": "D",
+          "texto": "Una declaración jurada de extravío.",
+          "correcta": true,
+          "explicacion": "El texto exige una declaración jurada de extravío en ese caso."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las abejas cumplen un papel muy importante en la naturaleza. Al ir de flor en flor, transportan el polen y ayudan a que muchas plantas produzcan frutos. Por eso se dice que son grandes colaboradoras del campo.",
+      "enunciado": "Según el texto, ¿por qué son importantes las abejas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque comen las hojas dañadas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que coman hojas."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque ahuyentan a otros insectos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que ahuyenten insectos."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque limpian el agua de los ríos.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona a las abejas con el agua."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque transportan el polen y ayudan a las plantas.",
+          "correcta": true,
+          "explicacion": "El texto dice que llevan el polen y ayudan a que las plantas produzcan frutos."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La picadora de carne posee un protector térmico que detiene el motor si se recalienta. Si esto ocurre, apague el equipo, espere unos minutos a que se enfríe y luego reanude el trabajo.",
+      "enunciado": "Según el texto, ¿qué se debe hacer si se detiene el motor de la picadora por recalentamiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esperar unos minutos a que se enfríe.",
+          "correcta": true,
+          "explicacion": "El texto indica apagar el equipo y esperar a que se enfríe."
+        },
+        {
+          "letra": "B",
+          "texto": "Agregar más carne de inmediato.",
+          "correcta": false,
+          "explicacion": "El texto pide esperar antes de reanudar el trabajo."
+        },
+        {
+          "letra": "C",
+          "texto": "Forzar el encendido enseguida.",
+          "correcta": false,
+          "explicacion": "El texto no recomienda forzar el encendido."
+        },
+        {
+          "letra": "D",
+          "texto": "Sumergir el motor en agua.",
+          "correcta": false,
+          "explicacion": "El texto no menciona sumergir el motor."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El comprobante de turno indica el día, la hora y el box de atención asignado. Se recomienda llegar diez minutos antes para verificar los datos en la pantalla de la sala.",
+      "enunciado": "¿Qué datos figuran en el comprobante de turno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El día, la hora y el box de atención.",
+          "correcta": true,
+          "explicacion": "El texto enumera esos tres datos en el comprobante."
+        },
+        {
+          "letra": "B",
+          "texto": "El nombre del agente que atenderá.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el nombre del agente."
+        },
+        {
+          "letra": "C",
+          "texto": "El número de expediente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el número de expediente en el comprobante."
+        },
+        {
+          "letra": "D",
+          "texto": "El monto de la tasa a pagar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona montos ni tasas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El desierto es una zona donde casi no llueve. El suelo suele ser seco y las plantas que crecen allí necesitan poca agua. En la Argentina hay zonas desérticas en el oeste del país.",
+      "enunciado": "Según el texto, ¿qué caracteriza al desierto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que tiene muchos ríos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ríos en el desierto."
+        },
+        {
+          "letra": "B",
+          "texto": "Que llueve todos los días.",
+          "correcta": false,
+          "explicacion": "El texto dice lo contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Que está cubierto de hielo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona hielo."
+        },
+        {
+          "letra": "D",
+          "texto": "Que casi no llueve.",
+          "correcta": true,
+          "explicacion": "El texto dice que el desierto es una zona donde casi no llueve."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Ante una emergencia, conviene conocer de antemano el número al que llamar y los datos del lugar. Brindar la dirección exacta y describir lo que ocurre permite que la ayuda llegue más rápido.",
+      "enunciado": "Según el texto, ¿qué permite brindar la dirección exacta en una emergencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la llamada sea gratuita",
+          "correcta": false,
+          "explicacion": "El texto no menciona el costo de la llamada."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se evite pagar la atención",
+          "correcta": false,
+          "explicacion": "El texto no habla de pagos."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la ayuda llegue más rápido",
+          "correcta": true,
+          "explicacion": "El texto dice que dar la dirección exacta hace que la ayuda llegue antes."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la línea no se corte",
+          "correcta": false,
+          "explicacion": "El texto no menciona cortes en la línea."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El coatí es un animal de cola larga que vive en las selvas del norte argentino. Trepa con facilidad a los árboles en busca de frutos e insectos. Suele andar en grupos durante el día.",
+      "enunciado": "¿Qué afirma el texto sobre el coatí?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que solo sale de noche.",
+          "correcta": false,
+          "explicacion": "El texto dice que anda durante el día."
+        },
+        {
+          "letra": "B",
+          "texto": "Que trepa con facilidad a los árboles.",
+          "correcta": true,
+          "explicacion": "El texto dice que trepa con facilidad a los árboles."
+        },
+        {
+          "letra": "C",
+          "texto": "Que vive en el mar.",
+          "correcta": false,
+          "explicacion": "El texto dice que vive en las selvas."
+        },
+        {
+          "letra": "D",
+          "texto": "Que tiene la cola muy corta.",
+          "correcta": false,
+          "explicacion": "El texto dice que tiene la cola larga."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Un correo escrito con muchos errores de ortografía y un saludo genérico puede ser sospechoso. Las empresas serias suelen cuidar la redacción. Esos detalles ayudan a detectar un posible fraude.",
+      "enunciado": "Según el texto, ¿qué detalle ayuda a detectar un posible fraude por correo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que use color azul.",
+          "correcta": false,
+          "explicacion": "El texto no menciona colores."
+        },
+        {
+          "letra": "B",
+          "texto": "Muchos errores de ortografía y un saludo genérico.",
+          "correcta": true,
+          "explicacion": "El texto menciona esos detalles como señales de posible fraude."
+        },
+        {
+          "letra": "C",
+          "texto": "Que tenga una imagen adjunta.",
+          "correcta": false,
+          "explicacion": "El texto no menciona imágenes adjuntas."
+        },
+        {
+          "letra": "D",
+          "texto": "Que llegue por la mañana.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el horario."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de cambiar el filtro de la cafetera, desenchúfela y deje que el agua del depósito se enfríe. Manipular el equipo caliente y conectado aumenta el riesgo de quemaduras y descargas eléctricas.",
+      "enunciado": "Completá la oración con las palabras que faltan: \"Antes de cambiar el filtro de la cafetera, _____ y deje que el agua se enfríe\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "desenchúfela",
+          "correcta": true,
+          "explicacion": "El texto indica desenchufar la cafetera antes de cambiar el filtro."
+        },
+        {
+          "letra": "B",
+          "texto": "llénela de agua",
+          "correcta": false,
+          "explicacion": "El texto pide dejar enfriar el agua, no llenarla."
+        },
+        {
+          "letra": "C",
+          "texto": "súbale la potencia",
+          "correcta": false,
+          "explicacion": "El texto no sugiere subir la potencia."
+        },
+        {
+          "letra": "D",
+          "texto": "enciéndala otra vez",
+          "correcta": false,
+          "explicacion": "El texto pide desenchufarla, no encenderla."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Barrer la vereda con escoba en lugar de limpiarla con la manguera ahorra mucha agua. La manguera deja correr litros y litros para una tarea que se resuelve con la escoba. Es un cambio simple que cuida el agua.",
+      "enunciado": "Según el texto, ¿qué conviene usar para limpiar la vereda y ahorrar agua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un balde lleno hasta el borde.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el balde para la vereda."
+        },
+        {
+          "letra": "B",
+          "texto": "Agua caliente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua caliente."
+        },
+        {
+          "letra": "C",
+          "texto": "La escoba.",
+          "correcta": true,
+          "explicacion": "El texto recomienda barrer con escoba en lugar de usar la manguera."
+        },
+        {
+          "letra": "D",
+          "texto": "La manguera.",
+          "correcta": false,
+          "explicacion": "El texto dice que la manguera deja correr muchos litros de agua."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 320?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "16",
+          "correcta": true,
+          "explicacion": "El 5 % de 320 se calcula 5 ÷ 100 × 320 = 16."
+        },
+        {
+          "letra": "B",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "21",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "32",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 940?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "705",
+          "correcta": true,
+          "explicacion": "El 75 % de 940 se calcula 75 ÷ 100 × 940 = 705."
+        },
+        {
+          "letra": "B",
+          "texto": "715",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "1.410",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "710",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 10 cuadernos cuestan $500, ¿cuánto cuestan 11 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "550",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $500 ÷ 10 = $50; entonces 11 cuestan $50 × 11 = $550."
+        },
+        {
+          "letra": "B",
+          "texto": "511",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 260 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "90",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 260 − 170 = 90."
+        },
+        {
+          "letra": "B",
+          "texto": "430",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 43 unidades y hay 6 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "49",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "258",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 43 × 6 = 258."
+        },
+        {
+          "letra": "C",
+          "texto": "301",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "252",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 320?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "58",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "48",
+          "correcta": true,
+          "explicacion": "El 15 % de 320 se calcula 15 ÷ 100 × 320 = 48."
+        },
+        {
+          "letra": "C",
+          "texto": "96",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "53",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 800?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "200",
+          "correcta": true,
+          "explicacion": "El 25 % de 800 se calcula 25 ÷ 100 × 800 = 200."
+        },
+        {
+          "letra": "B",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "205",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "210",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 430 hojas en partes iguales entre 10 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "43",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 430 ÷ 10 = 43."
+        },
+        {
+          "letra": "B",
+          "texto": "38",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 980?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "304",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "588",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "299",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "294",
+          "correcta": true,
+          "explicacion": "El 30 % de 980 se calcula 30 ÷ 100 × 980 = 294."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 600?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "El 60 % de 600 se calcula 60 ÷ 100 × 600 = 360."
+        },
+        {
+          "letra": "B",
+          "texto": "720",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "365",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "4",
+          "correcta": true,
+          "explicacion": "El 5 % de 80 se calcula 5 ÷ 100 × 80 = 4."
+        },
+        {
+          "letra": "B",
+          "texto": "9",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "14",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "8",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 100?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "75",
+          "correcta": true,
+          "explicacion": "El 75 % de 100 se calcula 75 ÷ 100 × 100 = 75."
+        },
+        {
+          "letra": "B",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "85",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

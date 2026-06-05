@@ -1,0 +1,789 @@
+{
+  "examen_id": 20,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Al terminar la jornada, conviene apagar y desconectar los equipos que no se usarán. Esto reduce el riesgo de cortocircuitos e incendios durante la noche.",
+      "enunciado": "Según el texto, ¿qué reduce apagar y desconectar los equipos al terminar la jornada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tiempo de descanso del personal",
+          "correcta": false,
+          "explicacion": "El texto no menciona el descanso."
+        },
+        {
+          "letra": "B",
+          "texto": "La cantidad de empleados",
+          "correcta": false,
+          "explicacion": "El texto no habla de la cantidad de empleados."
+        },
+        {
+          "letra": "C",
+          "texto": "El riesgo de cortocircuitos e incendios durante la noche",
+          "correcta": true,
+          "explicacion": "El texto dice que reduce el riesgo de cortocircuitos e incendios."
+        },
+        {
+          "letra": "D",
+          "texto": "El ruido de la calle",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Una mochila o cartera de buena calidad puede durar muchos años si la cuidamos. Comprar productos duraderos, aunque cuesten un poco más, evita reemplazarlos seguido. A la larga, esto genera menos residuos y menos gasto.",
+      "enunciado": "Según el texto, ¿qué ventaja tiene comprar productos duraderos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Son siempre los más baratos.",
+          "correcta": false,
+          "explicacion": "El texto dice que pueden costar un poco más."
+        },
+        {
+          "letra": "B",
+          "texto": "Obliga a comprarlos cada poco tiempo.",
+          "correcta": false,
+          "explicacion": "El texto plantea lo contrario: se reemplazan menos."
+        },
+        {
+          "letra": "C",
+          "texto": "Evita reemplazarlos seguido y genera menos residuos.",
+          "correcta": true,
+          "explicacion": "El texto dice que comprar productos duraderos evita reemplazarlos seguido y genera menos residuos."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumenta la cantidad de basura.",
+          "correcta": false,
+          "explicacion": "El texto dice que generan menos residuos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El punto de encuentro es el lugar seguro donde todos deben reunirse luego de evacuar un edificio. Allí se realiza el recuento de personas para confirmar que nadie quedó adentro.",
+      "enunciado": "Según el texto, ¿para qué sirve reunirse en el punto de encuentro?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para guardar las herramientas",
+          "correcta": false,
+          "explicacion": "El texto no habla de guardar herramientas."
+        },
+        {
+          "letra": "B",
+          "texto": "Para esperar el transporte",
+          "correcta": false,
+          "explicacion": "El texto no menciona el transporte."
+        },
+        {
+          "letra": "C",
+          "texto": "Para descansar después del trabajo",
+          "correcta": false,
+          "explicacion": "El texto no menciona descanso."
+        },
+        {
+          "letra": "D",
+          "texto": "Para hacer el recuento y confirmar que nadie quedó adentro",
+          "correcta": true,
+          "explicacion": "El texto dice que allí se hace el recuento de personas."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las ballenas son los animales más grandes que existen. Aunque viven en el mar, no son peces, sino mamíferos. Por eso suben a la superficie cada cierto tiempo para respirar aire.",
+      "enunciado": "Según el texto, ¿por qué las ballenas suben a la superficie?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para respirar aire.",
+          "correcta": true,
+          "explicacion": "El texto dice que suben a la superficie para respirar aire."
+        },
+        {
+          "letra": "B",
+          "texto": "Para buscar peces pequeños.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el subir con buscar comida."
+        },
+        {
+          "letra": "C",
+          "texto": "Para descansar sobre las olas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que descansen."
+        },
+        {
+          "letra": "D",
+          "texto": "Para tomar sol.",
+          "correcta": false,
+          "explicacion": "El texto no menciona tomar sol."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El murciélago es el único mamífero que vuela de verdad. Duerme durante el día colgado cabeza abajo y sale a buscar alimento por la noche. Muchas especies se alimentan de insectos.",
+      "enunciado": "Según el texto, ¿cuándo sale el murciélago a buscar alimento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en verano.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona su actividad con una estación."
+        },
+        {
+          "letra": "B",
+          "texto": "Al amanecer.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el amanecer."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante el día.",
+          "correcta": false,
+          "explicacion": "El texto dice que duerme de día."
+        },
+        {
+          "letra": "D",
+          "texto": "Por la noche.",
+          "correcta": true,
+          "explicacion": "El texto afirma que sale a buscar alimento por la noche."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cartón de las cajas puede plegarse y guardarse para llevarlo al reciclaje. Si está limpio y seco, conserva su valor como material. La humedad y los restos de comida, en cambio, lo arruinan y dificultan su reciclado.",
+      "enunciado": "Según el texto, ¿qué arruina el cartón y dificulta su reciclado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Plegarlo antes de guardarlo.",
+          "correcta": false,
+          "explicacion": "El texto sugiere plegarlo, no lo presenta como un problema."
+        },
+        {
+          "letra": "B",
+          "texto": "La humedad y los restos de comida.",
+          "correcta": true,
+          "explicacion": "El texto dice que la humedad y los restos de comida lo arruinan."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantenerlo limpio y seco.",
+          "correcta": false,
+          "explicacion": "El texto dice que limpio y seco conserva su valor."
+        },
+        {
+          "letra": "D",
+          "texto": "Llevarlo al punto de reciclaje.",
+          "correcta": false,
+          "explicacion": "El texto promueve llevarlo a reciclar."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se informa que los pedidos de licencia deben presentarse con una antelación mínima de diez días corridos. Los pedidos presentados fuera de ese plazo solo se considerarán en casos debidamente justificados.",
+      "enunciado": "¿Con cuánta antelación mínima deben presentarse los pedidos de licencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Quince días corridos.",
+          "correcta": false,
+          "explicacion": "El texto menciona diez, no quince días."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco días hábiles.",
+          "correcta": false,
+          "explicacion": "El texto habla de diez días corridos, no de cinco hábiles."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez días corridos.",
+          "correcta": true,
+          "explicacion": "El texto fija una antelación mínima de diez días corridos."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuarenta y ocho horas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cuarenta y ocho horas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se solicita confirmar los datos de contacto al iniciar cualquier trámite. Una dirección de correo o un teléfono desactualizados pueden impedir que la notificación llegue a tiempo.",
+      "enunciado": "¿Qué consecuencia pueden tener los datos de contacto desactualizados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se aplique una multa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona multas."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el expediente se archive de inmediato.",
+          "correcta": false,
+          "explicacion": "El texto no menciona archivo inmediato por ese motivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el trámite se inicie en otra oficina.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el cambio de oficina."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la notificación no llegue a tiempo.",
+          "correcta": true,
+          "explicacion": "El texto advierte que datos desactualizados pueden impedir que la notificación llegue a tiempo."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 720?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "36",
+          "correcta": true,
+          "explicacion": "El 5 % de 720 se calcula 5 ÷ 100 × 720 = 36."
+        },
+        {
+          "letra": "B",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "46",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "72",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el doble de 45 más 5?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "95",
+          "correcta": true,
+          "explicacion": "El doble de 45 es 90; más 5 es 95."
+        },
+        {
+          "letra": "B",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "85",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 49 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "58",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "441",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 49 × 9 = 441."
+        },
+        {
+          "letra": "D",
+          "texto": "432",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 860?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "215",
+          "correcta": true,
+          "explicacion": "El 25 % de 860 se calcula 25 ÷ 100 × 860 = 215."
+        },
+        {
+          "letra": "C",
+          "texto": "225",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "430",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 240 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "365",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "125",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "105",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "115",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 240 − 125 = 115."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 20?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "18",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "8",
+          "correcta": true,
+          "explicacion": "El 40 % de 20 se calcula 40 ÷ 100 × 20 = 8."
+        },
+        {
+          "letra": "C",
+          "texto": "16",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "13",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 1, 3, 5, 7, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "11",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "10",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "9",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 2; el siguiente es 7 + 2 = 9."
+        },
+        {
+          "letra": "D",
+          "texto": "8",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 280?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "94",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "84",
+          "correcta": true,
+          "explicacion": "El 30 % de 280 se calcula 30 ÷ 100 × 280 = 84."
+        },
+        {
+          "letra": "C",
+          "texto": "168",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "89",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cuál de los siguientes es un derecho de quienes trabajan?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Recibir jubilaciones y pensiones móviles",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las jubilaciones y pensiones móviles figuran entre los derechos de la seguridad social."
+        },
+        {
+          "letra": "B",
+          "texto": "Ejercer el derecho de huelga",
+          "correcta": false,
+          "explicacion": "Incorrecta. El derecho de huelga figura entre los derechos de los gremios."
+        },
+        {
+          "letra": "C",
+          "texto": "Acceder a una vivienda digna",
+          "correcta": false,
+          "explicacion": "Incorrecta. El acceso a una vivienda digna figura entre los derechos que protegen a la familia."
+        },
+        {
+          "letra": "D",
+          "texto": "Tener condiciones dignas de trabajo",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera 'tener condiciones dignas de trabajo' entre los derechos de quienes trabajan."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué función cumple el Poder Legislativo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ejecuta las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ejecutar las leyes es función del Poder Ejecutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Interpreta las leyes y las hace cumplir",
+          "correcta": false,
+          "explicacion": "Incorrecta. Interpretar las leyes corresponde al Poder Judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "Convoca a la Convención Constituyente",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no describe esa como la función del Poder Legislativo en la división de poderes."
+        },
+        {
+          "letra": "D",
+          "texto": "Hace las leyes",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Poder Legislativo es el que hace las leyes."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿quién resuelve definitivamente sobre la validez o nulidad de un voto recurrido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La junta electoral",
+          "correcta": true,
+          "explicacion": "El art. 101, ap. III establece que el voto recurrido será escrutado oportunamente por la junta, que decidirá sobre su validez o nulidad."
+        },
+        {
+          "letra": "B",
+          "texto": "La Cámara Nacional Electoral en instancia única",
+          "correcta": false,
+          "explicacion": "El art. 101, ap. III atribuye la decisión a la junta electoral."
+        },
+        {
+          "letra": "C",
+          "texto": "El presidente de la mesa",
+          "correcta": false,
+          "explicacion": "El presidente asienta el voto recurrido y lo remite a la junta, que es quien decide (art. 101, ap. III)."
+        },
+        {
+          "letra": "D",
+          "texto": "El fiscal que lo recurrió",
+          "correcta": false,
+          "explicacion": "El fiscal funda el cuestionamiento, pero la decisión corresponde a la junta (art. 101, ap. III)."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué es la Constitución Nacional según el material?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un tratado internacional firmado por las provincias",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material la define como ley fundamental, no como un tratado entre provincias."
+        },
+        {
+          "letra": "B",
+          "texto": "Un reglamento que dicta el Congreso cada cuatro años",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no la describe como un reglamento periódico del Congreso."
+        },
+        {
+          "letra": "C",
+          "texto": "La ley fundamental que rige nuestro país",
+          "correcta": true,
+          "explicacion": "Correcta. El material señala que es 'la ley fundamental que rige nuestro país'."
+        },
+        {
+          "letra": "D",
+          "texto": "Una ley dictada por el Poder Ejecutivo para organizar el Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no la define como ley del Ejecutivo, sino como la ley fundamental que rige el país."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, ¿desde cuándo deben presentarse los poderes de los fiscales a los presidentes de mesa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desde quince días antes de la elección",
+          "correcta": false,
+          "explicacion": "El art. 59 establece tres días antes como plazo."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde tres días antes del fijado para la elección",
+          "correcta": true,
+          "explicacion": "El art. 59 dispone que los poderes deben presentarse a los presidentes de mesa para su reconocimiento desde tres días antes del fijado para la elección."
+        },
+        {
+          "letra": "C",
+          "texto": "El mismo día de la elección, antes de las ocho",
+          "correcta": false,
+          "explicacion": "El art. 59 permite la presentación desde tres días antes; los no presentes al inicio se reconocen al llegar (art. 82, inc. 9)."
+        },
+        {
+          "letra": "D",
+          "texto": "Desde diez días antes de la elección",
+          "correcta": false,
+          "explicacion": "El art. 59 fija el plazo en tres días antes, no diez."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 7 de la Ley 19.549, el requisito de causa del acto administrativo implica que éste debe sustentarse en:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La conveniencia política del momento",
+          "correcta": false,
+          "explicacion": "La conveniencia política no es la causa; la causa son los hechos, antecedentes y derecho aplicable."
+        },
+        {
+          "letra": "B",
+          "texto": "La sola voluntad del funcionario",
+          "correcta": false,
+          "explicacion": "La causa no se basa en la sola voluntad del funcionario, sino en hechos, antecedentes y derecho aplicable."
+        },
+        {
+          "letra": "C",
+          "texto": "Los hechos y antecedentes que le sirven de causa y el derecho aplicable",
+          "correcta": true,
+          "explicacion": "El art. 7, inc. b) exige que el acto se sustente en los hechos y antecedentes que le sirvan de causa y en el derecho aplicable."
+        },
+        {
+          "letra": "D",
+          "texto": "Las instrucciones verbales del superior",
+          "correcta": false,
+          "explicacion": "Las instrucciones verbales no constituyen la causa exigida por el art. 7, inc. b)."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuál es el órgano rector del sistema de control externo del sector público nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 7 establece que la Auditoría General de la Nación es el órgano rector del sistema de control externo."
+        },
+        {
+          "letra": "B",
+          "texto": "El Tribunal de Cuentas de la Nación",
+          "correcta": false,
+          "explicacion": "El Tribunal de Cuentas fue reemplazado; el órgano rector del control externo es la AGN (art. 7)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Comisión Parlamentaria Mixta Revisora de Cuentas",
+          "correcta": false,
+          "explicacion": "Esa comisión controla a la Auditoría, pero el órgano rector del control externo es la AGN (art. 7)."
+        },
+        {
+          "letra": "D",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "La Sindicatura General de la Nación es el órgano rector del control interno, no del externo (art. 7)."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, no podrá ingresar a la Administración Pública quien haya sido condenado por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Delito doloso, hasta el cumplimiento de la pena o su prescripción",
+          "correcta": true,
+          "explicacion": "El art. 5 inc. a) impide el ingreso del condenado por delito doloso hasta el cumplimiento de la pena privativa de libertad o la prescripción de la pena."
+        },
+        {
+          "letra": "B",
+          "texto": "Falta administrativa leve",
+          "correcta": false,
+          "explicacion": "Una falta administrativa leve no constituye impedimento de ingreso conforme al art. 5."
+        },
+        {
+          "letra": "C",
+          "texto": "Delito culposo de tránsito",
+          "correcta": false,
+          "explicacion": "El impedimento del art. 5 inc. a) refiere a delito doloso, no a delitos culposos genéricos."
+        },
+        {
+          "letra": "D",
+          "texto": "Cualquier contravención municipal",
+          "correcta": false,
+          "explicacion": "La ley se refiere a delitos, no a contravenciones."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.188, ¿con qué periodicidad debe actualizarse la información de la declaración jurada patrimonial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mensualmente",
+          "correcta": false,
+          "explicacion": "La actualización es anual, no mensual (art. 4)."
+        },
+        {
+          "letra": "B",
+          "texto": "Cada dos años",
+          "correcta": false,
+          "explicacion": "El art. 4 exige actualización anual, no bienal."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo al cesar en el cargo",
+          "correcta": false,
+          "explicacion": "Además de la final al cesar, debe actualizarse anualmente (art. 4)."
+        },
+        {
+          "letra": "D",
+          "texto": "Anualmente",
+          "correcta": true,
+          "explicacion": "El art. 4 dispone que la información debe actualizarse anualmente."
+        }
+      ]
+    }
+  ]
+}

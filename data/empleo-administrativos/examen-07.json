@@ -1,0 +1,794 @@
+{
+  "examen_id": 7,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El caracol lleva su casa a cuestas. Esa casa es una concha en forma de espiral que lo protege del Sol y de los enemigos. Cuando hay peligro, se esconde por completo dentro de ella.",
+      "enunciado": "Según el texto, ¿para qué le sirve la concha al caracol?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para almacenar alimento.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que almacene alimento."
+        },
+        {
+          "letra": "B",
+          "texto": "Para volar de una planta a otra.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que vuele."
+        },
+        {
+          "letra": "C",
+          "texto": "Para nadar más rápido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que nade."
+        },
+        {
+          "letra": "D",
+          "texto": "Para protegerse del Sol y de los enemigos.",
+          "correcta": true,
+          "explicacion": "El texto dice que la concha lo protege del Sol y de los enemigos."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Una copia de seguridad es un duplicado de tus archivos guardado en otro lugar. Sirve para recuperar la información si el dispositivo se rompe o se pierde. Conviene hacerla con frecuencia.",
+      "enunciado": "De acuerdo con el texto, ¿para qué sirve una copia de seguridad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para acelerar la conexión a internet.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la copia con la velocidad de internet."
+        },
+        {
+          "letra": "B",
+          "texto": "Para borrar archivos innecesarios.",
+          "correcta": false,
+          "explicacion": "El texto habla de duplicar y recuperar, no de borrar."
+        },
+        {
+          "letra": "C",
+          "texto": "Para crear contraseñas más fuertes.",
+          "correcta": false,
+          "explicacion": "El texto no vincula la copia con las contraseñas."
+        },
+        {
+          "letra": "D",
+          "texto": "Para recuperar la información si el dispositivo se rompe o se pierde.",
+          "correcta": true,
+          "explicacion": "El texto dice que sirve para recuperar la información ante rotura o pérdida."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las personas tienen derecho a expresar sus ideas de manera respetuosa. Esta libertad debe ejercerse sin agredir ni ofender a los demás. El diálogo respetuoso fortalece la convivencia.",
+      "enunciado": "Según el texto, ¿cómo debe ejercerse la libertad de expresar ideas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sin agredir ni ofender a los demás.",
+          "correcta": true,
+          "explicacion": "El texto dice que debe ejercerse sin agredir ni ofender."
+        },
+        {
+          "letra": "B",
+          "texto": "Sin permitir que otros hablen.",
+          "correcta": false,
+          "explicacion": "El texto valora el diálogo respetuoso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en voz muy alta.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el volumen de la voz."
+        },
+        {
+          "letra": "D",
+          "texto": "Imponiendo la propia opinión.",
+          "correcta": false,
+          "explicacion": "El texto promueve el respeto, no la imposición."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En las plazas públicas, los vecinos pueden descansar, hacer ejercicio y compartir actividades. Para que el espacio se mantenga limpio, cada persona debe arrojar la basura en los cestos disponibles. El cuidado del lugar es una responsabilidad de todos.",
+      "enunciado": "De acuerdo con el texto, ¿dónde debe arrojarse la basura en la plaza?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el césped del lugar.",
+          "correcta": false,
+          "explicacion": "El texto no autoriza arrojar basura en el césped."
+        },
+        {
+          "letra": "B",
+          "texto": "En los bancos de la plaza.",
+          "correcta": false,
+          "explicacion": "El texto no menciona los bancos para depositar residuos."
+        },
+        {
+          "letra": "C",
+          "texto": "En la vereda más cercana.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la vereda como destino de la basura."
+        },
+        {
+          "letra": "D",
+          "texto": "En los cestos disponibles.",
+          "correcta": true,
+          "explicacion": "El texto indica que cada persona debe arrojar la basura en los cestos disponibles."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El puma es un felino que habita en distintas regiones de la Argentina, desde la montaña hasta la llanura. Es un cazador silencioso y solitario. Prefiere alejarse de las personas y vivir en zonas tranquilas.",
+      "enunciado": "¿Qué afirma el texto sobre el puma?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que busca acercarse a las personas.",
+          "correcta": false,
+          "explicacion": "El texto dice que prefiere alejarse de las personas."
+        },
+        {
+          "letra": "B",
+          "texto": "Que es un cazador silencioso y solitario.",
+          "correcta": true,
+          "explicacion": "El texto dice que es un cazador silencioso y solitario."
+        },
+        {
+          "letra": "C",
+          "texto": "Que caza siempre en grupo.",
+          "correcta": false,
+          "explicacion": "El texto dice que es solitario."
+        },
+        {
+          "letra": "D",
+          "texto": "Que vive solo en la montaña.",
+          "correcta": false,
+          "explicacion": "El texto dice que vive desde la montaña hasta la llanura."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuidar la salud de la piel también es parte de la higiene. Hidratar la piel y protegerla del sol ayuda a mantenerla en buen estado. La piel es el órgano más extenso del cuerpo y conviene cuidarla.",
+      "enunciado": "Según el texto, ¿qué ayuda a mantener la piel en buen estado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hidratarla y protegerla del sol",
+          "correcta": true,
+          "explicacion": "El texto dice que hidratar la piel y protegerla del sol la mantiene en buen estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Exponerla al sol fuerte sin protección",
+          "correcta": false,
+          "explicacion": "El texto recomienda protegerla del sol."
+        },
+        {
+          "letra": "C",
+          "texto": "Dejar de tomar agua",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la piel con dejar de hidratarse."
+        },
+        {
+          "letra": "D",
+          "texto": "Evitar lavarla nunca",
+          "correcta": false,
+          "explicacion": "El texto no propone evitar la higiene."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Si una persona se atraganta y no puede respirar, conviene aplicar la maniobra de compresión abdominal mientras se pide ayuda. Actuar rápido puede destrabar el objeto que obstruye la vía aérea.",
+      "enunciado": "Según el texto, ¿qué puede lograr actuar rápido ante un atragantamiento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bajar la fiebre de la persona",
+          "correcta": false,
+          "explicacion": "El texto no habla de fiebre."
+        },
+        {
+          "letra": "B",
+          "texto": "Destrabar el objeto que obstruye la vía aérea",
+          "correcta": true,
+          "explicacion": "El texto dice que actuar rápido puede destrabar el objeto."
+        },
+        {
+          "letra": "C",
+          "texto": "Calmar el dolor de cabeza",
+          "correcta": false,
+          "explicacion": "El texto no menciona dolor de cabeza."
+        },
+        {
+          "letra": "D",
+          "texto": "Detener una hemorragia",
+          "correcta": false,
+          "explicacion": "El texto trata el atragantamiento, no una hemorragia."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El modem debe colocarse en un lugar alto y despejado para mejorar el alcance de la señal. Evite ubicarlo dentro de muebles cerrados o detrás de paredes gruesas, que debilitan la conexión inalámbrica.",
+      "enunciado": "Completá la oración con la palabra que falta: \"El modem debe colocarse en un lugar alto y _____ para mejorar el alcance de la señal\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "oscuro",
+          "correcta": false,
+          "explicacion": "El texto no menciona la oscuridad."
+        },
+        {
+          "letra": "B",
+          "texto": "cerrado",
+          "correcta": false,
+          "explicacion": "El texto desaconseja los lugares cerrados."
+        },
+        {
+          "letra": "C",
+          "texto": "despejado",
+          "correcta": true,
+          "explicacion": "El texto indica colocarlo en un lugar alto y despejado."
+        },
+        {
+          "letra": "D",
+          "texto": "húmedo",
+          "correcta": false,
+          "explicacion": "El texto no menciona la humedad."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las normas de tránsito se aplican tanto a conductores como a peatones. Cada uno tiene responsabilidades para que la circulación sea segura. El cumplimiento de las reglas protege a todos los que comparten la vía.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cumplir las reglas no protege a nadie.",
+          "correcta": false,
+          "explicacion": "El texto afirma que el cumplimiento protege a todos."
+        },
+        {
+          "letra": "B",
+          "texto": "Las normas de tránsito involucran a conductores y peatones para una circulación segura.",
+          "correcta": true,
+          "explicacion": "El texto plantea que las normas se aplican a ambos y protegen a todos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los peatones no tienen responsabilidades.",
+          "correcta": false,
+          "explicacion": "El texto dice que cada uno tiene responsabilidades."
+        },
+        {
+          "letra": "D",
+          "texto": "Las normas de tránsito solo rigen para conductores.",
+          "correcta": false,
+          "explicacion": "El texto incluye también a los peatones."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para el correcto funcionamiento de la heladera, no la pegue por completo a la pared. Deje un espacio en la parte trasera para que el calor del condensador pueda disiparse hacia el ambiente.",
+      "enunciado": "Según el texto, ¿por qué se debe dejar un espacio detrás de la heladera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para que se disipe el calor del condensador.",
+          "correcta": true,
+          "explicacion": "El texto indica dejar espacio para que el calor del condensador se disipe."
+        },
+        {
+          "letra": "B",
+          "texto": "Para guardar objetos allí.",
+          "correcta": false,
+          "explicacion": "El texto no menciona guardar objetos."
+        },
+        {
+          "letra": "C",
+          "texto": "Para conectar más cables.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la conexión de cables."
+        },
+        {
+          "letra": "D",
+          "texto": "Para que entre más luz.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la luz."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La garantía del producto cubre defectos de fabricación durante doce meses a partir de la fecha de compra. Quedan excluidos de la garantía los daños causados por golpes, uso indebido o reparaciones realizadas por personal no autorizado.",
+      "enunciado": "Según el texto, ¿qué queda excluido de la garantía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La revisión técnica autorizada.",
+          "correcta": false,
+          "explicacion": "Solo se excluyen las reparaciones no autorizadas, no las autorizadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las fallas durante los doce meses.",
+          "correcta": false,
+          "explicacion": "Las fallas por fabricación dentro del plazo están cubiertas."
+        },
+        {
+          "letra": "C",
+          "texto": "Los defectos de fabricación.",
+          "correcta": false,
+          "explicacion": "El texto dice que la garantía cubre los defectos de fabricación."
+        },
+        {
+          "letra": "D",
+          "texto": "Los daños por uso indebido.",
+          "correcta": true,
+          "explicacion": "El texto excluye los daños causados por uso indebido."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El ascensor del edificio tiene uso prioritario para personas con dificultades de movilidad, embarazadas y adultos mayores. El resto del personal debe utilizar las escaleras siempre que su estado de salud lo permita.",
+      "enunciado": "¿Quiénes tienen uso prioritario del ascensor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todo el personal por la mañana.",
+          "correcta": false,
+          "explicacion": "El resto del personal debe usar las escaleras, no el ascensor."
+        },
+        {
+          "letra": "B",
+          "texto": "Los visitantes con turno asignado.",
+          "correcta": false,
+          "explicacion": "El texto no se refiere a visitantes con turno."
+        },
+        {
+          "letra": "C",
+          "texto": "El personal de la Dirección.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a la Dirección como grupo prioritario."
+        },
+        {
+          "letra": "D",
+          "texto": "Personas con dificultades de movilidad, embarazadas y adultos mayores.",
+          "correcta": true,
+          "explicacion": "El texto enumera esos tres grupos como prioritarios."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El uso de patinetas y monopatines eléctricos crece en las ciudades. Quienes los conducen deben respetar las normas de circulación y la seguridad de los peatones. Circular a velocidad moderada evita accidentes en la vía.",
+      "enunciado": "Según el texto, ¿qué deben respetar quienes conducen patinetas y monopatines eléctricos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente el horario nocturno.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un horario."
+        },
+        {
+          "letra": "B",
+          "texto": "Las tarifas del estacionamiento.",
+          "correcta": false,
+          "explicacion": "El texto no menciona tarifas de estacionamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "El color de las luces del semáforo solamente.",
+          "correcta": false,
+          "explicacion": "El texto habla de normas y peatones, no solo del color del semáforo."
+        },
+        {
+          "letra": "D",
+          "texto": "Las normas de circulación y la seguridad de los peatones.",
+          "correcta": true,
+          "explicacion": "El texto indica que deben respetar las normas y la seguridad de los peatones."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 4 cuadernos cuestan $200, ¿cuánto cuestan 5 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "250",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $200 ÷ 4 = $50; entonces 5 cuestan $50 × 5 = $250."
+        },
+        {
+          "letra": "B",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "205",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 560?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "117",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "112",
+          "correcta": true,
+          "explicacion": "El 20 % de 560 se calcula 20 ÷ 100 × 560 = 112."
+        },
+        {
+          "letra": "C",
+          "texto": "122",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "224",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 560 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "515",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "525",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 560 − 35 = 525."
+        },
+        {
+          "letra": "C",
+          "texto": "595",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "535",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 10 cuadernos cuestan $500, ¿cuánto cuestan 13 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "513",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "700",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "650",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $500 ÷ 10 = $50; entonces 13 cuestan $50 × 13 = $650."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 200?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "11",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "10",
+          "correcta": true,
+          "explicacion": "El 5 % de 200 se calcula 5 ÷ 100 × 200 = 10."
+        },
+        {
+          "letra": "D",
+          "texto": "15",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 49 unidades y hay 4 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "53",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "192",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "196",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 49 × 4 = 196."
+        },
+        {
+          "letra": "D",
+          "texto": "245",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 2 cuadernos cuestan $100, ¿cuánto cuestan 3 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "103",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "150",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $100 ÷ 2 = $50; entonces 3 cuestan $50 × 3 = $150."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuál es el promedio de 5, 7 y 9?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "21",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "7",
+          "correcta": true,
+          "explicacion": "El promedio es la suma dividida por la cantidad de valores: (5 + 7 + 9) ÷ 3 = 7."
+        },
+        {
+          "letra": "C",
+          "texto": "9",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "5",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 120 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "400",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 120 + 280 = 400."
+        },
+        {
+          "letra": "C",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 456 hojas en partes iguales entre 8 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "448",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "62",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "57",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 456 ÷ 8 = 57."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 440?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "660",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "330",
+          "correcta": true,
+          "explicacion": "El 75 % de 440 se calcula 75 ÷ 100 × 440 = 330."
+        },
+        {
+          "letra": "D",
+          "texto": "335",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 960?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "192",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "106",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "101",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "96",
+          "correcta": true,
+          "explicacion": "El 10 % de 960 se calcula 10 ÷ 100 × 960 = 96."
+        }
+      ]
+    }
+  ]
+}

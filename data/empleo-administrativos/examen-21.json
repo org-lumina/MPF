@@ -1,0 +1,794 @@
+{
+  "examen_id": 21,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comer frutas y verduras todos los días aporta vitaminas que el cuerpo necesita. Se recomienda incluir distintos colores en el plato, porque cada uno ofrece nutrientes diferentes. Variar los alimentos es una buena costumbre para mantenerse sano.",
+      "enunciado": "¿Por qué conviene incluir frutas y verduras de distintos colores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque los colores reemplazan al agua",
+          "correcta": false,
+          "explicacion": "El texto no dice que los colores reemplacen la hidratación."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque los colores hacen más dulce la comida",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el color con el sabor dulce."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque cada color ofrece nutrientes diferentes",
+          "correcta": true,
+          "explicacion": "El texto explica que cada color aporta nutrientes diferentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque así se gasta menos dinero",
+          "correcta": false,
+          "explicacion": "El texto no habla del costo de los alimentos."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El acceso a la información pública es un derecho de los ciudadanos. Permite conocer cómo se administran los recursos del Estado. Este derecho favorece la transparencia y el control de la gestión.",
+      "enunciado": "Según el texto, ¿qué permite el acceso a la información pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir el precio del transporte.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el precio del transporte."
+        },
+        {
+          "letra": "B",
+          "texto": "Conocer cómo se administran los recursos del Estado.",
+          "correcta": true,
+          "explicacion": "El texto dice que permite conocer cómo se administran los recursos del Estado."
+        },
+        {
+          "letra": "C",
+          "texto": "Elegir el horario de los trámites.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el horario de los trámites."
+        },
+        {
+          "letra": "D",
+          "texto": "Cerrar las oficinas públicas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cerrar oficinas."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El termotanque debe ser instalado por un técnico matriculado. Una instalación incorrecta puede provocar fugas de gas o agua y, además, anula automáticamente la garantía otorgada por el fabricante.",
+      "enunciado": "Según el texto, ¿qué consecuencia tiene una instalación incorrecta sobre la garantía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La mantiene sin cambios.",
+          "correcta": false,
+          "explicacion": "El texto indica que la garantía se pierde, no que se mantiene."
+        },
+        {
+          "letra": "B",
+          "texto": "La transfiere al técnico.",
+          "correcta": false,
+          "explicacion": "El texto no menciona transferencia de la garantía al técnico."
+        },
+        {
+          "letra": "C",
+          "texto": "La anula automáticamente.",
+          "correcta": true,
+          "explicacion": "El texto dice que la instalación incorrecta anula automáticamente la garantía."
+        },
+        {
+          "letra": "D",
+          "texto": "La extiende por un año más.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ninguna extensión de la garantía."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los pasillos y las puertas de salida deben estar libres de cajas, muebles o materiales. Cualquier obstáculo puede demorar una evacuación y poner en peligro a las personas.",
+      "enunciado": "Según el texto, ¿qué puede provocar un obstáculo en los pasillos de salida?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Demorar una evacuación y poner en peligro a las personas",
+          "correcta": true,
+          "explicacion": "El texto dice que el obstáculo puede demorar la evacuación y poner en peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "Ahorrar espacio en la oficina",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de espacio."
+        },
+        {
+          "letra": "C",
+          "texto": "Decorar el ambiente",
+          "correcta": false,
+          "explicacion": "El texto no habla de decoración."
+        },
+        {
+          "letra": "D",
+          "texto": "Mejorar el orden del depósito",
+          "correcta": false,
+          "explicacion": "El texto presenta el obstáculo como un problema, no una mejora."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los guantes de protección evitan cortes, quemaduras y el contacto con sustancias peligrosas. Antes de usarlos conviene revisar que no estén rotos ni desgastados, ya que en ese estado pierden su capacidad protectora.",
+      "enunciado": "Según el texto, ¿qué conviene revisar antes de usar los guantes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que tengan el logo de la empresa",
+          "correcta": false,
+          "explicacion": "El texto no menciona ningún logo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que hayan sido lavados con agua caliente",
+          "correcta": false,
+          "explicacion": "El texto no habla de lavar los guantes con agua caliente."
+        },
+        {
+          "letra": "C",
+          "texto": "Que no estén rotos ni desgastados",
+          "correcta": true,
+          "explicacion": "El texto indica revisar que no estén rotos ni desgastados."
+        },
+        {
+          "letra": "D",
+          "texto": "Que sean del mismo color que el uniforme",
+          "correcta": false,
+          "explicacion": "El color del uniforme no se menciona en el texto."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El uso del cinturón de seguridad es obligatorio para quienes trabajan en altura. Este equipo, sujeto a un punto fijo, evita caídas graves desde andamios o techos.",
+      "enunciado": "Según el texto, ¿qué evita el cinturón de seguridad en trabajos en altura?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cortes en las manos",
+          "correcta": false,
+          "explicacion": "Los cortes en las manos se evitan con guantes, no con el cinturón."
+        },
+        {
+          "letra": "B",
+          "texto": "Quemaduras en la piel",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el cinturón con quemaduras."
+        },
+        {
+          "letra": "C",
+          "texto": "Golpes en la cabeza",
+          "correcta": false,
+          "explicacion": "Los golpes en la cabeza los evita el casco, no el cinturón."
+        },
+        {
+          "letra": "D",
+          "texto": "Caídas graves desde andamios o techos",
+          "correcta": true,
+          "explicacion": "El texto dice que evita caídas graves desde andamios o techos."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El equipo posee un fusible interno que lo protege ante sobrecargas. Si el aparato deja de funcionar de golpe, lleve el equipo al servicio técnico; el fusible no debe ser reemplazado por el usuario.",
+      "enunciado": "Según el texto, ¿quién debe reemplazar el fusible interno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El servicio técnico.",
+          "correcta": true,
+          "explicacion": "El texto indica llevar el equipo al servicio técnico, no reemplazarlo el usuario."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier persona con un destornillador.",
+          "correcta": false,
+          "explicacion": "El texto no autoriza a cualquier persona."
+        },
+        {
+          "letra": "C",
+          "texto": "El usuario, en su casa.",
+          "correcta": false,
+          "explicacion": "El texto aclara que el usuario no debe reemplazarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "El vendedor de la tienda.",
+          "correcta": false,
+          "explicacion": "El texto no menciona al vendedor."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El instructivo aclara que cada trámite genera un único expediente. No corresponde iniciar un nuevo expediente para una gestión que ya está en curso; en ese caso, se agrega la documentación al existente.",
+      "enunciado": "¿Qué se hace con la documentación de una gestión que ya está en curso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se devuelve al interesado.",
+          "correcta": false,
+          "explicacion": "El texto no menciona devolución de la documentación."
+        },
+        {
+          "letra": "B",
+          "texto": "Se inicia un nuevo expediente.",
+          "correcta": false,
+          "explicacion": "El texto aclara que no corresponde iniciar uno nuevo."
+        },
+        {
+          "letra": "C",
+          "texto": "Se agrega al expediente existente.",
+          "correcta": true,
+          "explicacion": "El texto indica agregar la documentación al expediente ya iniciado."
+        },
+        {
+          "letra": "D",
+          "texto": "Se archiva por separado.",
+          "correcta": false,
+          "explicacion": "El texto no menciona archivar por separado."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La vizcacha es un roedor que vive en cuevas bajo la tierra. Forma grandes madrigueras conectadas entre sí, llamadas vizcacheras. Sale a comer pastos sobre todo al atardecer.",
+      "enunciado": "Según el texto, ¿cómo se llaman las madrigueras de la vizcacha?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hormigueros.",
+          "correcta": false,
+          "explicacion": "El texto usa la palabra vizcacheras, no hormigueros."
+        },
+        {
+          "letra": "B",
+          "texto": "Nidos.",
+          "correcta": false,
+          "explicacion": "El texto no las llama nidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuevas de barro.",
+          "correcta": false,
+          "explicacion": "El texto las llama vizcacheras."
+        },
+        {
+          "letra": "D",
+          "texto": "Vizcacheras.",
+          "correcta": true,
+          "explicacion": "El texto dice que las madrigueras se llaman vizcacheras."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las herramientas deben guardarse en su lugar luego de usarlas. Dejarlas tiradas en el piso o en las escaleras puede causar tropiezos y accidentes.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las escaleras son el mejor lugar para guardarlas",
+          "correcta": false,
+          "explicacion": "El texto advierte que dejarlas en escaleras causa accidentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Hay que comprar herramientas nuevas cada año",
+          "correcta": false,
+          "explicacion": "El texto no habla de comprar herramientas nuevas."
+        },
+        {
+          "letra": "C",
+          "texto": "Guardar las herramientas evita tropiezos y accidentes",
+          "correcta": true,
+          "explicacion": "El texto plantea guardar las herramientas para evitar accidentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Las herramientas deben ser de marca",
+          "correcta": false,
+          "explicacion": "El texto no menciona marcas."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las máquinas con partes giratorias representan un riesgo de atrapamiento para el cabello largo y la ropa suelta. Por eso, conviene recoger el pelo y ajustar las prendas antes de operarlas.",
+      "enunciado": "Según el texto, ¿qué se recomienda antes de operar máquinas con partes giratorias?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Recoger el pelo y ajustar las prendas",
+          "correcta": true,
+          "explicacion": "El texto recomienda recoger el pelo y ajustar las prendas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sacarse el calzado",
+          "correcta": false,
+          "explicacion": "El texto no menciona el calzado."
+        },
+        {
+          "letra": "C",
+          "texto": "Usar ropa ancha y suelta",
+          "correcta": false,
+          "explicacion": "El texto pide ajustar las prendas, no usarlas sueltas."
+        },
+        {
+          "letra": "D",
+          "texto": "Dejar el pelo suelto",
+          "correcta": false,
+          "explicacion": "El texto recomienda recoger el pelo."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cóndor andino es una de las aves voladoras más grandes del mundo. Vive en la cordillera de los Andes y puede planear durante horas sin mover las alas. Aprovecha las corrientes de aire para mantenerse en lo alto.",
+      "enunciado": "Según el texto, ¿cómo logra el cóndor mantenerse en lo alto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aprovechando las corrientes de aire.",
+          "correcta": true,
+          "explicacion": "El texto afirma que aprovecha las corrientes de aire."
+        },
+        {
+          "letra": "B",
+          "texto": "Apoyándose en las nubes.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que se apoye en nubes."
+        },
+        {
+          "letra": "C",
+          "texto": "Subiendo a las rocas más altas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que suba a rocas para volar."
+        },
+        {
+          "letra": "D",
+          "texto": "Moviendo las alas sin parar.",
+          "correcta": false,
+          "explicacion": "El texto dice que planea sin mover las alas."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las notificaciones de las aplicaciones pueden mostrar información en la pantalla bloqueada. Si alguien toma tu teléfono, podría leer mensajes sin desbloquearlo. Conviene configurar qué se ve en esa pantalla.",
+      "enunciado": "Según el texto, ¿por qué conviene configurar lo que se ve en la pantalla bloqueada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque alguien podría leer mensajes sin desbloquear el teléfono.",
+          "correcta": true,
+          "explicacion": "El texto explica ese riesgo de las notificaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque ahorra batería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la batería."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque libera memoria.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la memoria."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque mejora la señal.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la señal."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 120 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "320",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 120 + 200 = 320."
+        },
+        {
+          "letra": "B",
+          "texto": "310",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 60?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "36",
+          "correcta": true,
+          "explicacion": "El 60 % de 60 se calcula 60 ÷ 100 × 60 = 36."
+        },
+        {
+          "letra": "B",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "46",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "72",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 120 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "280",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 120 + 160 = 280."
+        },
+        {
+          "letra": "D",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 4 cuadernos cuestan $200, ¿cuánto cuestan 6 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "206",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "350",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "300",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $200 ÷ 4 = $50; entonces 6 cuestan $50 × 6 = $300."
+        },
+        {
+          "letra": "D",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un producto cuesta $200 y tiene un 10 % de descuento. ¿Cuánto se paga?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "180",
+          "correcta": true,
+          "explicacion": "El descuento es 10 % de $200 = $20; se paga $200 − $20 = $180."
+        },
+        {
+          "letra": "B",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 280 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "400",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 280 + 120 = 400."
+        },
+        {
+          "letra": "C",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 680 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "465",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 680 − 215 = 465."
+        },
+        {
+          "letra": "B",
+          "texto": "455",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "895",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "475",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 540?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "167",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "172",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "324",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "162",
+          "correcta": true,
+          "explicacion": "El 30 % de 540 se calcula 30 ÷ 100 × 540 = 162."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 920?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "460",
+          "correcta": true,
+          "explicacion": "El 50 % de 920 se calcula 50 ÷ 100 × 920 = 460."
+        },
+        {
+          "letra": "B",
+          "texto": "465",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "920",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 200 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "400",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 200 + 200 = 400."
+        },
+        {
+          "letra": "C",
+          "texto": "0",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 780?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "478",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "468",
+          "correcta": true,
+          "explicacion": "El 60 % de 780 se calcula 60 ÷ 100 × 780 = 468."
+        },
+        {
+          "letra": "C",
+          "texto": "473",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "936",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 440?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "110",
+          "correcta": true,
+          "explicacion": "El 25 % de 440 se calcula 25 ÷ 100 × 440 = 110."
+        },
+        {
+          "letra": "D",
+          "texto": "115",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

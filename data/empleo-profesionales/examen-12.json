@@ -1,0 +1,789 @@
+{
+  "examen_id": 12,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comprar productos de temporada suele ser más barato y consume menos recursos. Las frutas y verduras de estación no necesitan tantos cuidados ni traslados largos para llegar a la mesa. Por eso elegirlas es una buena práctica de consumo responsable.",
+      "enunciado": "Según el texto, ¿qué ventaja tienen las frutas y verduras de estación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No necesitan tantos cuidados ni traslados largos.",
+          "correcta": true,
+          "explicacion": "El texto dice que las de estación no necesitan tantos cuidados ni traslados largos."
+        },
+        {
+          "letra": "B",
+          "texto": "Vienen con más envoltorios.",
+          "correcta": false,
+          "explicacion": "El texto no menciona envoltorios en este caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo se consiguen importadas.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que sean importadas."
+        },
+        {
+          "letra": "D",
+          "texto": "Son siempre las más caras del mercado.",
+          "correcta": false,
+          "explicacion": "El texto dice que suelen ser más baratas."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Si una persona recibe una descarga eléctrica, no se la debe tocar hasta cortar la corriente. Tocarla mientras sigue conectada puede transmitir la descarga a quien intenta ayudar.",
+      "enunciado": "Según el texto, ¿por qué no se debe tocar a quien recibe una descarga eléctrica?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque interfiere con el disyuntor principal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Porque la descarga puede transmitirse a quien ayuda»."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque está prohibido por la empresa",
+          "correcta": false,
+          "explicacion": "El texto apela al riesgo, no a una prohibición de la empresa."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque altera la temperatura corporal de la víctima",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Porque la descarga puede transmitirse a quien ayuda»."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque la descarga puede transmitirse a quien ayuda",
+          "correcta": true,
+          "explicacion": "El texto explica que la descarga puede transmitirse al que ayuda."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Sentir sed es una señal de que el cuerpo necesita líquido. Sin embargo, no conviene esperar a tener mucha sed para beber. Tomar agua a lo largo del día ayuda a mantenerse bien hidratado.",
+      "enunciado": "Según el texto, ¿qué conviene hacer respecto del agua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Beber solo una vez al día",
+          "correcta": false,
+          "explicacion": "El texto sugiere beber a lo largo del día."
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar el agua si hay sed",
+          "correcta": false,
+          "explicacion": "La sed indica que el cuerpo necesita líquido."
+        },
+        {
+          "letra": "C",
+          "texto": "Tomar agua a lo largo del día",
+          "correcta": true,
+          "explicacion": "El texto recomienda beber a lo largo del día para mantenerse hidratado."
+        },
+        {
+          "letra": "D",
+          "texto": "Esperar a tener mucha sed",
+          "correcta": false,
+          "explicacion": "El texto dice que no conviene esperar a tener mucha sed."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El mar Argentino es la parte del océano Atlántico cercana a nuestras costas. En sus aguas frías viven muchas especies de peces. Por eso es una zona importante para la pesca.",
+      "enunciado": "Completá la oración según el texto: El mar Argentino es importante para la _____.",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "minería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la minería."
+        },
+        {
+          "letra": "B",
+          "texto": "pesca.",
+          "correcta": true,
+          "explicacion": "El texto dice que es una zona importante para la pesca."
+        },
+        {
+          "letra": "C",
+          "texto": "ganadería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la ganadería."
+        },
+        {
+          "letra": "D",
+          "texto": "agricultura.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la agricultura."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El casco de seguridad protege la cabeza de golpes y de la caída de objetos. Por eso, en las obras en construcción su uso es obligatorio para todo el personal y las visitas que ingresan a la zona de trabajo.",
+      "enunciado": "Según el texto, ¿de qué protege el casco de seguridad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De salpicaduras químicas en los ojos",
+          "correcta": false,
+          "explicacion": "Eso lo cubren las gafas de seguridad, no el casco según el texto."
+        },
+        {
+          "letra": "B",
+          "texto": "De cortes en las manos",
+          "correcta": false,
+          "explicacion": "Los cortes en las manos se evitan con guantes, no con el casco."
+        },
+        {
+          "letra": "C",
+          "texto": "De golpes y de la caída de objetos",
+          "correcta": true,
+          "explicacion": "El texto indica que protege la cabeza de golpes y caída de objetos."
+        },
+        {
+          "letra": "D",
+          "texto": "De ruidos fuertes y vibraciones",
+          "correcta": false,
+          "explicacion": "Esa función corresponde a protectores auditivos, no al casco según el texto."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El ñandú es un ave grande que corre muy rápido por la llanura. Aunque tiene alas, no puede volar. Los machos son los encargados de cuidar los huevos y a las crías.",
+      "enunciado": "¿Qué afirma el texto sobre los machos del ñandú?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que cuidan los huevos y a las crías.",
+          "correcta": true,
+          "explicacion": "El texto dice que los machos cuidan los huevos y a las crías."
+        },
+        {
+          "letra": "B",
+          "texto": "Que viven solamente en la montaña.",
+          "correcta": false,
+          "explicacion": "El texto lo ubica en la llanura."
+        },
+        {
+          "letra": "C",
+          "texto": "Que son más pequeños que las hembras.",
+          "correcta": false,
+          "explicacion": "El texto no compara el tamaño de machos y hembras."
+        },
+        {
+          "letra": "D",
+          "texto": "Que pueden volar largas distancias.",
+          "correcta": false,
+          "explicacion": "El texto dice que el ñandú no puede volar."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El termostato de la heladera regula la temperatura interior. En verano, conviene ajustarlo en una posición más fría que en invierno, porque la temperatura ambiente más alta exige un mayor esfuerzo de enfriamiento.",
+      "enunciado": "Según el texto, ¿cómo conviene ajustar el termostato en verano?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apagado durante el día.",
+          "correcta": false,
+          "explicacion": "El texto no recomienda apagar la heladera."
+        },
+        {
+          "letra": "B",
+          "texto": "En una posición menos fría que en invierno.",
+          "correcta": false,
+          "explicacion": "El texto pide más frío, no menos, en verano."
+        },
+        {
+          "letra": "C",
+          "texto": "En la misma posición todo el año.",
+          "correcta": false,
+          "explicacion": "El texto sugiere variar el ajuste según la estación."
+        },
+        {
+          "letra": "D",
+          "texto": "En una posición más fría que en invierno.",
+          "correcta": true,
+          "explicacion": "El texto recomienda ajustarlo más frío en verano."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Dejar el cargador del celular enchufado cuando no se está usando consume algo de energía aunque no haya un teléfono conectado. Por eso conviene desenchufarlo una vez que terminó de cargar. Es un detalle que ayuda a evitar gastos innecesarios.",
+      "enunciado": "Según el texto, ¿qué conviene hacer con el cargador del celular cuando no se usa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Guardarlo dentro de la heladera.",
+          "correcta": false,
+          "explicacion": "El texto no menciona guardarlo en la heladera."
+        },
+        {
+          "letra": "B",
+          "texto": "Dejarlo siempre enchufado.",
+          "correcta": false,
+          "explicacion": "El texto plantea desenchufarlo, no dejarlo enchufado."
+        },
+        {
+          "letra": "C",
+          "texto": "Desenchufarlo una vez que terminó de cargar.",
+          "correcta": true,
+          "explicacion": "El texto recomienda desenchufarlo cuando terminó de cargar."
+        },
+        {
+          "letra": "D",
+          "texto": "Conectarle otro aparato.",
+          "correcta": false,
+          "explicacion": "El texto no menciona conectar otro aparato."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 240 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "280",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 240 + 40 = 280."
+        },
+        {
+          "letra": "D",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 140?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "210",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "110",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "115",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "105",
+          "correcta": true,
+          "explicacion": "El 75 % de 140 se calcula 75 ÷ 100 × 140 = 105."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 480 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "560",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 480 + 80 = 560."
+        },
+        {
+          "letra": "B",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "580",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "550",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 500 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "680",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "660",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 500 + 160 = 660."
+        },
+        {
+          "letra": "D",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 2 cuadernos cuestan $80, ¿cuánto cuestan 3 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $80 ÷ 2 = $40; entonces 3 cuestan $40 × 3 = $120."
+        },
+        {
+          "letra": "B",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "83",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 80 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "350",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 80 + 280 = 360."
+        },
+        {
+          "letra": "D",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 285 hojas en partes iguales entre 5 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "62",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "57",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 285 ÷ 5 = 57."
+        },
+        {
+          "letra": "D",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 568 hojas en partes iguales entre 8 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "560",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "66",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "71",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 568 ÷ 8 = 71."
+        },
+        {
+          "letra": "D",
+          "texto": "76",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, ¿cuál de las siguientes es una prohibición del personal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Concurrir como testigo a un sumario",
+          "correcta": false,
+          "explicacion": "Concurrir como testigo es un deber (art. 23 inc. i)."
+        },
+        {
+          "letra": "B",
+          "texto": "Excusarse de actuaciones que originen parcialidad",
+          "correcta": false,
+          "explicacion": "Excusarse es un deber (art. 23 inc. k), no una prohibición."
+        },
+        {
+          "letra": "C",
+          "texto": "Aceptar dádivas, obsequios u otros beneficios con motivo de sus funciones",
+          "correcta": true,
+          "explicacion": "El art. 24 inc. f) prohíbe aceptar dádivas, obsequios u otros beneficios u obtener ventajas con motivo u ocasión del desempeño de sus funciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Seguir la vía jerárquica en sus peticiones",
+          "correcta": false,
+          "explicacion": "Seguir la vía jerárquica es un deber (art. 23 inc. m)."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 1° bis de la Ley 19.549, cuando las normas no fijen un plazo máximo para resolver, éste será de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Noventa (90) días",
+          "correcta": false,
+          "explicacion": "Noventa días es el plazo del reclamo administrativo previo (art. 31), no el máximo supletorio para resolver."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuarenta y cinco (45) días",
+          "correcta": false,
+          "explicacion": "Cuarenta y cinco días corresponde a otra etapa del reclamo previo (art. 31), no al plazo máximo para resolver."
+        },
+        {
+          "letra": "C",
+          "texto": "Sesenta (60) días",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. g) (viii) establece que, cuando las normas no fijen plazo máximo para resolver, éste será de sesenta (60) días."
+        },
+        {
+          "letra": "D",
+          "texto": "Treinta (30) días",
+          "correcta": false,
+          "explicacion": "El plazo máximo supletorio para resolver no es de treinta días."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿quién designa a los fiscales de mesa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La junta electoral de distrito",
+          "correcta": false,
+          "explicacion": "El art. 56 deja la designación de fiscales en manos de los partidos."
+        },
+        {
+          "letra": "B",
+          "texto": "El presidente de mesa",
+          "correcta": false,
+          "explicacion": "El presidente reconoce los poderes de los fiscales, pero no los designa (art. 56)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Cámara Nacional Electoral",
+          "correcta": false,
+          "explicacion": "El art. 56 atribuye el nombramiento de fiscales a los partidos políticos."
+        },
+        {
+          "letra": "D",
+          "texto": "Los partidos políticos reconocidos que se presenten a la elección",
+          "correcta": true,
+          "explicacion": "El art. 56 establece que los partidos políticos reconocidos en el distrito y que se presenten a la elección pueden nombrar fiscales ante las mesas receptoras de votos."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 18 de la Ley 25.188, la regla general sobre obsequios a funcionarios públicos es que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pueden recibir obsequios de cortesía sin ninguna condición",
+          "correcta": false,
+          "explicacion": "Los de cortesía o costumbre diplomática se sujetan a reglamentación de la autoridad de aplicación (art. 18)."
+        },
+        {
+          "letra": "B",
+          "texto": "Pueden recibir obsequios si los declaran ante su superior",
+          "correcta": false,
+          "explicacion": "La regla del art. 18 es la prohibición; la sola declaración no habilita la recepción."
+        },
+        {
+          "letra": "C",
+          "texto": "Pueden recibir regalos siempre que no superen un valor determinado",
+          "correcta": false,
+          "explicacion": "El art. 18 establece una prohibición general, no un umbral de valor."
+        },
+        {
+          "letra": "D",
+          "texto": "No podrán recibir regalos, obsequios o donaciones con motivo o en ocasión del desempeño de sus funciones",
+          "correcta": true,
+          "explicacion": "El art. 18 dispone que los funcionarios no podrán recibir regalos, obsequios o donaciones, sean de cosas, servicios o bienes, con motivo o en ocasión del desempeño de sus funciones."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿qué deber tienen los agentes respecto de su situación patrimonial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Declararla bajo juramento, con sus modificaciones ulteriores",
+          "correcta": true,
+          "explicacion": "El art. 23 inc. g) impone declarar bajo juramento la situación patrimonial y sus modificaciones ulteriores con los alcances de la reglamentación."
+        },
+        {
+          "letra": "B",
+          "texto": "Publicarla en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "La ley no exige publicación en el Boletín Oficial."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantenerla en reserva absoluta sin declararla",
+          "correcta": false,
+          "explicacion": "El deber es declararla, no mantenerla en reserva."
+        },
+        {
+          "letra": "D",
+          "texto": "Informarla únicamente al sindicato",
+          "correcta": false,
+          "explicacion": "La declaración es bajo juramento ante la administración, no al sindicato."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de regalos y viajes, ¿pueden los ciudadanos conocer los datos del Registro de obsequios y del Registro de viajes financiados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo mediante orden judicial",
+          "correcta": false,
+          "explicacion": "El acceso es público a través del sitio web, sin orden judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "No, son de carácter reservado",
+          "correcta": false,
+          "explicacion": "El régimen establece que sí pueden conocerse; los registros están disponibles en la web de la Oficina Anticorrupción."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo los periodistas acreditados",
+          "correcta": false,
+          "explicacion": "El acceso es para los ciudadanos en general, mediante el sitio web."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, están disponibles en el sitio web de la Oficina Anticorrupción",
+          "correcta": true,
+          "explicacion": "El régimen indica que los registros están disponibles en el sitio web de la Oficina Anticorrupción y los organismos deben publicar un enlace a ellos."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 12 de la Ley 19.549, el acto administrativo goza de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Efecto suspensivo automático de los recursos",
+          "correcta": false,
+          "explicacion": "Los recursos no suspenden por regla la ejecución del acto; el art. 12 le reconoce presunción de legitimidad y fuerza ejecutoria."
+        },
+        {
+          "letra": "B",
+          "texto": "Presunción de nulidad",
+          "correcta": false,
+          "explicacion": "El acto se presume legítimo, no nulo, conforme al art. 12."
+        },
+        {
+          "letra": "C",
+          "texto": "Inimpugnabilidad absoluta",
+          "correcta": false,
+          "explicacion": "El acto puede impugnarse; el art. 12 le reconoce presunción de legitimidad, no inimpugnabilidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Presunción de legitimidad",
+          "correcta": true,
+          "explicacion": "El art. 12 establece que el acto administrativo goza de presunción de legitimidad y su fuerza ejecutoria faculta a la Administración a ponerlo en práctica por sus propios medios."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 10 de la Ley 19.549, si las normas especiales no prevén un plazo para el pronunciamiento, éste no podrá exceder de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sesenta (60) días",
+          "correcta": true,
+          "explicacion": "El art. 10, inc. a) dispone que, si no hay plazo determinado, éste no podrá exceder de sesenta (60) días, vencidos los cuales el interesado puede dar por configurado el silencio."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuarenta y cinco (45) días",
+          "correcta": false,
+          "explicacion": "El plazo máximo previsto por el art. 10 no es de cuarenta y cinco días."
+        },
+        {
+          "letra": "C",
+          "texto": "Treinta (30) días",
+          "correcta": false,
+          "explicacion": "El tope para configurar el silencio no es de treinta días."
+        },
+        {
+          "letra": "D",
+          "texto": "Noventa (90) días",
+          "correcta": false,
+          "explicacion": "Noventa días es el plazo del reclamo administrativo previo (art. 31), no el del silencio del art. 10."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, está prohibido al personal valerse de sus facultades para:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Capacitarse en horario laboral",
+          "correcta": false,
+          "explicacion": "La capacitación es un derecho (art. 16 inc. d), no una prohibición."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizar proselitismo o acción política para fines ajenos a la función",
+          "correcta": true,
+          "explicacion": "El art. 24 inc. e) prohíbe valerse de las facultades o prerrogativas para fines ajenos a la función o para realizar proselitismo o acción política."
+        },
+        {
+          "letra": "C",
+          "texto": "Cumplir órdenes del superior jerárquico",
+          "correcta": false,
+          "explicacion": "Cumplir órdenes legítimas es un deber, no una prohibición."
+        },
+        {
+          "letra": "D",
+          "texto": "Realizar tareas complementarias del cargo",
+          "correcta": false,
+          "explicacion": "Las tareas complementarias son propias de la función (art. 15), no una prohibición."
+        }
+      ]
+    }
+  ]
+}

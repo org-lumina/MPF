@@ -1,0 +1,789 @@
+{
+  "examen_id": 10,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las rampas en las veredas facilitan el desplazamiento de personas con movilidad reducida. Por eso, no deben bloquearse con autos ni con objetos. Mantenerlas libres es una forma de garantizar la accesibilidad de todos.",
+      "enunciado": "Según el texto, ¿qué función cumplen las rampas en las veredas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Separar la calle de la vereda.",
+          "correcta": false,
+          "explicacion": "El texto no menciona esa función separadora."
+        },
+        {
+          "letra": "B",
+          "texto": "Decorar la vereda del barrio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona una función decorativa."
+        },
+        {
+          "letra": "C",
+          "texto": "Facilitar el desplazamiento de personas con movilidad reducida.",
+          "correcta": true,
+          "explicacion": "El texto dice que las rampas facilitan ese desplazamiento."
+        },
+        {
+          "letra": "D",
+          "texto": "Servir de estacionamiento para autos.",
+          "correcta": false,
+          "explicacion": "El texto pide que no se bloqueen con autos."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Publicar la rutina diaria con horarios exactos puede ser un riesgo. Alguien podría saber cuándo no estás en casa. Conviene evitar dar detalles tan precisos en redes sociales.",
+      "enunciado": "Según el texto, ¿por qué es un riesgo publicar la rutina con horarios exactos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque borra las fotos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona borrado de fotos."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque alguien podría saber cuándo no estás en casa.",
+          "correcta": true,
+          "explicacion": "El texto menciona ese riesgo de publicar horarios exactos."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque gasta muchos datos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona los datos móviles."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque baja el brillo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el brillo."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las personas tienen derecho a vivir en un ambiente sano. Esto incluye contar con aire limpio y espacios libres de contaminación. Cuidar el ambiente es también un deber de cada ciudadano.",
+      "enunciado": "Completá: Las personas tienen derecho a vivir en un ambiente ______.",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cerrado",
+          "correcta": false,
+          "explicacion": "El texto menciona espacios libres de contaminación, no cerrados."
+        },
+        {
+          "letra": "B",
+          "texto": "sano",
+          "correcta": true,
+          "explicacion": "El texto afirma que las personas tienen derecho a un ambiente sano."
+        },
+        {
+          "letra": "C",
+          "texto": "ruidoso",
+          "correcta": false,
+          "explicacion": "El texto no menciona el derecho a un ambiente ruidoso."
+        },
+        {
+          "letra": "D",
+          "texto": "oscuro",
+          "correcta": false,
+          "explicacion": "El texto no menciona la oscuridad."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Lavar los platos y guardar la comida poco después de comer evita problemas de higiene. Dejar restos mucho tiempo puede atraer insectos. Mantener el orden en la cocina contribuye a un hogar más sano.",
+      "enunciado": "Según el texto, ¿qué puede pasar si se dejan restos mucho tiempo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se ahorra agua",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejora el sueño",
+          "correcta": false,
+          "explicacion": "El texto no relaciona los restos con el sueño."
+        },
+        {
+          "letra": "C",
+          "texto": "La comida gana vitaminas",
+          "correcta": false,
+          "explicacion": "El texto no afirma eso."
+        },
+        {
+          "letra": "D",
+          "texto": "Pueden atraer insectos",
+          "correcta": true,
+          "explicacion": "El texto dice que dejar restos mucho tiempo puede atraer insectos."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El lapacho es un árbol que florece en primavera. Sus flores rosadas o amarillas cubren las ramas antes de que salgan las hojas. Es muy común verlo en el norte de la Argentina.",
+      "enunciado": "Según el texto, ¿cuándo florece el lapacho?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En otoño.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el otoño."
+        },
+        {
+          "letra": "B",
+          "texto": "En primavera.",
+          "correcta": true,
+          "explicacion": "El texto afirma que el lapacho florece en primavera."
+        },
+        {
+          "letra": "C",
+          "texto": "En invierno.",
+          "correcta": false,
+          "explicacion": "El texto dice que florece en primavera."
+        },
+        {
+          "letra": "D",
+          "texto": "En verano.",
+          "correcta": false,
+          "explicacion": "El texto menciona la primavera."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El tabaco no debe consumirse en espacios cerrados de uso público. Esta medida protege la salud de quienes no fuman. Respetar los espacios libres de humo es parte de la convivencia.",
+      "enunciado": "Según el texto, ¿a quién protege la prohibición de fumar en espacios cerrados de uso público?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los fabricantes de tabaco.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a los fabricantes."
+        },
+        {
+          "letra": "B",
+          "texto": "A los conductores de colectivos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a los conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "A los comercios de la zona.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a los comercios."
+        },
+        {
+          "letra": "D",
+          "texto": "A quienes no fuman.",
+          "correcta": true,
+          "explicacion": "El texto dice que la medida protege la salud de quienes no fuman."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El lavarropas no debe sobrecargarse con prendas por encima de su capacidad máxima. Un exceso de ropa impide el correcto centrifugado, deja la carga mal enjuagada y fuerza el motor de manera innecesaria.",
+      "enunciado": "Según el texto, ¿qué provoca sobrecargar el lavarropas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un centrifugado más rápido.",
+          "correcta": false,
+          "explicacion": "El texto dice que impide el correcto centrifugado."
+        },
+        {
+          "letra": "B",
+          "texto": "Un mejor enjuague de las prendas.",
+          "correcta": false,
+          "explicacion": "El texto dice que el exceso deja la carga mal enjuagada."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el motor se fuerce innecesariamente.",
+          "correcta": true,
+          "explicacion": "El texto indica que el exceso de ropa fuerza el motor de manera innecesaria."
+        },
+        {
+          "letra": "D",
+          "texto": "Un menor consumo de agua.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de agua por sobrecarga."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las comidas regulares a lo largo del día ayudan a mantener la energía estable. Saltearse comidas puede provocar bajones de energía y comer de más después. Por eso conviene organizar los horarios de las comidas.",
+      "enunciado": "Según el texto, ¿qué puede provocar saltearse comidas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bajones de energía y comer de más después",
+          "correcta": true,
+          "explicacion": "El texto dice que saltear comidas puede provocar bajones de energía y comer de más luego."
+        },
+        {
+          "letra": "B",
+          "texto": "Más horas de sueño",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sueño."
+        },
+        {
+          "letra": "C",
+          "texto": "Energía estable durante el día",
+          "correcta": false,
+          "explicacion": "Esa estabilidad la dan las comidas regulares."
+        },
+        {
+          "letra": "D",
+          "texto": "Mejor higiene",
+          "correcta": false,
+          "explicacion": "El texto no menciona la higiene."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 220 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "460",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 220 + 240 = 460."
+        },
+        {
+          "letra": "D",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 21 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "63",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 21 × 3 = 63."
+        },
+        {
+          "letra": "C",
+          "texto": "84",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 3 cuadernos cuestan $150, ¿cuánto cuestan 4 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "200",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $150 ÷ 3 = $50; entonces 4 cuestan $50 × 4 = $200."
+        },
+        {
+          "letra": "B",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "154",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 468 hojas en partes iguales entre 6 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "78",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 468 ÷ 6 = 78."
+        },
+        {
+          "letra": "B",
+          "texto": "73",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "462",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "83",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 200 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "165",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 200 − 35 = 165."
+        },
+        {
+          "letra": "B",
+          "texto": "155",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "235",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 480 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "435",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "445",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 480 − 35 = 445."
+        },
+        {
+          "letra": "C",
+          "texto": "515",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "455",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 560?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "140",
+          "correcta": true,
+          "explicacion": "El 25 % de 560 se calcula 25 ÷ 100 × 560 = 140."
+        },
+        {
+          "letra": "B",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "145",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 800 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "835",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "765",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 800 − 35 = 765."
+        },
+        {
+          "letra": "C",
+          "texto": "755",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "775",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué órgano prepara anualmente la cuenta de inversión y la presenta al Congreso Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "La AGN recibe los estados contables y dictamina, pero la cuenta de inversión la prepara la Contaduría (art. 91 inc. h)."
+        },
+        {
+          "letra": "B",
+          "texto": "La Tesorería General de la Nación",
+          "correcta": false,
+          "explicacion": "La cuenta de inversión la prepara la Contaduría General (art. 91 inc. h), no la Tesorería."
+        },
+        {
+          "letra": "C",
+          "texto": "La Oficina Nacional de Presupuesto",
+          "correcta": false,
+          "explicacion": "La Oficina Nacional de Presupuesto prepara el proyecto de ley de presupuesto; la cuenta de inversión la prepara la Contaduría (art. 91 inc. h)."
+        },
+        {
+          "letra": "D",
+          "texto": "La Contaduría General de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 91 inc. h) dispone que la Contaduría General preparará anualmente la cuenta de inversión y la presentará al Congreso Nacional."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el principio de informalismo del art. 1° bis de la Ley 19.549, se excusa a los interesados de la inobservancia de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La obligación de obrar con buena fe",
+          "correcta": false,
+          "explicacion": "La buena fe es exigible a las partes; el informalismo solo alcanza a exigencias formales no esenciales."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los plazos legales del procedimiento",
+          "correcta": false,
+          "explicacion": "El informalismo no dispensa de los plazos; estos son obligatorios conforme al inc. g) (i)."
+        },
+        {
+          "letra": "C",
+          "texto": "Exigencias formales no esenciales que puedan cumplirse después",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. e) define el informalismo como la excusación de la inobservancia de exigencias formales no esenciales que puedan ser cumplidas posteriormente."
+        },
+        {
+          "letra": "D",
+          "texto": "La competencia del órgano interviniente",
+          "correcta": false,
+          "explicacion": "El informalismo no afecta la competencia; refiere a exigencias formales no esenciales cumplibles luego."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 102, ¿en qué consiste la auditoría interna?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el control externo posterior de la gestión presupuestaria",
+          "correcta": false,
+          "explicacion": "El control externo posterior corresponde a la AGN (art. 117); la auditoría interna es un examen posterior interno (art. 102)."
+        },
+        {
+          "letra": "B",
+          "texto": "En un examen posterior de las actividades financieras y administrativas de las entidades",
+          "correcta": true,
+          "explicacion": "El art. 102 establece que la auditoría interna consiste en un examen posterior de las actividades financieras y administrativas, realizado por las unidades de auditoría interna."
+        },
+        {
+          "letra": "C",
+          "texto": "En el dictamen sobre los estados contables del Banco Central",
+          "correcta": false,
+          "explicacion": "Auditar al BCRA es función de la AGN (art. 118 inc. f), no es la definición de auditoría interna."
+        },
+        {
+          "letra": "D",
+          "texto": "En un examen previo de las contrataciones públicas",
+          "correcta": false,
+          "explicacion": "El art. 102 define la auditoría interna como un examen posterior, no previo."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿qué dispone respecto del desempeño de dos cargos remunerados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es incompatible, salvo excepciones reglamentarias o del convenio colectivo",
+          "correcta": true,
+          "explicacion": "El art. 25 establece la incompatibilidad de desempeñar un cargo remunerado nacional con otro nacional, provincial o municipal, salvo las excepciones reglamentarias o del convenio colectivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Es siempre compatible sin límites",
+          "correcta": false,
+          "explicacion": "El art. 25 declara la incompatibilidad como regla general."
+        },
+        {
+          "letra": "C",
+          "texto": "Está prohibido en forma absoluta sin excepción alguna",
+          "correcta": false,
+          "explicacion": "El art. 25 admite excepciones reglamentarias o convencionales."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo es incompatible si ambos cargos son nacionales",
+          "correcta": false,
+          "explicacion": "La incompatibilidad alcanza también a cargos provinciales o municipales."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué comprenden los sistemas de control según el art. 3 de la Ley 24.156?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las estructuras de control interno y externo y el régimen de responsabilidad",
+          "correcta": true,
+          "explicacion": "El art. 3 dispone que los sistemas de control comprenden las estructuras de control interno y externo y el régimen de responsabilidad asentado en la obligación de rendir cuentas."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo el control externo a cargo del Congreso",
+          "correcta": false,
+          "explicacion": "El art. 3 incluye también el control interno y el régimen de responsabilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "La obtención y aplicación de los recursos públicos",
+          "correcta": false,
+          "explicacion": "Eso corresponde a la definición de administración financiera (art. 2), no a los sistemas de control."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente el control interno del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "El art. 3 abarca el control interno y externo, no solo el interno."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.188, ¿en qué plazo debe presentarse la declaración jurada patrimonial integral al asumir el cargo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de los noventa días hábiles desde la asunción",
+          "correcta": false,
+          "explicacion": "El plazo del art. 4 es de treinta días hábiles, no noventa."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de los treinta días hábiles desde la asunción del cargo",
+          "correcta": true,
+          "explicacion": "El art. 4 establece la presentación dentro de los treinta días hábiles desde la asunción del cargo."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro de los sesenta días corridos desde la asunción",
+          "correcta": false,
+          "explicacion": "El art. 4 fija treinta días hábiles, no sesenta corridos."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentro de los quince días hábiles desde la asunción",
+          "correcta": false,
+          "explicacion": "El plazo es de treinta días hábiles, no quince (art. 4)."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 10 de la Ley 25.188, ¿quién puede consultar y obtener copia de las declaraciones juradas presentadas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo familiares directos del declarante",
+          "correcta": false,
+          "explicacion": "El art. 10 habilita a toda persona, no únicamente a familiares."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los organismos de control del Estado",
+          "correcta": false,
+          "explicacion": "El art. 10 habilita a cualquier persona, no sólo a organismos de control."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente los jueces con orden judicial",
+          "correcta": false,
+          "explicacion": "El acceso del art. 10 es para toda persona mediante solicitud escrita, no exclusivo de jueces."
+        },
+        {
+          "letra": "D",
+          "texto": "En cualquier tiempo, toda persona, mediante solicitud escrita",
+          "correcta": true,
+          "explicacion": "El art. 10 permite que en cualquier tiempo toda persona consulte y obtenga copia, previa presentación de una solicitud escrita."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 10 de la Ley 25.188, el listado de las declaraciones juradas de las personas del art. 5 debe publicarse en el Boletín Oficial en un plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Noventa días",
+          "correcta": true,
+          "explicacion": "El art. 10 dispone que el listado debe publicarse en el Boletín Oficial en el plazo de noventa días."
+        },
+        {
+          "letra": "B",
+          "texto": "Treinta días",
+          "correcta": false,
+          "explicacion": "El plazo del art. 10 es de noventa días, no treinta."
+        },
+        {
+          "letra": "C",
+          "texto": "Sesenta días",
+          "correcta": false,
+          "explicacion": "El art. 10 fija noventa días para la publicación."
+        },
+        {
+          "letra": "D",
+          "texto": "Ciento ochenta días",
+          "correcta": false,
+          "explicacion": "El plazo del art. 10 es de noventa días."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿quiénes están excluidos del padrón electoral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los analfabetos mayores de setenta años",
+          "correcta": false,
+          "explicacion": "El art. 3 no menciona a los analfabetos como excluidos del padrón."
+        },
+        {
+          "letra": "B",
+          "texto": "Los residentes en el exterior",
+          "correcta": false,
+          "explicacion": "El art. 3 no excluye a los residentes en el exterior; existe un subregistro especial para ellos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los extranjeros con residencia permanente",
+          "correcta": false,
+          "explicacion": "El art. 3 enumera causales de exclusión que no incluyen este supuesto."
+        },
+        {
+          "letra": "D",
+          "texto": "Los dementes declarados tales en juicio",
+          "correcta": true,
+          "explicacion": "El art. 3, inc. a) incluye entre los excluidos del padrón a los dementes declarados tales en juicio."
+        }
+      ]
+    }
+  ]
+}

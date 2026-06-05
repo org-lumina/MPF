@@ -1,0 +1,789 @@
+{
+  "examen_id": 11,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El aire que respiramos es una mezcla de gases. El más abundante es el nitrógeno, pero también contiene oxígeno, que es el que necesitamos para vivir. Aunque no lo veamos, el aire está en todas partes.",
+      "enunciado": "Según el texto, ¿cuál es el gas más abundante en el aire?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El nitrógeno.",
+          "correcta": true,
+          "explicacion": "El texto afirma que el más abundante es el nitrógeno."
+        },
+        {
+          "letra": "B",
+          "texto": "El vapor de agua.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el vapor como el más abundante."
+        },
+        {
+          "letra": "C",
+          "texto": "El oxígeno.",
+          "correcta": false,
+          "explicacion": "El texto dice que el más abundante es el nitrógeno."
+        },
+        {
+          "letra": "D",
+          "texto": "El humo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el humo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Activar la opción de recuperación en tu correo facilita volver a entrar si olvidás la clave. Suele pedir un teléfono o un correo alternativo. Conviene configurarla apenas creás la cuenta.",
+      "enunciado": "Según el texto, ¿para qué sirve la opción de recuperación del correo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para liberar espacio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el espacio."
+        },
+        {
+          "letra": "B",
+          "texto": "Para mejorar la señal.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Para enviar más mensajes por día.",
+          "correcta": false,
+          "explicacion": "El texto no menciona límites de mensajes."
+        },
+        {
+          "letra": "D",
+          "texto": "Para volver a entrar si olvidás la clave.",
+          "correcta": true,
+          "explicacion": "El texto dice que facilita volver a entrar si olvidás la clave."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para evitar lesiones por movimientos repetitivos, conviene alternar tareas y hacer pausas activas. Estas pausas permiten estirar los músculos y descansar las articulaciones.",
+      "enunciado": "Según el texto, ¿qué permiten las pausas activas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar el ruido del taller",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "B",
+          "texto": "Estirar los músculos y descansar las articulaciones",
+          "correcta": true,
+          "explicacion": "El texto dice que permiten estirar músculos y descansar articulaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Reducir la iluminación",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las pausas con la luz."
+        },
+        {
+          "letra": "D",
+          "texto": "Apagar las máquinas",
+          "correcta": false,
+          "explicacion": "El texto no habla de apagar máquinas."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los conductores deben respetar los carriles marcados sobre la calzada. Cambiar de carril sin avisar puede sorprender a otros vehículos. Por eso, conviene señalizar la maniobra antes de hacerla.",
+      "enunciado": "Según el texto, ¿qué conviene hacer antes de cambiar de carril?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acelerar al máximo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona acelerar al máximo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cerrar los espejos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cerrar los espejos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambiar sin mirar.",
+          "correcta": false,
+          "explicacion": "El texto advierte que cambiar sin avisar sorprende a otros."
+        },
+        {
+          "letra": "D",
+          "texto": "Señalizar la maniobra.",
+          "correcta": true,
+          "explicacion": "El texto recomienda señalizar la maniobra antes de hacerla."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de tirar la comida que sobró, conviene guardarla en la heladera para aprovecharla luego. Tirar alimentos en buen estado significa desperdiciar el agua, la energía y el trabajo que costó producirlos. Planificar las comidas ayuda a evitar este desperdicio.",
+      "enunciado": "Según el texto, ¿qué se desperdicia al tirar alimentos en buen estado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El agua, la energía y el trabajo que costó producirlos.",
+          "correcta": true,
+          "explicacion": "El texto enumera el agua, la energía y el trabajo que costó producirlos."
+        },
+        {
+          "letra": "B",
+          "texto": "El espacio de la heladera.",
+          "correcta": false,
+          "explicacion": "El texto sugiere usar la heladera para conservar, no la menciona como desperdicio."
+        },
+        {
+          "letra": "C",
+          "texto": "El tiempo de cocción de los alimentos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el tiempo de cocción."
+        },
+        {
+          "letra": "D",
+          "texto": "Solamente el dinero de la compra.",
+          "correcta": false,
+          "explicacion": "El texto menciona varios recursos, no solo el dinero."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El calzado de seguridad protege los pies de golpes, perforaciones y caídas de objetos. En depósitos y obras suele exigirse con puntera reforzada y suela antideslizante.",
+      "enunciado": "Según el texto, ¿qué características suele exigirse al calzado de seguridad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cordones de colores y taco alto",
+          "correcta": false,
+          "explicacion": "El texto no menciona esos rasgos."
+        },
+        {
+          "letra": "B",
+          "texto": "Puntera reforzada y suela antideslizante",
+          "correcta": true,
+          "explicacion": "El texto menciona puntera reforzada y suela antideslizante."
+        },
+        {
+          "letra": "C",
+          "texto": "Material transparente y flexible",
+          "correcta": false,
+          "explicacion": "El texto no menciona materiales transparentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Suela lisa y liviana",
+          "correcta": false,
+          "explicacion": "El texto pide suela antideslizante, no lisa."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El sistema de turnos web habilita citas con hasta quince días de anticipación. Si el solicitante no se presenta a su turno, deberá esperar cuarenta y ocho horas para solicitar uno nuevo.",
+      "enunciado": "Según el texto, ¿con cuánta anticipación se puede sacar turno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta cuarenta y ocho horas de anticipación.",
+          "correcta": false,
+          "explicacion": "Las cuarenta y ocho horas son la espera tras no presentarse, no la anticipación."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta treinta días de anticipación.",
+          "correcta": false,
+          "explicacion": "El texto menciona quince días, no treinta."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo el mismo día.",
+          "correcta": false,
+          "explicacion": "El texto permite reservar con anticipación, no solo el mismo día."
+        },
+        {
+          "letra": "D",
+          "texto": "Hasta quince días de anticipación.",
+          "correcta": true,
+          "explicacion": "El texto señala que las citas se habilitan con hasta quince días de anticipación."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El Río de la Plata es muy ancho en su desembocadura. Separa la Argentina del Uruguay y desemboca en el océano Atlántico. En sus orillas se levantan ciudades importantes como Buenos Aires.",
+      "enunciado": "Según el texto, ¿en qué océano desemboca el Río de la Plata?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el océano Índico.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el océano Índico."
+        },
+        {
+          "letra": "B",
+          "texto": "En el océano Pacífico.",
+          "correcta": false,
+          "explicacion": "El texto menciona el océano Atlántico."
+        },
+        {
+          "letra": "C",
+          "texto": "En el océano Atlántico.",
+          "correcta": true,
+          "explicacion": "El texto dice que desemboca en el océano Atlántico."
+        },
+        {
+          "letra": "D",
+          "texto": "En el océano Glacial.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el océano Glacial."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 17 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "153",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 17 × 9 = 153."
+        },
+        {
+          "letra": "B",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "144",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 380 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "460",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 380 + 80 = 460."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 33 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "42",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "297",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 33 × 9 = 297."
+        },
+        {
+          "letra": "C",
+          "texto": "288",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "330",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 380?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "105",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "95",
+          "correcta": true,
+          "explicacion": "El 25 % de 380 se calcula 25 ÷ 100 × 380 = 95."
+        },
+        {
+          "letra": "C",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 9, 18, 27, 36, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 9; el siguiente es 36 + 9 = 45."
+        },
+        {
+          "letra": "B",
+          "texto": "54",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "46",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "44",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 5 cuadernos cuestan $250, ¿cuánto cuestan 8 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "400",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $250 ÷ 5 = $50; entonces 8 cuestan $50 × 8 = $400."
+        },
+        {
+          "letra": "B",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "350",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "258",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 780?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "156",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "78",
+          "correcta": true,
+          "explicacion": "El 10 % de 780 se calcula 10 ÷ 100 × 780 = 78."
+        },
+        {
+          "letra": "C",
+          "texto": "88",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "83",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 680 hojas en partes iguales entre 8 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "85",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 680 ÷ 8 = 85."
+        },
+        {
+          "letra": "B",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "672",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿a qué hora finaliza el acto eleccionario?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A las dieciocho (18) horas",
+          "correcta": true,
+          "explicacion": "El art. 100 dispone que el acto eleccionario finalizará a las dieciocho horas, momento en que se clausura el acceso al comicio."
+        },
+        {
+          "letra": "B",
+          "texto": "A las veinte (20) horas",
+          "correcta": false,
+          "explicacion": "El art. 100 fija la clausura a las dieciocho horas, no a las veinte."
+        },
+        {
+          "letra": "C",
+          "texto": "A las diecisiete (17) horas",
+          "correcta": false,
+          "explicacion": "El art. 100 establece las dieciocho horas."
+        },
+        {
+          "letra": "D",
+          "texto": "A las veintiuna (21) horas",
+          "correcta": false,
+          "explicacion": "El art. 100 dispone la finalización a las dieciocho horas."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, las designaciones efectuadas en violación a los requisitos de ingreso:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Son siempre válidas e inatacables",
+          "correcta": false,
+          "explicacion": "El art. 6 admite expresamente la declaración de nulidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Quedan convalidadas si transcurre un año",
+          "correcta": false,
+          "explicacion": "El art. 6 establece que pueden declararse nulas cualquiera sea el tiempo transcurrido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo pueden anularse dentro de los noventa días",
+          "correcta": false,
+          "explicacion": "No existe un plazo de noventa días para la nulidad en el art. 6."
+        },
+        {
+          "letra": "D",
+          "texto": "Podrán ser declaradas nulas cualquiera sea el tiempo transcurrido",
+          "correcta": true,
+          "explicacion": "El art. 6 dispone que tales designaciones podrán ser declaradas nulas cualquiera sea el tiempo transcurrido, sin perjuicio de la validez de los actos y prestaciones cumplidas."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿a partir de cuándo puede considerarse la solicitud de rehabilitación tras la cesantía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A partir de diez (10) años",
+          "correcta": false,
+          "explicacion": "El plazo de rehabilitación por cesantía es de dos años."
+        },
+        {
+          "letra": "B",
+          "texto": "A partir de un (1) año",
+          "correcta": false,
+          "explicacion": "El plazo para la cesantía es de dos años, no de uno."
+        },
+        {
+          "letra": "C",
+          "texto": "A partir de cuatro (4) años",
+          "correcta": false,
+          "explicacion": "El plazo de cuatro años corresponde a la exoneración (art. 33), no a la cesantía."
+        },
+        {
+          "letra": "D",
+          "texto": "A partir de los dos (2) años de consentido el acto o firme la sentencia",
+          "correcta": true,
+          "explicacion": "El art. 32 dispone que la rehabilitación podrá considerarse a partir de los dos años de consentido el acto de cesantía o de declarada firme la sentencia judicial."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿qué es un voto recurrido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aquel emitido en una boleta no oficializada",
+          "correcta": false,
+          "explicacion": "La boleta no oficializada da lugar a voto nulo, no recurrido (art. 101, ap. II)."
+        },
+        {
+          "letra": "B",
+          "texto": "Aquel cuya validez o nulidad es cuestionada por algún fiscal presente en la mesa",
+          "correcta": true,
+          "explicacion": "El art. 101, ap. III, define el voto recurrido como aquel cuya validez o nulidad fuere cuestionada por algún fiscal presente en la mesa, debiendo fundar su pedido."
+        },
+        {
+          "letra": "C",
+          "texto": "Aquel emitido por un elector cuya identidad fue cuestionada",
+          "correcta": false,
+          "explicacion": "Ese es el voto impugnado (arts. 91, 92 y 101 ap. IV), no el recurrido."
+        },
+        {
+          "letra": "D",
+          "texto": "Aquel emitido fuera del horario oficial de votación",
+          "correcta": false,
+          "explicacion": "El voto recurrido se define por el cuestionamiento de su validez por un fiscal, no por el horario (art. 101)."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué es el Preámbulo según el material?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El procedimiento para reformar la Constitución",
+          "correcta": false,
+          "explicacion": "Incorrecta. La reforma se trata en otra sección del material."
+        },
+        {
+          "letra": "B",
+          "texto": "El primer artículo que establece la forma de gobierno",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material lo describe como un texto que encabeza la Constitución, no como un artículo sobre la forma de gobierno."
+        },
+        {
+          "letra": "C",
+          "texto": "Un texto que encabeza la Constitución y expresa sus motivaciones y valores",
+          "correcta": true,
+          "explicacion": "Correcta. El material define el Preámbulo como un texto que encabeza la Constitución y expresa las motivaciones y los valores tenidos en cuenta al dictarla."
+        },
+        {
+          "letra": "D",
+          "texto": "El listado de los derechos de los trabajadores",
+          "correcta": false,
+          "explicacion": "Incorrecta. Los derechos de quienes trabajan se mencionan en otra sección, no en la definición del Preámbulo."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, una vez clausurado el acceso al comicio a las dieciocho horas, el presidente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Abrirá la urna para iniciar el escrutinio",
+          "correcta": false,
+          "explicacion": "El escrutinio no puede iniciarse antes de las dieciocho horas y tras concluir la recepción (art. 101)."
+        },
+        {
+          "letra": "B",
+          "texto": "Permitirá el ingreso de quienes lleguen hasta las diecinueve",
+          "correcta": false,
+          "explicacion": "El art. 100 solo permite votar a los presentes a la hora del cierre, no a quienes lleguen después."
+        },
+        {
+          "letra": "C",
+          "texto": "Cesará de inmediato toda recepción de votos",
+          "correcta": false,
+          "explicacion": "El art. 100 permite seguir recibiendo a los electores ya presentes en la fila."
+        },
+        {
+          "letra": "D",
+          "texto": "Continuará recibiendo el voto de los electores presentes que aguardan turno",
+          "correcta": true,
+          "explicacion": "El art. 100 dispone que tras clausurar el acceso continuará recibiendo el voto de los electores presentes que aguardan turno."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral Nacional, ¿desde qué edad son electores los argentinos nativos y por opción?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desde los veintiún (21) años de edad",
+          "correcta": false,
+          "explicacion": "El art. 1 no fija los veintiún años como edad para ser elector."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde los dieciocho (18) años de edad",
+          "correcta": false,
+          "explicacion": "Los dieciocho (18) años corresponden a los argentinos naturalizados, no a los nativos y por opción (art. 1)."
+        },
+        {
+          "letra": "C",
+          "texto": "Desde los catorce (14) años de edad",
+          "correcta": false,
+          "explicacion": "El art. 1 fija los dieciséis años, no los catorce."
+        },
+        {
+          "letra": "D",
+          "texto": "Desde los dieciséis (16) años de edad",
+          "correcta": true,
+          "explicacion": "El art. 1 del Código Electoral establece que son electores los argentinos nativos y por opción desde los dieciséis (16) años de edad."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, el personal podrá ser intimado a iniciar los trámites jubilatorios cuando:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reúna los requisitos exigidos para obtener la jubilación ordinaria",
+          "correcta": true,
+          "explicacion": "El art. 20 dispone que el personal podrá ser intimado a iniciar los trámites jubilatorios cuando reúna los requisitos para la jubilación ordinaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo solicite la asociación sindical",
+          "correcta": false,
+          "explicacion": "La intimación no depende de pedido sindical."
+        },
+        {
+          "letra": "C",
+          "texto": "Cumpla cincuenta años de edad",
+          "correcta": false,
+          "explicacion": "El art. 20 no fija una edad de cincuenta años."
+        },
+        {
+          "letra": "D",
+          "texto": "Cumpla treinta años de servicio efectivo",
+          "correcta": false,
+          "explicacion": "El art. 20 remite a los requisitos de la jubilación ordinaria, no a una antigüedad fija."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 8 de la Ley 24.156, ¿qué integra la Administración Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los Entes Públicos excluidos de la Administración Nacional",
+          "correcta": false,
+          "explicacion": "Esos entes están en el inc. c) del art. 8 y, por definición, están excluidos de la Administración Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Las Empresas y Sociedades del Estado",
+          "correcta": false,
+          "explicacion": "Las Empresas y Sociedades del Estado están en el inc. b) del art. 8, no integran la Administración Nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "Los Fondos Fiduciarios del Estado nacional",
+          "correcta": false,
+          "explicacion": "Los Fondos Fiduciarios están en el inc. d) del art. 8, no integran la Administración Nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "La Administración Central y los Organismos Descentralizados",
+          "correcta": true,
+          "explicacion": "El art. 8 inc. a) define la Administración Nacional como la conformada por la Administración Central y los Organismos Descentralizados, incluidas las Instituciones de Seguridad Social."
+        }
+      ]
+    }
+  ]
+}

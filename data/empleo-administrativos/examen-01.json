@@ -1,0 +1,794 @@
+{
+  "examen_id": 1,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Crear una cuenta de correo solo para registrarte en sitios poco conocidos puede ser útil. Así, si llega spam, no afecta tu correo principal. De ese modo mantenés ordenada tu casilla más importante.",
+      "enunciado": "Según el texto, ¿qué ventaja tiene usar un correo aparte para registrarte en sitios poco conocidos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que aumenta los seguidores.",
+          "correcta": false,
+          "explicacion": "El texto no menciona seguidores."
+        },
+        {
+          "letra": "B",
+          "texto": "Que mejora la cámara.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cámara."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el teléfono carga más rápido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la carga."
+        },
+        {
+          "letra": "D",
+          "texto": "Que el spam no afecta tu correo principal.",
+          "correcta": true,
+          "explicacion": "El texto dice que así el spam no afecta el correo principal."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Conducir a exceso de velocidad reduce el tiempo de reacción ante un imprevisto. Cuanto mayor es la velocidad, más larga es la distancia necesaria para frenar. Por eso, respetar los límites es clave para la seguridad vial.",
+      "enunciado": "Según el texto, ¿qué ocurre cuando la velocidad es mayor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tiempo de reacción aumenta.",
+          "correcta": false,
+          "explicacion": "El texto dice que el exceso de velocidad reduce el tiempo de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "Se consume menos combustible.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el consumo de combustible."
+        },
+        {
+          "letra": "C",
+          "texto": "La distancia necesaria para frenar es más larga.",
+          "correcta": true,
+          "explicacion": "El texto dice que a mayor velocidad, más larga es la distancia para frenar."
+        },
+        {
+          "letra": "D",
+          "texto": "Los frenos funcionan mejor.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que los frenos funcionen mejor."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El manual recomienda guardar la factura de compra junto con este documento. Para hacer válida la garantía, deberá presentar ambos comprobantes en el servicio técnico autorizado ante cualquier reclamo.",
+      "enunciado": "Según el texto, ¿qué se necesita presentar para hacer válida la garantía?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La factura y el manual.",
+          "correcta": true,
+          "explicacion": "El texto pide presentar ambos comprobantes en el servicio técnico."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo el manual del producto.",
+          "correcta": false,
+          "explicacion": "El texto exige ambos comprobantes, no solo el manual."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo la factura de compra.",
+          "correcta": false,
+          "explicacion": "El texto requiere ambos documentos, no solo la factura."
+        },
+        {
+          "letra": "D",
+          "texto": "El embalaje original del aparato.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el embalaje como requisito."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La provincia de Tucumán es una de las más pequeñas del país, pero tiene muchos habitantes. Se la conoce como el jardín de la República por su vegetación verde y abundante. Allí se cultiva gran parte de la caña de azúcar argentina.",
+      "enunciado": "Según el texto, ¿cómo se conoce a la provincia de Tucumán?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Como el jardín de la República.",
+          "correcta": true,
+          "explicacion": "El texto dice que se la conoce como el jardín de la República."
+        },
+        {
+          "letra": "B",
+          "texto": "Como la puerta de los Andes.",
+          "correcta": false,
+          "explicacion": "El texto no usa esa expresión."
+        },
+        {
+          "letra": "C",
+          "texto": "Como el granero del país.",
+          "correcta": false,
+          "explicacion": "El texto la llama jardín de la República, no granero."
+        },
+        {
+          "letra": "D",
+          "texto": "Como la cuna del vino.",
+          "correcta": false,
+          "explicacion": "El texto no la relaciona con el vino."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Empezar de a poco es una buena estrategia para incorporar actividad física. Quien no está acostumbrado puede comenzar con caminatas cortas e ir aumentando con el tiempo. Así se evita el cansancio excesivo y se sostiene el hábito.",
+      "enunciado": "Según el texto, ¿cómo conviene empezar a hacer actividad física?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo una vez al año",
+          "correcta": false,
+          "explicacion": "El texto propone aumentar con el tiempo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sin moverse en absoluto",
+          "correcta": false,
+          "explicacion": "El texto promueve la actividad."
+        },
+        {
+          "letra": "C",
+          "texto": "De a poco, con caminatas cortas",
+          "correcta": true,
+          "explicacion": "El texto recomienda empezar de a poco con caminatas cortas."
+        },
+        {
+          "letra": "D",
+          "texto": "Con esfuerzos muy intensos desde el primer día",
+          "correcta": false,
+          "explicacion": "El texto busca evitar el cansancio excesivo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las motos deben circular con las luces encendidas durante todo el día. Esto las hace más visibles para los demás conductores. La visibilidad reduce el riesgo de choques en la vía.",
+      "enunciado": "Según el texto, ¿por qué las motos deben circular con las luces encendidas durante el día?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para hacerse más visibles ante los demás conductores.",
+          "correcta": true,
+          "explicacion": "El texto dice que las luces las hacen más visibles."
+        },
+        {
+          "letra": "B",
+          "texto": "Para circular más rápido.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las luces con la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Para evitar pagar peaje.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el peaje."
+        },
+        {
+          "letra": "D",
+          "texto": "Para ahorrar batería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorrar batería."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las áreas de trabajo deben contar con buena iluminación para realizar las tareas con seguridad. La falta de luz puede provocar errores, fatiga visual y accidentes.",
+      "enunciado": "Según el texto, ¿qué puede provocar la falta de luz?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ahorro de energía sin riesgos",
+          "correcta": false,
+          "explicacion": "El texto resalta el riesgo, no un ahorro seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejor descanso del personal",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la falta de luz con el descanso."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayor productividad",
+          "correcta": false,
+          "explicacion": "El texto presenta la falta de luz como un problema."
+        },
+        {
+          "letra": "D",
+          "texto": "Errores, fatiga visual y accidentes",
+          "correcta": true,
+          "explicacion": "El texto menciona errores, fatiga visual y accidentes."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los correos que piden datos personales con urgencia suelen ser intentos de engaño. Esta técnica se conoce como phishing. Ante la duda, lo mejor es no responder ni hacer clic en los enlaces.",
+      "enunciado": "Según el texto, ¿qué conviene hacer ante un correo sospechoso que pide datos con urgencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reenviarlo a todos los contactos.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere reenviarlo."
+        },
+        {
+          "letra": "B",
+          "texto": "Responder enviando los datos pedidos.",
+          "correcta": false,
+          "explicacion": "El texto advierte que son intentos de engaño."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacer clic para verificar el remitente.",
+          "correcta": false,
+          "explicacion": "El texto aconseja no hacer clic en los enlaces."
+        },
+        {
+          "letra": "D",
+          "texto": "No responder ni hacer clic en los enlaces.",
+          "correcta": true,
+          "explicacion": "El texto recomienda no responder ni hacer clic ante la duda."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El aire acondicionado consume mucha energía, sobre todo cuando se lo regula a temperaturas muy bajas. Mantenerlo en una temperatura moderada reduce el gasto eléctrico. Cerrar puertas y ventanas mientras funciona también ayuda a que rinda mejor.",
+      "enunciado": "Según el texto, ¿qué conviene hacer para reducir el gasto del aire acondicionado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejar las ventanas abiertas mientras funciona.",
+          "correcta": false,
+          "explicacion": "El texto sugiere cerrar puertas y ventanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Regularlo a temperaturas muy bajas.",
+          "correcta": false,
+          "explicacion": "El texto dice que temperaturas muy bajas consumen mucho."
+        },
+        {
+          "letra": "C",
+          "texto": "Encenderlo y apagarlo cada pocos minutos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona esa práctica."
+        },
+        {
+          "letra": "D",
+          "texto": "Mantenerlo en una temperatura moderada.",
+          "correcta": true,
+          "explicacion": "El texto recomienda una temperatura moderada para reducir el gasto."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La oficina recibe consultas telefónicas solamente por la mañana. Para reclamos por escrito, el interesado puede utilizar el buzón de sugerencias ubicado en el hall de entrada o el correo electrónico institucional.",
+      "enunciado": "Según el texto, ¿por qué medios pueden hacerse los reclamos por escrito?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo de manera presencial ante el director.",
+          "correcta": false,
+          "explicacion": "El texto no menciona presentarse ante el director."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente por teléfono durante la mañana.",
+          "correcta": false,
+          "explicacion": "El teléfono es para consultas, no para reclamos por escrito."
+        },
+        {
+          "letra": "C",
+          "texto": "Por mensaje de texto al celular oficial.",
+          "correcta": false,
+          "explicacion": "El texto no menciona mensajes de texto."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el buzón de sugerencias o el correo electrónico institucional.",
+          "correcta": true,
+          "explicacion": "El texto ofrece ambos medios para los reclamos por escrito."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Toda la correspondencia que sale del organismo se centraliza en la oficina de Despacho. Ningún área puede enviar notas al exterior sin que pasen previamente por ese sector para su registro.",
+      "enunciado": "¿Qué oficina centraliza la correspondencia de salida?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La oficina de Despacho.",
+          "correcta": true,
+          "explicacion": "El texto indica que la correspondencia de salida se centraliza en Despacho."
+        },
+        {
+          "letra": "B",
+          "texto": "La Mesa de Entradas.",
+          "correcta": false,
+          "explicacion": "El texto menciona Despacho, no la Mesa de Entradas."
+        },
+        {
+          "letra": "C",
+          "texto": "La oficina de la Dirección.",
+          "correcta": false,
+          "explicacion": "El texto no asigna esa función a la Dirección."
+        },
+        {
+          "letra": "D",
+          "texto": "La ventanilla de informes.",
+          "correcta": false,
+          "explicacion": "La ventanilla de informes no centraliza correspondencia según el texto."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Frente a una persona inconsciente que respira, se la debe colocar de costado en posición de recuperación. Esta posición evita que se ahogue si vomita mientras espera la asistencia.",
+      "enunciado": "Según el texto, ¿para qué se coloca a la persona de costado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para darle de beber",
+          "correcta": false,
+          "explicacion": "El texto no menciona darle de beber."
+        },
+        {
+          "letra": "B",
+          "texto": "Para evitar que se ahogue si vomita",
+          "correcta": true,
+          "explicacion": "El texto dice que la posición evita el ahogo si la persona vomita."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que descanse más cómoda",
+          "correcta": false,
+          "explicacion": "El texto explica un fin de seguridad, no de comodidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Para tomarle la temperatura",
+          "correcta": false,
+          "explicacion": "El texto no menciona la temperatura."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para evitar demoras, se recomienda revisar la lista de requisitos antes de concurrir. La lista completa está publicada en la cartelera del hall y en la página web del organismo.",
+      "enunciado": "Según el texto, ¿dónde está publicada la lista de requisitos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En un folleto que se entrega en caja.",
+          "correcta": false,
+          "explicacion": "El texto no menciona folletos en caja."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente en la página web.",
+          "correcta": false,
+          "explicacion": "El texto también menciona la cartelera del hall."
+        },
+        {
+          "letra": "C",
+          "texto": "En la cartelera del hall y en la página web.",
+          "correcta": true,
+          "explicacion": "El texto menciona ambos lugares de publicación."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo en la oficina de la Dirección.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la Dirección."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 2, 4, 6, 8, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "12",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "11",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "9",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "10",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 2; el siguiente es 8 + 2 = 10."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 1.000?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "500",
+          "correcta": true,
+          "explicacion": "El 50 % de 1.000 se calcula 50 ÷ 100 × 1.000 = 500."
+        },
+        {
+          "letra": "B",
+          "texto": "1.000",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "505",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 140?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "21",
+          "correcta": true,
+          "explicacion": "El 15 % de 140 se calcula 15 ÷ 100 × 140 = 21."
+        },
+        {
+          "letra": "B",
+          "texto": "31",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "42",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 580 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "455",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 580 − 125 = 455."
+        },
+        {
+          "letra": "B",
+          "texto": "445",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "465",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "705",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un producto cuesta $150 y tiene un 10 % de descuento. ¿Cuánto se paga?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "15",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "135",
+          "correcta": true,
+          "explicacion": "El descuento es 10 % de $150 = $15; se paga $150 − $15 = $135."
+        },
+        {
+          "letra": "C",
+          "texto": "125",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "165",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 624 hojas en partes iguales entre 8 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "78",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 624 ÷ 8 = 78."
+        },
+        {
+          "letra": "B",
+          "texto": "616",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "73",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "83",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuál es el promedio de 14, 16 y 18?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "14",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "16",
+          "correcta": true,
+          "explicacion": "El promedio es la suma dividida por la cantidad de valores: (14 + 16 + 18) ÷ 3 = 16."
+        },
+        {
+          "letra": "C",
+          "texto": "18",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 700 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "825",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "565",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "585",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "575",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 700 − 125 = 575."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 720?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "221",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "432",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "226",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "216",
+          "correcta": true,
+          "explicacion": "El 30 % de 720 se calcula 30 ÷ 100 × 720 = 216."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuántas horas hay en 3 días completos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "72",
+          "correcta": true,
+          "explicacion": "Cada día tiene 24 horas: 3 × 24 = 72."
+        },
+        {
+          "letra": "B",
+          "texto": "36",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "74",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 640?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "165",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "160",
+          "correcta": true,
+          "explicacion": "El 25 % de 640 se calcula 25 ÷ 100 × 640 = 160."
+        },
+        {
+          "letra": "D",
+          "texto": "320",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 640 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "520",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "760",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 640 + 120 = 760."
+        },
+        {
+          "letra": "C",
+          "texto": "750",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "780",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

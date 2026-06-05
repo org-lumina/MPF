@@ -1,0 +1,794 @@
+{
+  "examen_id": 13,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En la oficina, mantener los cables ordenados y fuera de las zonas de paso evita tropiezos. Sujetarlos a la pared o agruparlos con cintas reduce el riesgo de caídas.",
+      "enunciado": "Según el texto, ¿qué se recomienda hacer con los cables en la oficina?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ocultarlos debajo de la alfombra del pasillo",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Ordenarlos y mantenerlos fuera de las zonas de paso»."
+        },
+        {
+          "letra": "B",
+          "texto": "Dejarlos sueltos en el piso",
+          "correcta": false,
+          "explicacion": "El texto busca evitar tropiezos, no dejarlos sueltos."
+        },
+        {
+          "letra": "C",
+          "texto": "Pasarlos por encima del mobiliario",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Ordenarlos y mantenerlos fuera de las zonas de paso»."
+        },
+        {
+          "letra": "D",
+          "texto": "Ordenarlos y mantenerlos fuera de las zonas de paso",
+          "correcta": true,
+          "explicacion": "El texto recomienda ordenarlos y mantenerlos fuera del paso."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los pingüinos son aves que no pueden volar, pero nadan con gran habilidad. En la costa patagónica de la Argentina viven colonias de pingüinos de Magallanes. Llegan cada primavera para anidar y criar a sus pichones.",
+      "enunciado": "Según el texto, ¿qué saben hacer muy bien los pingüinos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Trepar a los árboles.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que trepen árboles."
+        },
+        {
+          "letra": "B",
+          "texto": "Correr a gran velocidad.",
+          "correcta": false,
+          "explicacion": "El texto no habla de la velocidad al correr."
+        },
+        {
+          "letra": "C",
+          "texto": "Volar largas distancias.",
+          "correcta": false,
+          "explicacion": "El texto dice que los pingüinos no pueden volar."
+        },
+        {
+          "letra": "D",
+          "texto": "Nadar con gran habilidad.",
+          "correcta": true,
+          "explicacion": "El texto afirma que nadan con gran habilidad."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El sur de la Argentina tiene bosques con árboles muy altos. Entre ellos crecen lengas y coihues, que pierden o conservan sus hojas según la especie. Esos bosques rodean lagos de aguas claras.",
+      "enunciado": "Según el texto, ¿qué rodean los bosques del sur argentino?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Grandes desiertos de arena.",
+          "correcta": false,
+          "explicacion": "El texto no menciona desiertos."
+        },
+        {
+          "letra": "B",
+          "texto": "Campos de trigo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona campos de trigo."
+        },
+        {
+          "letra": "C",
+          "texto": "Lagos de aguas claras.",
+          "correcta": true,
+          "explicacion": "El texto dice que esos bosques rodean lagos de aguas claras."
+        },
+        {
+          "letra": "D",
+          "texto": "Salinas blancas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona salinas."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Elegir productos con menos envoltorios al hacer las compras ayuda a generar menos basura. Algunos artículos vienen con capas y capas de plástico y cartón que se tiran enseguida. Preferir lo que tiene poco embalaje es una decisión responsable.",
+      "enunciado": "Según el texto, ¿qué conviene preferir al hacer las compras?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Productos con muchas capas de plástico.",
+          "correcta": false,
+          "explicacion": "El texto critica los productos con muchos envoltorios."
+        },
+        {
+          "letra": "B",
+          "texto": "Los productos más caros.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el embalaje con el precio."
+        },
+        {
+          "letra": "C",
+          "texto": "Productos importados.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el origen de los productos."
+        },
+        {
+          "letra": "D",
+          "texto": "Productos con poco embalaje.",
+          "correcta": true,
+          "explicacion": "El texto recomienda preferir lo que tiene poco embalaje."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comer despacio y en compañía hace de la comida un momento más agradable. Compartir la mesa favorece la charla y el disfrute de los alimentos. Estos momentos también aportan al bienestar de cada día.",
+      "enunciado": "Según el texto, ¿qué favorece compartir la mesa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Comer siempre solo",
+          "correcta": false,
+          "explicacion": "El texto valora la compañía."
+        },
+        {
+          "letra": "B",
+          "texto": "Saltearse las comidas",
+          "correcta": false,
+          "explicacion": "El texto no menciona saltear comidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Comer lo más rápido posible",
+          "correcta": false,
+          "explicacion": "El texto propone comer despacio."
+        },
+        {
+          "letra": "D",
+          "texto": "La charla y el disfrute de los alimentos",
+          "correcta": true,
+          "explicacion": "El texto dice que compartir la mesa favorece la charla y el disfrute."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La parrilla eléctrica alcanza altas temperaturas en pocos minutos. Use siempre guantes o manoplas para manipular las bandejas calientes y deje enfriar el equipo antes de moverlo o guardarlo.",
+      "enunciado": "Según el texto, ¿qué se debe usar para manipular las bandejas calientes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un repasador húmedo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un repasador húmedo."
+        },
+        {
+          "letra": "B",
+          "texto": "Las manos directamente.",
+          "correcta": false,
+          "explicacion": "El texto recomienda protección, no usar las manos directamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Una bolsa de plástico.",
+          "correcta": false,
+          "explicacion": "El texto no menciona bolsas de plástico."
+        },
+        {
+          "letra": "D",
+          "texto": "Guantes o manoplas.",
+          "correcta": true,
+          "explicacion": "El texto indica usar siempre guantes o manoplas."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cuidado de las fuentes y monumentos forma parte del respeto por el patrimonio. Treparse o arrojar objetos puede dañarlos. Conservar estos lugares permite que las próximas generaciones también los disfruten.",
+      "enunciado": "Según el texto, ¿qué acciones pueden dañar las fuentes y monumentos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Caminar cerca de ellos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona caminar cerca como daño."
+        },
+        {
+          "letra": "B",
+          "texto": "Tomarles fotografías.",
+          "correcta": false,
+          "explicacion": "El texto no menciona las fotografías."
+        },
+        {
+          "letra": "C",
+          "texto": "Treparse o arrojar objetos.",
+          "correcta": true,
+          "explicacion": "El texto menciona treparse o arrojar objetos como acciones que los dañan."
+        },
+        {
+          "letra": "D",
+          "texto": "Observarlos desde lejos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona observarlos como daño."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Lavarse los dientes antes de dormir es especialmente importante. Durante la noche, la boca produce menos saliva y los restos de comida pueden hacer más daño. Por eso conviene irse a dormir con la boca limpia.",
+      "enunciado": "De acuerdo con el texto, ¿por qué es importante lavarse los dientes antes de dormir?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque ayuda a tener más sueño",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el cepillado con el sueño."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque reemplaza al desayuno",
+          "correcta": false,
+          "explicacion": "El texto no compara el cepillado con el desayuno."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque mejora la digestión",
+          "correcta": false,
+          "explicacion": "El texto no menciona la digestión."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque de noche hay menos saliva y los restos hacen más daño",
+          "correcta": true,
+          "explicacion": "El texto explica que de noche la boca produce menos saliva y los restos hacen más daño."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El Chaco es una región muy calurosa del norte argentino. En verano las temperaturas son muy altas y las lluvias caen sobre todo en esa estación. Su vegetación incluye bosques y montes secos.",
+      "enunciado": "Según el texto, ¿en qué estación caen sobre todo las lluvias en el Chaco?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Durante todo el año por igual.",
+          "correcta": false,
+          "explicacion": "El texto señala el verano como estación de lluvias."
+        },
+        {
+          "letra": "B",
+          "texto": "En otoño.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el otoño."
+        },
+        {
+          "letra": "C",
+          "texto": "En verano.",
+          "correcta": true,
+          "explicacion": "El texto dice que las lluvias caen sobre todo en verano."
+        },
+        {
+          "letra": "D",
+          "texto": "En invierno.",
+          "correcta": false,
+          "explicacion": "El texto menciona el verano, no el invierno."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El gato montés es un felino pequeño que vive en zonas con muchos arbustos. Su pelaje manchado lo ayuda a esconderse entre la vegetación. Caza ratones y aves con gran sigilo.",
+      "enunciado": "Según el texto, ¿para qué le sirve al gato montés su pelaje manchado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para asustar a otros animales.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que asuste."
+        },
+        {
+          "letra": "B",
+          "texto": "Para esconderse entre la vegetación.",
+          "correcta": true,
+          "explicacion": "El texto dice que su pelaje manchado lo ayuda a esconderse."
+        },
+        {
+          "letra": "C",
+          "texto": "Para atraer a sus crías.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a las crías."
+        },
+        {
+          "letra": "D",
+          "texto": "Para abrigarse del frío.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el abrigo."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Pintar las paredes de espacios públicos requiere autorización previa. Existen lugares habilitados para realizar murales artísticos. Respetar estas reglas permite embellecer la ciudad sin dañar el patrimonio.",
+      "enunciado": "Según el texto, ¿qué se requiere para pintar las paredes de espacios públicos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tener más de cinco personas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cantidad de personas."
+        },
+        {
+          "letra": "B",
+          "texto": "Pagar una multa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona pagar una multa para pintar."
+        },
+        {
+          "letra": "C",
+          "texto": "Autorización previa.",
+          "correcta": true,
+          "explicacion": "El texto dice que pintar paredes públicas requiere autorización previa."
+        },
+        {
+          "letra": "D",
+          "texto": "Hacerlo de noche.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el horario."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Si te conectás a internet desde un lugar público, conviene cerrar las aplicaciones que no estás usando. Algunas siguen transmitiendo datos en segundo plano. Cerrarlas reduce la exposición de tu información.",
+      "enunciado": "Según el texto, ¿por qué conviene cerrar las aplicaciones que no usás en un lugar público?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque borran el historial.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el historial."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque hacen ruido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque algunas siguen transmitiendo datos en segundo plano.",
+          "correcta": true,
+          "explicacion": "El texto explica que algunas transmiten datos en segundo plano."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque suben el brillo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el brillo."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Completá la oración: \"Los elementos de protección personal deben usarse de forma _____ durante toda la tarea, no solo al comienzo.\"",
+      "enunciado": "¿Qué palabra completa la oración: \"Los elementos de protección personal deben usarse de forma _____ durante toda la tarea, no solo al comienzo.\"?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "opcional",
+          "correcta": false,
+          "explicacion": "Opcional contradice el deber de usarlos toda la tarea."
+        },
+        {
+          "letra": "B",
+          "texto": "ocasional",
+          "correcta": false,
+          "explicacion": "Ocasional contradice el uso durante toda la tarea."
+        },
+        {
+          "letra": "C",
+          "texto": "continua",
+          "correcta": true,
+          "explicacion": "El sentido de durante toda la tarea, no solo al comienzo, se completa con continua."
+        },
+        {
+          "letra": "D",
+          "texto": "breve",
+          "correcta": false,
+          "explicacion": "Breve se opone a usarlos durante toda la tarea."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 340 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "380",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 340 + 40 = 380."
+        },
+        {
+          "letra": "B",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 320 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "350",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 320 + 40 = 360."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 660 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "490",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 660 − 170 = 490."
+        },
+        {
+          "letra": "D",
+          "texto": "830",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 45 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "405",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 45 × 9 = 405."
+        },
+        {
+          "letra": "C",
+          "texto": "396",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "54",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 640?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "266",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "261",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "512",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "256",
+          "correcta": true,
+          "explicacion": "El 40 % de 640 se calcula 40 ÷ 100 × 640 = 256."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 560 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 560 − 80 = 480."
+        },
+        {
+          "letra": "B",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 5 cuadernos cuestan $250, ¿cuánto cuestan 6 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "256",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "350",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "300",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $250 ÷ 5 = $50; entonces 6 cuestan $50 × 6 = $300."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 100?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": true,
+          "explicacion": "El 40 % de 100 se calcula 40 ÷ 100 × 100 = 40."
+        },
+        {
+          "letra": "B",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 400 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "365",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 400 − 35 = 365."
+        },
+        {
+          "letra": "B",
+          "texto": "355",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "435",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "375",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 460 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "495",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "435",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "425",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 460 − 35 = 425."
+        },
+        {
+          "letra": "D",
+          "texto": "415",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 380 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "245",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "255",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 380 − 125 = 255."
+        },
+        {
+          "letra": "C",
+          "texto": "505",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "265",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 600?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "125",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "120",
+          "correcta": true,
+          "explicacion": "El 20 % de 600 se calcula 20 ÷ 100 × 600 = 120."
+        },
+        {
+          "letra": "D",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "examen_id": 19,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El consumo responsable propone comprar solo lo que realmente necesitamos. Antes de adquirir un producto, conviene preguntarse si lo vamos a usar y si existe una opción más duradera. De esta manera se generan menos residuos y se cuida el ambiente.",
+      "enunciado": "¿Qué propone el consumo responsable según el texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Guardar todos los envases que sobran.",
+          "correcta": false,
+          "explicacion": "El texto no habla de guardar envases."
+        },
+        {
+          "letra": "B",
+          "texto": "Adquirir productos nuevos cada semana.",
+          "correcta": false,
+          "explicacion": "El texto promueve comprar menos, no más seguido."
+        },
+        {
+          "letra": "C",
+          "texto": "Comprar solo lo que realmente necesitamos.",
+          "correcta": true,
+          "explicacion": "El texto afirma que propone comprar solo lo que realmente necesitamos."
+        },
+        {
+          "letra": "D",
+          "texto": "Comprar siempre los productos más baratos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona elegir por precio bajo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El tiempo que tarda la basura en descomponerse varía mucho según el material. Una cáscara de fruta puede desaparecer en pocas semanas, mientras que una botella de plástico demora cientos de años. Conocer estos plazos ayuda a entender la importancia de reciclar.",
+      "enunciado": "Según el texto, ¿qué material tarda más en descomponerse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Restos de comida.",
+          "correcta": false,
+          "explicacion": "El texto no señala los restos de comida como los más lentos."
+        },
+        {
+          "letra": "B",
+          "texto": "Una hoja de papel.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el papel como el que más tarda."
+        },
+        {
+          "letra": "C",
+          "texto": "Una cáscara de fruta.",
+          "correcta": false,
+          "explicacion": "El texto dice que la cáscara desaparece en pocas semanas."
+        },
+        {
+          "letra": "D",
+          "texto": "Una botella de plástico.",
+          "correcta": true,
+          "explicacion": "El texto dice que la botella de plástico demora cientos de años."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El ventilador de techo debe fijarse a una estructura sólida capaz de soportar su peso y vibración. Una sujeción débil puede hacer que el aparato se afloje con el tiempo y se desprenda del cielorraso.",
+      "enunciado": "Según el texto, ¿a qué debe fijarse el ventilador de techo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A un soporte de cartón.",
+          "correcta": false,
+          "explicacion": "El texto requiere una estructura capaz de soportar peso."
+        },
+        {
+          "letra": "B",
+          "texto": "A una estructura sólida.",
+          "correcta": true,
+          "explicacion": "El texto indica fijarlo a una estructura sólida que soporte su peso."
+        },
+        {
+          "letra": "C",
+          "texto": "A una placa de telgopor.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el telgopor y pide algo sólido."
+        },
+        {
+          "letra": "D",
+          "texto": "A un gancho de plástico.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ganchos de plástico."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El humo de las fábricas y de los autos contamina el aire que respiramos. Esa contaminación puede afectar la salud, sobre todo en las grandes ciudades. Reducir el uso del auto y controlar las emisiones ayuda a tener un aire más limpio.",
+      "enunciado": "Según el texto, ¿qué contamina el aire que respiramos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El humo de las fábricas y de los autos.",
+          "correcta": true,
+          "explicacion": "El texto dice que el humo de las fábricas y de los autos contamina el aire."
+        },
+        {
+          "letra": "B",
+          "texto": "El agua de lluvia.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua de lluvia como contaminante."
+        },
+        {
+          "letra": "C",
+          "texto": "El reciclaje de papel.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el reciclaje con contaminar el aire."
+        },
+        {
+          "letra": "D",
+          "texto": "Los árboles de las plazas.",
+          "correcta": false,
+          "explicacion": "El texto no señala a los árboles como contaminantes."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Caminar al menos un rato todos los días aporta beneficios para la salud. No hace falta recorrer grandes distancias para empezar a notar cambios. Lo importante es transformar la caminata en un hábito diario.",
+      "enunciado": "De acuerdo con el texto, ¿qué es lo importante respecto de caminar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Caminar una sola vez al año",
+          "correcta": false,
+          "explicacion": "El texto propone caminar todos los días."
+        },
+        {
+          "letra": "B",
+          "texto": "Recorrer siempre grandes distancias",
+          "correcta": false,
+          "explicacion": "El texto aclara que no hace falta recorrer grandes distancias."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar caminar al aire libre",
+          "correcta": false,
+          "explicacion": "El texto no plantea evitarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "Transformarla en un hábito diario",
+          "correcta": true,
+          "explicacion": "El texto dice que lo importante es hacer de la caminata un hábito diario."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las máscaras y los respiradores deben ajustarse bien al rostro para cumplir su función. Si quedan flojos, el aire contaminado puede entrar por los bordes sin ser filtrado.",
+      "enunciado": "Según el texto, ¿qué ocurre si el respirador queda flojo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se ahorra filtro",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de filtro."
+        },
+        {
+          "letra": "B",
+          "texto": "El respirador dura más tiempo",
+          "correcta": false,
+          "explicacion": "El texto no menciona la duración."
+        },
+        {
+          "letra": "C",
+          "texto": "Mejora la respiración",
+          "correcta": false,
+          "explicacion": "El texto advierte un riesgo, no una mejora."
+        },
+        {
+          "letra": "D",
+          "texto": "El aire contaminado entra por los bordes sin filtrarse",
+          "correcta": true,
+          "explicacion": "El texto dice que el aire entra por los bordes si queda flojo."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cargador inalámbrico solo funciona con teléfonos compatibles con esta tecnología. Retire fundas metálicas o gruesas antes de apoyar el teléfono, ya que pueden impedir la transferencia de energía.",
+      "enunciado": "Según el texto, ¿qué hay que retirar antes de apoyar el teléfono en el cargador inalámbrico?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La tarjeta de memoria.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la tarjeta de memoria."
+        },
+        {
+          "letra": "B",
+          "texto": "La batería del teléfono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona retirar la batería."
+        },
+        {
+          "letra": "C",
+          "texto": "La pantalla protectora.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la pantalla protectora."
+        },
+        {
+          "letra": "D",
+          "texto": "Las fundas metálicas o gruesas.",
+          "correcta": true,
+          "explicacion": "El texto indica retirar fundas metálicas o gruesas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Frente a una persona con una posible fractura, no se debe mover el miembro afectado. Lo correcto es inmovilizarlo y esperar a que llegue el personal médico para su traslado.",
+      "enunciado": "Según el texto, ¿qué NO se debe hacer ante una posible fractura?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esperar al personal médico",
+          "correcta": false,
+          "explicacion": "El texto sí recomienda esperar al personal médico."
+        },
+        {
+          "letra": "B",
+          "texto": "Inmovilizar la zona",
+          "correcta": false,
+          "explicacion": "El texto sí recomienda inmovilizar."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener la calma de la persona",
+          "correcta": false,
+          "explicacion": "El texto no desaconseja mantener la calma."
+        },
+        {
+          "letra": "D",
+          "texto": "Mover el miembro afectado",
+          "correcta": true,
+          "explicacion": "El texto indica no mover el miembro afectado."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El almacenamiento en la nube permite guardar archivos en servidores de internet. Así podés acceder a ellos desde distintos dispositivos. También funciona como una copia de respaldo.",
+      "enunciado": "Según el texto, una ventaja del almacenamiento en la nube es que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Elimina la necesidad de tener contraseña.",
+          "correcta": false,
+          "explicacion": "El texto no dice eso."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejora la calidad de la cámara.",
+          "correcta": false,
+          "explicacion": "El texto no habla de la cámara."
+        },
+        {
+          "letra": "C",
+          "texto": "Hace que el teléfono cargue más rápido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la carga del teléfono."
+        },
+        {
+          "letra": "D",
+          "texto": "Permite acceder a los archivos desde distintos dispositivos.",
+          "correcta": true,
+          "explicacion": "El texto menciona el acceso desde distintos dispositivos."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Dormir la siesta puede ser un buen complemento del descanso, siempre que sea breve. Una siesta corta ayuda a recuperar energías sin afectar el sueño de la noche. En cambio, una siesta muy larga puede dificultar dormir después.",
+      "enunciado": "Según el texto, ¿qué puede provocar una siesta muy larga?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar la sed",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la siesta con la sed."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejorar siempre el sueño nocturno",
+          "correcta": false,
+          "explicacion": "El texto advierte lo contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Dificultar dormir después",
+          "correcta": true,
+          "explicacion": "El texto dice que una siesta muy larga puede dificultar dormir luego."
+        },
+        {
+          "letra": "D",
+          "texto": "Recuperar energías sin problemas",
+          "correcta": false,
+          "explicacion": "Ese beneficio es de la siesta corta, no de la larga."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El secarropas centrífugo debe equilibrarse con una carga pareja de prendas. Si la ropa se distribuye de manera desigual, el tambor vibra con fuerza y el equipo puede desplazarse y golpear contra la pared.",
+      "enunciado": "Completá la oración con la palabra que falta: \"Si la ropa se distribuye de manera _____ , el tambor vibra con fuerza\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ordenada",
+          "correcta": false,
+          "explicacion": "El texto contrapone pareja con desigual, no con ordenada."
+        },
+        {
+          "letra": "B",
+          "texto": "pareja",
+          "correcta": false,
+          "explicacion": "El texto pide carga pareja para evitar la vibración."
+        },
+        {
+          "letra": "C",
+          "texto": "liviana",
+          "correcta": false,
+          "explicacion": "El texto no se refiere al peso liviano en ese punto."
+        },
+        {
+          "letra": "D",
+          "texto": "desigual",
+          "correcta": true,
+          "explicacion": "El texto indica que la distribución desigual hace vibrar el tambor."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando se aproxima una ambulancia con sirena encendida, los demás vehículos deben cederle el paso. Para ello, conviene acercarse al costado de la calzada y reducir la velocidad. Esta acción permite que el vehículo de emergencia avance con rapidez.",
+      "enunciado": "Según el texto, ¿qué deben hacer los vehículos ante una ambulancia con sirena?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse en el centro de la calle.",
+          "correcta": false,
+          "explicacion": "El texto pide acercarse al costado, no quedarse en el centro."
+        },
+        {
+          "letra": "B",
+          "texto": "Acelerar para no estorbar.",
+          "correcta": false,
+          "explicacion": "El texto pide reducir la velocidad, no acelerar."
+        },
+        {
+          "letra": "C",
+          "texto": "Cederle el paso, acercándose al costado de la calzada.",
+          "correcta": true,
+          "explicacion": "El texto indica ceder el paso acercándose al costado y reduciendo la velocidad."
+        },
+        {
+          "letra": "D",
+          "texto": "Seguir su misma ruta de cerca.",
+          "correcta": false,
+          "explicacion": "El texto no menciona seguir la ruta de la ambulancia."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para el primer uso del horno eléctrico, hágalo funcionar vacío a máxima temperatura durante quince minutos. De esta manera se eliminan los residuos de fabricación y el olor que pueden desprender las resistencias nuevas.",
+      "enunciado": "Según el texto, ¿para qué se hace funcionar el horno vacío en el primer uso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para ahorrar energía a futuro.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de energía."
+        },
+        {
+          "letra": "B",
+          "texto": "Para eliminar residuos de fabricación.",
+          "correcta": true,
+          "explicacion": "El texto indica que así se eliminan los residuos de fabricación y el olor."
+        },
+        {
+          "letra": "C",
+          "texto": "Para probar la bandeja de cocción.",
+          "correcta": false,
+          "explicacion": "El texto no menciona probar la bandeja."
+        },
+        {
+          "letra": "D",
+          "texto": "Para calibrar el reloj interno.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la calibración del reloj."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 500?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "110",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "105",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "100",
+          "correcta": true,
+          "explicacion": "El 20 % de 500 se calcula 20 ÷ 100 × 500 = 100."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 220 hojas en partes iguales entre 10 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "27",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "210",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "22",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 220 ÷ 10 = 22."
+        },
+        {
+          "letra": "D",
+          "texto": "17",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 660?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "104",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "198",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "109",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "99",
+          "correcta": true,
+          "explicacion": "El 15 % de 660 se calcula 15 ÷ 100 × 660 = 99."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 360 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "560",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 360 + 200 = 560."
+        },
+        {
+          "letra": "C",
+          "texto": "550",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "580",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 860?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "860",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "430",
+          "correcta": true,
+          "explicacion": "El 50 % de 860 se calcula 50 ÷ 100 × 860 = 430."
+        },
+        {
+          "letra": "C",
+          "texto": "435",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 260 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "380",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 260 + 120 = 380."
+        },
+        {
+          "letra": "B",
+          "texto": "140",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 1.000?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "760",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "1.500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "750",
+          "correcta": true,
+          "explicacion": "El 75 % de 1.000 se calcula 75 ÷ 100 × 1.000 = 750."
+        },
+        {
+          "letra": "D",
+          "texto": "755",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 41 unidades y hay 5 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "46",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "205",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 41 × 5 = 205."
+        },
+        {
+          "letra": "D",
+          "texto": "246",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 342 hojas en partes iguales entre 6 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "336",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "62",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "57",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 342 ÷ 6 = 57."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 100 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "380",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 100 + 280 = 380."
+        },
+        {
+          "letra": "C",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "400",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 140 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "320",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "290",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "300",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 140 + 160 = 300."
+        },
+        {
+          "letra": "D",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 340 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "460",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 340 + 120 = 460."
+        },
+        {
+          "letra": "B",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

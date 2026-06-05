@@ -1,0 +1,789 @@
+{
+  "examen_id": 5,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La atención en idioma de señas se ofrece los martes por la tarde con personal capacitado. Quien necesite ese servicio debe avisar al solicitar el turno para coordinar la presencia del intérprete.",
+      "enunciado": "¿Qué debe hacer quien necesite atención en idioma de señas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Presentarse cualquier día por la mañana.",
+          "correcta": false,
+          "explicacion": "El servicio es los martes por la tarde, previo aviso."
+        },
+        {
+          "letra": "B",
+          "texto": "Traer su propio intérprete obligatoriamente.",
+          "correcta": false,
+          "explicacion": "El texto indica que hay personal capacitado del organismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisar al solicitar el turno para coordinar al intérprete.",
+          "correcta": true,
+          "explicacion": "El texto pide avisar al sacar el turno para coordinar la presencia del intérprete."
+        },
+        {
+          "letra": "D",
+          "texto": "Enviar una nota a la Dirección.",
+          "correcta": false,
+          "explicacion": "El texto no menciona una nota a la Dirección."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cepillarse los dientes después de las comidas ayuda a mantener la boca sana. El cepillo debe cambiarse cada cierto tiempo, ya que con el uso pierde eficacia. Sumar el uso del hilo dental completa la limpieza.",
+      "enunciado": "De acuerdo con el texto, ¿por qué hay que cambiar el cepillo cada cierto tiempo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque es obligatorio por ley",
+          "correcta": false,
+          "explicacion": "El texto no menciona ninguna obligación legal."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque las cerdas acumulan bacterias invisibles",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Porque con el uso pierde eficacia»."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque lo exige la garantía del fabricante",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Porque con el uso pierde eficacia»."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque con el uso pierde eficacia",
+          "correcta": true,
+          "explicacion": "El texto indica que con el uso el cepillo pierde eficacia."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El quebracho es un árbol muy duro que crece en el norte argentino. Su madera es tan resistente que se usó para hacer durmientes de ferrocarril. Su nombre significa quiebra hacha, por lo difícil que es cortarlo.",
+      "enunciado": "Según el texto, ¿de dónde proviene el nombre del quebracho?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De que crece cerca de las hachas.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el nombre con la cercanía a hachas."
+        },
+        {
+          "letra": "B",
+          "texto": "De la forma de sus hojas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la forma de las hojas."
+        },
+        {
+          "letra": "C",
+          "texto": "De lo difícil que es cortarlo.",
+          "correcta": true,
+          "explicacion": "El texto dice que su nombre significa quiebra hacha por lo difícil que es cortarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "Del color de su madera.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color de la madera."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El papel mojado o muy sucio ya no sirve para reciclar y debe ir con los residuos comunes. En cambio, el papel limpio y seco conserva su valor y puede transformarse en papel nuevo. Por eso es importante mantenerlo en buen estado hasta llevarlo a reciclar.",
+      "enunciado": "Según el texto, ¿qué tipo de papel sirve para reciclar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El papel limpio y seco.",
+          "correcta": true,
+          "explicacion": "El texto dice que el papel limpio y seco conserva su valor para reciclar."
+        },
+        {
+          "letra": "B",
+          "texto": "El papel muy sucio.",
+          "correcta": false,
+          "explicacion": "El texto indica que el papel muy sucio va con los residuos comunes."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier papel, sin importar su estado.",
+          "correcta": false,
+          "explicacion": "El texto distingue según el estado del papel."
+        },
+        {
+          "letra": "D",
+          "texto": "El papel mojado.",
+          "correcta": false,
+          "explicacion": "El texto dice que el papel mojado ya no sirve para reciclar."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La luciérnaga es un pequeño insecto que produce luz propia. De noche, su cuerpo emite un brillo que parece una luz que se enciende y se apaga. Usa esa luz para comunicarse con otras luciérnagas.",
+      "enunciado": "Según el texto, ¿para qué usa la luciérnaga su luz?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para calentar su cuerpo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el calor."
+        },
+        {
+          "letra": "B",
+          "texto": "Para comunicarse con otras luciérnagas.",
+          "correcta": true,
+          "explicacion": "El texto dice que usa la luz para comunicarse con otras luciérnagas."
+        },
+        {
+          "letra": "C",
+          "texto": "Para asustar a los pájaros.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a los pájaros."
+        },
+        {
+          "letra": "D",
+          "texto": "Para iluminar el camino de las personas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a las personas."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los cereales integrales, como la avena o el arroz integral, conservan más nutrientes que los refinados. También aportan fibra, que ayuda al funcionamiento del intestino. Por eso se recomienda incluirlos en la alimentación.",
+      "enunciado": "Según el texto, ¿qué aportan los cereales integrales además de nutrientes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fibra que ayuda al intestino",
+          "correcta": true,
+          "explicacion": "El texto dice que aportan fibra, que ayuda al funcionamiento del intestino."
+        },
+        {
+          "letra": "B",
+          "texto": "Cafeína",
+          "correcta": false,
+          "explicacion": "El texto no menciona cafeína."
+        },
+        {
+          "letra": "C",
+          "texto": "Sal en exceso",
+          "correcta": false,
+          "explicacion": "El texto no habla de sal."
+        },
+        {
+          "letra": "D",
+          "texto": "Azúcar agregada",
+          "correcta": false,
+          "explicacion": "El texto no menciona azúcar."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El flamenco es un ave de patas largas y plumas rosadas. Vive en lagunas poco profundas, donde busca su alimento en el agua. Suele descansar parado sobre una sola pata.",
+      "enunciado": "Según el texto, ¿cómo suele descansar el flamenco?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acostado en la orilla.",
+          "correcta": false,
+          "explicacion": "El texto dice que descansa parado, no acostado."
+        },
+        {
+          "letra": "B",
+          "texto": "Parado sobre una sola pata.",
+          "correcta": true,
+          "explicacion": "El texto afirma que suele descansar parado sobre una sola pata."
+        },
+        {
+          "letra": "C",
+          "texto": "Sentado sobre el agua.",
+          "correcta": false,
+          "explicacion": "El texto no dice que se siente sobre el agua."
+        },
+        {
+          "letra": "D",
+          "texto": "Volando en círculos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que descanse volando."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Apagar el televisor cuando nadie lo está mirando evita un gasto de energía sin sentido. A veces queda encendido de fondo aunque nadie le preste atención. Apagarlo en esos momentos es un hábito simple de ahorro.",
+      "enunciado": "Completá la oración según el texto: \"Apagar el televisor cuando nadie lo está mirando evita un gasto de energía ______\".",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "muy pequeño",
+          "correcta": false,
+          "explicacion": "El texto no describe ese gasto como pequeño."
+        },
+        {
+          "letra": "B",
+          "texto": "sin sentido",
+          "correcta": true,
+          "explicacion": "El texto dice que apagar el televisor evita un gasto de energía sin sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "necesario",
+          "correcta": false,
+          "explicacion": "El texto califica ese gasto como innecesario, no necesario."
+        },
+        {
+          "letra": "D",
+          "texto": "imposible de medir",
+          "correcta": false,
+          "explicacion": "El texto no menciona la medición del gasto."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 140?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "112",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "66",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "61",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "56",
+          "correcta": true,
+          "explicacion": "El 40 % de 140 se calcula 40 ÷ 100 × 140 = 56."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 640?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "138",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "133",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "128",
+          "correcta": true,
+          "explicacion": "El 20 % de 640 se calcula 20 ÷ 100 × 640 = 128."
+        },
+        {
+          "letra": "D",
+          "texto": "256",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 520?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "416",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "218",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "213",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "208",
+          "correcta": true,
+          "explicacion": "El 40 % de 520 se calcula 40 ÷ 100 × 520 = 208."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 120?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "28",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "36",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "23",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "18",
+          "correcta": true,
+          "explicacion": "El 15 % de 120 se calcula 15 ÷ 100 × 120 = 18."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 240?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "34",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "24",
+          "correcta": true,
+          "explicacion": "El 10 % de 240 se calcula 10 ÷ 100 × 240 = 24."
+        },
+        {
+          "letra": "C",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "29",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 320 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "205",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "195",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 320 − 125 = 195."
+        },
+        {
+          "letra": "C",
+          "texto": "445",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "185",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 220?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "165",
+          "correcta": true,
+          "explicacion": "El 75 % de 220 se calcula 75 ÷ 100 × 220 = 165."
+        },
+        {
+          "letra": "B",
+          "texto": "330",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 740?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "740",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "370",
+          "correcta": true,
+          "explicacion": "El 50 % de 740 se calcula 50 ÷ 100 × 740 = 370."
+        },
+        {
+          "letra": "C",
+          "texto": "375",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 27, ¿qué ocurre si al inicio del ejercicio financiero no está aprobado el presupuesto general?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Regirá el que estuvo en vigencia el año anterior, con ajustes",
+          "correcta": true,
+          "explicacion": "El art. 27 dispone que regirá el presupuesto del año anterior, con los ajustes que debe introducir el Poder Ejecutivo Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "La Auditoría General de la Nación dicta un presupuesto provisorio",
+          "correcta": false,
+          "explicacion": "El art. 27 prevé la prórroga del presupuesto anterior; la AGN no dicta presupuestos."
+        },
+        {
+          "letra": "C",
+          "texto": "Se suspende toda ejecución de gastos del Estado",
+          "correcta": false,
+          "explicacion": "El art. 27 dispone la continuidad mediante la prórroga del presupuesto anterior, no la suspensión de gastos."
+        },
+        {
+          "letra": "D",
+          "texto": "El Poder Ejecutivo gobernará sin presupuesto hasta su aprobación",
+          "correcta": false,
+          "explicacion": "El art. 27 prevé la prórroga del presupuesto anterior, no la ausencia de presupuesto."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, ¿con cuántos electores inscritos como máximo se constituye cada mesa electoral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta trescientos cincuenta (350) electores",
+          "correcta": true,
+          "explicacion": "El art. 41 dispone que cada circuito se dividirá en mesas que se constituirán con hasta trescientos cincuenta (350) electores inscritos."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta quinientos (500) electores",
+          "correcta": false,
+          "explicacion": "El art. 41 fija el tope en trescientos cincuenta, no en quinientos."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta cien (100) electores",
+          "correcta": false,
+          "explicacion": "El art. 41 fija el máximo en trescientos cincuenta electores."
+        },
+        {
+          "letra": "D",
+          "texto": "Hasta doscientos (200) electores",
+          "correcta": false,
+          "explicacion": "El art. 41 establece hasta trescientos cincuenta electores por mesa."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿por cuántas Cámaras está compuesto el Congreso de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por dos Cámaras: Diputados y Senadores",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Congreso está compuesto por dos Cámaras: una de Diputados y otra de Senadores."
+        },
+        {
+          "letra": "B",
+          "texto": "Por una sola Cámara",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material indica que está compuesto por dos Cámaras."
+        },
+        {
+          "letra": "C",
+          "texto": "Por tres Cámaras",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material menciona solo dos Cámaras."
+        },
+        {
+          "letra": "D",
+          "texto": "Por dos Cámaras: Diputados y Constituyentes",
+          "correcta": false,
+          "explicacion": "Incorrecta. La segunda Cámara es la de Senadores, no de constituyentes."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué función cumple el Poder Ejecutivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Interpreta las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Interpretar las leyes corresponde al Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "Hace las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Hacer las leyes corresponde al Poder Legislativo."
+        },
+        {
+          "letra": "C",
+          "texto": "Reforma la Constitución",
+          "correcta": false,
+          "explicacion": "Incorrecta. La reforma la realiza una Convención Constituyente, no el Poder Ejecutivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Ejecuta las leyes",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Poder Ejecutivo es el que ejecuta las leyes."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con las normas sobre regalos, ¿qué ocurre si alguien no cumple con las reglas sobre obsequios?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se le exige sólo registrar el regalo tardíamente",
+          "correcta": false,
+          "explicacion": "El incumplimiento da lugar a sanción, no a una simple regularización."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo se le advierte verbalmente",
+          "correcta": false,
+          "explicacion": "El régimen prevé sanción, no una mera advertencia."
+        },
+        {
+          "letra": "C",
+          "texto": "La persona debe ser sancionada",
+          "correcta": true,
+          "explicacion": "Las normas sobre regalos disponen que si alguien no cumple con estas reglas, la persona debe ser sancionada."
+        },
+        {
+          "letra": "D",
+          "texto": "No hay consecuencia si el valor es bajo",
+          "correcta": false,
+          "explicacion": "El régimen establece que la persona debe ser sancionada, sin distinción por valor."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 1° bis de la Ley 19.549, el derecho a una tutela administrativa efectiva NO comprende:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho a ofrecer y producir pruebas",
+          "correcta": false,
+          "explicacion": "El derecho a ofrecer y producir pruebas está expresamente incluido en el art. 1° bis, inc. a) (ii)."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho a una decisión fundada",
+          "correcta": false,
+          "explicacion": "El derecho a una decisión fundada integra la tutela administrativa efectiva según el art. 1° bis, inc. a) (iii)."
+        },
+        {
+          "letra": "C",
+          "texto": "El derecho a ser oído",
+          "correcta": false,
+          "explicacion": "El derecho a ser oído integra la tutela administrativa efectiva conforme al art. 1° bis, inc. a) (i)."
+        },
+        {
+          "letra": "D",
+          "texto": "El derecho a indemnización tarifada",
+          "correcta": true,
+          "explicacion": "El derecho a una indemnización tarifada no integra la tutela administrativa efectiva del art. 1° bis; esta comprende ser oído, ofrecer y producir prueba, decisión fundada y plazo razonable."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuál es el órgano rector del sistema de control interno del sector público nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Auditoría General de la Nación es el órgano rector del control externo, no del interno (art. 7)."
+        },
+        {
+          "letra": "B",
+          "texto": "La Contaduría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Contaduría General de la Nación es el órgano rector del sistema de contabilidad gubernamental (art. 88)."
+        },
+        {
+          "letra": "C",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 7 establece que la Sindicatura General de la Nación es el órgano rector del sistema de control interno."
+        },
+        {
+          "letra": "D",
+          "texto": "La Tesorería General de la Nación",
+          "correcta": false,
+          "explicacion": "La Tesorería General de la Nación es el órgano rector del sistema de tesorería (art. 73)."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, ¿cuál es causal para imponer la exoneración?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inasistencias injustificadas discontinuas",
+          "correcta": false,
+          "explicacion": "Las inasistencias injustificadas son causal de cesantía (art. 32), no de exoneración."
+        },
+        {
+          "letra": "B",
+          "texto": "Incumplimiento reiterado del horario",
+          "correcta": false,
+          "explicacion": "El incumplimiento del horario habilita apercibimiento o suspensión (art. 31)."
+        },
+        {
+          "letra": "C",
+          "texto": "Sentencia condenatoria firme por delito contra la Administración Pública",
+          "correcta": true,
+          "explicacion": "El art. 33 inc. a) establece como causal de exoneración la sentencia condenatoria firme por delito contra la Administración Pública Nacional, provincial o municipal."
+        },
+        {
+          "letra": "D",
+          "texto": "Concurso civil o quiebra no causal",
+          "correcta": false,
+          "explicacion": "El concurso civil o quiebra no causal es causal de cesantía (art. 32 inc. d)."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 18 de la Ley 25.188, cuando los obsequios son de cortesía o de costumbre diplomática, la autoridad de aplicación:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los subastará para financiar la función pública",
+          "correcta": false,
+          "explicacion": "El art. 18 prevé destinarlos a fines de salud, acción social y educación o al patrimonio histórico-cultural, no a subasta."
+        },
+        {
+          "letra": "B",
+          "texto": "Ordenará su destrucción inmediata",
+          "correcta": false,
+          "explicacion": "El art. 18 dispone registración e incorporación al patrimonio del Estado, no destrucción."
+        },
+        {
+          "letra": "C",
+          "texto": "Reglamentará su registración y en qué casos deben incorporarse al patrimonio del Estado",
+          "correcta": true,
+          "explicacion": "El art. 18 prevé que la autoridad de aplicación reglamentará su registración y en qué casos y cómo deberán incorporarse al patrimonio del Estado."
+        },
+        {
+          "letra": "D",
+          "texto": "Los entregará en propiedad al funcionario que los recibió",
+          "correcta": false,
+          "explicacion": "El art. 18 prevé su eventual incorporación al patrimonio del Estado, no la entrega al funcionario."
+        }
+      ]
+    }
+  ]
+}

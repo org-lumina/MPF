@@ -1,0 +1,794 @@
+{
+  "examen_id": 9,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El comedor del organismo funciona de 12 a 14 horas. Quienes deseen utilizarlo deben anotarse en la planilla del sector antes de las 11 de la mañana del mismo día.",
+      "enunciado": "¿Hasta qué hora hay que anotarse para usar el comedor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta las 11 de la mañana del mismo día.",
+          "correcta": true,
+          "explicacion": "El texto indica anotarse antes de las 11 del mismo día."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta las 12 del mediodía.",
+          "correcta": false,
+          "explicacion": "A las 12 abre el comedor; la anotación cierra antes, a las 11."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta las 14 horas.",
+          "correcta": false,
+          "explicacion": "Las 14 son el cierre del comedor, no el límite para anotarse."
+        },
+        {
+          "letra": "D",
+          "texto": "El día anterior antes de las 11.",
+          "correcta": false,
+          "explicacion": "El texto pide anotarse el mismo día, no el día anterior."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El relámpago es la luz que vemos durante una tormenta. El trueno es el ruido que escuchamos después. Como la luz viaja más rápido que el sonido, primero vemos el relámpago y luego oímos el trueno.",
+      "enunciado": "Según el texto, ¿por qué vemos primero el relámpago y luego oímos el trueno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el relámpago es más fuerte.",
+          "correcta": false,
+          "explicacion": "El texto no habla de la fuerza."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el trueno ocurre mucho después.",
+          "correcta": false,
+          "explicacion": "El texto lo explica por la velocidad de la luz, no por el momento."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el trueno no siempre suena.",
+          "correcta": false,
+          "explicacion": "El texto no dice eso."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque la luz viaja más rápido que el sonido.",
+          "correcta": true,
+          "explicacion": "El texto dice que la luz viaja más rápido que el sonido."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El service oficial es el único habilitado para abrir el gabinete del equipo. No intente repararlo por su cuenta: en su interior hay componentes que conservan carga eléctrica incluso con el aparato desenchufado.",
+      "enunciado": "Según el texto, ¿quién está habilitado para abrir el gabinete del equipo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El service oficial.",
+          "correcta": true,
+          "explicacion": "El texto indica que el service oficial es el único habilitado."
+        },
+        {
+          "letra": "B",
+          "texto": "El propio usuario.",
+          "correcta": false,
+          "explicacion": "El texto pide no repararlo por cuenta propia."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier electricista del barrio.",
+          "correcta": false,
+          "explicacion": "El texto menciona solo al service oficial."
+        },
+        {
+          "letra": "D",
+          "texto": "El vendedor de la tienda.",
+          "correcta": false,
+          "explicacion": "El texto no menciona al vendedor."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El respeto por los horarios de recolección de residuos ayuda a mantener limpia la ciudad. Sacar la basura en el horario indicado evita que se acumule en la vereda. Esta práctica favorece la higiene urbana.",
+      "enunciado": "Según el texto, ¿qué evita sacar la basura en el horario indicado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que aumente el tránsito.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el tránsito."
+        },
+        {
+          "letra": "B",
+          "texto": "Que falte agua potable.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua potable."
+        },
+        {
+          "letra": "C",
+          "texto": "Que se corte la luz.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cortes de luz."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la basura se acumule en la vereda.",
+          "correcta": true,
+          "explicacion": "El texto dice que evita que la basura se acumule en la vereda."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las estrellas que vemos de noche están muy lejos de nosotros. Cada una es como un sol, pero se ven pequeñas por la enorme distancia. En las noches sin nubes podemos contar miles de ellas.",
+      "enunciado": "Según el texto, ¿por qué las estrellas se ven pequeñas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque hay muchas nubes.",
+          "correcta": false,
+          "explicacion": "El texto dice que se ven en noches sin nubes."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque son realmente diminutas.",
+          "correcta": false,
+          "explicacion": "El texto dice que cada una es como un sol, no diminutas."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque la Luna las tapa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a la Luna tapándolas."
+        },
+        {
+          "letra": "D",
+          "texto": "Por la enorme distancia.",
+          "correcta": true,
+          "explicacion": "El texto explica que se ven pequeñas por la enorme distancia."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las contraseñas obvias, como el nombre o la fecha de nacimiento, son fáciles de adivinar. Los atacantes prueban primero esos datos. Por eso conviene evitar información personal en la clave.",
+      "enunciado": "Completá: 'Conviene evitar usar _______ en la contraseña.'",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "letras mayúsculas.",
+          "correcta": false,
+          "explicacion": "El texto no aconseja evitar mayúsculas."
+        },
+        {
+          "letra": "B",
+          "texto": "números",
+          "correcta": false,
+          "explicacion": "El texto no recomienda evitar números."
+        },
+        {
+          "letra": "C",
+          "texto": "símbolos",
+          "correcta": false,
+          "explicacion": "El texto no menciona evitar símbolos."
+        },
+        {
+          "letra": "D",
+          "texto": "información personal como el nombre o la fecha de nacimiento",
+          "correcta": true,
+          "explicacion": "El texto recomienda evitar información personal en la clave."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las raíces de las plantas crecen hacia abajo, dentro de la tierra. Sirven para sostener la planta y para absorber el agua y los nutrientes del suelo. Sin ellas, la planta no podría alimentarse.",
+      "enunciado": "Según el texto, ¿para qué sirven las raíces?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para sostener la planta y absorber agua y nutrientes.",
+          "correcta": true,
+          "explicacion": "El texto dice que sostienen la planta y absorben agua y nutrientes."
+        },
+        {
+          "letra": "B",
+          "texto": "Para dar sombra.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la sombra."
+        },
+        {
+          "letra": "C",
+          "texto": "Para fabricar las flores.",
+          "correcta": false,
+          "explicacion": "El texto no menciona las flores."
+        },
+        {
+          "letra": "D",
+          "texto": "Para respirar oxígeno.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la respiración de las raíces."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El calefón a gas necesita una salida al exterior para evacuar los gases de combustión. Nunca obstruya el conducto de ventilación, ya que la acumulación de monóxido de carbono puede ser mortal.",
+      "enunciado": "Según el texto, ¿por qué no debe obstruirse el conducto de ventilación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el agua saldría más fría.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la ventilación con la temperatura del agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque haría más ruido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque se acumularía monóxido de carbono.",
+          "correcta": true,
+          "explicacion": "El texto advierte que la acumulación de monóxido puede ser mortal."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque gastaría más gas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona mayor consumo de gas."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El instructivo recuerda que cada nota debe tratar un solo asunto. Cuando hay varios temas distintos, corresponde presentar una nota por cada uno para facilitar su tramitación.",
+      "enunciado": "Según el instructivo, ¿qué corresponde hacer si hay varios temas distintos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Presentar los temas en forma verbal.",
+          "correcta": false,
+          "explicacion": "El texto se refiere a notas escritas, no verbales."
+        },
+        {
+          "letra": "B",
+          "texto": "Elegir solo el tema más importante.",
+          "correcta": false,
+          "explicacion": "El texto no propone descartar temas."
+        },
+        {
+          "letra": "C",
+          "texto": "Presentar una nota por cada tema.",
+          "correcta": true,
+          "explicacion": "El texto indica presentar una nota por cada asunto distinto."
+        },
+        {
+          "letra": "D",
+          "texto": "Reunir todos los temas en una sola nota.",
+          "correcta": false,
+          "explicacion": "El texto pide una nota por asunto, no reunirlos."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las redes sociales muestran qué información de tu perfil es pública. Datos como el correo o el teléfono no deberían quedar visibles para cualquiera. Conviene revisar esa configuración con cuidado.",
+      "enunciado": "Según el texto, ¿qué datos no deberían quedar visibles para cualquiera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El color favorito.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color favorito."
+        },
+        {
+          "letra": "B",
+          "texto": "El nombre de la mascota.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la mascota."
+        },
+        {
+          "letra": "C",
+          "texto": "El equipo de fútbol.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el equipo de fútbol."
+        },
+        {
+          "letra": "D",
+          "texto": "El correo o el teléfono.",
+          "correcta": true,
+          "explicacion": "El texto menciona el correo y el teléfono como datos que no deberían ser públicos."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La heladera debe enchufarse a un tomacorriente con descarga a tierra. Espere al menos dos horas después del traslado antes de conectarla, para que el gas refrigerante se asiente y el compresor funcione correctamente.",
+      "enunciado": "Según el texto, ¿cuánto hay que esperar tras trasladar la heladera antes de conectarla?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al menos media hora.",
+          "correcta": false,
+          "explicacion": "El texto menciona dos horas, no media hora."
+        },
+        {
+          "letra": "B",
+          "texto": "Al menos un día completo.",
+          "correcta": false,
+          "explicacion": "El texto menciona dos horas, no un día."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos dos horas.",
+          "correcta": true,
+          "explicacion": "El texto indica esperar al menos dos horas después del traslado."
+        },
+        {
+          "letra": "D",
+          "texto": "No es necesario esperar.",
+          "correcta": false,
+          "explicacion": "El texto exige esperar para que el gas se asiente."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Lavar bien las frutas y verduras antes de comerlas es importante para la higiene de los alimentos. El agua ayuda a quitar la tierra y los restos que puedan tener. Es un paso simple que conviene no saltear.",
+      "enunciado": "De acuerdo con el texto, ¿para qué se lavan las frutas y verduras?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para que duren menos",
+          "correcta": false,
+          "explicacion": "El texto no menciona la duración."
+        },
+        {
+          "letra": "B",
+          "texto": "Para que tengan más vitaminas",
+          "correcta": false,
+          "explicacion": "El texto no afirma que el lavado agregue vitaminas."
+        },
+        {
+          "letra": "C",
+          "texto": "Para quitar la tierra y los restos",
+          "correcta": true,
+          "explicacion": "El texto dice que el agua ayuda a quitar la tierra y los restos."
+        },
+        {
+          "letra": "D",
+          "texto": "Para que sean más dulces",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el lavado con el sabor."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La consola de videojuegos necesita una buena circulación de aire para no recalentarse. No la coloque dentro de muebles cerrados ni cubra las ranuras de ventilación con telas u objetos.",
+      "enunciado": "Según el texto, ¿qué se debe evitar para que la consola no se recaliente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejarla en una mesa abierta.",
+          "correcta": false,
+          "explicacion": "Una mesa abierta favorece la ventilación, no la perjudica."
+        },
+        {
+          "letra": "B",
+          "texto": "Conectarla al televisor.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la conexión al televisor como riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "Cubrir las ranuras de ventilación.",
+          "correcta": true,
+          "explicacion": "El texto indica no cubrir las ranuras de ventilación."
+        },
+        {
+          "letra": "D",
+          "texto": "Usarla durante el día.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el horario de uso."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 580?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "68",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "58",
+          "correcta": true,
+          "explicacion": "El 10 % de 580 se calcula 10 ÷ 100 × 580 = 58."
+        },
+        {
+          "letra": "C",
+          "texto": "116",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "63",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 520 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "430",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "440",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 520 − 80 = 440."
+        },
+        {
+          "letra": "D",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 300 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "530",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "540",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 300 + 240 = 540."
+        },
+        {
+          "letra": "D",
+          "texto": "560",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 3, 6, 9, 12, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "15",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 3; el siguiente es 12 + 3 = 15."
+        },
+        {
+          "letra": "B",
+          "texto": "18",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "16",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "14",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "24",
+          "correcta": true,
+          "explicacion": "El 30 % de 80 se calcula 30 ÷ 100 × 80 = 24."
+        },
+        {
+          "letra": "B",
+          "texto": "29",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "34",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 480?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "293",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "576",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "288",
+          "correcta": true,
+          "explicacion": "El 60 % de 480 se calcula 60 ÷ 100 × 480 = 288."
+        },
+        {
+          "letra": "D",
+          "texto": "298",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 560 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "670",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "700",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "680",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 560 + 120 = 680."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "42",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "64",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "37",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "32",
+          "correcta": true,
+          "explicacion": "El 40 % de 80 se calcula 40 ÷ 100 × 80 = 32."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 620 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "730",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "740",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 620 + 120 = 740."
+        },
+        {
+          "letra": "C",
+          "texto": "760",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 960?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "720",
+          "correcta": true,
+          "explicacion": "El 75 % de 960 se calcula 75 ÷ 100 × 960 = 720."
+        },
+        {
+          "letra": "B",
+          "texto": "730",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "1.440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "725",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 25 unidades y hay 7 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "168",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "175",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 25 × 7 = 175."
+        },
+        {
+          "letra": "D",
+          "texto": "32",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 620 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "810",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "840",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "820",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 620 + 200 = 820."
+        }
+      ]
+    }
+  ]
+}

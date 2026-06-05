@@ -1,0 +1,789 @@
+{
+  "examen_id": 17,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cambiar la ropa interior todos los días es una práctica básica de higiene. La piel transpira y acumula residuos que conviene retirar. Usar ropa limpia ayuda a sentirse cómodo y a cuidar la piel.",
+      "enunciado": "Según el texto, ¿con qué frecuencia conviene cambiar la ropa interior?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los días",
+          "correcta": true,
+          "explicacion": "El texto indica que cambiarla todos los días es una práctica básica."
+        },
+        {
+          "letra": "B",
+          "texto": "Una vez por semana",
+          "correcta": false,
+          "explicacion": "El texto recomienda hacerlo a diario."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando hace calor",
+          "correcta": false,
+          "explicacion": "El texto no limita el cambio al calor."
+        },
+        {
+          "letra": "D",
+          "texto": "Una vez por mes",
+          "correcta": false,
+          "explicacion": "El texto no propone esa frecuencia."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Al bajar del colectivo, conviene hacerlo con cuidado y mirar hacia los costados. Los vehículos y bicicletas pueden circular cerca de la parada. Esperar a que el colectivo se detenga por completo evita caídas.",
+      "enunciado": "Según el texto, ¿qué conviene hacer al bajar del colectivo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Saltar mientras el colectivo se mueve.",
+          "correcta": false,
+          "explicacion": "El texto recomienda esperar que se detenga por completo."
+        },
+        {
+          "letra": "B",
+          "texto": "Empujar a los demás pasajeros.",
+          "correcta": false,
+          "explicacion": "El texto no menciona empujar a otros pasajeros."
+        },
+        {
+          "letra": "C",
+          "texto": "Bajar de espaldas a la calle.",
+          "correcta": false,
+          "explicacion": "El texto no menciona bajar de espaldas."
+        },
+        {
+          "letra": "D",
+          "texto": "Bajar con cuidado y mirar hacia los costados.",
+          "correcta": true,
+          "explicacion": "El texto recomienda bajar con cuidado y mirar hacia los costados."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para presentar un descargo, el agente cuenta con cinco días hábiles desde la notificación. El descargo se presenta por escrito en la Mesa de Entradas y debe acompañar la prueba que considere pertinente.",
+      "enunciado": "¿Cómo debe presentarse el descargo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mediante una llamada a Recursos Humanos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona llamadas a Recursos Humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "De manera verbal ante el jefe de área.",
+          "correcta": false,
+          "explicacion": "El texto exige presentación por escrito."
+        },
+        {
+          "letra": "C",
+          "texto": "Por escrito en la Mesa de Entradas, con la prueba pertinente.",
+          "correcta": true,
+          "explicacion": "El texto indica que el descargo se presenta por escrito en la Mesa de Entradas acompañando prueba."
+        },
+        {
+          "letra": "D",
+          "texto": "Por correo electrónico exclusivamente.",
+          "correcta": false,
+          "explicacion": "El texto menciona la Mesa de Entradas, no el correo."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El microondas debe instalarse sobre una superficie plana y firme, alejado de fuentes de calor como hornallas o estufas. Deje un espacio libre de al menos diez centímetros alrededor del equipo para permitir la correcta ventilación del motor.",
+      "enunciado": "Según el texto, ¿qué espacio libre debe dejarse alrededor del microondas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al menos veinte centímetros.",
+          "correcta": false,
+          "explicacion": "El texto menciona diez centímetros, no veinte."
+        },
+        {
+          "letra": "B",
+          "texto": "Al menos cinco centímetros.",
+          "correcta": false,
+          "explicacion": "El texto menciona diez centímetros, no cinco."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos diez centímetros.",
+          "correcta": true,
+          "explicacion": "El texto indica dejar un espacio libre de al menos diez centímetros."
+        },
+        {
+          "letra": "D",
+          "texto": "No es necesario dejar espacio.",
+          "correcta": false,
+          "explicacion": "El texto exige dejar espacio para la ventilación."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para iniciar el trámite de cambio de domicilio se requiere presentar el formulario completo, una copia del documento de identidad y un comprobante de servicio a nombre del solicitante. Sin el comprobante de servicio no se dará curso a la solicitud.",
+      "enunciado": "¿Qué requisito es indispensable para dar curso a la solicitud?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una foto carnet reciente del solicitante.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ninguna foto carnet."
+        },
+        {
+          "letra": "B",
+          "texto": "Un certificado de trabajo actualizado.",
+          "correcta": false,
+          "explicacion": "El texto no exige certificado de trabajo."
+        },
+        {
+          "letra": "C",
+          "texto": "La firma de dos testigos.",
+          "correcta": false,
+          "explicacion": "El texto no requiere testigos."
+        },
+        {
+          "letra": "D",
+          "texto": "El comprobante de servicio a nombre del solicitante.",
+          "correcta": true,
+          "explicacion": "El texto aclara que sin el comprobante de servicio no se dará curso a la solicitud."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cerrar la canilla mientras nos cepillamos los dientes permite ahorrar varios litros de agua por día. Aunque parezca poco, el ahorro se vuelve importante cuando lo hace toda una familia durante un mes. Pequeños gestos diarios protegen un recurso escaso.",
+      "enunciado": "¿Qué se logra al cerrar la canilla mientras nos cepillamos los dientes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Limpiar mejor los dientes en menos tiempo.",
+          "correcta": false,
+          "explicacion": "El texto se refiere al ahorro de agua, no a la limpieza dental."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar la presión de la cañería.",
+          "correcta": false,
+          "explicacion": "El texto no habla de presión de la cañería."
+        },
+        {
+          "letra": "C",
+          "texto": "Mejorar el sabor del agua potable.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sabor del agua."
+        },
+        {
+          "letra": "D",
+          "texto": "Ahorrar varios litros de agua por día.",
+          "correcta": true,
+          "explicacion": "El texto afirma que permite ahorrar varios litros de agua por día."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El personal de atención debe identificarse ante el público mediante la credencial visible en todo momento. Ante cualquier duda, el ciudadano puede solicitar el nombre y el número de legajo del agente que lo atiende.",
+      "enunciado": "¿Qué puede solicitar el ciudadano ante una duda con la atención?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una copia de la credencial para llevarse.",
+          "correcta": false,
+          "explicacion": "El texto pide credencial visible, no una copia para el ciudadano."
+        },
+        {
+          "letra": "B",
+          "texto": "El sueldo del agente que lo atiende.",
+          "correcta": false,
+          "explicacion": "El texto no se refiere al sueldo."
+        },
+        {
+          "letra": "C",
+          "texto": "El domicilio particular del agente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona datos personales como el domicilio."
+        },
+        {
+          "letra": "D",
+          "texto": "El nombre y el número de legajo del agente.",
+          "correcta": true,
+          "explicacion": "El texto habilita al ciudadano a pedir el nombre y el número de legajo."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Tomar agua durante el día ayuda a que el cuerpo funcione bien. Cuando hace calor o cuando hacemos actividad física, perdemos más líquido y conviene beber con mayor frecuencia. Por eso es bueno tener siempre una botella de agua a mano.",
+      "enunciado": "Según el texto, ¿cuándo conviene beber agua con mayor frecuencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando hace calor o hacemos actividad física",
+          "correcta": true,
+          "explicacion": "El texto dice que al hacer calor o actividad física perdemos más líquido y conviene beber más seguido."
+        },
+        {
+          "letra": "B",
+          "texto": "Solamente durante las comidas principales",
+          "correcta": false,
+          "explicacion": "El texto no limita la hidratación a las comidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente antes de ir a dormir",
+          "correcta": false,
+          "explicacion": "El texto no menciona beber solo antes de dormir."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando hace frío y estamos en reposo",
+          "correcta": false,
+          "explicacion": "El texto habla de calor y actividad física, no de frío y reposo."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 240?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "192",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "106",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "96",
+          "correcta": true,
+          "explicacion": "El 40 % de 240 se calcula 40 ÷ 100 × 240 = 96."
+        },
+        {
+          "letra": "D",
+          "texto": "101",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Si 10 cuadernos cuestan $500, ¿cuánto cuestan 12 cuadernos al mismo precio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "512",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "550",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "600",
+          "correcta": true,
+          "explicacion": "Cada cuaderno cuesta $500 ÷ 10 = $50; entonces 12 cuestan $50 × 12 = $600."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 840?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "635",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "1.260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "630",
+          "correcta": true,
+          "explicacion": "El 75 % de 840 se calcula 75 ÷ 100 × 840 = 630."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 400 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "540",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "520",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 400 + 120 = 520."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 39 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "42",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "156",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "114",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "117",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 39 × 3 = 117."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 200 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "280",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 200 + 80 = 280."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 27 unidades y hay 6 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "33",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "162",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 27 × 6 = 162."
+        },
+        {
+          "letra": "C",
+          "texto": "156",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "189",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 500 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "730",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "760",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "740",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 500 + 240 = 740."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿quién tiene impedimento para ingresar por su situación con el Fisco?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Quien adeude impuestos provinciales",
+          "correcta": false,
+          "explicacion": "El inciso h) menciona específicamente al Fisco Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Quien tenga deudas alimentarias",
+          "correcta": false,
+          "explicacion": "La ley no contempla las deudas alimentarias como impedimento de ingreso."
+        },
+        {
+          "letra": "C",
+          "texto": "Quien tenga deudas con un banco privado",
+          "correcta": false,
+          "explicacion": "El impedimento del art. 5 inc. h) se refiere al Fisco Nacional, no a deudas bancarias privadas."
+        },
+        {
+          "letra": "D",
+          "texto": "El deudor moroso del Fisco Nacional mientras se encuentre en esa situación",
+          "correcta": true,
+          "explicacion": "El art. 5 inc. h) impide el ingreso del deudor moroso del Fisco Nacional mientras dure esa situación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 5 de la Ley 25.188, ¿quiénes están comprendidos en la obligación de presentar declaración jurada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo los ministros del Poder Ejecutivo nacional",
+          "correcta": false,
+          "explicacion": "El art. 5 incluye una amplia nómina que comienza por el presidente y vicepresidente, no sólo ministros."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente los empleados de planta permanente",
+          "correcta": false,
+          "explicacion": "La obligación recae sobre la nómina del art. 5, no sobre todo el personal de planta."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo los magistrados del Poder Judicial",
+          "correcta": false,
+          "explicacion": "Los magistrados están incluidos, pero la nómina del art. 5 es mucho más amplia."
+        },
+        {
+          "letra": "D",
+          "texto": "El presidente y vicepresidente de la Nación, entre otros",
+          "correcta": true,
+          "explicacion": "El art. 5, inc. a, incluye al presidente y vicepresidente de la Nación dentro de los obligados."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cómo se eligen los jueces (en general)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por un sistema especial en el que interviene el Consejo de la Magistratura",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que los jueces no son elegidos por el voto popular sino por un sistema especial en el que interviene el Consejo de la Magistratura."
+        },
+        {
+          "letra": "B",
+          "texto": "Por designación exclusiva del Congreso",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material atribuye la intervención al Consejo de la Magistratura, no al Congreso por sí solo."
+        },
+        {
+          "letra": "C",
+          "texto": "Por sorteo entre los abogados de la matrícula",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no menciona un sistema de sorteo."
+        },
+        {
+          "letra": "D",
+          "texto": "Por el voto popular en elecciones generales",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material aclara que los jueces no son elegidos por el voto popular."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cómo está formada la Comisión Parlamentaria Mixta Revisora de Cuentas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por tres senadores y tres diputados",
+          "correcta": false,
+          "explicacion": "El art. 128 fija seis senadores y seis diputados, no tres y tres."
+        },
+        {
+          "letra": "B",
+          "texto": "Por seis senadores y seis diputados",
+          "correcta": true,
+          "explicacion": "El art. 128 establece que la Comisión estará formada por seis senadores y seis diputados."
+        },
+        {
+          "letra": "C",
+          "texto": "Por siete auditores generales",
+          "correcta": false,
+          "explicacion": "Siete auditores integran la AGN (art. 121); la Comisión la forman seis senadores y seis diputados (art. 128)."
+        },
+        {
+          "letra": "D",
+          "texto": "Por seis senadores y seis ministros",
+          "correcta": false,
+          "explicacion": "La Comisión es parlamentaria: seis senadores y seis diputados (art. 128), sin ministros."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 58, ¿cómo se clasifica la deuda pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En ordinaria y extraordinaria",
+          "correcta": false,
+          "explicacion": "El art. 58 la clasifica en interna/externa y directa/indirecta."
+        },
+        {
+          "letra": "B",
+          "texto": "En corriente y de capital",
+          "correcta": false,
+          "explicacion": "El art. 58 clasifica la deuda en interna y externa y en directa e indirecta, no en corriente y de capital."
+        },
+        {
+          "letra": "C",
+          "texto": "En consolidada y flotante",
+          "correcta": false,
+          "explicacion": "El art. 58 clasifica la deuda en interna/externa y directa/indirecta."
+        },
+        {
+          "letra": "D",
+          "texto": "En interna y externa y en directa e indirecta",
+          "correcta": true,
+          "explicacion": "El art. 58 establece que la deuda pública se clasificará en interna y externa y en directa e indirecta."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿qué edad deben tener los presidentes y suplentes de mesa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entre dieciséis (16) y setenta (70) años",
+          "correcta": false,
+          "explicacion": "El art. 73 establece como límite inferior los dieciocho años, no los dieciséis."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre veintiuno (21) y sesenta y cinco (65) años",
+          "correcta": false,
+          "explicacion": "El art. 73 fija la franja entre dieciocho y setenta años."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayores de dieciocho sin límite máximo",
+          "correcta": false,
+          "explicacion": "El art. 73 fija un máximo de setenta años."
+        },
+        {
+          "letra": "D",
+          "texto": "Entre dieciocho (18) y setenta (70) años de edad",
+          "correcta": true,
+          "explicacion": "El art. 73, inc. 2 exige que tengan entre dieciocho y setenta años de edad."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de regalos, ¿qué ocurre cuando no se puede establecer el valor de un regalo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se entiende que es igual o mayor al de la reglamentación y el regalo ingresa al patrimonio del Estado",
+          "correcta": true,
+          "explicacion": "Las normas establecen que si no puede determinarse el valor, se entiende igual o mayor al de la reglamentación y el regalo ingresa al patrimonio del Estado Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Se considera de valor cero y no se registra",
+          "correcta": false,
+          "explicacion": "Por el contrario, se entiende igual o mayor al de la reglamentación e ingresa al patrimonio del Estado."
+        },
+        {
+          "letra": "C",
+          "texto": "Queda en custodia del superior jerárquico",
+          "correcta": false,
+          "explicacion": "El régimen indica el ingreso al patrimonio del Estado, no la custodia del superior."
+        },
+        {
+          "letra": "D",
+          "texto": "Se devuelve al donante hasta tasarlo",
+          "correcta": false,
+          "explicacion": "El régimen presume el valor y dispone su ingreso al patrimonio del Estado, no la devolución."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 19 de la Ley 19.549, el acto afectado por vicios que ocasionen su nulidad relativa puede ser saneado mediante:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Publicación complementaria en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "La publicación complementaria no es un medio de saneamiento; el art. 19 prevé ratificación y confirmación."
+        },
+        {
+          "letra": "B",
+          "texto": "Nueva notificación al interesado",
+          "correcta": false,
+          "explicacion": "La nueva notificación no sanea el vicio; los medios del art. 19 son ratificación y confirmación."
+        },
+        {
+          "letra": "C",
+          "texto": "Ratificación o confirmación",
+          "correcta": true,
+          "explicacion": "El art. 19 prevé el saneamiento del acto de nulidad relativa mediante ratificación por el órgano superior (incompetencia en razón de grado) o confirmación subsanando el vicio."
+        },
+        {
+          "letra": "D",
+          "texto": "Revocación obligatoria en sede judicial",
+          "correcta": false,
+          "explicacion": "El saneamiento se logra por ratificación o confirmación, no por una revocación judicial obligatoria."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.188, ¿qué bienes debe contener la declaración jurada patrimonial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente los bienes situados en el país",
+          "correcta": false,
+          "explicacion": "Deben incluirse bienes en el país o en el extranjero (art. 6)."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los bienes adquiridos durante el ejercicio del cargo",
+          "correcta": false,
+          "explicacion": "La nómina no se limita a lo adquirido en el cargo; abarca el patrimonio detallado en el art. 6."
+        },
+        {
+          "letra": "C",
+          "texto": "Una nómina detallada de bienes propios, del cónyuge, del conviviente y de los hijos menores, en el país o el extranjero",
+          "correcta": true,
+          "explicacion": "El art. 6 exige una nómina detallada de los bienes del declarante, del cónyuge, de la sociedad conyugal, del conviviente, de la sociedad de hecho y de los hijos menores, en el país o en el extranjero."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo los bienes inmuebles propios del declarante",
+          "correcta": false,
+          "explicacion": "La nómina abarca también bienes muebles, del cónyuge, conviviente e hijos menores (art. 6)."
+        }
+      ]
+    }
+  ]
+}

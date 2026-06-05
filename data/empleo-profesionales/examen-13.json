@@ -1,0 +1,789 @@
+{
+  "examen_id": 13,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las energías renovables, como la solar y la eólica, se obtienen de fuentes que no se agotan. El sol y el viento están siempre disponibles y no contaminan al producir electricidad. Por eso son una opción cada vez más usada para cuidar el ambiente.",
+      "enunciado": "Según el texto, ¿de dónde se obtienen las energías renovables?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De fuentes que se agotan rápidamente.",
+          "correcta": false,
+          "explicacion": "El texto dice que las fuentes no se agotan."
+        },
+        {
+          "letra": "B",
+          "texto": "De los residuos electrónicos.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las renovables con residuos electrónicos."
+        },
+        {
+          "letra": "C",
+          "texto": "De la quema de combustibles fósiles.",
+          "correcta": false,
+          "explicacion": "El texto no menciona combustibles fósiles como fuente renovable."
+        },
+        {
+          "letra": "D",
+          "texto": "De fuentes que no se agotan, como el sol y el viento.",
+          "correcta": true,
+          "explicacion": "El texto dice que se obtienen de fuentes que no se agotan, como el sol y el viento."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El armadillo es un animal cubierto por un caparazón de placas duras. Tiene patas fuertes con uñas que le sirven para cavar. Cuando se asusta, algunas especies se enrollan formando una bola.",
+      "enunciado": "Según el texto, ¿para qué le sirven las uñas al armadillo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para nadar en los ríos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que nade."
+        },
+        {
+          "letra": "B",
+          "texto": "Para atrapar peces.",
+          "correcta": false,
+          "explicacion": "El texto no menciona peces."
+        },
+        {
+          "letra": "C",
+          "texto": "Para trepar árboles.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que trepe."
+        },
+        {
+          "letra": "D",
+          "texto": "Para cavar.",
+          "correcta": true,
+          "explicacion": "El texto dice que sus uñas le sirven para cavar."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El extintor de tipo ABC sirve para apagar fuegos de distintos materiales, como madera, líquidos y equipos eléctricos. Por su versatilidad, es uno de los más usados en oficinas y comercios.",
+      "enunciado": "Según el texto, ¿por qué el extintor ABC es uno de los más usados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque es el más barato",
+          "correcta": false,
+          "explicacion": "El texto no menciona el precio."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque no necesita recarga",
+          "correcta": false,
+          "explicacion": "El texto no afirma que no necesite recarga."
+        },
+        {
+          "letra": "C",
+          "texto": "Por su versatilidad para distintos materiales",
+          "correcta": true,
+          "explicacion": "El texto destaca su versatilidad para distintos materiales."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque es el más liviano",
+          "correcta": false,
+          "explicacion": "El texto no habla del peso."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La oficina cuenta con un libro de reclamos a disposición del público. Cada asiento en el libro recibe un número de orden y debe ser respondido por el área dentro de los diez días hábiles.",
+      "enunciado": "¿En qué plazo debe responderse un asiento del libro de reclamos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de los cinco días hábiles.",
+          "correcta": false,
+          "explicacion": "El texto menciona diez, no cinco días."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de los diez días hábiles.",
+          "correcta": true,
+          "explicacion": "El texto fija el plazo de respuesta en diez días hábiles."
+        },
+        {
+          "letra": "C",
+          "texto": "En el mismo día del reclamo.",
+          "correcta": false,
+          "explicacion": "El texto no exige respuesta el mismo día."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentro de un mes calendario.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un plazo de un mes."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando alguien sufre una quemadura leve, se debe enfriar la zona con agua a temperatura ambiente durante varios minutos. No conviene aplicar hielo directo ni reventar las ampollas que se forman.",
+      "enunciado": "Según el texto, una acción contraindicada ante una quemadura leve es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aplicar hielo directo o reventar las ampollas",
+          "correcta": true,
+          "explicacion": "Correcta. El texto indica expresamente que no debe hacerse; es la acción contraindicada."
+        },
+        {
+          "letra": "B",
+          "texto": "Buscar ayuda si empeora",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción contraindicada."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener la calma de la persona",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción contraindicada."
+        },
+        {
+          "letra": "D",
+          "texto": "Enfriar la zona con agua",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción contraindicada."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Compartir el auto con otras personas que hacen el mismo recorrido reduce la cantidad de vehículos en la calle. Si varias personas viajan juntas, se usa menos combustible por persona y se contamina menos. Esta práctica se conoce como auto compartido.",
+      "enunciado": "Según el texto, ¿qué efecto tiene compartir el auto con otras personas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obliga a comprar autos nuevos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona comprar autos."
+        },
+        {
+          "letra": "B",
+          "texto": "Reduce la cantidad de vehículos en la calle.",
+          "correcta": true,
+          "explicacion": "El texto dice que compartir el auto reduce la cantidad de vehículos en la calle."
+        },
+        {
+          "letra": "C",
+          "texto": "Hace que el viaje sea más contaminante.",
+          "correcta": false,
+          "explicacion": "El texto indica que se contamina menos."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumenta el consumo de combustible por persona.",
+          "correcta": false,
+          "explicacion": "El texto dice que se usa menos combustible por persona."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Separar los residuos en seco y húmedo facilita su tratamiento posterior. Los residuos secos, como papel y plástico limpios, pueden reciclarse; los húmedos, como restos de comida, sirven para compostar. Esta clasificación simple mejora el aprovechamiento de la basura.",
+      "enunciado": "Según el texto, ¿qué tipo de residuos sirven para compostar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las pilas y baterías.",
+          "correcta": false,
+          "explicacion": "El texto no menciona pilas en este caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Los residuos electrónicos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona residuos electrónicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los secos, como papel y plástico.",
+          "correcta": false,
+          "explicacion": "El texto dice que los secos pueden reciclarse, no compostarse."
+        },
+        {
+          "letra": "D",
+          "texto": "Los húmedos, como restos de comida.",
+          "correcta": true,
+          "explicacion": "El texto indica que los húmedos, como restos de comida, sirven para compostar."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua salada del mar no sirve para beber. Sin embargo, el agua dulce de los ríos y lagos sí podemos usarla. Por eso es importante cuidar las fuentes de agua dulce.",
+      "enunciado": "Según el texto, ¿qué tipo de agua podemos beber?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El agua salada del mar.",
+          "correcta": false,
+          "explicacion": "El texto dice que el agua del mar no sirve para beber."
+        },
+        {
+          "letra": "B",
+          "texto": "El agua dulce de ríos y lagos.",
+          "correcta": true,
+          "explicacion": "El texto dice que el agua dulce de ríos y lagos sí podemos usarla."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier tipo de agua.",
+          "correcta": false,
+          "explicacion": "El texto distingue entre agua salada y dulce."
+        },
+        {
+          "letra": "D",
+          "texto": "El agua de las salinas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua de las salinas como potable."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 520 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "260",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 520 − 260 = 260."
+        },
+        {
+          "letra": "B",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "780",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 340?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "170",
+          "correcta": true,
+          "explicacion": "El 50 % de 340 se calcula 50 ÷ 100 × 340 = 170."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 47 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "423",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 47 × 9 = 423."
+        },
+        {
+          "letra": "B",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "414",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "56",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 360?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "36",
+          "correcta": true,
+          "explicacion": "El 10 % de 360 se calcula 10 ÷ 100 × 360 = 36."
+        },
+        {
+          "letra": "C",
+          "texto": "72",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "46",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 140 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "180",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 140 + 40 = 180."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 320?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "202",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "384",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "192",
+          "correcta": true,
+          "explicacion": "El 60 % de 320 se calcula 60 ÷ 100 × 320 = 192."
+        },
+        {
+          "letra": "D",
+          "texto": "197",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "40",
+          "correcta": true,
+          "explicacion": "El 50 % de 80 se calcula 50 ÷ 100 × 80 = 40."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 840?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "178",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "336",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "173",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "168",
+          "correcta": true,
+          "explicacion": "El 20 % de 840 se calcula 20 ÷ 100 × 840 = 168."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 14 de la Ley 19.549, ¿en cuál de estos casos el acto administrativo es de nulidad absoluta e insanable?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Irregularidades u omisiones no esenciales",
+          "correcta": false,
+          "explicacion": "Las irregularidades u omisiones no esenciales no dan lugar a nulidad alguna (art. 15)."
+        },
+        {
+          "letra": "B",
+          "texto": "Demora en la notificación del acto",
+          "correcta": false,
+          "explicacion": "La demora en notificar afecta la eficacia, no es causal de nulidad absoluta del art. 14."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando careciere de causa por no existir o ser falsos los hechos o el derecho invocado",
+          "correcta": true,
+          "explicacion": "El art. 14, inc. b) (ii) declara la nulidad absoluta e insanable cuando el acto carece de causa por no existir o ser falsos los hechos o el derecho invocado."
+        },
+        {
+          "letra": "D",
+          "texto": "Errores de ortografía en el texto",
+          "correcta": false,
+          "explicacion": "Los errores de ortografía son irregularidades no esenciales que no acarrean nulidad."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué se entiende por crédito público según la Ley 24.156?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La facultad del Estado de recaudar tributos de los contribuyentes",
+          "correcta": false,
+          "explicacion": "El art. 56 define el crédito público como la capacidad de endeudarse, no como la recaudación de tributos."
+        },
+        {
+          "letra": "B",
+          "texto": "La emisión de moneda por parte del Banco Central",
+          "correcta": false,
+          "explicacion": "El crédito público es la capacidad de endeudarse (art. 56), no la emisión monetaria."
+        },
+        {
+          "letra": "C",
+          "texto": "El otorgamiento de subsidios a organizaciones privadas",
+          "correcta": false,
+          "explicacion": "El art. 56 define el crédito público como capacidad de endeudamiento, no como el otorgamiento de subsidios."
+        },
+        {
+          "letra": "D",
+          "texto": "La capacidad del Estado de endeudarse para captar medios de financiamiento",
+          "correcta": true,
+          "explicacion": "El art. 56 lo define como la capacidad que tiene el Estado de endeudarse con el objeto de captar medios de financiamiento para fines determinados."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de regalos, ¿puede un funcionario aceptar servicios o cesiones de uso, como que le paguen el alquiler de su vivienda?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, también tienen prohibido recibir servicios o cesiones de uso",
+          "correcta": true,
+          "explicacion": "Las normas sobre regalos indican que también está prohibido recibir servicios o cesiones de uso, como el pago del alquiler, un día de spa o un descuento en la cuota del club."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el monto es menor al de la reglamentación",
+          "correcta": false,
+          "explicacion": "La prohibición de aceptar servicios no admite ese umbral; está vedada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que el servicio sea de cortesía diplomática",
+          "correcta": false,
+          "explicacion": "La prohibición alcanza a los servicios y cesiones de uso en general; la excepción de cortesía se rige por las condiciones del régimen, no por el simple rótulo."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, siempre que lo registre",
+          "correcta": false,
+          "explicacion": "Está prohibido recibir servicios o cesiones de uso, como el pago del alquiler, según las normas sobre regalos."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿cuál de los siguientes es un requisito para el ingreso a la Administración Pública Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estar afiliado a una asociación sindical",
+          "correcta": false,
+          "explicacion": "La afiliación sindical es un derecho (art. 16), no un requisito de ingreso."
+        },
+        {
+          "letra": "B",
+          "texto": "Tener título universitario habilitante",
+          "correcta": false,
+          "explicacion": "El art. 4 no exige título universitario como condición general de ingreso."
+        },
+        {
+          "letra": "C",
+          "texto": "Ser argentino nativo, por opción o naturalizado",
+          "correcta": true,
+          "explicacion": "El art. 4 inc. a) de la Ley 25.164 exige ser argentino nativo, por opción o naturalizado como condición de ingreso."
+        },
+        {
+          "letra": "D",
+          "texto": "Acreditar diez años de residencia en el país",
+          "correcta": false,
+          "explicacion": "La ley no menciona un requisito de diez años de residencia para el ingreso."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el material, ¿en qué se basa el carácter 'republicano' de la forma de gobierno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En la elección de representantes por el voto popular",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso describe el carácter representativo, no el republicano."
+        },
+        {
+          "letra": "B",
+          "texto": "En la convivencia de gobiernos provinciales y el gobierno federal",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa es la definición del carácter federal."
+        },
+        {
+          "letra": "C",
+          "texto": "En la supremacía del Poder Ejecutivo sobre los demás poderes",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material habla de equilibrio entre los poderes, no de supremacía de uno."
+        },
+        {
+          "letra": "D",
+          "texto": "En la división, control y equilibrio entre los 3 Poderes",
+          "correcta": true,
+          "explicacion": "Correcta. El material define 'Republicana' como que se basa en la división, control y equilibrio entre los 3 Poderes."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 13 de la Ley 19.549, el acto administrativo podrá tener efectos retroactivos, siempre que no lesione derechos adquiridos, cuando:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Favoreciere al administrado",
+          "correcta": true,
+          "explicacion": "El art. 13 admite efectos retroactivos cuando el acto se dicta en sustitución de otro revocado o cuando favoreciere al administrado, siempre que no lesione derechos adquiridos."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo decida discrecionalmente el órgano",
+          "correcta": false,
+          "explicacion": "La retroactividad no es discrecional; el art. 13 fija supuestos concretos."
+        },
+        {
+          "letra": "C",
+          "texto": "Hubiere transcurrido el plazo de prescripción",
+          "correcta": false,
+          "explicacion": "El transcurso de la prescripción no es supuesto de retroactividad del art. 13."
+        },
+        {
+          "letra": "D",
+          "texto": "Perjudicare a un tercero",
+          "correcta": false,
+          "explicacion": "La retroactividad no procede para perjudicar; se admite cuando favorece al administrado o sustituye un acto revocado, sin lesionar derechos adquiridos."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 10, inc. b) de la Ley 19.549, cuando una norma exige autorización administrativa para una conducta del particular en ejercicio de una facultad reglada y vence el plazo sin resolución expresa, el silencio:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tendrá sentido negativo",
+          "correcta": false,
+          "explicacion": "En este supuesto reglado de autorización el silencio tiene sentido positivo, no negativo."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligará a reiniciar el trámite",
+          "correcta": false,
+          "explicacion": "No obliga a reiniciar; el silencio positivo finaliza el procedimiento conforme al inc. b)."
+        },
+        {
+          "letra": "C",
+          "texto": "Carecerá de todo efecto",
+          "correcta": false,
+          "explicacion": "El silencio produce efecto: en este supuesto es positivo según el inc. b)."
+        },
+        {
+          "letra": "D",
+          "texto": "Tendrá sentido positivo",
+          "correcta": true,
+          "explicacion": "El art. 10, inc. b) establece que en ese caso el silencio tendrá sentido positivo y equivale a un acto administrativo finalizador del procedimiento."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 72, ¿qué compone el sistema de tesorería?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las estructuras de control interno del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "El control interno corresponde a la Sindicatura (art. 96), no a la definición del sistema de tesorería."
+        },
+        {
+          "letra": "B",
+          "texto": "El conjunto de principios y procedimientos para registrar los hechos económicos",
+          "correcta": false,
+          "explicacion": "Eso describe al sistema de contabilidad gubernamental (art. 85), no al de tesorería."
+        },
+        {
+          "letra": "C",
+          "texto": "La capacidad del Estado de endeudarse para captar financiamiento",
+          "correcta": false,
+          "explicacion": "Eso es la definición de crédito público (art. 56), no del sistema de tesorería."
+        },
+        {
+          "letra": "D",
+          "texto": "El conjunto de órganos, normas y procedimientos que intervienen en la recaudación de ingresos y en los pagos del sector público nacional",
+          "correcta": true,
+          "explicacion": "El art. 72 define el sistema de tesorería por el conjunto de órganos, normas y procedimientos que intervienen en la recaudación de ingresos y los pagos, y en la custodia de las disponibilidades."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 1° bis de la Ley 19.549, cuando no se hubiere establecido un plazo especial para trámites, notificaciones, citaciones y contestación de traslados, vistas e informes, el plazo será de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Quince (15) días",
+          "correcta": false,
+          "explicacion": "No es quince; el plazo supletorio general es de diez días según el inc. g) (iv)."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (5) días",
+          "correcta": false,
+          "explicacion": "El plazo de cinco días corresponde a la elevación del expediente, no al supuesto general de trámites sin plazo."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez (10) días",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. g) (iv) fija en diez (10) días el plazo cuando no se hubiere establecido uno especial."
+        },
+        {
+          "letra": "D",
+          "texto": "Treinta (30) días",
+          "correcta": false,
+          "explicacion": "Treinta días corresponden al plazo mínimo de recursos que agotan la vía, no al supletorio de trámites."
+        }
+      ]
+    }
+  ]
+}

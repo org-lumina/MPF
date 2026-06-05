@@ -16,6 +16,8 @@ export interface Pregunta {
   tema: string;
   enunciado: string;
   opciones: Opcion[];
+  /** Solo en Comprensión Lectora (Empleo Público): el fragmento a leer. */
+  texto_base?: string;
 }
 
 export interface Caso {
@@ -222,4 +224,58 @@ export function cargarCasos(dir: string = DIR_CASOS): CasoPractico[] {
   return archivos
     .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8")) as CasoPractico)
     .sort((a, b) => a.caso_id - b.caso_id);
+}
+
+// ====================================================================
+//  Empleo Público (Administrativos y Servicios Generales · Profesionales)
+//  Cada pregunta trae `eje`; lo mapeamos a `tema` para reutilizar el
+//  corrector, la devolución y el resultado del MPF. Conserva `texto_base`.
+// ====================================================================
+
+export interface ExamenEmpleo {
+  examen_id: number;
+  tipo: string;
+  preguntas: Pregunta[]; // 25; tema = eje; texto_base solo en Comprensión Lectora
+}
+
+interface ExamenEmpleoRaw {
+  examen_id: number;
+  tipo: string;
+  preguntas: {
+    id: number;
+    eje: string;
+    texto_base?: string;
+    enunciado: string;
+    opciones: Opcion[];
+  }[];
+}
+
+const DIR_EMPLEO_ADMIN = path.join(process.cwd(), "data", "empleo-administrativos");
+const DIR_EMPLEO_PROF = path.join(process.cwd(), "data", "empleo-profesionales");
+
+function cargarEmpleo(dir: string): ExamenEmpleo[] {
+  const archivos = fs.readdirSync(dir).filter((f) => f.endsWith(".json")).sort();
+  return archivos
+    .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8")) as ExamenEmpleoRaw)
+    .map((e) => ({
+      examen_id: e.examen_id,
+      tipo: e.tipo,
+      preguntas: e.preguntas.map((p) => ({
+        id: p.id,
+        tema: p.eje, // eje → tema (reutiliza corrector/desglose)
+        enunciado: p.enunciado,
+        opciones: p.opciones,
+        texto_base: p.texto_base,
+      })),
+    }))
+    .sort((a, b) => a.examen_id - b.examen_id);
+}
+
+/** Exámenes "Administrativos y Servicios Generales" (2 ejes). */
+export function cargarEmpleoAdmin(dir: string = DIR_EMPLEO_ADMIN): ExamenEmpleo[] {
+  return cargarEmpleo(dir);
+}
+/** Exámenes "Profesionales" (3 ejes, incluye Administración Pública Nacional). */
+export function cargarEmpleoProf(dir: string = DIR_EMPLEO_PROF): ExamenEmpleo[] {
+  return cargarEmpleo(dir);
 }

@@ -1,0 +1,789 @@
+{
+  "examen_id": 3,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los matafuegos deben ubicarse en lugares visibles y de fácil acceso. Si quedan tapados por muebles o cajas, se pierde tiempo valioso para apagar un principio de incendio.",
+      "enunciado": "Según el texto, ¿qué ocurre si los matafuegos quedan tapados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Duran más años",
+          "correcta": false,
+          "explicacion": "El texto no habla de la duración."
+        },
+        {
+          "letra": "B",
+          "texto": "Pesan menos al usarlos",
+          "correcta": false,
+          "explicacion": "El texto no menciona el peso."
+        },
+        {
+          "letra": "C",
+          "texto": "Se pierde tiempo valioso para apagar el fuego",
+          "correcta": true,
+          "explicacion": "El texto dice que se pierde tiempo valioso si quedan tapados."
+        },
+        {
+          "letra": "D",
+          "texto": "Se mantienen más limpios",
+          "correcta": false,
+          "explicacion": "El texto no menciona la limpieza."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de hacer una compra en un sitio que no conocés, conviene buscar información sobre él. Las opiniones de otros compradores ayudan a saber si es confiable. Desconfiar de precios demasiado bajos también es prudente.",
+      "enunciado": "Según el texto, ¿qué ayuda a saber si un sitio de compras es confiable?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El idioma del sitio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el idioma."
+        },
+        {
+          "letra": "B",
+          "texto": "El color de la página.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color."
+        },
+        {
+          "letra": "C",
+          "texto": "La cantidad de fotos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cantidad de fotos."
+        },
+        {
+          "letra": "D",
+          "texto": "Las opiniones de otros compradores.",
+          "correcta": true,
+          "explicacion": "El texto dice que las opiniones de otros compradores ayudan."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La ventanilla de informes brinda orientación general sobre los trámites, pero no recibe documentación. La recepción de documentos se realiza exclusivamente en la Mesa de Entradas del primer piso.",
+      "enunciado": "Según el aviso, ¿dónde se reciben los documentos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En cualquier oficina del edificio.",
+          "correcta": false,
+          "explicacion": "El texto limita la recepción a un único lugar."
+        },
+        {
+          "letra": "B",
+          "texto": "En la Mesa de Entradas del primer piso.",
+          "correcta": true,
+          "explicacion": "El texto indica que la recepción de documentos es exclusiva de la Mesa de Entradas del primer piso."
+        },
+        {
+          "letra": "C",
+          "texto": "En la ventanilla de informes.",
+          "correcta": false,
+          "explicacion": "La ventanilla de informes orienta pero no recibe documentación."
+        },
+        {
+          "letra": "D",
+          "texto": "En la oficina de la Dirección.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a la Dirección como lugar de recepción."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La estufa eléctrica debe ubicarse a no menos de un metro de cortinas, muebles y otros materiales inflamables. Nunca la utilice para secar prendas colgándolas directamente sobre el aparato.",
+      "enunciado": "Según el texto, ¿a qué distancia mínima de los materiales inflamables debe estar la estufa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No hace falta dejar distancia.",
+          "correcta": false,
+          "explicacion": "El texto exige una distancia de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "A no menos de diez centímetros.",
+          "correcta": false,
+          "explicacion": "El texto menciona un metro, no diez centímetros."
+        },
+        {
+          "letra": "C",
+          "texto": "A no menos de tres metros.",
+          "correcta": false,
+          "explicacion": "El texto menciona un metro, no tres."
+        },
+        {
+          "letra": "D",
+          "texto": "A no menos de un metro.",
+          "correcta": true,
+          "explicacion": "El texto indica ubicarla a no menos de un metro de materiales inflamables."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El sector de digitalización escanea los expedientes finalizados antes de su envío al archivo. La copia digital se conserva como respaldo y permite consultar el contenido sin retirar el original.",
+      "enunciado": "¿Qué permite la copia digital del expediente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Eliminar el expediente del archivo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona eliminar el expediente."
+        },
+        {
+          "letra": "B",
+          "texto": "Iniciar un trámite nuevo.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la copia con iniciar trámites."
+        },
+        {
+          "letra": "C",
+          "texto": "Consultar el contenido sin retirar el original.",
+          "correcta": true,
+          "explicacion": "El texto dice que la copia digital permite consultar sin retirar el original."
+        },
+        {
+          "letra": "D",
+          "texto": "Reemplazar definitivamente al original.",
+          "correcta": false,
+          "explicacion": "El texto la describe como respaldo, no como reemplazo definitivo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Una buena práctica es revisar cada tanto qué información tuya aparece al buscar tu nombre en internet. Así podés saber qué datos están públicos. Si encontrás algo sensible, podés pedir que lo retiren.",
+      "enunciado": "Según el texto, ¿para qué sirve buscar tu propio nombre en internet?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para mejorar la cámara.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cámara."
+        },
+        {
+          "letra": "B",
+          "texto": "Para ganar más seguidores.",
+          "correcta": false,
+          "explicacion": "El texto no menciona seguidores."
+        },
+        {
+          "letra": "C",
+          "texto": "Para saber qué datos tuyos están públicos.",
+          "correcta": true,
+          "explicacion": "El texto dice que así podés saber qué datos están públicos."
+        },
+        {
+          "letra": "D",
+          "texto": "Para liberar memoria.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la memoria."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El sello fechador se aplica en la primera hoja de toda presentación. Ese sello deja constancia del día y la hora exactos en que el trámite ingresó al organismo.",
+      "enunciado": "¿De qué deja constancia el sello fechador?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Del nombre del agente que recibe.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el nombre del agente."
+        },
+        {
+          "letra": "B",
+          "texto": "Del área que resolverá el trámite.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el área resolutora."
+        },
+        {
+          "letra": "C",
+          "texto": "Del día y la hora de ingreso del trámite.",
+          "correcta": true,
+          "explicacion": "El texto dice que el sello deja constancia del día y la hora exactos de ingreso."
+        },
+        {
+          "letra": "D",
+          "texto": "Del número de fojas del expediente.",
+          "correcta": false,
+          "explicacion": "El texto se refiere al día y la hora, no a las fojas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los espacios públicos son de uso común y deben estar disponibles para todos. Apropiarse de un lugar de manera permanente impide que otros lo disfruten. El uso compartido es la base de la convivencia urbana.",
+      "enunciado": "Según el texto, ¿qué impide apropiarse de un lugar de manera permanente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que otros lo disfruten.",
+          "correcta": true,
+          "explicacion": "El texto dice que apropiarse de un lugar impide que otros lo disfruten."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se limpie la ciudad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la limpieza."
+        },
+        {
+          "letra": "C",
+          "texto": "Que pase el colectivo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el colectivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Que funcionen los semáforos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona los semáforos."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 640 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "460",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "810",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "470",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 640 − 170 = 470."
+        },
+        {
+          "letra": "D",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 600 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "740",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "710",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "720",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 600 + 120 = 720."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 60?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45",
+          "correcta": true,
+          "explicacion": "El 75 % de 60 se calcula 75 ÷ 100 × 60 = 45."
+        },
+        {
+          "letra": "B",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "55",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 160 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "280",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 160 + 120 = 280."
+        },
+        {
+          "letra": "B",
+          "texto": "270",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 560 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "820",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "800",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 560 + 240 = 800."
+        },
+        {
+          "letra": "C",
+          "texto": "320",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "790",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 480?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "El 50 % de 480 se calcula 50 ÷ 100 × 480 = 240."
+        },
+        {
+          "letra": "D",
+          "texto": "245",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 35 unidades y hay 4 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "39",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "136",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "175",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "140",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 35 × 4 = 140."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 800?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "610",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "605",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "600",
+          "correcta": true,
+          "explicacion": "El 75 % de 800 se calcula 75 ÷ 100 × 800 = 600."
+        },
+        {
+          "letra": "D",
+          "texto": "1.200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 22 de la Ley 19.549, el plazo de prescripción para solicitar judicialmente la nulidad de un acto de alcance particular es, en caso de nulidad absoluta, de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos (2) años",
+          "correcta": false,
+          "explicacion": "Dos años corresponde a la nulidad relativa; la absoluta prescribe a los diez años."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco (5) años",
+          "correcta": false,
+          "explicacion": "El art. 22 no fija cinco años; la nulidad absoluta prescribe a los diez años."
+        },
+        {
+          "letra": "C",
+          "texto": "Diez (10) años",
+          "correcta": true,
+          "explicacion": "El art. 22 establece que la nulidad absoluta prescribe a los diez (10) años, desde notificado el acto."
+        },
+        {
+          "letra": "D",
+          "texto": "Veinte (20) años",
+          "correcta": false,
+          "explicacion": "El plazo de la nulidad absoluta es de diez años, no de veinte."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 12 de la Ley 19.549, por regla general, los recursos que los administrados interpongan contra los actos administrativos:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anulan el acto impugnado",
+          "correcta": false,
+          "explicacion": "La sola interposición del recurso no anula el acto; tampoco suspende sus efectos por regla."
+        },
+        {
+          "letra": "B",
+          "texto": "No suspenderán su ejecución y efectos, salvo norma expresa en contrario",
+          "correcta": true,
+          "explicacion": "El art. 12 dispone que los recursos no suspenden la ejecución y efectos del acto, salvo norma expresa que disponga lo contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Obligan a la intervención judicial previa",
+          "correcta": false,
+          "explicacion": "Los recursos administrativos no exigen intervención judicial previa ni suspenden por regla la ejecución."
+        },
+        {
+          "letra": "D",
+          "texto": "Suspenden automáticamente su ejecución y efectos",
+          "correcta": false,
+          "explicacion": "Por regla los recursos no suspenden la ejecución; ello solo ocurre si una norma expresa lo dispone."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al Código Electoral, ¿qué constituye una sección electoral?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La agrupación de electores por proximidad de domicilios",
+          "correcta": false,
+          "explicacion": "Esa es la definición de circuito (art. 39, inc. 3)."
+        },
+        {
+          "letra": "B",
+          "texto": "Cada mesa receptora de votos",
+          "correcta": false,
+          "explicacion": "La mesa es la unidad menor; la sección es subdivisión del distrito (art. 39)."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada provincia y la Ciudad Autónoma de Buenos Aires",
+          "correcta": false,
+          "explicacion": "Eso describe a los distritos electorales (art. 39, inc. 1), no a las secciones."
+        },
+        {
+          "letra": "D",
+          "texto": "Cada partido o departamento de las provincias, o cada comuna de la Ciudad",
+          "correcta": true,
+          "explicacion": "El art. 39, inc. 2 establece que cada partido o departamento de las provincias, y cada comuna de la Ciudad, constituyen una sección electoral."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 11 de la Ley 25.188, ¿qué órgano es el facultado para aplicar la sanción por uso ilegal de una declaración jurada?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 11 designa a la Comisión Nacional de Ética Pública."
+        },
+        {
+          "letra": "B",
+          "texto": "La Oficina Anticorrupción",
+          "correcta": false,
+          "explicacion": "El órgano facultado por el art. 11 es la Comisión Nacional de Ética Pública."
+        },
+        {
+          "letra": "C",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 11 atribuye la facultad exclusivamente a la Comisión Nacional de Ética Pública."
+        },
+        {
+          "letra": "D",
+          "texto": "La Comisión Nacional de Ética Pública",
+          "correcta": true,
+          "explicacion": "El art. 11 indica que el órgano facultado para aplicar la sanción será exclusivamente la Comisión Nacional de Ética Pública."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué función cumple el Poder Judicial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Representa al país ante los demás Estados",
+          "correcta": false,
+          "explicacion": "Incorrecta. Esa función corresponde al Presidente, según el material."
+        },
+        {
+          "letra": "B",
+          "texto": "Ejecuta las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Ejecutar las leyes corresponde al Poder Ejecutivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Hace las leyes",
+          "correcta": false,
+          "explicacion": "Incorrecta. Hacer las leyes corresponde al Poder Legislativo."
+        },
+        {
+          "letra": "D",
+          "texto": "Interpreta las leyes y las hace cumplir a través de sus sentencias",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que el Poder Judicial interpreta las leyes y las hace cumplir a través de sus sentencias."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 14 de la Ley 25.188, los funcionarios que intervinieron decisoriamente en privatizaciones o concesiones de empresas o servicios públicos tienen vedada su actuación en los entes o comisiones reguladoras de esas empresas durante:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos años posteriores a la última adjudicación",
+          "correcta": false,
+          "explicacion": "El plazo del art. 14 es de tres años."
+        },
+        {
+          "letra": "B",
+          "texto": "Un año posterior a la última adjudicación",
+          "correcta": false,
+          "explicacion": "El art. 14 fija tres años, no uno."
+        },
+        {
+          "letra": "C",
+          "texto": "Cinco años posteriores a la última adjudicación",
+          "correcta": false,
+          "explicacion": "El plazo correcto del art. 14 es de tres años, no cinco."
+        },
+        {
+          "letra": "D",
+          "texto": "Tres años inmediatamente posteriores a la última adjudicación en la que hayan participado",
+          "correcta": true,
+          "explicacion": "El art. 14 veda la actuación durante tres años inmediatamente posteriores a la última adjudicación en la que hayan participado."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, la violación de las prohibiciones del artículo 24 constituye causal de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apercibimiento únicamente",
+          "correcta": false,
+          "explicacion": "La violación de las prohibiciones del art. 24 es causal de exoneración (art. 33 inc. d)."
+        },
+        {
+          "letra": "B",
+          "texto": "Disponibilidad",
+          "correcta": false,
+          "explicacion": "La disponibilidad deriva de reestructuraciones (art. 11), no de la violación del art. 24."
+        },
+        {
+          "letra": "C",
+          "texto": "Exoneración",
+          "correcta": true,
+          "explicacion": "El art. 33 inc. d) establece la violación de las prohibiciones del art. 24 como causal de exoneración."
+        },
+        {
+          "letra": "D",
+          "texto": "Suspensión preventiva",
+          "correcta": false,
+          "explicacion": "La suspensión preventiva es una medida cautelar del sumario (art. 36), no la sanción por violar el art. 24."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 8, ¿cuál de los siguientes conjuntos integra el Sector Público Nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las provincias y municipios",
+          "correcta": false,
+          "explicacion": "El art. 8 delimita el Sector Público Nacional; no incluye a provincias ni municipios."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente la Administración Central",
+          "correcta": false,
+          "explicacion": "El art. 8 abarca también Organismos Descentralizados, Empresas y Sociedades del Estado, Entes Públicos excluidos y Fondos Fiduciarios, no solo la Administración Central."
+        },
+        {
+          "letra": "C",
+          "texto": "Las organizaciones privadas con fines de lucro",
+          "correcta": false,
+          "explicacion": "El art. 8 enumera entidades estatales; las organizaciones privadas solo se rigen por la ley en cuanto a rendición de cuentas de subsidios o aportes."
+        },
+        {
+          "letra": "D",
+          "texto": "Las Empresas y Sociedades del Estado",
+          "correcta": true,
+          "explicacion": "El art. 8 inc. b) incluye expresamente a las Empresas y Sociedades del Estado dentro del Sector Público Nacional."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 10 de la Ley 19.549, cuando se trate de pretensiones que requieran un pronunciamiento concreto, el silencio de la Administración se interpreta como:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Negativa",
+          "correcta": true,
+          "explicacion": "El art. 10, inc. a) dispone que el silencio se interpreta como negativa; solo mediando disposición expresa puede conferírsele sentido positivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Caducidad del procedimiento",
+          "correcta": false,
+          "explicacion": "El silencio se interpreta como negativa; no genera la caducidad del procedimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Aceptación tácita",
+          "correcta": false,
+          "explicacion": "Por regla el silencio es negativo; el sentido positivo solo procede mediando disposición expresa."
+        },
+        {
+          "letra": "D",
+          "texto": "Nulidad del trámite",
+          "correcta": false,
+          "explicacion": "El silencio no anula el trámite; se interpreta como negativa salvo disposición expresa en contrario."
+        }
+      ]
+    }
+  ]
+}

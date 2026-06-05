@@ -1,0 +1,794 @@
+{
+  "examen_id": 20,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En todo lugar de trabajo deben existir salidas de emergencia claramente señalizadas. Estas salidas tienen que permanecer libres de obstáculos en todo momento para que las personas puedan abandonar el edificio con rapidez ante una emergencia.",
+      "enunciado": "Según el texto, ¿cómo deben permanecer las salidas de emergencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cerradas con llave durante la jornada",
+          "correcta": false,
+          "explicacion": "El texto no menciona que deban cerrarse con llave; pide que estén libres."
+        },
+        {
+          "letra": "B",
+          "texto": "Señalizadas solo en horario nocturno",
+          "correcta": false,
+          "explicacion": "El texto habla de señalización clara, no limitada a la noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Ocupadas con mobiliario de reserva",
+          "correcta": false,
+          "explicacion": "Tener mobiliario las obstruiría, lo contrario a lo que indica el texto."
+        },
+        {
+          "letra": "D",
+          "texto": "Libres de obstáculos en todo momento",
+          "correcta": true,
+          "explicacion": "El texto dice que deben permanecer libres de obstáculos en todo momento."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Conviene desconfiar de los precios demasiado bajos en sitios desconocidos. Una oferta exagerada puede ser el anzuelo de una estafa. Si algo parece demasiado bueno para ser verdad, suele serlo.",
+      "enunciado": "Según el texto, ¿de qué conviene desconfiar en sitios desconocidos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De las fotos en color.",
+          "correcta": false,
+          "explicacion": "El texto no menciona las fotos."
+        },
+        {
+          "letra": "B",
+          "texto": "De los textos largos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona textos largos."
+        },
+        {
+          "letra": "C",
+          "texto": "De los menús desplegables.",
+          "correcta": false,
+          "explicacion": "El texto no menciona los menús."
+        },
+        {
+          "letra": "D",
+          "texto": "De los precios demasiado bajos.",
+          "correcta": true,
+          "explicacion": "El texto recomienda desconfiar de los precios demasiado bajos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El protocolo de atención indica saludar al ciudadano, escuchar su consulta sin interrumpir y orientarlo con claridad. Si la consulta excede al área, se lo deriva indicándole la oficina y el piso correspondientes.",
+      "enunciado": "¿Qué se hace cuando la consulta excede al área que atiende?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se le entrega un formulario de reclamo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un formulario de reclamo."
+        },
+        {
+          "letra": "B",
+          "texto": "Se lo atiende igual, sin derivarlo.",
+          "correcta": false,
+          "explicacion": "El texto indica derivarlo cuando excede al área."
+        },
+        {
+          "letra": "C",
+          "texto": "Se le pide que vuelva otro día.",
+          "correcta": false,
+          "explicacion": "El texto plantea derivar, no postergar la atención."
+        },
+        {
+          "letra": "D",
+          "texto": "Se deriva al ciudadano indicándole la oficina y el piso correspondientes.",
+          "correcta": true,
+          "explicacion": "El texto indica derivar al ciudadano señalando oficina y piso."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El lavavajillas funciona mejor con un detergente específico para máquinas. No utilice detergente común de lavado a mano, ya que genera espuma excesiva que puede desbordar y dañar la bomba.",
+      "enunciado": "Según el texto, ¿qué problema causa el detergente de lavado a mano en el lavavajillas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Deja la vajilla más limpia.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que limpie mejor; advierte sobre un daño."
+        },
+        {
+          "letra": "B",
+          "texto": "Acelera el ciclo de lavado.",
+          "correcta": false,
+          "explicacion": "El texto no menciona aceleración del ciclo."
+        },
+        {
+          "letra": "C",
+          "texto": "Genera espuma excesiva.",
+          "correcta": true,
+          "explicacion": "El texto dice que genera espuma excesiva que puede desbordar."
+        },
+        {
+          "letra": "D",
+          "texto": "Reduce el consumo de agua.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de agua."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La provincia de Mendoza es famosa por sus viñedos. Allí el clima seco y soleado favorece el cultivo de la vid. Con sus uvas se elabora gran parte del vino argentino.",
+      "enunciado": "Según el texto, ¿por qué es famosa la provincia de Mendoza?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por sus viñedos.",
+          "correcta": true,
+          "explicacion": "El texto dice que Mendoza es famosa por sus viñedos."
+        },
+        {
+          "letra": "B",
+          "texto": "Por sus minas de sal.",
+          "correcta": false,
+          "explicacion": "El texto no menciona minas de sal."
+        },
+        {
+          "letra": "C",
+          "texto": "Por sus playas extensas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona playas."
+        },
+        {
+          "letra": "D",
+          "texto": "Por sus bosques de pinos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona bosques."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En un edificio, los planos de evacuación muestran las salidas y los recorridos hacia el exterior. Estar familiarizado con ellos permite reaccionar mejor ante una emergencia.",
+      "enunciado": "Según el texto, ¿qué muestran los planos de evacuación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La ubicación de las oficinas de cada jefe",
+          "correcta": false,
+          "explicacion": "El texto no menciona las oficinas de los jefes."
+        },
+        {
+          "letra": "B",
+          "texto": "El listado de proveedores",
+          "correcta": false,
+          "explicacion": "El texto no menciona proveedores."
+        },
+        {
+          "letra": "C",
+          "texto": "Las salidas y los recorridos hacia el exterior",
+          "correcta": true,
+          "explicacion": "El texto dice que muestran salidas y recorridos hacia el exterior."
+        },
+        {
+          "letra": "D",
+          "texto": "El horario de los empleados",
+          "correcta": false,
+          "explicacion": "El texto no habla de horarios."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua de la canilla, cuando es segura, es una opción práctica y económica para hidratarse. No siempre hace falta comprar agua embotellada. Conocer si el agua local es apta ayuda a decidir.",
+      "enunciado": "De acuerdo con el texto, ¿qué ventaja tiene el agua de la canilla cuando es segura?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tiene más azúcar",
+          "correcta": false,
+          "explicacion": "El texto no menciona azúcar."
+        },
+        {
+          "letra": "B",
+          "texto": "Es siempre peligrosa",
+          "correcta": false,
+          "explicacion": "El texto habla de cuando es segura."
+        },
+        {
+          "letra": "C",
+          "texto": "Es práctica y económica",
+          "correcta": true,
+          "explicacion": "El texto dice que el agua de la canilla segura es práctica y económica."
+        },
+        {
+          "letra": "D",
+          "texto": "Aporta vitaminas",
+          "correcta": false,
+          "explicacion": "El texto no atribuye vitaminas al agua de la canilla."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El papel se fabrica a partir de árboles, por eso reciclarlo ayuda a proteger los bosques. Cada hoja que reutilizamos significa que se talan menos árboles. Juntar el papel limpio y llevarlo a reciclar es un gesto valioso.",
+      "enunciado": "Según el texto, ¿por qué reciclar papel ayuda a proteger los bosques?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el papel se quema fácilmente.",
+          "correcta": false,
+          "explicacion": "El texto no habla de quemar papel."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el papel se fabrica con plástico.",
+          "correcta": false,
+          "explicacion": "El texto dice que el papel proviene de árboles, no de plástico."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el papel se fabrica a partir de árboles.",
+          "correcta": true,
+          "explicacion": "El texto explica que el papel se fabrica a partir de árboles, por eso reciclarlo protege los bosques."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque los bosques producen agua.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la producción de agua."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las comidas hechas en casa permiten elegir mejor los ingredientes. Al cocinar uno mismo, se puede controlar la cantidad de sal, azúcar y grasa. Esto suele ser más saludable que comer siempre comida preparada fuera del hogar.",
+      "enunciado": "De acuerdo con el texto, una ventaja de cocinar en casa es que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obliga a comer fuera del hogar",
+          "correcta": false,
+          "explicacion": "El texto se refiere a comer en casa."
+        },
+        {
+          "letra": "B",
+          "texto": "Se puede controlar la sal, el azúcar y la grasa",
+          "correcta": true,
+          "explicacion": "El texto dice que al cocinar en casa se controla la cantidad de sal, azúcar y grasa."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre es más caro",
+          "correcta": false,
+          "explicacion": "El texto no habla del costo."
+        },
+        {
+          "letra": "D",
+          "texto": "Lleva menos tiempo que cualquier opción",
+          "correcta": false,
+          "explicacion": "El texto no menciona el tiempo."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Tapar las ollas mientras cocinamos hace que el agua hierva más rápido y se use menos gas. El calor queda contenido en lugar de escaparse. Es un pequeño truco que ahorra energía en la cocina.",
+      "enunciado": "Según el texto, ¿qué beneficio tiene tapar las ollas mientras cocinamos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se gasta más gas.",
+          "correcta": false,
+          "explicacion": "El texto dice que se usa menos gas."
+        },
+        {
+          "letra": "B",
+          "texto": "La comida tarda más en cocinarse.",
+          "correcta": false,
+          "explicacion": "El texto plantea que hierve más rápido, no más lento."
+        },
+        {
+          "letra": "C",
+          "texto": "El agua hierve más rápido y se usa menos gas.",
+          "correcta": true,
+          "explicacion": "El texto dice que tapar las ollas hace que el agua hierva más rápido y se use menos gas."
+        },
+        {
+          "letra": "D",
+          "texto": "El calor se escapa con facilidad.",
+          "correcta": false,
+          "explicacion": "El texto dice que el calor queda contenido."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El mantenimiento preventivo de las instalaciones evita fallas inesperadas. Revisar de forma periódica la electricidad, el gas y los equipos reduce el riesgo de accidentes.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las instalaciones deben renovarse cada mes",
+          "correcta": false,
+          "explicacion": "El texto no menciona renovarlas cada mes."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo los técnicos pueden entrar al edificio",
+          "correcta": false,
+          "explicacion": "El texto no restringe el ingreso al edificio."
+        },
+        {
+          "letra": "C",
+          "texto": "El gas es más peligroso que la electricidad",
+          "correcta": false,
+          "explicacion": "El texto no compara el gas con la electricidad."
+        },
+        {
+          "letra": "D",
+          "texto": "El mantenimiento preventivo reduce el riesgo de accidentes",
+          "correcta": true,
+          "explicacion": "El texto plantea que el mantenimiento preventivo reduce accidentes."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las cargas muy pesadas no deben levantarse por una sola persona. Pedir ayuda o usar elementos como carros y zorras evita lesiones en la espalda.",
+      "enunciado": "Según el texto, ¿qué evita pedir ayuda o usar carros para mover cargas pesadas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lesiones en la espalda",
+          "correcta": true,
+          "explicacion": "El texto dice que evita lesiones en la espalda."
+        },
+        {
+          "letra": "B",
+          "texto": "Gastos de electricidad",
+          "correcta": false,
+          "explicacion": "El texto no menciona la electricidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Manchas en la ropa",
+          "correcta": false,
+          "explicacion": "El texto no menciona las manchas."
+        },
+        {
+          "letra": "D",
+          "texto": "Ruidos molestos",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El deshumidificador recoge la humedad del aire en un tanque interno. Cuando el tanque se llena, el equipo se detiene automáticamente y enciende una señal luminosa para avisar que debe vaciarse.",
+      "enunciado": "Según el texto, ¿qué hace el deshumidificador cuando el tanque se llena?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se detiene automáticamente.",
+          "correcta": true,
+          "explicacion": "El texto indica que el equipo se detiene automáticamente y avisa con una señal."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta la potencia.",
+          "correcta": false,
+          "explicacion": "El texto dice que se detiene, no que aumente la potencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambia a modo calor.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un modo calor."
+        },
+        {
+          "letra": "D",
+          "texto": "Vacía el tanque solo.",
+          "correcta": false,
+          "explicacion": "El texto pide que el usuario lo vacíe; no se vacía solo."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 13 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "108",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "117",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 13 × 9 = 117."
+        },
+        {
+          "letra": "D",
+          "texto": "22",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 680 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "715",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "645",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 680 − 35 = 645."
+        },
+        {
+          "letra": "C",
+          "texto": "635",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "655",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 900?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "185",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "360",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "180",
+          "correcta": true,
+          "explicacion": "El 20 % de 900 se calcula 20 ÷ 100 × 900 = 180."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 580?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "353",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "696",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "348",
+          "correcta": true,
+          "explicacion": "El 60 % de 580 se calcula 60 ÷ 100 × 580 = 348."
+        },
+        {
+          "letra": "D",
+          "texto": "358",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 460 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "245",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 460 − 215 = 245."
+        },
+        {
+          "letra": "B",
+          "texto": "675",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "235",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "255",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 580 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "540",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "610",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "620",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 580 + 40 = 620."
+        },
+        {
+          "letra": "D",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 260?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "140",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "130",
+          "correcta": true,
+          "explicacion": "El 50 % de 260 se calcula 50 ÷ 100 × 260 = 130."
+        },
+        {
+          "letra": "C",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "135",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 640?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "192",
+          "correcta": true,
+          "explicacion": "El 30 % de 640 se calcula 30 ÷ 100 × 640 = 192."
+        },
+        {
+          "letra": "B",
+          "texto": "384",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "202",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "197",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 240 expedientes y resolvió 215. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "455",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "25",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 240 − 215 = 25."
+        },
+        {
+          "letra": "C",
+          "texto": "35",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "15",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 40?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "25",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "20",
+          "correcta": true,
+          "explicacion": "El 50 % de 40 se calcula 50 ÷ 100 × 40 = 20."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 580?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "87",
+          "correcta": true,
+          "explicacion": "El 15 % de 580 se calcula 15 ÷ 100 × 580 = 87."
+        },
+        {
+          "letra": "B",
+          "texto": "92",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "174",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "97",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 460 expedientes y resolvió 125. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "585",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "325",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "335",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 460 − 125 = 335."
+        },
+        {
+          "letra": "D",
+          "texto": "345",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

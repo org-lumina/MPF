@@ -1,0 +1,789 @@
+{
+  "examen_id": 27,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando un trámite requiere intervención de otra área, el expediente se gira con un pase. El pase indica el área de destino y el motivo, y queda asentado en el sistema de seguimiento.",
+      "enunciado": "¿Qué información indica el pase del expediente?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La fecha de archivo definitivo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la fecha de archivo."
+        },
+        {
+          "letra": "B",
+          "texto": "El nombre del solicitante y su domicilio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona esos datos en el pase."
+        },
+        {
+          "letra": "C",
+          "texto": "El monto de la tasa abonada.",
+          "correcta": false,
+          "explicacion": "El texto no menciona tasas."
+        },
+        {
+          "letra": "D",
+          "texto": "El área de destino y el motivo.",
+          "correcta": true,
+          "explicacion": "El texto dice que el pase indica el área de destino y el motivo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los basurales a cielo abierto contaminan el suelo, el agua y el aire de los alrededores. Allí se acumula basura sin ningún tratamiento, lo que atrae insectos y genera malos olores. Por eso se busca reemplazarlos por rellenos sanitarios controlados.",
+      "enunciado": "Según el texto, ¿qué problema generan los basurales a cielo abierto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Producen energía renovable.",
+          "correcta": false,
+          "explicacion": "El texto no menciona producción de energía."
+        },
+        {
+          "letra": "B",
+          "texto": "Contaminan el suelo, el agua y el aire de los alrededores.",
+          "correcta": true,
+          "explicacion": "El texto dice que contaminan el suelo, el agua y el aire de los alrededores."
+        },
+        {
+          "letra": "C",
+          "texto": "Mejoran la calidad del agua.",
+          "correcta": false,
+          "explicacion": "El texto dice que contaminan, no que mejoran el agua."
+        },
+        {
+          "letra": "D",
+          "texto": "Reciclan la basura automáticamente.",
+          "correcta": false,
+          "explicacion": "El texto dice que la basura se acumula sin tratamiento."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El simulacro de evacuación se realiza para practicar la salida del edificio sin que haya una emergencia real. Repetirlo periódicamente permite que las personas conozcan los recorridos y actúen con rapidez.",
+      "enunciado": "Según el texto, ¿para qué se realiza un simulacro de evacuación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para practicar la salida sin una emergencia real",
+          "correcta": true,
+          "explicacion": "El texto dice que se hace para practicar la salida sin emergencia real."
+        },
+        {
+          "letra": "B",
+          "texto": "Para medir la temperatura del lugar",
+          "correcta": false,
+          "explicacion": "El texto no menciona la temperatura."
+        },
+        {
+          "letra": "C",
+          "texto": "Para evaluar la resistencia estructural de las salidas",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «Para practicar la salida sin una emergencia real»."
+        },
+        {
+          "letra": "D",
+          "texto": "Para limpiar el edificio",
+          "correcta": false,
+          "explicacion": "El texto no menciona la limpieza."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cuidado del mobiliario urbano, como bancos y luminarias, es tarea de todos. Romper o dañar estos elementos perjudica al conjunto de la comunidad. Reparar lo dañado tiene un costo que recae sobre todos los vecinos.",
+      "enunciado": "Según el texto, ¿a quién perjudica romper el mobiliario urbano?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo a quien lo rompe.",
+          "correcta": false,
+          "explicacion": "El texto dice que perjudica a la comunidad, no solo al responsable."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente a las autoridades.",
+          "correcta": false,
+          "explicacion": "El texto no limita el perjuicio a las autoridades."
+        },
+        {
+          "letra": "C",
+          "texto": "A los visitantes de otra ciudad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a los visitantes en particular."
+        },
+        {
+          "letra": "D",
+          "texto": "Al conjunto de la comunidad.",
+          "correcta": true,
+          "explicacion": "El texto dice que dañar estos elementos perjudica al conjunto de la comunidad."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Aceptar todo sin leer al instalar una aplicación puede dar permisos que no querías. Por ejemplo, acceso al micrófono o a la cámara. Conviene leer con calma antes de tocar 'aceptar'.",
+      "enunciado": "Según el texto, ¿qué riesgo hay al aceptar todo sin leer?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Perder la señal de wifi.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el wifi."
+        },
+        {
+          "letra": "B",
+          "texto": "Dar permisos que no querías, como al micrófono o la cámara.",
+          "correcta": true,
+          "explicacion": "El texto menciona el acceso al micrófono o la cámara."
+        },
+        {
+          "letra": "C",
+          "texto": "Bajar el brillo de la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el brillo."
+        },
+        {
+          "letra": "D",
+          "texto": "Quedarte sin batería al instante.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la batería."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Acostarse a una hora razonable permite dormir las horas necesarias. Quedarse despierto hasta muy tarde reduce el tiempo de descanso. Cuidar el horario de dormir es parte de un buen descanso.",
+      "enunciado": "De acuerdo con el texto, ¿qué pasa si nos quedamos despiertos hasta muy tarde?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se reduce la sed",
+          "correcta": false,
+          "explicacion": "El texto no menciona la sed."
+        },
+        {
+          "letra": "B",
+          "texto": "Se mejora la digestión",
+          "correcta": false,
+          "explicacion": "El texto no menciona la digestión."
+        },
+        {
+          "letra": "C",
+          "texto": "Se reduce el tiempo de descanso",
+          "correcta": true,
+          "explicacion": "El texto dice que quedarse despierto hasta tarde reduce el tiempo de descanso."
+        },
+        {
+          "letra": "D",
+          "texto": "Se duerme más horas",
+          "correcta": false,
+          "explicacion": "El texto plantea lo contrario."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En las rutas, las líneas amarillas continuas en el centro indican que no se puede adelantar. Cruzarlas para sobrepasar a otro vehículo es peligroso. Esta señal busca prevenir choques frontales.",
+      "enunciado": "Según el texto, ¿qué indican las líneas amarillas continuas en el centro de la ruta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay una bajada empinada.",
+          "correcta": false,
+          "explicacion": "El texto no menciona una bajada."
+        },
+        {
+          "letra": "B",
+          "texto": "Que termina la ruta.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el fin de la ruta."
+        },
+        {
+          "letra": "C",
+          "texto": "Que se debe estacionar.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona esas líneas con estacionar."
+        },
+        {
+          "letra": "D",
+          "texto": "Que no se puede adelantar.",
+          "correcta": true,
+          "explicacion": "El texto dice que esas líneas indican que no se puede adelantar."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Reducir el consumo de productos muy procesados beneficia la salud. Estos alimentos suelen tener mucha sal, azúcar y grasa. Preferir comidas más naturales es una opción más saludable.",
+      "enunciado": "Según el texto, ¿qué suelen contener los productos muy procesados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mucha sal, azúcar y grasa",
+          "correcta": true,
+          "explicacion": "El texto dice que suelen tener mucha sal, azúcar y grasa."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo agua",
+          "correcta": false,
+          "explicacion": "El texto no afirma eso."
+        },
+        {
+          "letra": "C",
+          "texto": "Mucha fibra natural",
+          "correcta": false,
+          "explicacion": "El texto no atribuye fibra a esos productos."
+        },
+        {
+          "letra": "D",
+          "texto": "Solamente vitaminas",
+          "correcta": false,
+          "explicacion": "El texto no los describe así."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 33 unidades y hay 5 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "198",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "38",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "165",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 33 × 5 = 165."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 500?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "250",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "125",
+          "correcta": true,
+          "explicacion": "El 25 % de 500 se calcula 25 ÷ 100 × 500 = 125."
+        },
+        {
+          "letra": "D",
+          "texto": "135",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 80 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "200",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 80 + 120 = 200."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 740?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "454",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "888",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "444",
+          "correcta": true,
+          "explicacion": "El 60 % de 740 se calcula 60 ÷ 100 × 740 = 444."
+        },
+        {
+          "letra": "D",
+          "texto": "449",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 560 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "640",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 560 + 80 = 640."
+        },
+        {
+          "letra": "C",
+          "texto": "630",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "660",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 33 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "297",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "256",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "264",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 33 × 8 = 264."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el doble de 18 más 6?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "42",
+          "correcta": true,
+          "explicacion": "El doble de 18 es 36; más 6 es 42."
+        },
+        {
+          "letra": "C",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 620 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "900",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 620 + 280 = 900."
+        },
+        {
+          "letra": "B",
+          "texto": "920",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "890",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "340",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 1° bis de la Ley 19.549, los trámites administrativos, incluidos los recursos y reclamos, serán:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Arancelados según su complejidad",
+          "correcta": false,
+          "explicacion": "El art. 1° bis, inc. c) establece la gratuidad, no un arancel por complejidad."
+        },
+        {
+          "letra": "B",
+          "texto": "De pago previo obligatorio",
+          "correcta": false,
+          "explicacion": "No existe pago previo obligatorio; el art. 1° bis, inc. c) consagra la gratuidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Gratuitos",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. c) establece que los trámites administrativos, incluyendo recursos, reclamos y demás impugnaciones, serán gratuitos."
+        },
+        {
+          "letra": "D",
+          "texto": "Onerosos a cargo del interesado",
+          "correcta": false,
+          "explicacion": "Los trámites son gratuitos según el art. 1° bis, inc. c), sin perjuicio de honorarios de letrados y peritos propios."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿tiene límites el ejercicio de los derechos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo durante el estado de sitio",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no condiciona los límites al estado de sitio."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los derechos son absolutos y no admiten límites",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material afirma que sí tienen límites."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que un juez disponga lo contrario",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material no plantea esa excepción; los derechos se ejercen de acuerdo con las leyes."
+        },
+        {
+          "letra": "D",
+          "texto": "Sí, los derechos deben ejercerse de acuerdo con las leyes",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que sí, que los derechos deben ejercerse de acuerdo con las leyes."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 2 de la Ley 25.188, el funcionario debe abstenerse de intervenir en un asunto cuando:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El asunto involucre un monto económico elevado",
+          "correcta": false,
+          "explicacion": "El deber de abstención no depende del monto, sino de las causas de excusación (art. 2, inc. i)."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo solicite cualquier ciudadano por escrito",
+          "correcta": false,
+          "explicacion": "El deber de abstención se vincula a causas de excusación, no a una solicitud de un ciudadano (art. 2, inc. i)."
+        },
+        {
+          "letra": "C",
+          "texto": "Se encuentre comprendido en alguna causa de excusación prevista en la ley procesal civil",
+          "correcta": true,
+          "explicacion": "El art. 2, inc. i, obliga a abstenerse cuando se esté comprendido en causas de excusación previstas en la ley procesal civil."
+        },
+        {
+          "letra": "D",
+          "texto": "El superior jerárquico lo ordene expresamente",
+          "correcta": false,
+          "explicacion": "La abstención surge de las causas de excusación legales, no de una orden del superior (art. 2, inc. i)."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 11 de la Ley 19.549, para que un acto administrativo de alcance particular adquiera eficacia debe ser objeto de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Publicación en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "La publicación en el Boletín Oficial corresponde a los actos de alcance general, no a los de alcance particular."
+        },
+        {
+          "letra": "B",
+          "texto": "Ratificación del superior",
+          "correcta": false,
+          "explicacion": "La ratificación es un modo de saneamiento (art. 19); la eficacia del acto particular requiere notificación."
+        },
+        {
+          "letra": "C",
+          "texto": "Notificación al interesado",
+          "correcta": true,
+          "explicacion": "El art. 11 establece que el acto de alcance particular adquiere eficacia mediante notificación al interesado."
+        },
+        {
+          "letra": "D",
+          "texto": "Inscripción registral",
+          "correcta": false,
+          "explicacion": "La eficacia del acto particular se logra con la notificación, no con la inscripción registral."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de contratos con el Estado, ¿cómo se califica la falsedad de los datos de la Declaración Jurada de Intereses?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No tiene consecuencias si el contrato se ejecutó bien",
+          "correcta": false,
+          "explicacion": "La falsedad de datos es falta de máxima gravedad y se sanciona, con independencia de la ejecución."
+        },
+        {
+          "letra": "B",
+          "texto": "Es una irregularidad meramente formal",
+          "correcta": false,
+          "explicacion": "Se trata de una falta de máxima gravedad, no de una cuestión formal."
+        },
+        {
+          "letra": "C",
+          "texto": "Es una falta leve subsanable",
+          "correcta": false,
+          "explicacion": "El régimen la califica como falta de máxima gravedad, no leve."
+        },
+        {
+          "letra": "D",
+          "texto": "Es una falta de máxima gravedad y deben aplicarse sanciones",
+          "correcta": true,
+          "explicacion": "El régimen indica que la falsedad de los datos es una falta de máxima gravedad y deben aplicarse sanciones."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 9 de la Ley 25.188, si quien egresó de la función pública es intimado y no presenta su declaración jurada en quince días, ¿qué consecuencia tiene?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No podrá ejercer nuevamente la función pública",
+          "correcta": true,
+          "explicacion": "El art. 9 dispone que, de no cumplir, el intimado no podrá ejercer nuevamente la función pública, sin perjuicio de otras sanciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Será inhabilitado por el plazo de tres años",
+          "correcta": false,
+          "explicacion": "El art. 9 no fija tres años, sino que impide ejercer nuevamente la función pública."
+        },
+        {
+          "letra": "C",
+          "texto": "Deberá pagar una multa de diez mil pesos",
+          "correcta": false,
+          "explicacion": "La consecuencia del art. 9 es no poder ejercer nuevamente la función pública, no una multa específica."
+        },
+        {
+          "letra": "D",
+          "texto": "Perderá los haberes percibidos en el último año",
+          "correcta": false,
+          "explicacion": "El art. 9 establece la imposibilidad de reingresar a la función pública, no la pérdida de haberes."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿cuál de los siguientes es un deber de los agentes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Realizar proselitismo político en el trabajo",
+          "correcta": false,
+          "explicacion": "El proselitismo está prohibido (art. 24 inc. e)."
+        },
+        {
+          "letra": "B",
+          "texto": "Prestar el servicio personalmente con eficiencia, eficacia y rendimiento",
+          "correcta": true,
+          "explicacion": "El art. 23 inc. a) impone el deber de prestar el servicio personalmente con principios de eficiencia, eficacia y rendimiento laboral."
+        },
+        {
+          "letra": "C",
+          "texto": "Patrocinar a litigantes contra la Administración",
+          "correcta": false,
+          "explicacion": "Eso constituye una prohibición del art. 24 inc. g)."
+        },
+        {
+          "letra": "D",
+          "texto": "Aceptar obsequios de los administrados",
+          "correcta": false,
+          "explicacion": "Aceptar dádivas u obsequios es una prohibición (art. 24 inc. f)."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, ¿qué órgano confeccionará el Registro de Electores Privados de Libertad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Cámara Nacional Electoral",
+          "correcta": true,
+          "explicacion": "El art. 3 bis dispone que la Cámara Nacional Electoral confeccionará el Registro de Electores Privados de Libertad."
+        },
+        {
+          "letra": "B",
+          "texto": "Las juntas electorales de distrito",
+          "correcta": false,
+          "explicacion": "El art. 3 bis no asigna esa función a las juntas electorales."
+        },
+        {
+          "letra": "C",
+          "texto": "El Registro Nacional de las Personas",
+          "correcta": false,
+          "explicacion": "El art. 3 bis encomienda esa función a la Cámara Nacional Electoral."
+        },
+        {
+          "letra": "D",
+          "texto": "El Ministerio del Interior",
+          "correcta": false,
+          "explicacion": "El art. 3 bis atribuye esa tarea a la Cámara Nacional Electoral, no al Ministerio del Interior."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, el personal con estabilidad afectado por reestructuración queda en situación de disponibilidad por un período máximo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Doce (12) meses",
+          "correcta": true,
+          "explicacion": "El art. 11 establece que el agente queda en disponibilidad por un período máximo de hasta doce (12) meses."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres (3) meses",
+          "correcta": false,
+          "explicacion": "El plazo máximo de disponibilidad es de doce meses, no de tres."
+        },
+        {
+          "letra": "C",
+          "texto": "Seis (6) meses",
+          "correcta": false,
+          "explicacion": "El plazo máximo no es de seis meses."
+        },
+        {
+          "letra": "D",
+          "texto": "Veinticuatro (24) meses",
+          "correcta": false,
+          "explicacion": "El art. 11 fija un máximo de doce meses, no veinticuatro."
+        }
+      ]
+    }
+  ]
+}

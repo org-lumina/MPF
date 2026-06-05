@@ -1,0 +1,789 @@
+{
+  "examen_id": 7,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Al sentir olor a gas en un ambiente cerrado, no se deben encender luces ni aparatos eléctricos. Lo correcto es abrir puertas y ventanas, cerrar la llave de paso y salir del lugar.",
+      "enunciado": "Según el texto, una acción expresamente prohibida al sentir olor a gas es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Salir del lugar",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción prohibida."
+        },
+        {
+          "letra": "B",
+          "texto": "Cerrar la llave de paso",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción prohibida."
+        },
+        {
+          "letra": "C",
+          "texto": "Abrir puertas y ventanas",
+          "correcta": false,
+          "explicacion": "Incorrecta. Es una acción recomendada por el texto, no una acción prohibida."
+        },
+        {
+          "letra": "D",
+          "texto": "Encender luces o aparatos eléctricos",
+          "correcta": true,
+          "explicacion": "Correcta. El texto indica expresamente que no debe hacerse; es la acción prohibida."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La ropa de alta visibilidad, con colores brillantes y bandas reflectantes, se usa en lugares con circulación de vehículos. Permite que los conductores vean a los trabajadores con anticipación.",
+      "enunciado": "Según el texto, ¿para qué sirve la ropa de alta visibilidad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para abrigarse del frío",
+          "correcta": false,
+          "explicacion": "El texto no menciona el abrigo."
+        },
+        {
+          "letra": "B",
+          "texto": "Para protegerse del ruido",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la ropa con el ruido."
+        },
+        {
+          "letra": "C",
+          "texto": "Para evitar mancharse",
+          "correcta": false,
+          "explicacion": "El texto no menciona las manchas."
+        },
+        {
+          "letra": "D",
+          "texto": "Para que los conductores vean a los trabajadores con anticipación",
+          "correcta": true,
+          "explicacion": "El texto dice que permite que los conductores los vean con anticipación."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las bolsas de tela son una alternativa duradera frente a las bolsas de plástico de un solo uso. Al llevarlas a la compra, evitamos generar residuos que tardan mucho en degradarse. Una sola bolsa de tela reemplaza a cientos de bolsas plásticas.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Conviene comprar menos alimentos.",
+          "correcta": false,
+          "explicacion": "El texto no trata sobre la cantidad de alimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "El plástico se degrada rápidamente.",
+          "correcta": false,
+          "explicacion": "El texto dice que el plástico tarda mucho en degradarse."
+        },
+        {
+          "letra": "C",
+          "texto": "Las bolsas de tela son una alternativa duradera al plástico de un solo uso.",
+          "correcta": true,
+          "explicacion": "El texto destaca a las bolsas de tela como alternativa duradera frente al plástico."
+        },
+        {
+          "letra": "D",
+          "texto": "Las bolsas de plástico son más cómodas de usar.",
+          "correcta": false,
+          "explicacion": "El texto resalta las desventajas del plástico, no su comodidad."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En caso de incendio, no se deben usar los ascensores para evacuar. El humo o un corte de electricidad podrían dejar a las personas atrapadas dentro de la cabina.",
+      "enunciado": "Según el texto, ¿por qué no se deben usar los ascensores en un incendio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque hacen mucho ruido",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque son más lentos que las escaleras",
+          "correcta": false,
+          "explicacion": "El texto no menciona la velocidad como motivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque solo pueden usarlos los supervisores",
+          "correcta": false,
+          "explicacion": "El texto no restringe el ascensor a supervisores."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque el humo o un corte de luz pueden dejar atrapadas a las personas",
+          "correcta": true,
+          "explicacion": "El texto explica el riesgo de quedar atrapado por humo o corte de luz."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La aspiradora robot vuelve sola a su base de carga cuando la batería está baja. Mantenga la base conectada y despejada para que el robot pueda regresar y recargarse sin obstáculos en el camino.",
+      "enunciado": "Según el texto, ¿qué hace la aspiradora robot cuando la batería está baja?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Vuelve sola a su base de carga.",
+          "correcta": true,
+          "explicacion": "El texto indica que vuelve sola a la base cuando la batería está baja."
+        },
+        {
+          "letra": "B",
+          "texto": "Se apaga en el lugar donde está.",
+          "correcta": false,
+          "explicacion": "El texto dice que regresa a su base, no que se apaga donde está."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisa con una alarma sonora.",
+          "correcta": false,
+          "explicacion": "El texto no menciona una alarma sonora."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumenta la potencia de succión.",
+          "correcta": false,
+          "explicacion": "El texto no menciona aumento de potencia."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las salidas de emergencia deben estar identificadas con carteles que se vean incluso con poca luz. Muchos de estos carteles son luminosos o de material que brilla en la oscuridad.",
+      "enunciado": "Según el texto, ¿cómo deben verse los carteles de las salidas de emergencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se enciende la alarma",
+          "correcta": false,
+          "explicacion": "El texto no condiciona su visibilidad a la alarma."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo de día",
+          "correcta": false,
+          "explicacion": "El texto pide que se vean con poca luz, no solo de día."
+        },
+        {
+          "letra": "C",
+          "texto": "Incluso con poca luz",
+          "correcta": true,
+          "explicacion": "El texto dice que deben verse incluso con poca luz."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente desde la entrada",
+          "correcta": false,
+          "explicacion": "El texto no limita su visibilidad a la entrada."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El conductor que va a doblar debe avisar su maniobra con anticipación. Para ello, utiliza las luces de giro, también llamadas guiños. De este modo, los demás vehículos pueden anticipar el movimiento y circular con seguridad.",
+      "enunciado": "Según el texto, ¿con qué avisa el conductor que va a doblar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con la bocina del vehículo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la bocina para avisar el giro."
+        },
+        {
+          "letra": "B",
+          "texto": "Con las luces de freno.",
+          "correcta": false,
+          "explicacion": "El texto menciona las luces de giro, no las de freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Con las luces de giro o guiños.",
+          "correcta": true,
+          "explicacion": "El texto dice que utiliza las luces de giro, también llamadas guiños."
+        },
+        {
+          "letra": "D",
+          "texto": "Con señas de la mano únicamente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona señas con la mano."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cuidado de los baños públicos es responsabilidad de quienes los usan. Dejar el lugar limpio facilita el uso de las próximas personas. El buen estado de estos espacios depende de la colaboración de todos.",
+      "enunciado": "Según el texto, ¿de quién es responsabilidad el cuidado de los baños públicos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De las autoridades del barrio.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a las autoridades del barrio."
+        },
+        {
+          "letra": "B",
+          "texto": "De quienes los usan.",
+          "correcta": true,
+          "explicacion": "El texto dice que el cuidado es responsabilidad de quienes los usan."
+        },
+        {
+          "letra": "C",
+          "texto": "De los visitantes de otra ciudad.",
+          "correcta": false,
+          "explicacion": "El texto no distingue entre visitantes y locales."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo del personal de limpieza.",
+          "correcta": false,
+          "explicacion": "El texto responsabiliza a los usuarios, no solo al personal."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 820?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "620",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "615",
+          "correcta": true,
+          "explicacion": "El 75 % de 820 se calcula 75 ÷ 100 × 820 = 615."
+        },
+        {
+          "letra": "C",
+          "texto": "625",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "1.230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 13 unidades y hay 5 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "18",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "65",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 13 × 5 = 65."
+        },
+        {
+          "letra": "D",
+          "texto": "78",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 300?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "235",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "225",
+          "correcta": true,
+          "explicacion": "El 75 % de 300 se calcula 75 ÷ 100 × 300 = 225."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 480?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "360",
+          "correcta": true,
+          "explicacion": "El 75 % de 480 se calcula 75 ÷ 100 × 480 = 360."
+        },
+        {
+          "letra": "B",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "365",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "720",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 200 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "370",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "30",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 200 − 170 = 30."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 380?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "228",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "114",
+          "correcta": true,
+          "explicacion": "El 30 % de 380 se calcula 30 ÷ 100 × 380 = 114."
+        },
+        {
+          "letra": "C",
+          "texto": "119",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "124",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 17 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "153",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "25",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "136",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 17 × 8 = 136."
+        },
+        {
+          "letra": "D",
+          "texto": "128",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 800?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "960",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "485",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "El 60 % de 800 se calcula 60 ÷ 100 × 800 = 480."
+        },
+        {
+          "letra": "D",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.188, ¿qué establece esta ley de ética en el ejercicio de la función pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El régimen de licencias del personal estatal",
+          "correcta": false,
+          "explicacion": "La ley no trata licencias del personal; su objeto son deberes, prohibiciones e incompatibilidades (art. 1)."
+        },
+        {
+          "letra": "B",
+          "texto": "Las reglas de elección de los magistrados del Poder Judicial",
+          "correcta": false,
+          "explicacion": "La ley no regula la elección de magistrados, sino la ética en la función pública (art. 1)."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente el régimen salarial de los funcionarios del Poder Ejecutivo",
+          "correcta": false,
+          "explicacion": "La ley no regula salarios, sino deberes, prohibiciones e incompatibilidades (art. 1)."
+        },
+        {
+          "letra": "D",
+          "texto": "Un conjunto de deberes, prohibiciones e incompatibilidades aplicables a quienes se desempeñen en la función pública",
+          "correcta": true,
+          "explicacion": "El art. 1 de la Ley 25.188 establece un conjunto de deberes, prohibiciones e incompatibilidades aplicables, sin excepción, a todas las personas que se desempeñen en la función pública."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿antes de qué hora no puede iniciarse el escrutinio de mesa bajo ningún pretexto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes de las veinte (20) horas",
+          "correcta": false,
+          "explicacion": "El art. 101 establece las dieciocho horas."
+        },
+        {
+          "letra": "B",
+          "texto": "Antes de las dieciocho (18) horas, aun cuando hubieran votado todos los electores",
+          "correcta": true,
+          "explicacion": "El art. 101 dispone que la iniciación del escrutinio de mesa no podrá tener lugar, bajo ningún pretexto, antes de las dieciocho horas, aun cuando hubiera sufragado la totalidad de los electores."
+        },
+        {
+          "letra": "C",
+          "texto": "Antes de las dieciséis (16) horas",
+          "correcta": false,
+          "explicacion": "El art. 101 dispone que no puede iniciarse antes de las dieciocho horas."
+        },
+        {
+          "letra": "D",
+          "texto": "Antes de las diecisiete (17) horas",
+          "correcta": false,
+          "explicacion": "El art. 101 fija las dieciocho horas como momento mínimo, no las diecisiete."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, la solicitud de rehabilitación tras la exoneración podrá considerarse a partir de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco (5) años",
+          "correcta": false,
+          "explicacion": "El plazo del art. 33 es de cuatro años, no de cinco."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuatro (4) años de consentido el acto o firme la sentencia",
+          "correcta": true,
+          "explicacion": "El art. 33 establece que la rehabilitación por exoneración podrá considerarse a partir de los cuatro años de consentido el acto o declarada firme la sentencia judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos (2) años",
+          "correcta": false,
+          "explicacion": "Dos años es el plazo para la cesantía (art. 32), no para la exoneración."
+        },
+        {
+          "letra": "D",
+          "texto": "Diez (10) años",
+          "correcta": false,
+          "explicacion": "El plazo de rehabilitación por exoneración es de cuatro años."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de regalos, cuando es el Presidente de la Nación quien recibe un regalo, ¿quién decide el destino de ese regalo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Secretario General de la Presidencia",
+          "correcta": true,
+          "explicacion": "Las normas sobre regalos indican que, cuando el Presidente recibe un regalo, quien decide su destino es el Secretario General de la Presidencia."
+        },
+        {
+          "letra": "B",
+          "texto": "El Jefe de Gabinete de Ministros",
+          "correcta": false,
+          "explicacion": "El régimen atribuye esa decisión al Secretario General de la Presidencia, no al Jefe de Gabinete."
+        },
+        {
+          "letra": "C",
+          "texto": "El titular de la Oficina Anticorrupción",
+          "correcta": false,
+          "explicacion": "La decisión corresponde al Secretario General de la Presidencia."
+        },
+        {
+          "letra": "D",
+          "texto": "El propio Presidente de la Nación",
+          "correcta": false,
+          "explicacion": "El régimen asigna la decisión al Secretario General de la Presidencia."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuándo comienza y termina el ejercicio financiero del sector público nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Comienza el 1 de septiembre y termina el 31 de agosto",
+          "correcta": false,
+          "explicacion": "El art. 10 fija el ejercicio del 1 de enero al 31 de diciembre."
+        },
+        {
+          "letra": "B",
+          "texto": "Comienza el 1 de enero y termina el 31 de diciembre",
+          "correcta": true,
+          "explicacion": "El art. 10 dispone que el ejercicio financiero comienza el primero de enero y termina el treinta y uno de diciembre de cada año."
+        },
+        {
+          "letra": "C",
+          "texto": "Comienza el 1 de julio y termina el 30 de junio",
+          "correcta": false,
+          "explicacion": "El art. 10 establece el año calendario, del 1 de enero al 31 de diciembre."
+        },
+        {
+          "letra": "D",
+          "texto": "Comienza el 1 de abril y termina el 31 de marzo",
+          "correcta": false,
+          "explicacion": "El art. 10 fija el ejercicio del 1 de enero al 31 de diciembre, no en torno a marzo."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 1° bis, inc. g) de la Ley 19.549, los plazos del procedimiento administrativo son:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obligatorios solo para los interesados",
+          "correcta": false,
+          "explicacion": "Los plazos obligan tanto a los interesados como a la Administración, no solo a aquellos."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligatorios solo para la Administración",
+          "correcta": false,
+          "explicacion": "La obligatoriedad alcanza a ambas partes, no solo a la Administración."
+        },
+        {
+          "letra": "C",
+          "texto": "Obligatorios para los interesados y para la Administración",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. g) (i) dispone que los plazos serán obligatorios para los interesados y para la Administración."
+        },
+        {
+          "letra": "D",
+          "texto": "Meramente orientativos para ambas partes",
+          "correcta": false,
+          "explicacion": "Los plazos no son orientativos sino obligatorios según el inc. g) (i)."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿cuál de los siguientes integra el Poder Judicial como tribunal inferior?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El Poder Ejecutivo Nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El Poder Ejecutivo no integra el Poder Judicial."
+        },
+        {
+          "letra": "B",
+          "texto": "El Consejo de la Magistratura",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material lo menciona por su intervención en la selección de jueces, no como tribunal inferior."
+        },
+        {
+          "letra": "C",
+          "texto": "Los jueces de primera instancia",
+          "correcta": true,
+          "explicacion": "Correcta. El material menciona entre los tribunales inferiores a las cámaras de apelaciones, tribunales orales y jueces de primera instancia."
+        },
+        {
+          "letra": "D",
+          "texto": "La Cámara de Senadores",
+          "correcta": false,
+          "explicacion": "Incorrecta. La Cámara de Senadores integra el Poder Legislativo."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el material, ¿qué significa que la forma de gobierno sea 'federal'?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que cada provincia depende directamente del Poder Ejecutivo nacional",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material dice que cada provincia se gobierna a sí misma."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el pueblo elige a sus representantes por el voto",
+          "correcta": false,
+          "explicacion": "Incorrecta. Eso describe el carácter representativo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el gobierno nacional concentra todo el poder en la Nación",
+          "correcta": false,
+          "explicacion": "Incorrecta. El federalismo, según el material, permite la convivencia de dos clases de gobiernos, no la concentración."
+        },
+        {
+          "letra": "D",
+          "texto": "Que conviven los gobiernos provinciales y el gobierno federal",
+          "correcta": true,
+          "explicacion": "Correcta. El material indica que 'Federal' permite que convivan los gobiernos provinciales y el gobierno federal que abarca todo el territorio de la Nación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, la aceptación de la renuncia puede dejarse en suspenso, si hay investigación sumarial, por un término no mayor de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Noventa (90) días corridos",
+          "correcta": false,
+          "explicacion": "El art. 22 fija un máximo de 180 días, no 90."
+        },
+        {
+          "letra": "B",
+          "texto": "Ciento ochenta (180) días corridos",
+          "correcta": true,
+          "explicacion": "El art. 22 permite dejar en suspenso la aceptación de la renuncia por un término no mayor de ciento ochenta (180) días corridos si hay investigación sumarial."
+        },
+        {
+          "letra": "C",
+          "texto": "Trescientos sesenta (360) días corridos",
+          "correcta": false,
+          "explicacion": "El máximo es de 180 días corridos, no 360."
+        },
+        {
+          "letra": "D",
+          "texto": "Treinta (30) días corridos",
+          "correcta": false,
+          "explicacion": "El término del art. 22 no es de treinta días."
+        }
+      ]
+    }
+  ]
+}

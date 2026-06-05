@@ -1,0 +1,789 @@
+{
+  "examen_id": 25,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La freidora de aire debe usarse con la canasta correctamente insertada. No la llene por encima de la marca de máximo, porque el aire caliente no circularía bien y los alimentos quedarían crudos.",
+      "enunciado": "Según el texto, ¿qué pasa si se llena la freidora por encima del máximo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los alimentos quedarían crudos.",
+          "correcta": true,
+          "explicacion": "El texto dice que el aire no circularía bien y los alimentos quedarían crudos."
+        },
+        {
+          "letra": "B",
+          "texto": "Limpiaría la canasta sola.",
+          "correcta": false,
+          "explicacion": "El texto no menciona autolimpieza."
+        },
+        {
+          "letra": "C",
+          "texto": "Cocinaría más rápido.",
+          "correcta": false,
+          "explicacion": "El texto indica una cocción deficiente, no más rápida."
+        },
+        {
+          "letra": "D",
+          "texto": "Ahorraría energía.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de energía."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las señales de seguridad de color rojo indican prohibición o peligro de incendio, como la ubicación de los matafuegos. Conocer el significado de cada color ayuda a reaccionar correctamente ante una emergencia.",
+      "enunciado": "Según el texto, ¿qué indican las señales de color rojo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ubicación de salidas seguras",
+          "correcta": false,
+          "explicacion": "Las salidas suelen señalarse en verde, no en rojo según el texto."
+        },
+        {
+          "letra": "B",
+          "texto": "Zona de descanso del personal",
+          "correcta": false,
+          "explicacion": "El texto no asocia el rojo con zonas de descanso."
+        },
+        {
+          "letra": "C",
+          "texto": "Obligación de usar protección",
+          "correcta": false,
+          "explicacion": "La obligación suele indicarse en azul, no en rojo según el texto."
+        },
+        {
+          "letra": "D",
+          "texto": "Prohibición o peligro de incendio",
+          "correcta": true,
+          "explicacion": "El texto asocia el rojo con prohibición o peligro de incendio."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Mantener una temperatura agradable en casa abrigándose un poco más en invierno permite usar menos la calefacción. Un suéter extra a veces evita tener que subir el termostato. Pequeñas decisiones ayudan a ahorrar energía.",
+      "enunciado": "Según el texto, ¿qué permite abrigarse un poco más en invierno?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apagar la heladera.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la heladera."
+        },
+        {
+          "letra": "B",
+          "texto": "Subir el termostato al máximo.",
+          "correcta": false,
+          "explicacion": "El texto plantea evitar subir el termostato."
+        },
+        {
+          "letra": "C",
+          "texto": "Usar menos la calefacción.",
+          "correcta": true,
+          "explicacion": "El texto dice que abrigarse más permite usar menos la calefacción."
+        },
+        {
+          "letra": "D",
+          "texto": "Gastar más energía.",
+          "correcta": false,
+          "explicacion": "El texto busca ahorrar energía."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El expediente debe foliarse en orden correlativo a medida que se agregan las actuaciones. Cada hoja lleva su número en el ángulo superior derecho, escrito con bolígrafo y sin enmiendas.",
+      "enunciado": "¿En qué parte de la hoja se coloca el número de folio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el centro de la hoja.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el centro de la hoja."
+        },
+        {
+          "letra": "B",
+          "texto": "En el ángulo inferior izquierdo.",
+          "correcta": false,
+          "explicacion": "El texto indica el ángulo superior derecho, no el inferior izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "En el ángulo superior derecho.",
+          "correcta": true,
+          "explicacion": "El texto precisa que el número va en el ángulo superior derecho."
+        },
+        {
+          "letra": "D",
+          "texto": "Al pie de la última hoja.",
+          "correcta": false,
+          "explicacion": "El texto pide foliar cada hoja, no solo la última."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La plancha a vapor requiere agua limpia en su depósito. En zonas de agua muy dura, conviene usar agua destilada para evitar que los minerales obstruyan los orificios de salida del vapor.",
+      "enunciado": "Según el texto, ¿qué conviene usar en zonas de agua muy dura?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Agua de la canilla.",
+          "correcta": false,
+          "explicacion": "El texto desaconseja el agua dura de la canilla en esas zonas."
+        },
+        {
+          "letra": "B",
+          "texto": "Agua destilada.",
+          "correcta": true,
+          "explicacion": "El texto recomienda agua destilada en zonas de agua muy dura."
+        },
+        {
+          "letra": "C",
+          "texto": "Agua tibia jabonosa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona agua con jabón."
+        },
+        {
+          "letra": "D",
+          "texto": "Agua con sal.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua con sal."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En los espacios públicos compartidos, está prohibido encender fuego sin autorización. Esta medida busca evitar incendios que pongan en riesgo a las personas y al entorno. Quien desee hacer una fogata debe consultar las reglas del lugar.",
+      "enunciado": "Según el texto, ¿qué busca evitar la prohibición de encender fuego sin autorización?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Evitar incendios que pongan en riesgo a las personas y al entorno.",
+          "correcta": true,
+          "explicacion": "El texto dice que la medida busca evitar incendios riesgosos."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener el césped corto.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el césped."
+        },
+        {
+          "letra": "C",
+          "texto": "Reducir el ruido en el lugar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el ruido."
+        },
+        {
+          "letra": "D",
+          "texto": "Ahorrar energía eléctrica.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la energía eléctrica."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las redes sociales y las charlas con amigos sirven para difundir buenas prácticas ambientales. Cuando una persona cuenta cómo recicla o ahorra agua, puede animar a otras a hacer lo mismo. El ejemplo y la información ayudan a sumar más gente al cuidado del ambiente.",
+      "enunciado": "Según el texto, ¿para qué sirven las redes sociales y las charlas con amigos en este caso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para difundir buenas prácticas ambientales.",
+          "correcta": true,
+          "explicacion": "El texto dice que sirven para difundir buenas prácticas ambientales."
+        },
+        {
+          "letra": "B",
+          "texto": "Para criticar a quienes no reciclan.",
+          "correcta": false,
+          "explicacion": "El texto habla de animar con el ejemplo, no de criticar."
+        },
+        {
+          "letra": "C",
+          "texto": "Para vender productos reciclados.",
+          "correcta": false,
+          "explicacion": "El texto no menciona vender productos."
+        },
+        {
+          "letra": "D",
+          "texto": "Para generar más residuos.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona esto con generar residuos."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El anafe a gas debe encenderse acercando la llama o el encendedor antes de abrir el paso del gas. Si percibe olor a gas, no accione interruptores eléctricos; ventile el ambiente y cierre la llave de paso de inmediato.",
+      "enunciado": "Según el texto, ¿qué se debe hacer si se percibe olor a gas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Abrir más el paso del gas.",
+          "correcta": false,
+          "explicacion": "El texto indica cerrar la llave, no abrirla."
+        },
+        {
+          "letra": "B",
+          "texto": "Seguir cocinando con normalidad.",
+          "correcta": false,
+          "explicacion": "El texto exige tomar medidas, no continuar normalmente."
+        },
+        {
+          "letra": "C",
+          "texto": "Ventilar y cerrar la llave de paso.",
+          "correcta": true,
+          "explicacion": "El texto indica ventilar el ambiente y cerrar la llave de paso de inmediato."
+        },
+        {
+          "letra": "D",
+          "texto": "Encender la luz para revisar.",
+          "correcta": false,
+          "explicacion": "El texto advierte no accionar interruptores eléctricos."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 120?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "30",
+          "correcta": true,
+          "explicacion": "El 25 % de 120 se calcula 25 ÷ 100 × 120 = 30."
+        },
+        {
+          "letra": "C",
+          "texto": "35",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 880?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "352",
+          "correcta": true,
+          "explicacion": "El 40 % de 880 se calcula 40 ÷ 100 × 880 = 352."
+        },
+        {
+          "letra": "B",
+          "texto": "357",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "704",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "362",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 900?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "90",
+          "correcta": true,
+          "explicacion": "El 10 % de 900 se calcula 10 ÷ 100 × 900 = 90."
+        },
+        {
+          "letra": "D",
+          "texto": "95",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 780?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "585",
+          "correcta": true,
+          "explicacion": "El 75 % de 780 se calcula 75 ÷ 100 × 780 = 585."
+        },
+        {
+          "letra": "B",
+          "texto": "1.170",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "595",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "590",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 400 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "480",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 400 + 80 = 480."
+        },
+        {
+          "letra": "C",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "320",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 5 % de 360?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "28",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "23",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "36",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "18",
+          "correcta": true,
+          "explicacion": "El 5 % de 360 se calcula 5 ÷ 100 × 360 = 18."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 520?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "208",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "104",
+          "correcta": true,
+          "explicacion": "El 20 % de 520 se calcula 20 ÷ 100 × 520 = 104."
+        },
+        {
+          "letra": "C",
+          "texto": "114",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "109",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 420 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "375",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "395",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "455",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "385",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 420 − 35 = 385."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 3 de la Ley 25.188, observar una conducta acorde con la ética pública es:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una recomendación de buenas prácticas sin consecuencias",
+          "correcta": false,
+          "explicacion": "No es una mera recomendación: es requisito de permanencia y su incumplimiento acarrea sanción o remoción (art. 3)."
+        },
+        {
+          "letra": "B",
+          "texto": "Un requisito de permanencia en el cargo",
+          "correcta": true,
+          "explicacion": "El art. 3 establece que observar una conducta acorde con la ética pública es requisito de permanencia en el cargo."
+        },
+        {
+          "letra": "C",
+          "texto": "Una obligación exclusiva de los funcionarios electos",
+          "correcta": false,
+          "explicacion": "Alcanza a todos los sujetos del art. 1, no sólo a los electos (art. 3)."
+        },
+        {
+          "letra": "D",
+          "texto": "Un deber que sólo rige durante el primer año en el cargo",
+          "correcta": false,
+          "explicacion": "Es requisito de permanencia durante todo el ejercicio, sin límite temporal (art. 3)."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 24.156, ¿qué comprende la administración financiera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conjunto de leyes que aprueban el presupuesto general de cada año",
+          "correcta": false,
+          "explicacion": "El art. 2 define la administración financiera por sus sistemas y procedimientos, no como las leyes de presupuesto."
+        },
+        {
+          "letra": "B",
+          "texto": "El régimen de responsabilidad de los funcionarios por rendición de cuentas",
+          "correcta": false,
+          "explicacion": "La rendición de cuentas se vincula a los sistemas de control (art. 3), no a la definición de administración financiera."
+        },
+        {
+          "letra": "C",
+          "texto": "El conjunto de estructuras de control interno y externo del sector público",
+          "correcta": false,
+          "explicacion": "Eso describe a los sistemas de control (art. 3), no a la administración financiera."
+        },
+        {
+          "letra": "D",
+          "texto": "El conjunto de sistemas, órganos, normas y procedimientos administrativos que hacen posible obtener los recursos públicos y aplicarlos a los objetivos del Estado",
+          "correcta": true,
+          "explicacion": "El art. 2 define así la administración financiera."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Por cuáles sistemas está integrada la administración financiera según la Ley 24.156?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Presupuestario, de tesorería, de control interno y de control externo",
+          "correcta": false,
+          "explicacion": "El control interno y externo integran los sistemas de control, no la administración financiera (art. 5)."
+        },
+        {
+          "letra": "B",
+          "texto": "Presupuestario, de crédito público, de tesorería y de contabilidad",
+          "correcta": true,
+          "explicacion": "El art. 5 enumera estos cuatro sistemas, que deberán estar interrelacionados entre sí."
+        },
+        {
+          "letra": "C",
+          "texto": "De recaudación, de gasto, de tesorería y de contabilidad",
+          "correcta": false,
+          "explicacion": "Recaudación y gasto no son los sistemas enumerados; el art. 5 lista presupuestario, crédito público, tesorería y contabilidad."
+        },
+        {
+          "letra": "D",
+          "texto": "De crédito público, de contabilidad, de auditoría y de presupuesto",
+          "correcta": false,
+          "explicacion": "La auditoría no es uno de los sistemas de la administración financiera enumerados en el art. 5."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el régimen de contratos con el Estado, ¿qué consecuencia tiene la falta de presentación de la Declaración Jurada de Intereses?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No tiene consecuencias si el contrato ya se firmó",
+          "correcta": false,
+          "explicacion": "La falta de presentación es causa de exclusión del procedimiento de contratación."
+        },
+        {
+          "letra": "B",
+          "texto": "Se concede un plazo de un año para regularizarla",
+          "correcta": false,
+          "explicacion": "El régimen no prevé ese plazo; la omisión es causa de exclusión."
+        },
+        {
+          "letra": "C",
+          "texto": "Es causa para excluir al contratista del procedimiento de contratación",
+          "correcta": true,
+          "explicacion": "El régimen establece que la falta de presentación de la declaración jurada es causa para excluir al contratista del procedimiento de contratación."
+        },
+        {
+          "letra": "D",
+          "texto": "Sólo genera una multa económica leve",
+          "correcta": false,
+          "explicacion": "La consecuencia es la exclusión del procedimiento, no una multa leve."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 1° bis, inc. g) de la Ley 19.549, los plazos se cuentan, salvo disposición en contrario, por:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Días hábiles administrativos",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. g) (ii) establece que los plazos se cuentan por días hábiles administrativos, salvo disposición legal en contrario o habilitación."
+        },
+        {
+          "letra": "B",
+          "texto": "Días corridos",
+          "correcta": false,
+          "explicacion": "Salvo disposición legal en contrario, los plazos se cuentan por días hábiles administrativos, no corridos."
+        },
+        {
+          "letra": "C",
+          "texto": "Días hábiles judiciales",
+          "correcta": false,
+          "explicacion": "Los plazos del procedimiento se computan por días hábiles administrativos; los hábiles judiciales rigen para acciones judiciales."
+        },
+        {
+          "letra": "D",
+          "texto": "Horas continuas",
+          "correcta": false,
+          "explicacion": "Los plazos se computan por días hábiles administrativos, no por horas."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, el sancionado con exoneración o cesantía en la Administración Pública no podrá ingresar:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Salvo autorización del sindicato",
+          "correcta": false,
+          "explicacion": "La rehabilitación no depende de autorización sindical."
+        },
+        {
+          "letra": "B",
+          "texto": "Nunca, en ningún caso",
+          "correcta": false,
+          "explicacion": "El impedimento cesa con la rehabilitación, por lo que no es absoluto."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante un plazo fijo de diez años",
+          "correcta": false,
+          "explicacion": "La ley condiciona el impedimento a la rehabilitación, no a un plazo fijo de diez años."
+        },
+        {
+          "letra": "D",
+          "texto": "Mientras no sea rehabilitado conforme a los artículos 32 y 33",
+          "correcta": true,
+          "explicacion": "El art. 5 inc. e) lo impide mientras no sea rehabilitado conforme lo previsto en los arts. 32 y 33 de la ley."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 8 de la Ley 19.549, el acto administrativo que carezca de firma:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es válido pero anulable",
+          "correcta": false,
+          "explicacion": "El acto sin firma no produce efectos jurídicos de ninguna especie; no es un mero anulable."
+        },
+        {
+          "letra": "B",
+          "texto": "Produce efectos hasta su impugnación",
+          "correcta": false,
+          "explicacion": "El acto sin firma no produce efectos; no rige hasta una eventual impugnación."
+        },
+        {
+          "letra": "C",
+          "texto": "Se considera un acto regular",
+          "correcta": false,
+          "explicacion": "La falta de firma priva de efectos al acto; no lo convierte en regular."
+        },
+        {
+          "letra": "D",
+          "texto": "No producirá efectos jurídicos de ninguna especie",
+          "correcta": true,
+          "explicacion": "El art. 8 establece que el acto que carezca de firma no producirá efectos jurídicos de ninguna especie."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 8 de la Ley 25.188, quien no presentó su declaración jurada en plazo es intimado en forma fehaciente para hacerlo en un plazo de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Quince días",
+          "correcta": true,
+          "explicacion": "El art. 8 establece que la intimación fehaciente otorga un plazo de quince días para presentar la declaración."
+        },
+        {
+          "letra": "B",
+          "texto": "Treinta días",
+          "correcta": false,
+          "explicacion": "El plazo de la intimación del art. 8 es de quince días."
+        },
+        {
+          "letra": "C",
+          "texto": "Noventa días",
+          "correcta": false,
+          "explicacion": "El art. 8 prevé quince días para cumplir la intimación."
+        },
+        {
+          "letra": "D",
+          "texto": "Cinco días",
+          "correcta": false,
+          "explicacion": "El art. 8 fija quince días para cumplir la intimación, no cinco."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, la suspensión como medida disciplinaria puede aplicarse hasta:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Noventa (90) días en un año",
+          "correcta": false,
+          "explicacion": "La suspensión disciplinaria no puede superar los treinta días en un año."
+        },
+        {
+          "letra": "B",
+          "texto": "Treinta (30) días en un año",
+          "correcta": true,
+          "explicacion": "El art. 30 inc. b) prevé la suspensión de hasta treinta (30) días en un año, contados a partir de la primera suspensión."
+        },
+        {
+          "letra": "C",
+          "texto": "Quince (15) días en un año",
+          "correcta": false,
+          "explicacion": "El máximo del art. 30 inc. b) no es de quince días."
+        },
+        {
+          "letra": "D",
+          "texto": "Sesenta (60) días en un año",
+          "correcta": false,
+          "explicacion": "El art. 30 inc. b) fija un máximo de treinta días, no sesenta."
+        }
+      ]
+    }
+  ]
+}

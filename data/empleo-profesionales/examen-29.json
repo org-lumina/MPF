@@ -1,0 +1,789 @@
+{
+  "examen_id": 29,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La tostadora cuenta con una bandeja recogemigas en su parte inferior. Retírela con regularidad y elimine las migas acumuladas, ya que su exceso puede generar olor a quemado e incluso un principio de incendio.",
+      "enunciado": "Según el texto, ¿por qué conviene limpiar la bandeja recogemigas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para evitar olor a quemado e incendios.",
+          "correcta": true,
+          "explicacion": "El texto advierte que el exceso de migas puede generar olor a quemado e incendio."
+        },
+        {
+          "letra": "B",
+          "texto": "Para mejorar el color del tostado.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color del tostado."
+        },
+        {
+          "letra": "C",
+          "texto": "Para ahorrar energía eléctrica.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de energía."
+        },
+        {
+          "letra": "D",
+          "texto": "Para que el pan tueste más rápido.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona la limpieza con la velocidad de tostado."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Un termotanque o calefón bien regulado calienta el agua a una temperatura adecuada sin gastar de más. Si está demasiado alto, consume energía extra y obliga a mezclar con agua fría para usarla. Ajustarlo correctamente ahorra energía.",
+      "enunciado": "Según el texto, ¿qué ocurre si el termotanque está regulado demasiado alto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Calienta menos el agua.",
+          "correcta": false,
+          "explicacion": "El texto indica que calienta de más, no de menos."
+        },
+        {
+          "letra": "B",
+          "texto": "Consume energía extra y obliga a mezclar con agua fría.",
+          "correcta": true,
+          "explicacion": "El texto dice que consume energía extra y obliga a mezclar con agua fría."
+        },
+        {
+          "letra": "C",
+          "texto": "Ahorra energía automáticamente.",
+          "correcta": false,
+          "explicacion": "El texto dice que consume de más, no que ahorra."
+        },
+        {
+          "letra": "D",
+          "texto": "Contamina el agua de la red.",
+          "correcta": false,
+          "explicacion": "El texto no menciona contaminación del agua."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Donar la ropa que ya no usamos en buen estado le da una segunda vida y evita que termine en la basura. Otras personas pueden aprovecharla y, al mismo tiempo, se reduce la necesidad de fabricar prendas nuevas. Es una manera de consumir con responsabilidad.",
+      "enunciado": "Según el texto, ¿qué beneficio tiene donar ropa en buen estado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Le da una segunda vida y evita que termine en la basura.",
+          "correcta": true,
+          "explicacion": "El texto dice que donar la ropa le da una segunda vida y evita que termine en la basura."
+        },
+        {
+          "letra": "B",
+          "texto": "Genera más residuos textiles.",
+          "correcta": false,
+          "explicacion": "El texto plantea reducir residuos, no aumentarlos."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumenta la fabricación de prendas nuevas.",
+          "correcta": false,
+          "explicacion": "El texto dice que reduce esa necesidad, no que la aumenta."
+        },
+        {
+          "letra": "D",
+          "texto": "Encarece el precio de la ropa.",
+          "correcta": false,
+          "explicacion": "El texto no menciona precios."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Secar la ropa al sol en lugar de usar secarropas eléctrico ahorra energía. El sol y el viento secan las prendas sin costo y sin contaminar. Cuando el clima lo permite, es la mejor opción.",
+      "enunciado": "Según el texto, ¿por qué conviene secar la ropa al sol?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque ahorra energía y no contamina.",
+          "correcta": true,
+          "explicacion": "El texto dice que secar al sol ahorra energía y no contamina."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque la ropa queda más sucia.",
+          "correcta": false,
+          "explicacion": "El texto no afirma eso."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque consume más electricidad.",
+          "correcta": false,
+          "explicacion": "El texto dice que ahorra energía."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque tarda más que el secarropas.",
+          "correcta": false,
+          "explicacion": "El texto no compara los tiempos como desventaja."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando lavamos los platos a mano, conviene no dejar la canilla abierta todo el tiempo. Una opción es enjabonar todo primero y luego enjuagar junto, abriendo el agua solo en ese momento. Así se gasta mucha menos agua.",
+      "enunciado": "Según el texto, ¿qué conviene hacer al lavar los platos a mano?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lavar cada plato por separado con agua corriendo.",
+          "correcta": false,
+          "explicacion": "El texto plantea enjuagar junto, no de a uno con agua corriendo."
+        },
+        {
+          "letra": "B",
+          "texto": "Usar solo agua caliente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona usar agua caliente."
+        },
+        {
+          "letra": "C",
+          "texto": "Enjabonar primero y enjuagar junto, abriendo el agua solo entonces.",
+          "correcta": true,
+          "explicacion": "El texto sugiere enjabonar todo primero y luego enjuagar junto, abriendo el agua solo en ese momento."
+        },
+        {
+          "letra": "D",
+          "texto": "Dejar la canilla abierta todo el tiempo.",
+          "correcta": false,
+          "explicacion": "El texto recomienda no dejar la canilla abierta."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando termina de usarse un cajero automático, conviene retirar la tarjeta y guardar el comprobante. Dejar la sesión abierta podría permitir que otro use la cuenta. La atención evita disgustos.",
+      "enunciado": "Según el texto, ¿qué conviene hacer al terminar de usar un cajero automático?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anotar la clave en el comprobante.",
+          "correcta": false,
+          "explicacion": "El texto no sugiere anotar la clave."
+        },
+        {
+          "letra": "B",
+          "texto": "Pedirle ayuda a un desconocido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona pedir ayuda a desconocidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Retirar la tarjeta y guardar el comprobante.",
+          "correcta": true,
+          "explicacion": "El texto recomienda retirar la tarjeta y guardar el comprobante."
+        },
+        {
+          "letra": "D",
+          "texto": "Dejar la sesión abierta.",
+          "correcta": false,
+          "explicacion": "El texto advierte contra dejar la sesión abierta."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El vidrio es un material que puede reciclarse muchas veces sin perder calidad. Los frascos y botellas se funden y se transforman en envases nuevos. Por eso es conveniente separarlos del resto de la basura.",
+      "enunciado": "Según el texto, ¿qué característica tiene el vidrio al reciclarse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puede reciclarse muchas veces sin perder calidad.",
+          "correcta": true,
+          "explicacion": "El texto afirma que el vidrio puede reciclarse muchas veces sin perder calidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe mezclarse con plástico para reciclarse.",
+          "correcta": false,
+          "explicacion": "El texto no menciona mezclarlo con plástico."
+        },
+        {
+          "letra": "C",
+          "texto": "Se degrada apenas se lo recicla una vez.",
+          "correcta": false,
+          "explicacion": "El texto dice lo contrario: no pierde calidad."
+        },
+        {
+          "letra": "D",
+          "texto": "No puede transformarse en envases nuevos.",
+          "correcta": false,
+          "explicacion": "El texto indica que se transforma en envases nuevos."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las manos deben lavarse antes de comer y después de manipular productos químicos. Una buena higiene evita que sustancias dañinas ingresen al organismo a través de los alimentos.",
+      "enunciado": "Según el texto, ¿qué evita lavarse las manos después de manipular productos químicos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que sustancias dañinas ingresen al organismo por los alimentos",
+          "correcta": true,
+          "explicacion": "El texto dice que evita que sustancias dañinas entren por los alimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "Que las manos se enfríen",
+          "correcta": false,
+          "explicacion": "El texto no menciona el frío."
+        },
+        {
+          "letra": "C",
+          "texto": "Que se manchen los guantes",
+          "correcta": false,
+          "explicacion": "El texto no menciona los guantes."
+        },
+        {
+          "letra": "D",
+          "texto": "Que se gaste mucha agua",
+          "correcta": false,
+          "explicacion": "El texto no menciona el gasto de agua."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 860?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "96",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "91",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "172",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "86",
+          "correcta": true,
+          "explicacion": "El 10 % de 860 se calcula 10 ÷ 100 × 860 = 86."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 290 hojas en partes iguales entre 10 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "29",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 290 ÷ 10 = 29."
+        },
+        {
+          "letra": "B",
+          "texto": "34",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "24",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Qué número continúa la serie 100, 200, 300, 400, ...?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "501",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "500",
+          "correcta": true,
+          "explicacion": "La serie aumenta de a 100; el siguiente es 400 + 100 = 500."
+        },
+        {
+          "letra": "D",
+          "texto": "499",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 700 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "440",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 700 − 260 = 440."
+        },
+        {
+          "letra": "B",
+          "texto": "430",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "960",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 980?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "740",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "745",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "1.470",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "735",
+          "correcta": true,
+          "explicacion": "El 75 % de 980 se calcula 75 ÷ 100 × 980 = 735."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 540 expedientes y resolvió 35. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "515",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "575",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "495",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "505",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 540 − 35 = 505."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 420 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "580",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 420 + 160 = 580."
+        },
+        {
+          "letra": "B",
+          "texto": "600",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "570",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 360 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 360 − 260 = 100."
+        },
+        {
+          "letra": "B",
+          "texto": "90",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "110",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "620",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 7 de la Ley 19.549, ¿cuál es un requisito esencial del acto administrativo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La aprobación del superior jerárquico",
+          "correcta": false,
+          "explicacion": "La aprobación del superior no integra los requisitos esenciales del art. 7."
+        },
+        {
+          "letra": "B",
+          "texto": "La conformidad del interesado",
+          "correcta": false,
+          "explicacion": "La conformidad del interesado no es requisito esencial enumerado en el art. 7."
+        },
+        {
+          "letra": "C",
+          "texto": "La competencia del órgano emisor",
+          "correcta": true,
+          "explicacion": "El art. 7, inc. a) exige que el acto sea dictado por autoridad competente y con voluntad no viciada por error, dolo o violencia."
+        },
+        {
+          "letra": "D",
+          "texto": "La publicación en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "La publicación hace a la eficacia (art. 11), no es un requisito esencial del art. 7."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 1° bis de la Ley 19.549, ¿cuál de los siguientes es un principio fundamental del procedimiento administrativo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La oralidad plena del trámite",
+          "correcta": false,
+          "explicacion": "La oralidad plena no figura entre los principios fundamentales enumerados en el art. 1° bis de la Ley 19.549."
+        },
+        {
+          "letra": "B",
+          "texto": "La doble instancia obligatoria",
+          "correcta": false,
+          "explicacion": "La doble instancia obligatoria no aparece entre los principios fundamentales del art. 1° bis."
+        },
+        {
+          "letra": "C",
+          "texto": "La inderogabilidad de los plazos",
+          "correcta": false,
+          "explicacion": "La inderogabilidad de los plazos no es un principio fundamental enumerado en el art. 1° bis."
+        },
+        {
+          "letra": "D",
+          "texto": "La buena fe",
+          "correcta": true,
+          "explicacion": "El art. 1° bis de la Ley 19.549 enumera como principios fundamentales la juridicidad, razonabilidad, proporcionalidad, buena fe, confianza legítima, transparencia, tutela administrativa efectiva, simplificación administrativa y buena administración."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, ¿cuántos apoderados generales puede designar un partido por distrito?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un apoderado general titular y un suplente",
+          "correcta": true,
+          "explicacion": "El art. 55 dispone que los partidos solo podrán designar un apoderado general por cada distrito y un suplente."
+        },
+        {
+          "letra": "B",
+          "texto": "Tantos apoderados como mesas haya",
+          "correcta": false,
+          "explicacion": "El art. 55 limita a un apoderado general titular y un suplente por distrito."
+        },
+        {
+          "letra": "C",
+          "texto": "Un apoderado por sección electoral",
+          "correcta": false,
+          "explicacion": "El art. 55 prevé un apoderado general por distrito, no por sección."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos apoderados generales titulares",
+          "correcta": false,
+          "explicacion": "El art. 55 admite un solo titular por distrito, además de un suplente."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 88, ¿qué responsabilidad tiene la Contaduría General de la Nación como órgano rector?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Recaudar los recursos de la administración central",
+          "correcta": false,
+          "explicacion": "La recaudación centralizada corresponde a la Tesorería General (art. 74), no a la Contaduría."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizar el control externo posterior de la gestión",
+          "correcta": false,
+          "explicacion": "El control externo posterior corresponde a la AGN (art. 117), no a la Contaduría."
+        },
+        {
+          "letra": "C",
+          "texto": "Emitir las letras del Tesoro",
+          "correcta": false,
+          "explicacion": "La emisión de letras del Tesoro corresponde a la Tesorería General (arts. 74 y 82)."
+        },
+        {
+          "letra": "D",
+          "texto": "Prescribir, poner en funcionamiento y mantener el sistema de contabilidad gubernamental",
+          "correcta": true,
+          "explicacion": "El art. 88 hace a la Contaduría General responsable de prescribir, poner en funcionamiento y mantener el sistema de contabilidad gubernamental en todo el sector público nacional."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el régimen de contratos con el Estado, cuando exista una relación entre el contratista y un funcionario, el organismo que celebra el contrato debe comunicar la Declaración Jurada de Intereses a la Oficina Anticorrupción y a la Sindicatura General de la Nación dentro de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuarenta y ocho horas de recibida",
+          "correcta": false,
+          "explicacion": "El plazo es de tres días, no de cuarenta y ocho horas."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres días de recibida",
+          "correcta": true,
+          "explicacion": "El régimen dispone comunicar la Declaración Jurada de Intereses a la Oficina Anticorrupción y a la SIGEN dentro de los tres días de recibida."
+        },
+        {
+          "letra": "C",
+          "texto": "Treinta días de recibida",
+          "correcta": false,
+          "explicacion": "El régimen fija tres días para la comunicación."
+        },
+        {
+          "letra": "D",
+          "texto": "Diez días de recibida",
+          "correcta": false,
+          "explicacion": "El plazo previsto es de tres días, no diez."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 10, inc. b) de la Ley 19.549, el silencio positivo NO se aplica, salvo norma específica que lo otorgue, en materia de:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Trámites de previsión social",
+          "correcta": false,
+          "explicacion": "La previsión social es excepción a la caducidad (inc. k), no una materia excluida del silencio positivo del art. 10."
+        },
+        {
+          "letra": "B",
+          "texto": "Habilitaciones comerciales y registros mercantiles",
+          "correcta": false,
+          "explicacion": "Las habilitaciones comerciales no son materias excluidas; la norma cita salud, ambiente, servicios públicos y dominio público."
+        },
+        {
+          "letra": "C",
+          "texto": "Contrataciones del Estado",
+          "correcta": false,
+          "explicacion": "Las contrataciones no figuran entre las materias excluidas del silencio positivo en el inc. b)."
+        },
+        {
+          "letra": "D",
+          "texto": "Salud pública, medio ambiente, servicios públicos o bienes de dominio público",
+          "correcta": true,
+          "explicacion": "El art. 10, inc. b) excluye del silencio positivo la salud pública, el medio ambiente, la prestación de servicios públicos y los derechos sobre bienes de dominio público, salvo norma específica."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, ¿qué derecho tiene el elector respecto del contenido de su voto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Guardar el secreto del voto",
+          "correcta": true,
+          "explicacion": "El art. 13 establece que el elector tiene derecho a guardar el secreto del voto."
+        },
+        {
+          "letra": "B",
+          "texto": "Delegar su voto en un fiscal",
+          "correcta": false,
+          "explicacion": "El art. 13 se refiere al secreto del voto, que es personal."
+        },
+        {
+          "letra": "C",
+          "texto": "Publicar su voto en cualquier momento",
+          "correcta": false,
+          "explicacion": "El art. 13 reconoce el derecho al secreto del voto, no a publicarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "Exigir constancia del sentido de su voto",
+          "correcta": false,
+          "explicacion": "El art. 13 protege el secreto del voto; no prevé constancia de su sentido."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 1° bis de la Ley 19.549, la caducidad del procedimiento por inactividad del interesado se declara de oficio cuando, paralizado el trámite por sesenta (60) días por causa imputable a aquél y notificado, transcurren otros:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Noventa (90) días",
+          "correcta": false,
+          "explicacion": "El plazo adicional es de treinta días, no noventa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sesenta (60) días",
+          "correcta": false,
+          "explicacion": "Sesenta días es el período inicial de paralización; el adicional tras la notificación es de treinta días."
+        },
+        {
+          "letra": "C",
+          "texto": "Treinta (30) días",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. k) dispone que, transcurridos otros treinta (30) días de inactividad tras la notificación, se declara de oficio la caducidad y se archiva el expediente."
+        },
+        {
+          "letra": "D",
+          "texto": "Quince (15) días",
+          "correcta": false,
+          "explicacion": "El plazo adicional tras la notificación no es de quince días."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Qué órgano emite letras del Tesoro para cubrir deficiencias estacionales de caja?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Tesorería General de la Nación",
+          "correcta": true,
+          "explicacion": "El art. 82 dispone que la Tesorería General de la Nación podrá emitir letras del Tesoro para cubrir deficiencias estacionales de caja."
+        },
+        {
+          "letra": "B",
+          "texto": "La Oficina Nacional de Crédito Público",
+          "correcta": false,
+          "explicacion": "La emisión de letras del Tesoro corresponde a la Tesorería General (arts. 74 inc. f y 82), no a la Oficina Nacional de Crédito Público."
+        },
+        {
+          "letra": "C",
+          "texto": "El Banco Central de la República Argentina",
+          "correcta": false,
+          "explicacion": "El art. 82 atribuye la emisión de letras del Tesoro a la Tesorería General de la Nación."
+        },
+        {
+          "letra": "D",
+          "texto": "La Contaduría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Contaduría rige la contabilidad (art. 88); las letras del Tesoro las emite la Tesorería General (art. 82)."
+        }
+      ]
+    }
+  ]
+}

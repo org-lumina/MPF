@@ -1,0 +1,794 @@
+{
+  "examen_id": 25,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Hay teléfonos que permiten ubicar el equipo si se pierde. La función muestra su posición en un mapa. Algunas opciones también permiten bloquearlo a distancia.",
+      "enunciado": "Según el texto, ¿qué permite la función para ubicar un teléfono perdido?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar la memoria.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la memoria."
+        },
+        {
+          "letra": "B",
+          "texto": "Recuperar las fotos borradas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona recuperar fotos."
+        },
+        {
+          "letra": "C",
+          "texto": "Mostrar su posición en un mapa.",
+          "correcta": true,
+          "explicacion": "El texto dice que la función muestra su posición en un mapa."
+        },
+        {
+          "letra": "D",
+          "texto": "Cambiar el número de línea.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el número de línea."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Usar pilas recargables en lugar de pilas comunes reduce la cantidad de residuos peligrosos. Una pila recargable puede cargarse muchas veces, mientras que las comunes se descartan cuando se agotan. Esto disminuye la basura y el gasto.",
+      "enunciado": "Según el texto, ¿qué ventaja tienen las pilas recargables?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se descartan después de un solo uso.",
+          "correcta": false,
+          "explicacion": "Eso describe a las pilas comunes, no a las recargables."
+        },
+        {
+          "letra": "B",
+          "texto": "Contaminan más que las comunes.",
+          "correcta": false,
+          "explicacion": "El texto dice que reducen los residuos peligrosos."
+        },
+        {
+          "letra": "C",
+          "texto": "No funcionan en los aparatos.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que no funcionen."
+        },
+        {
+          "letra": "D",
+          "texto": "Pueden cargarse muchas veces y reducen los residuos.",
+          "correcta": true,
+          "explicacion": "El texto dice que las recargables se cargan muchas veces y reducen los residuos peligrosos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua puede encontrarse en tres estados: sólido, líquido y gaseoso. Cuando hace mucho frío, el agua líquida se congela y se transforma en hielo. Si la calentamos lo suficiente, se convierte en vapor.",
+      "enunciado": "Según el texto, ¿en qué se transforma el agua líquida cuando hace mucho frío?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En vapor.",
+          "correcta": false,
+          "explicacion": "El texto dice que el vapor se forma al calentarla, no al enfriarla."
+        },
+        {
+          "letra": "B",
+          "texto": "En lluvia.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la lluvia."
+        },
+        {
+          "letra": "C",
+          "texto": "En niebla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la niebla."
+        },
+        {
+          "letra": "D",
+          "texto": "En hielo.",
+          "correcta": true,
+          "explicacion": "El texto afirma que con mucho frío el agua se congela y se transforma en hielo."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de conectarte a una red de wifi pública, recordá que otras personas podrían ver tu actividad. Por eso no conviene hacer operaciones bancarias en esas redes. Es preferible usar la conexión de datos del teléfono.",
+      "enunciado": "Según el texto, ¿qué no conviene hacer en una red de wifi pública?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Leer noticias generales.",
+          "correcta": false,
+          "explicacion": "El texto no señala la lectura de noticias como riesgo."
+        },
+        {
+          "letra": "B",
+          "texto": "Operaciones bancarias.",
+          "correcta": true,
+          "explicacion": "El texto dice que no conviene hacer operaciones bancarias en esas redes."
+        },
+        {
+          "letra": "C",
+          "texto": "Buscar la hora.",
+          "correcta": false,
+          "explicacion": "El texto no menciona consultar la hora como riesgo."
+        },
+        {
+          "letra": "D",
+          "texto": "Mirar el clima.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el clima."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Caminar es una actividad física sencilla que casi todos pueden hacer. No requiere equipos especiales y se puede practicar en plazas, parques o por la vereda. Hacerlo de forma habitual contribuye a cuidar el corazón.",
+      "enunciado": "Según el texto, una ventaja de caminar es que:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Requiere comprar ropa y zapatos costosos",
+          "correcta": false,
+          "explicacion": "El texto dice que no requiere equipos especiales."
+        },
+        {
+          "letra": "B",
+          "texto": "No requiere equipos especiales",
+          "correcta": true,
+          "explicacion": "El texto afirma que caminar no requiere equipos especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe practicarse una sola vez al mes",
+          "correcta": false,
+          "explicacion": "El texto recomienda hacerlo de forma habitual."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo puede hacerse en un gimnasio cerrado",
+          "correcta": false,
+          "explicacion": "El texto menciona plazas, parques y veredas."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El viento es el aire en movimiento. Se produce cuando el aire pasa de zonas más frías a zonas más cálidas. En algunas regiones de la Patagonia, el viento sopla con mucha fuerza casi todo el año.",
+      "enunciado": "Según el texto, ¿qué es el viento?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El agua en movimiento.",
+          "correcta": false,
+          "explicacion": "El texto dice que el viento es aire, no agua."
+        },
+        {
+          "letra": "B",
+          "texto": "El aire en movimiento.",
+          "correcta": true,
+          "explicacion": "El texto define al viento como el aire en movimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "El calor del Sol.",
+          "correcta": false,
+          "explicacion": "El texto no define al viento como calor."
+        },
+        {
+          "letra": "D",
+          "texto": "Una nube muy grande.",
+          "correcta": false,
+          "explicacion": "El texto no menciona nubes en su definición."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cuaderno de novedades del turno se completa al finalizar la jornada. En él se anotan los hechos relevantes y los trámites pendientes, de modo que el turno siguiente quede informado.",
+      "enunciado": "¿Para qué se completa el cuaderno de novedades?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para que el turno siguiente quede informado.",
+          "correcta": true,
+          "explicacion": "El texto indica que sirve para informar al turno siguiente sobre hechos y pendientes."
+        },
+        {
+          "letra": "B",
+          "texto": "Para calcular las horas extra.",
+          "correcta": false,
+          "explicacion": "El texto no menciona horas extra."
+        },
+        {
+          "letra": "C",
+          "texto": "Para registrar la asistencia del personal.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el cuaderno con la asistencia."
+        },
+        {
+          "letra": "D",
+          "texto": "Para reemplazar el remito interno.",
+          "correcta": false,
+          "explicacion": "El texto no menciona remitos."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Una contraseña segura combina letras mayúsculas, minúsculas, números y símbolos. Cuanto más larga sea, más difícil resulta adivinarla. Por eso se recomienda usar al menos doce caracteres.",
+      "enunciado": "Según el texto, ¿cuántos caracteres se recomienda como mínimo para una contraseña?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al menos doce caracteres.",
+          "correcta": true,
+          "explicacion": "El texto dice 'se recomienda usar al menos doce caracteres'."
+        },
+        {
+          "letra": "B",
+          "texto": "Al menos seis caracteres.",
+          "correcta": false,
+          "explicacion": "El texto indica doce, no seis."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos cuatro caracteres.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cuatro caracteres como mínimo."
+        },
+        {
+          "letra": "D",
+          "texto": "Al menos veinte caracteres.",
+          "correcta": false,
+          "explicacion": "El texto habla de doce, no de veinte."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La pistola de calor se utiliza únicamente en ambientes ventilados. Al terminar de trabajar, apunte la boquilla hacia un lugar seguro y déjela enfriar antes de guardarla, porque permanece caliente varios minutos.",
+      "enunciado": "Según el texto, ¿qué se debe hacer con la pistola de calor antes de guardarla?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejarla enfriar.",
+          "correcta": true,
+          "explicacion": "El texto indica dejarla enfriar antes de guardarla."
+        },
+        {
+          "letra": "B",
+          "texto": "Sumergirla en agua fría.",
+          "correcta": false,
+          "explicacion": "El texto no menciona sumergirla en agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Envolverla en un trapo caliente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona envolverla."
+        },
+        {
+          "letra": "D",
+          "texto": "Guardarla de inmediato.",
+          "correcta": false,
+          "explicacion": "El texto pide esperar el enfriamiento."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando recibís un correo de alguien que no conocés con un enlace, lo prudente es no abrirlo. Esos enlaces pueden llevar a páginas falsas. Verificar el remitente reduce el riesgo.",
+      "enunciado": "Completá: 'Cuando recibís un correo de un desconocido con un enlace, lo prudente es _______.'",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "abrirlo enseguida",
+          "correcta": false,
+          "explicacion": "El texto recomienda lo contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "no abrirlo",
+          "correcta": true,
+          "explicacion": "El texto dice que lo prudente es no abrirlo."
+        },
+        {
+          "letra": "C",
+          "texto": "reenviarlo a todos",
+          "correcta": false,
+          "explicacion": "El texto no sugiere reenviarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "responder con tus datos",
+          "correcta": false,
+          "explicacion": "El texto no sugiere responder con datos."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El manual advierte no apoyar objetos pesados sobre la impresora. El peso excesivo puede deformar la tapa, trabar el mecanismo de alimentación de papel y provocar atascos frecuentes.",
+      "enunciado": "Según el texto, ¿qué puede provocar apoyar objetos pesados sobre la impresora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un ahorro de tinta.",
+          "correcta": false,
+          "explicacion": "El texto no menciona ahorro de tinta."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejor calidad de impresión.",
+          "correcta": false,
+          "explicacion": "El texto no menciona mejoras en la impresión."
+        },
+        {
+          "letra": "C",
+          "texto": "Atascos frecuentes de papel.",
+          "correcta": true,
+          "explicacion": "El texto dice que el peso puede trabar la alimentación y provocar atascos."
+        },
+        {
+          "letra": "D",
+          "texto": "Una impresión más veloz.",
+          "correcta": false,
+          "explicacion": "El texto no menciona mayor velocidad."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La aspiradora posee un depósito de polvo que debe vaciarse cuando alcanza la marca de máximo. Continuar usándola con el depósito lleno reduce la potencia de succión y puede obstruir los conductos internos.",
+      "enunciado": "Según el texto, ¿cuándo debe vaciarse el depósito de la aspiradora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una vez por año únicamente.",
+          "correcta": false,
+          "explicacion": "El texto no fija una frecuencia anual."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando deja de encender.",
+          "correcta": false,
+          "explicacion": "El texto no condiciona el vaciado al encendido."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando alcanza la marca de máximo.",
+          "correcta": true,
+          "explicacion": "El texto indica vaciar el depósito al llegar a la marca de máximo."
+        },
+        {
+          "letra": "D",
+          "texto": "Nunca, se limpia solo.",
+          "correcta": false,
+          "explicacion": "El texto exige vaciar el depósito cuando se llena."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Reparar un objeto roto en lugar de tirarlo y comprar otro es una forma de cuidar el ambiente. Muchas cosas pueden arreglarse con un poco de esfuerzo o ayuda de un especialista. Reparar reduce los residuos y el consumo de productos nuevos.",
+      "enunciado": "Según el texto, ¿qué ventaja tiene reparar un objeto roto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Genera más basura en el hogar.",
+          "correcta": false,
+          "explicacion": "El texto dice que reparar reduce los residuos."
+        },
+        {
+          "letra": "B",
+          "texto": "Encarece el costo de vida.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el costo de vida."
+        },
+        {
+          "letra": "C",
+          "texto": "Reduce los residuos y el consumo de productos nuevos.",
+          "correcta": true,
+          "explicacion": "El texto dice que reparar reduce los residuos y el consumo de productos nuevos."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumenta la fabricación de objetos nuevos.",
+          "correcta": false,
+          "explicacion": "El texto plantea reducir el consumo de productos nuevos."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 620?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "191",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "372",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "196",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "186",
+          "correcta": true,
+          "explicacion": "El 30 % de 620 se calcula 30 ÷ 100 × 620 = 186."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 300?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "150",
+          "correcta": true,
+          "explicacion": "El 50 % de 300 se calcula 50 ÷ 100 × 300 = 150."
+        },
+        {
+          "letra": "C",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "155",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 480?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "101",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "106",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "96",
+          "correcta": true,
+          "explicacion": "El 20 % de 480 se calcula 20 ÷ 100 × 480 = 96."
+        },
+        {
+          "letra": "D",
+          "texto": "192",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 440 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "540",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "360",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "520",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 440 + 80 = 520."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 380?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "76",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "43",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "38",
+          "correcta": true,
+          "explicacion": "El 10 % de 380 se calcula 10 ÷ 100 × 380 = 38."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 420 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "220",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "620",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 420 + 200 = 620."
+        },
+        {
+          "letra": "D",
+          "texto": "610",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 40 % de 300?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": true,
+          "explicacion": "El 40 % de 300 se calcula 40 ÷ 100 × 300 = 120."
+        },
+        {
+          "letra": "B",
+          "texto": "130",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "125",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 220 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "500",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 220 + 280 = 500."
+        },
+        {
+          "letra": "B",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "520",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 780?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "234",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "122",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "117",
+          "correcta": true,
+          "explicacion": "El 15 % de 780 se calcula 15 ÷ 100 × 780 = 117."
+        },
+        {
+          "letra": "D",
+          "texto": "127",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 500 cajas y llegan 120 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "620",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 500 + 120 = 620."
+        },
+        {
+          "letra": "C",
+          "texto": "640",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "610",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 440 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "270",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 440 − 170 = 270."
+        },
+        {
+          "letra": "C",
+          "texto": "280",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "610",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 400 cajas y llegan 160 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "580",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "240",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "560",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 400 + 160 = 560."
+        },
+        {
+          "letra": "D",
+          "texto": "550",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

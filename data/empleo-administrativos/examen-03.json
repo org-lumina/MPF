@@ -1,0 +1,794 @@
+{
+  "examen_id": 3,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los turnos perdidos por inasistencia liberan automáticamente el horario para otro solicitante. No es posible recuperar el mismo turno: se debe gestionar uno nuevo desde el sistema.",
+      "enunciado": "Según el texto, ¿qué hay que hacer tras perder un turno por inasistencia?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reclamar el mismo turno en la oficina.",
+          "correcta": false,
+          "explicacion": "El texto aclara que no es posible recuperar el mismo turno."
+        },
+        {
+          "letra": "B",
+          "texto": "Esperar a ser reprogramado automáticamente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona reprogramación automática."
+        },
+        {
+          "letra": "C",
+          "texto": "Presentarse sin turno al día siguiente.",
+          "correcta": false,
+          "explicacion": "El texto pide gestionar un turno nuevo, no presentarse sin él."
+        },
+        {
+          "letra": "D",
+          "texto": "Gestionar un turno nuevo desde el sistema.",
+          "correcta": true,
+          "explicacion": "El texto indica que no se recupera el turno y hay que gestionar uno nuevo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El suelo de la región pampeana es muy fértil. Por eso allí se cultivan trigo, maíz y soja en grandes cantidades. Esta zona es una de las más productivas del país.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En la región pampeana hay muchas montañas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona montañas."
+        },
+        {
+          "letra": "B",
+          "texto": "En la región pampeana no se cultiva nada.",
+          "correcta": false,
+          "explicacion": "El texto dice que allí se cultivan trigo, maíz y soja."
+        },
+        {
+          "letra": "C",
+          "texto": "La región pampeana es muy productiva gracias a su suelo fértil.",
+          "correcta": true,
+          "explicacion": "El texto destaca la fertilidad del suelo pampeano y su producción agrícola."
+        },
+        {
+          "letra": "D",
+          "texto": "La región pampeana tiene clima muy frío.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el clima frío."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El Sol es una estrella enorme que nos da luz y calor. Está tan lejos que su luz tarda varios minutos en llegar a la Tierra. Sin el Sol, no sería posible la vida en nuestro planeta.",
+      "enunciado": "Según el texto, ¿qué es el Sol?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una estrella enorme.",
+          "correcta": true,
+          "explicacion": "El texto afirma que el Sol es una estrella enorme."
+        },
+        {
+          "letra": "B",
+          "texto": "Un satélite de la Tierra.",
+          "correcta": false,
+          "explicacion": "El texto no dice que sea un satélite."
+        },
+        {
+          "letra": "C",
+          "texto": "Una nube muy brillante.",
+          "correcta": false,
+          "explicacion": "El texto no lo describe como una nube."
+        },
+        {
+          "letra": "D",
+          "texto": "Un planeta cercano a la Tierra.",
+          "correcta": false,
+          "explicacion": "El texto dice que el Sol es una estrella."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Cuando recibís un archivo comprimido que no esperabas, conviene no abrirlo enseguida. Esos archivos pueden esconder programas dañinos. Lo prudente es confirmar con quien lo envió.",
+      "enunciado": "Completá: 'Cuando recibís un archivo comprimido que no esperabas, lo prudente es _______.'",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "confirmar con quien lo envió",
+          "correcta": true,
+          "explicacion": "El texto recomienda confirmar con quien lo envió."
+        },
+        {
+          "letra": "B",
+          "texto": "abrirlo enseguida",
+          "correcta": false,
+          "explicacion": "El texto aconseja no abrirlo enseguida."
+        },
+        {
+          "letra": "C",
+          "texto": "reenviarlo a tus contactos",
+          "correcta": false,
+          "explicacion": "El texto no sugiere reenviarlo."
+        },
+        {
+          "letra": "D",
+          "texto": "borrar tus otras descargas en el dispositivo",
+          "correcta": false,
+          "explicacion": "El texto no menciona borrar descargas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El río Pilcomayo nace en las montañas y recorre el norte argentino. Lleva mucho sedimento, por lo que sus aguas suelen verse de color marrón. En su recorrido sirve de límite con países vecinos.",
+      "enunciado": "Según el texto, ¿por qué las aguas del río Pilcomayo se ven marrones?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque pasa por la selva.",
+          "correcta": false,
+          "explicacion": "El texto lo atribuye al sedimento, no a la selva."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque tiene muchos peces.",
+          "correcta": false,
+          "explicacion": "El texto no menciona peces."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el Sol lo calienta.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el Sol."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque lleva mucho sedimento.",
+          "correcta": true,
+          "explicacion": "El texto dice que lleva mucho sedimento, por eso sus aguas se ven marrones."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Dejar el auto en doble fila bloquea la circulación de los demás vehículos. Esta maniobra genera congestión y demoras en el tránsito. Por eso, debe evitarse incluso cuando la detención es breve.",
+      "enunciado": "Completá: Dejar el auto en doble fila ______ la circulación de los demás vehículos.",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "bloquea",
+          "correcta": true,
+          "explicacion": "El texto dice que dejar el auto en doble fila bloquea la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "acelera",
+          "correcta": false,
+          "explicacion": "El texto no dice que acelere la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "favorece",
+          "correcta": false,
+          "explicacion": "El texto indica que genera congestión, no que favorezca la circulación."
+        },
+        {
+          "letra": "D",
+          "texto": "ordena",
+          "correcta": false,
+          "explicacion": "El texto no dice que ordene la circulación."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las luces bajas del automóvil deben encenderse al circular durante la noche. También conviene usarlas en días de niebla o lluvia intensa. Una buena iluminación permite ver mejor y ser visto por los demás.",
+      "enunciado": "Según el texto, ¿cuándo deben encenderse las luces bajas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el sol está fuerte.",
+          "correcta": false,
+          "explicacion": "El texto menciona la noche, la niebla y la lluvia, no el sol fuerte."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo al estacionar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el estacionamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Al circular durante la noche.",
+          "correcta": true,
+          "explicacion": "El texto dice que las luces bajas deben encenderse al circular de noche."
+        },
+        {
+          "letra": "D",
+          "texto": "Únicamente en la autopista.",
+          "correcta": false,
+          "explicacion": "El texto no limita su uso a la autopista."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El respeto por las personas mayores es un valor importante en la convivencia. Ofrecer ayuda para cruzar la calle o ceder el lugar son gestos sencillos. Estas acciones reflejan consideración hacia los demás.",
+      "enunciado": "Completá: Ofrecer ayuda para cruzar la calle o ceder el lugar son ______ de consideración hacia los demás.",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "gestos",
+          "correcta": true,
+          "explicacion": "El texto los llama gestos sencillos que reflejan consideración."
+        },
+        {
+          "letra": "B",
+          "texto": "infracciones",
+          "correcta": false,
+          "explicacion": "El texto no los califica como infracciones."
+        },
+        {
+          "letra": "C",
+          "texto": "obligaciones legales",
+          "correcta": false,
+          "explicacion": "El texto los presenta como gestos, no como obligaciones legales."
+        },
+        {
+          "letra": "D",
+          "texto": "trámites",
+          "correcta": false,
+          "explicacion": "El texto no los llama trámites."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comprar productos a granel, sin tantos envoltorios, reduce la cantidad de envases que terminan en la basura. Llevar nuestros propios frascos o bolsas reutilizables hace que la compra genere menos residuos. Es una forma práctica de consumir de manera responsable.",
+      "enunciado": "Según el texto, ¿qué ventaja tiene comprar productos a granel?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reduce la cantidad de envases que terminan en la basura.",
+          "correcta": true,
+          "explicacion": "El texto dice que comprar a granel reduce la cantidad de envases en la basura."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta el tiempo de conservación.",
+          "correcta": false,
+          "explicacion": "El texto no habla de conservación."
+        },
+        {
+          "letra": "C",
+          "texto": "Mejora el sabor de los alimentos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sabor."
+        },
+        {
+          "letra": "D",
+          "texto": "Permite comprar productos más caros.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el granel con el precio."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El aire acondicionado requiere una limpieza periódica de los filtros, al menos una vez por mes durante el verano. Filtros sucios reducen la eficiencia del equipo y aumentan el consumo de energía.",
+      "enunciado": "Según el texto, ¿con qué frecuencia deben limpiarse los filtros en verano?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nunca, son autolimpiantes.",
+          "correcta": false,
+          "explicacion": "El texto exige limpieza periódica de los filtros."
+        },
+        {
+          "letra": "B",
+          "texto": "Una vez por mes.",
+          "correcta": true,
+          "explicacion": "El texto indica limpiar los filtros al menos una vez por mes durante el verano."
+        },
+        {
+          "letra": "C",
+          "texto": "Una vez por semana.",
+          "correcta": false,
+          "explicacion": "El texto menciona una vez por mes, no por semana."
+        },
+        {
+          "letra": "D",
+          "texto": "Una vez por año.",
+          "correcta": false,
+          "explicacion": "El texto menciona una vez por mes, no por año."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El semáforo regula la circulación en las intersecciones. La luz roja indica que el conductor debe detener su vehículo por completo. La luz verde habilita el paso, siempre que la vía esté despejada.",
+      "enunciado": "Según el texto, ¿qué debe hacer el conductor ante la luz roja?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Avanzar si la vía está despejada.",
+          "correcta": false,
+          "explicacion": "Avanzar con vía despejada corresponde a la luz verde, no a la roja."
+        },
+        {
+          "letra": "B",
+          "texto": "Tocar bocina antes de pasar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona tocar bocina en ningún momento."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el vehículo por completo.",
+          "correcta": true,
+          "explicacion": "El texto dice que la luz roja indica que el conductor debe detener su vehículo por completo."
+        },
+        {
+          "letra": "D",
+          "texto": "Reducir la velocidad y seguir.",
+          "correcta": false,
+          "explicacion": "El texto no menciona reducir y seguir ante la luz roja, sino detenerse."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de imprimir un documento, conviene revisar si realmente hace falta tenerlo en papel. Muchas veces alcanza con leerlo o guardarlo en la computadora. Imprimir menos ahorra papel, tinta y energía.",
+      "enunciado": "Según el texto, ¿qué se ahorra al imprimir menos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Espacio en la computadora.",
+          "correcta": false,
+          "explicacion": "El texto sugiere guardar en la computadora, no lo presenta como ahorro."
+        },
+        {
+          "letra": "B",
+          "texto": "Papel, tinta y energía.",
+          "correcta": true,
+          "explicacion": "El texto menciona que imprimir menos ahorra papel, tinta y energía."
+        },
+        {
+          "letra": "C",
+          "texto": "Agua y combustible.",
+          "correcta": false,
+          "explicacion": "El texto no menciona agua ni combustible."
+        },
+        {
+          "letra": "D",
+          "texto": "Tiempo y dinero solamente.",
+          "correcta": false,
+          "explicacion": "El texto enumera papel, tinta y energía, no esos elementos."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El telgopor, también llamado espuma plástica, es difícil de reciclar y ocupa mucho espacio en la basura. Por eso conviene evitar los productos que lo usan como envase. Elegir alternativas de cartón o materiales reciclables es preferible.",
+      "enunciado": "Según el texto, ¿por qué conviene evitar el telgopor?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es muy caro de producir.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el costo de producción."
+        },
+        {
+          "letra": "B",
+          "texto": "Se degrada muy rápido.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que se degrade rápido."
+        },
+        {
+          "letra": "C",
+          "texto": "Contamina el agua de lluvia.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el agua de lluvia."
+        },
+        {
+          "letra": "D",
+          "texto": "Es difícil de reciclar y ocupa mucho espacio en la basura.",
+          "correcta": true,
+          "explicacion": "El texto dice que el telgopor es difícil de reciclar y ocupa mucho espacio."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 740 expedientes y resolvió 170. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "910",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "560",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "570",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 740 − 170 = 570."
+        },
+        {
+          "letra": "D",
+          "texto": "580",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "21",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "32",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "26",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "16",
+          "correcta": true,
+          "explicacion": "El 20 % de 80 se calcula 20 ÷ 100 × 80 = 16."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 180?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "95",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "90",
+          "correcta": true,
+          "explicacion": "El 50 % de 180 se calcula 50 ÷ 100 × 180 = 90."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 860?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1.290",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "645",
+          "correcta": true,
+          "explicacion": "El 75 % de 860 se calcula 75 ÷ 100 × 860 = 645."
+        },
+        {
+          "letra": "C",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "655",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 100?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "15",
+          "correcta": true,
+          "explicacion": "El 15 % de 100 se calcula 15 ÷ 100 × 100 = 15."
+        },
+        {
+          "letra": "C",
+          "texto": "25",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 17 unidades y hay 5 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "102",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "85",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 17 × 5 = 85."
+        },
+        {
+          "letra": "C",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "22",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 344 hojas en partes iguales entre 8 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "43",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 344 ÷ 8 = 43."
+        },
+        {
+          "letra": "B",
+          "texto": "336",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "38",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 300?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "180",
+          "correcta": true,
+          "explicacion": "El 60 % de 300 se calcula 60 ÷ 100 × 300 = 180."
+        },
+        {
+          "letra": "B",
+          "texto": "190",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "360",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "185",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 29 unidades y hay 7 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "232",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "196",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "36",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "203",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 29 × 7 = 203."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 426 hojas en partes iguales entre 6 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "76",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "66",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "420",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "71",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 426 ÷ 6 = 71."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 29 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "261",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "232",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 29 × 8 = 232."
+        },
+        {
+          "letra": "C",
+          "texto": "37",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "224",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuál es el promedio de 15, 25 y 35?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "23",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "25",
+          "correcta": true,
+          "explicacion": "El promedio es la suma dividida por la cantidad de valores: (15 + 25 + 35) ÷ 3 = 25."
+        },
+        {
+          "letra": "C",
+          "texto": "75",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "27",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "examen_id": 22,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de manipular una herramienta cortante, conviene verificar que el mango esté en buen estado. Un mango flojo o roto puede hacer que la herramienta se escape y cause un corte.",
+      "enunciado": "Según el texto, ¿qué puede ocurrir con un mango flojo o roto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que pese menos",
+          "correcta": false,
+          "explicacion": "El texto no menciona el peso."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se oxide la hoja",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el mango con la oxidación."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la herramienta se escape y cause un corte",
+          "correcta": true,
+          "explicacion": "El texto dice que un mango flojo puede hacer que la herramienta se escape y corte."
+        },
+        {
+          "letra": "D",
+          "texto": "Que la herramienta corte mejor",
+          "correcta": false,
+          "explicacion": "El texto advierte un riesgo, no una mejora."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los enlaces acortados ocultan la dirección real de un sitio. Por eso no siempre se sabe a dónde llevan. Antes de hacer clic, conviene desconfiar si el mensaje viene de un desconocido.",
+      "enunciado": "De acuerdo con el texto, ¿qué problema tienen los enlaces acortados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ocultan la dirección real del sitio.",
+          "correcta": true,
+          "explicacion": "El texto dice que ocultan la dirección real."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambian el idioma del navegador.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el idioma."
+        },
+        {
+          "letra": "C",
+          "texto": "Consumen toda la batería.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la batería."
+        },
+        {
+          "letra": "D",
+          "texto": "Hacen más lenta la descarga de fotos.",
+          "correcta": false,
+          "explicacion": "El texto no habla de descargas de fotos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El registro de asistencia se realiza con huella digital al ingresar y al egresar. Quien no pueda registrar la huella debe informarlo de inmediato a la oficina de personal para fichar de forma manual.",
+      "enunciado": "¿Qué debe hacer quien no pueda registrar su huella?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esperar al día siguiente para registrar.",
+          "correcta": false,
+          "explicacion": "El texto pide informarlo de inmediato, no esperar."
+        },
+        {
+          "letra": "B",
+          "texto": "Registrar la salida únicamente.",
+          "correcta": false,
+          "explicacion": "El texto no plantea registrar solo la salida."
+        },
+        {
+          "letra": "C",
+          "texto": "Pedirle a un compañero que fiche por él.",
+          "correcta": false,
+          "explicacion": "El texto no autoriza que otro fiche por el agente."
+        },
+        {
+          "letra": "D",
+          "texto": "Informarlo a la oficina de personal para fichar de forma manual.",
+          "correcta": true,
+          "explicacion": "El texto indica avisar a personal para el fichaje manual."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El derecho a la salud implica que las personas puedan recibir atención médica cuando la necesitan. Los hospitales públicos brindan este servicio a la comunidad. Cuidar la propia salud también es parte de la responsabilidad individual.",
+      "enunciado": "Según el texto, ¿qué implica el derecho a la salud?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que los hospitales no atiendan al público.",
+          "correcta": false,
+          "explicacion": "El texto dice que los hospitales públicos brindan el servicio."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la atención médica sea un lujo.",
+          "correcta": false,
+          "explicacion": "El texto lo presenta como un derecho, no un lujo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que solo los más jóvenes se atiendan.",
+          "correcta": false,
+          "explicacion": "El texto no limita la atención a los jóvenes."
+        },
+        {
+          "letra": "D",
+          "texto": "Que las personas puedan recibir atención médica cuando la necesitan.",
+          "correcta": true,
+          "explicacion": "El texto dice que el derecho a la salud implica recibir atención médica."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El reciclaje permite reutilizar materiales y reducir la cantidad de basura. Separar vidrio, papel y plástico facilita este proceso. Esta práctica colabora con el cuidado del ambiente en las ciudades.",
+      "enunciado": "Según el texto, ¿qué permite el reciclaje?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Eliminar las plazas de la ciudad.",
+          "correcta": false,
+          "explicacion": "El texto no menciona eliminar plazas."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar la cantidad de residuos.",
+          "correcta": false,
+          "explicacion": "El texto dice que reduce la basura, no que la aumente."
+        },
+        {
+          "letra": "C",
+          "texto": "Encarecer los productos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el precio de los productos."
+        },
+        {
+          "letra": "D",
+          "texto": "Reutilizar materiales y reducir la basura.",
+          "correcta": true,
+          "explicacion": "El texto dice que el reciclaje permite reutilizar materiales y reducir la basura."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se informa que el plan de limpieza profunda de las oficinas se realiza el primer sábado de cada mes. Ese día no hay atención al público y el ingreso queda reservado al personal de maestranza.",
+      "enunciado": "¿A quién queda reservado el ingreso el día de la limpieza profunda?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A las autoridades del organismo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona a las autoridades."
+        },
+        {
+          "letra": "B",
+          "texto": "Al personal de maestranza.",
+          "correcta": true,
+          "explicacion": "El texto reserva el ingreso al personal de maestranza ese día."
+        },
+        {
+          "letra": "C",
+          "texto": "Al público con turno previo.",
+          "correcta": false,
+          "explicacion": "El texto aclara que ese día no hay atención al público."
+        },
+        {
+          "letra": "D",
+          "texto": "A todo el personal administrativo.",
+          "correcta": false,
+          "explicacion": "El texto reserva el ingreso a maestranza, no a todo el personal."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las pilas usadas no deben tirarse junto con la basura común porque contienen sustancias que pueden contaminar el suelo y el agua. Lo recomendable es llevarlas a puntos de recolección especiales. Allí se las trata de forma segura.",
+      "enunciado": "Según el texto, ¿qué conviene hacer con las pilas usadas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Arrojarlas por el desagüe.",
+          "correcta": false,
+          "explicacion": "El texto no propone arrojarlas por el desagüe."
+        },
+        {
+          "letra": "B",
+          "texto": "Enterrarlas en el jardín.",
+          "correcta": false,
+          "explicacion": "El texto advierte que contaminan el suelo, no sugiere enterrarlas."
+        },
+        {
+          "letra": "C",
+          "texto": "Llevarlas a puntos de recolección especiales.",
+          "correcta": true,
+          "explicacion": "El texto recomienda llevarlas a puntos de recolección especiales."
+        },
+        {
+          "letra": "D",
+          "texto": "Tirarlas con la basura común del hogar.",
+          "correcta": false,
+          "explicacion": "El texto dice expresamente que no deben tirarse con la basura común."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Se comunica al personal que la circular interna debe leerse y firmarse antes del viernes. Quien no la firme en plazo deberá acercarse a la oficina de Recursos Humanos para regularizar su situación.",
+      "enunciado": "Según el comunicado, ¿qué debe hacer quien no firme la circular a tiempo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Enviar un correo a su superior directo.",
+          "correcta": false,
+          "explicacion": "El texto menciona Recursos Humanos, no el superior directo."
+        },
+        {
+          "letra": "B",
+          "texto": "Firmar la circular el lunes siguiente sin trámite.",
+          "correcta": false,
+          "explicacion": "El texto no habilita firmar luego sin pasar por Recursos Humanos."
+        },
+        {
+          "letra": "C",
+          "texto": "Esperar a que lo convoquen por nota.",
+          "correcta": false,
+          "explicacion": "El texto pide acción propia del agente, no esperar convocatoria."
+        },
+        {
+          "letra": "D",
+          "texto": "Acercarse a Recursos Humanos para regularizar su situación.",
+          "correcta": true,
+          "explicacion": "El texto indica que quien no firme en plazo debe acercarse a Recursos Humanos."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 30 % de 940?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "287",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "282",
+          "correcta": true,
+          "explicacion": "El 30 % de 940 se calcula 30 ÷ 100 × 940 = 282."
+        },
+        {
+          "letra": "C",
+          "texto": "292",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "564",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 620 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "380",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "860",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 620 + 240 = 860."
+        },
+        {
+          "letra": "C",
+          "texto": "850",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "880",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 880?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "220",
+          "correcta": true,
+          "explicacion": "El 25 % de 880 se calcula 25 ÷ 100 × 880 = 220."
+        },
+        {
+          "letra": "C",
+          "texto": "440",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "225",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 41 unidades y hay 4 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "164",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 41 × 4 = 164."
+        },
+        {
+          "letra": "C",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "205",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 560 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "520",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "620",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "600",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 560 + 40 = 600."
+        },
+        {
+          "letra": "D",
+          "texto": "590",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 13 unidades y hay 6 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "78",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 13 × 6 = 78."
+        },
+        {
+          "letra": "B",
+          "texto": "72",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "19",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "91",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 35 unidades y hay 6 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "245",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "210",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 35 × 6 = 210."
+        },
+        {
+          "letra": "C",
+          "texto": "41",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "204",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 180 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "450",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "460",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 180 + 280 = 460."
+        },
+        {
+          "letra": "D",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 1° bis, inc. g) de la Ley 19.549, los plazos se computan:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desde el mismo día de la notificación",
+          "correcta": false,
+          "explicacion": "El cómputo no arranca el mismo día sino a partir del día siguiente al de la notificación."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde la publicación en el Boletín Oficial",
+          "correcta": false,
+          "explicacion": "Para actos particulares el cómputo arranca el día siguiente a la notificación, no a la publicación."
+        },
+        {
+          "letra": "C",
+          "texto": "Desde el dictado del acto",
+          "correcta": false,
+          "explicacion": "El cómputo se vincula a la notificación, no al dictado del acto."
+        },
+        {
+          "letra": "D",
+          "texto": "A partir del día siguiente al de la notificación",
+          "correcta": true,
+          "explicacion": "El art. 1° bis, inc. g) (iii) dispone que los plazos se computan a partir del día siguiente al de la notificación."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, cumplido el término de disponibilidad sin nueva relación de trabajo, el agente:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Recupera automáticamente su cargo anterior",
+          "correcta": false,
+          "explicacion": "El art. 11 no prevé la recuperación automática del cargo."
+        },
+        {
+          "letra": "B",
+          "texto": "Continúa cobrando su sueldo indefinidamente",
+          "correcta": false,
+          "explicacion": "El art. 11 dispone la desvinculación automática, no el cobro indefinido."
+        },
+        {
+          "letra": "C",
+          "texto": "Queda automáticamente desvinculado y tiene derecho a indemnización",
+          "correcta": true,
+          "explicacion": "El art. 11 establece que queda automáticamente desvinculado y con derecho a una indemnización de un mes de sueldo por año de servicio o fracción mayor de tres meses."
+        },
+        {
+          "letra": "D",
+          "texto": "Pasa a revistar como personal de gabinete",
+          "correcta": false,
+          "explicacion": "No hay previsión de pase a personal de gabinete en el art. 11."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 116, ¿qué carácter tiene la Auditoría General de la Nación respecto del sector público nacional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Órgano coordinador de la administración financiera",
+          "correcta": false,
+          "explicacion": "El órgano coordinador lo establece el Poder Ejecutivo (art. 6); la AGN es de control externo."
+        },
+        {
+          "letra": "B",
+          "texto": "Órgano rector del sistema de contabilidad",
+          "correcta": false,
+          "explicacion": "El órgano rector de la contabilidad es la Contaduría General (art. 88); la AGN es de control externo."
+        },
+        {
+          "letra": "C",
+          "texto": "Ente de control interno",
+          "correcta": false,
+          "explicacion": "El control interno corresponde a la Sindicatura (art. 96); la AGN es de control externo (art. 116)."
+        },
+        {
+          "letra": "D",
+          "texto": "Ente de control externo",
+          "correcta": true,
+          "explicacion": "El art. 116 crea la Auditoría General de la Nación como ente de control externo del sector público nacional."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 6, ¿quién establece el órgano responsable de la coordinación de los sistemas que integran la administración financiera?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La Auditoría General de la Nación",
+          "correcta": false,
+          "explicacion": "La AGN es de control externo (art. 116); el órgano coordinador lo establece el PEN (art. 6)."
+        },
+        {
+          "letra": "B",
+          "texto": "El Congreso de la Nación",
+          "correcta": false,
+          "explicacion": "El art. 6 atribuye esa facultad al Poder Ejecutivo Nacional, no al Congreso."
+        },
+        {
+          "letra": "C",
+          "texto": "El Poder Ejecutivo Nacional",
+          "correcta": true,
+          "explicacion": "El art. 6 dispone que el Poder Ejecutivo Nacional establecerá el órgano responsable de la coordinación de los sistemas de administración financiera."
+        },
+        {
+          "letra": "D",
+          "texto": "La Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "La Sindicatura es órgano de control interno (art. 96); el art. 6 atribuye la designación del coordinador al PEN."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme al art. 7 de la Ley 19.549, el requisito de finalidad del acto administrativo prohíbe:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Adoptar medidas razonables y proporcionadas",
+          "correcta": false,
+          "explicacion": "Las medidas razonables y proporcionadas son exigidas, no prohibidas, por el art. 7, inc. f)."
+        },
+        {
+          "letra": "B",
+          "texto": "Perseguir encubiertamente otros fines distintos de los que justifican el acto",
+          "correcta": true,
+          "explicacion": "El art. 7, inc. f) prohíbe perseguir encubiertamente otros fines, públicos o privados, distintos de los que justifican el acto, su causa y objeto."
+        },
+        {
+          "letra": "C",
+          "texto": "Cumplir con la finalidad de las normas que otorgan las facultades",
+          "correcta": false,
+          "explicacion": "Cumplir con la finalidad de las normas es lo exigido, no lo prohibido, por el art. 7, inc. f)."
+        },
+        {
+          "letra": "D",
+          "texto": "Motivar el acto administrativo",
+          "correcta": false,
+          "explicacion": "Motivar el acto es un requisito (inc. e), no algo prohibido por el requisito de finalidad."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el art. 15 de la Ley 25.188, si al momento de su designación el funcionario está alcanzado por una incompatibilidad del art. 13, debe:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esperar tres años antes de asumir",
+          "correcta": false,
+          "explicacion": "El art. 15 no impone esperar; obliga a renunciar a las actividades antes de asumir."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener las actividades pero informarlas anualmente",
+          "correcta": false,
+          "explicacion": "El art. 15 exige renunciar a las actividades incompatibles, no sólo informarlas."
+        },
+        {
+          "letra": "C",
+          "texto": "Renunciar a tales actividades como condición previa para asumir el cargo",
+          "correcta": true,
+          "explicacion": "El art. 15, inc. a, obliga a renunciar a tales actividades como condición previa para asumir el cargo."
+        },
+        {
+          "letra": "D",
+          "texto": "Transferir las actividades a un familiar directo",
+          "correcta": false,
+          "explicacion": "El art. 15 manda renunciar a las actividades, no transferirlas a un familiar."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿Cuál de los siguientes derechos de todas las personas reconoce el material?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Derecho a la vivienda subsidiada por el Estado",
+          "correcta": false,
+          "explicacion": "Incorrecta. El material menciona el acceso a una vivienda digna como derecho que protege a la familia, no formulado de este modo entre los derechos de todas las personas."
+        },
+        {
+          "letra": "B",
+          "texto": "Derecho a la jubilación móvil",
+          "correcta": false,
+          "explicacion": "Incorrecta. Las jubilaciones y pensiones móviles figuran entre los derechos de la seguridad social, no entre los derechos de todas las personas."
+        },
+        {
+          "letra": "C",
+          "texto": "Derecho a la vida",
+          "correcta": true,
+          "explicacion": "Correcta. El material enumera el 'derecho a la vida' entre los derechos de todas las personas."
+        },
+        {
+          "letra": "D",
+          "texto": "Derecho de huelga",
+          "correcta": false,
+          "explicacion": "Incorrecta. El derecho de huelga figura entre los derechos de los gremios."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, entre las atribuciones de las juntas electorales se encuentra:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Designar a los fiscales de los partidos políticos",
+          "correcta": false,
+          "explicacion": "Los fiscales los designan los partidos (art. 56), no las juntas."
+        },
+        {
+          "letra": "B",
+          "texto": "Decidir sobre las impugnaciones, votos recurridos y protestas que se sometan a su consideración",
+          "correcta": true,
+          "explicacion": "El art. 52, inc. 3 atribuye a las juntas electorales decidir sobre las impugnaciones, votos recurridos y protestas que se sometan a su consideración."
+        },
+        {
+          "letra": "C",
+          "texto": "Convocar a las elecciones de cargos nacionales",
+          "correcta": false,
+          "explicacion": "La convocatoria la realiza el Poder Ejecutivo nacional (art. 53)."
+        },
+        {
+          "letra": "D",
+          "texto": "Confeccionar el Registro Nacional de Electores",
+          "correcta": false,
+          "explicacion": "Ese registro lo organiza la Cámara Nacional Electoral (art. 17)."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 10 de la Ley 19.549, ¿en qué caso puede conferirse al silencio sentido positivo dentro del inciso a)?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo mediando disposición expresa",
+          "correcta": true,
+          "explicacion": "El art. 10, inc. a) establece que solo mediando disposición expresa podrá conferirse al silencio sentido positivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre que el interesado lo solicite",
+          "correcta": false,
+          "explicacion": "La sola solicitud del interesado no torna positivo el silencio; se requiere disposición expresa."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando lo decida discrecionalmente el funcionario",
+          "correcta": false,
+          "explicacion": "No depende de la discrecionalidad del funcionario, sino de una disposición expresa."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando el plazo supere los noventa días",
+          "correcta": false,
+          "explicacion": "El transcurso del plazo no convierte el silencio en positivo; debe mediar disposición expresa."
+        }
+      ]
+    }
+  ]
+}

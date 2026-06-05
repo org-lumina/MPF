@@ -1,0 +1,794 @@
+{
+  "examen_id": 12,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Ante un sangrado de nariz, conviene inclinar la cabeza hacia adelante y presionar las fosas nasales. No se debe echar la cabeza hacia atrás, porque la sangre podría pasar a la garganta.",
+      "enunciado": "Según el texto, ¿por qué no se debe echar la cabeza hacia atrás ante un sangrado de nariz?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque aumenta la presión arterial",
+          "correcta": false,
+          "explicacion": "El texto no menciona la presión arterial."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque la sangre podría pasar a la garganta",
+          "correcta": true,
+          "explicacion": "El texto explica que la sangre podría pasar a la garganta."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque seca la nariz",
+          "correcta": false,
+          "explicacion": "El texto no menciona que seque la nariz."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque marea más a la persona",
+          "correcta": false,
+          "explicacion": "El texto no menciona el mareo como motivo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua dulce apta para el consumo es una parte muy pequeña de toda el agua del planeta. La mayor parte está en los mares, que son salados, o congelada en los polos. Por eso cuidar el agua potable es tan importante.",
+      "enunciado": "Según el texto, ¿por qué es importante cuidar el agua potable?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el agua de los polos abunda.",
+          "correcta": false,
+          "explicacion": "El texto menciona el agua congelada como no disponible para consumo directo."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el agua salada se puede beber.",
+          "correcta": false,
+          "explicacion": "El texto no afirma que el agua salada sea potable."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque toda el agua del planeta es potable.",
+          "correcta": false,
+          "explicacion": "El texto dice que la mayor parte es salada o está congelada."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque el agua dulce apta para consumo es muy escasa.",
+          "correcta": true,
+          "explicacion": "El texto explica que el agua dulce apta es una parte muy pequeña del total."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las nubes están formadas por pequeñas gotas de agua. Cuando esas gotas se juntan y crecen, caen en forma de lluvia. Así, el agua que sube del mar regresa a la tierra.",
+      "enunciado": "Según el texto, ¿de qué están formadas las nubes?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De hielo solamente.",
+          "correcta": false,
+          "explicacion": "El texto menciona gotas de agua, no solo hielo."
+        },
+        {
+          "letra": "B",
+          "texto": "De polvo y arena.",
+          "correcta": false,
+          "explicacion": "El texto menciona gotas de agua, no polvo."
+        },
+        {
+          "letra": "C",
+          "texto": "De pequeñas gotas de agua.",
+          "correcta": true,
+          "explicacion": "El texto dice que las nubes están formadas por pequeñas gotas de agua."
+        },
+        {
+          "letra": "D",
+          "texto": "De humo y gases.",
+          "correcta": false,
+          "explicacion": "El texto no menciona humo ni gases."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las señales de tránsito triangulares con borde rojo son señales de advertencia. Estas anticipan un peligro o una situación que requiere atención. Por ejemplo, advierten una curva pronunciada o la presencia de animales en la ruta.",
+      "enunciado": "Según el texto, ¿qué indican las señales triangulares con borde rojo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una advertencia de peligro o situación que requiere atención.",
+          "correcta": true,
+          "explicacion": "El texto dice que son señales de advertencia que anticipan un peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "Una zona de estacionamiento libre.",
+          "correcta": false,
+          "explicacion": "El texto no asocia esas señales con estacionamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "La velocidad máxima permitida.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona esas señales con la velocidad máxima."
+        },
+        {
+          "letra": "D",
+          "texto": "El fin de una autopista.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el fin de una autopista."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las etiquetas que indican que un producto fue hecho con materiales reciclados nos ayudan a elegir mejor. Al comprar esos productos, apoyamos el reciclaje y le damos sentido a la separación de residuos. Es una forma de consumir con conciencia.",
+      "enunciado": "Según el texto, ¿qué apoyamos al comprar productos hechos con materiales reciclados?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La quema de basura.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la quema de basura."
+        },
+        {
+          "letra": "B",
+          "texto": "El reciclaje.",
+          "correcta": true,
+          "explicacion": "El texto dice que al comprar esos productos apoyamos el reciclaje."
+        },
+        {
+          "letra": "C",
+          "texto": "El uso de plástico de un solo uso.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona esto con el plástico de un solo uso."
+        },
+        {
+          "letra": "D",
+          "texto": "El derroche de energía.",
+          "correcta": false,
+          "explicacion": "El texto no menciona derroche de energía."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La Tierra es el planeta donde vivimos. Tiene aire, agua y una temperatura adecuada para la vida. Por eso es el único planeta conocido en el que existen seres vivos.",
+      "enunciado": "Según el texto, ¿qué hace de la Tierra un planeta especial?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que está más cerca del Sol.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la cercanía al Sol."
+        },
+        {
+          "letra": "B",
+          "texto": "Que tiene muchas lunas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona lunas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que tiene condiciones para la vida.",
+          "correcta": true,
+          "explicacion": "El texto dice que tiene aire, agua y temperatura adecuada para la vida."
+        },
+        {
+          "letra": "D",
+          "texto": "Que es el más grande del universo.",
+          "correcta": false,
+          "explicacion": "El texto no dice que sea el más grande."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El conductor debe mantener la atención en el camino en todo momento. Mirar el celular, comer o distraerse aumenta el riesgo de accidentes. La concentración es indispensable para conducir con seguridad.",
+      "enunciado": "Según el texto, ¿qué es indispensable para conducir con seguridad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambiar de carril seguido.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cambiar de carril seguido."
+        },
+        {
+          "letra": "B",
+          "texto": "La concentración.",
+          "correcta": true,
+          "explicacion": "El texto dice que la concentración es indispensable para conducir con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Mirar el celular.",
+          "correcta": false,
+          "explicacion": "El texto dice que mirar el celular aumenta el riesgo."
+        },
+        {
+          "letra": "D",
+          "texto": "Comer mientras maneja.",
+          "correcta": false,
+          "explicacion": "El texto dice que comer distrae y aumenta el riesgo."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La caja de la dependencia recibe pagos únicamente en efectivo y con tarjeta de débito. No se aceptan cheques ni tarjetas de crédito. El horario de caja es de 9 a 13 horas.",
+      "enunciado": "Según el aviso, ¿qué medio de pago NO se acepta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El cheque.",
+          "correcta": true,
+          "explicacion": "El texto dice expresamente que no se aceptan cheques ni tarjetas de crédito."
+        },
+        {
+          "letra": "B",
+          "texto": "El efectivo.",
+          "correcta": false,
+          "explicacion": "El texto indica que se recibe efectivo."
+        },
+        {
+          "letra": "C",
+          "texto": "El pago en pesos.",
+          "correcta": false,
+          "explicacion": "El pago en efectivo se realiza en pesos y está admitido."
+        },
+        {
+          "letra": "D",
+          "texto": "La tarjeta de débito.",
+          "correcta": false,
+          "explicacion": "El texto admite tarjeta de débito."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El agua que sale fría mientras esperamos que se caliente la ducha suele desperdiciarse. Una buena idea es juntarla en un balde y usarla después para baldear o regar. De esa manera, no se pierde ese recurso.",
+      "enunciado": "Según el texto, ¿qué se puede hacer con el agua fría que sale antes de que se caliente la ducha?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tomarla directamente.",
+          "correcta": false,
+          "explicacion": "El texto no propone beberla."
+        },
+        {
+          "letra": "B",
+          "texto": "Calentarla en una olla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona calentarla en una olla."
+        },
+        {
+          "letra": "C",
+          "texto": "Juntarla en un balde y usarla para baldear o regar.",
+          "correcta": true,
+          "explicacion": "El texto sugiere juntarla en un balde y usarla para baldear o regar."
+        },
+        {
+          "letra": "D",
+          "texto": "Dejarla correr por el desagüe.",
+          "correcta": false,
+          "explicacion": "El texto busca evitar ese desperdicio."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los productos peligrosos deben mantenerse en sus envases originales y bien etiquetados. Pasarlos a botellas de bebida puede provocar confusiones y intoxicaciones graves.",
+      "enunciado": "Según el texto, ¿qué puede provocar pasar productos peligrosos a botellas de bebida?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una mayor duración del producto",
+          "correcta": false,
+          "explicacion": "El texto no menciona la duración."
+        },
+        {
+          "letra": "B",
+          "texto": "Confusiones e intoxicaciones graves",
+          "correcta": true,
+          "explicacion": "El texto advierte de confusiones e intoxicaciones graves."
+        },
+        {
+          "letra": "C",
+          "texto": "Un mejor sabor del producto",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sabor."
+        },
+        {
+          "letra": "D",
+          "texto": "Un ahorro de envases",
+          "correcta": false,
+          "explicacion": "El texto advierte un riesgo, no un ahorro."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Completá la oración: \"Ante una emergencia médica, lo primero es pedir _____ llamando al servicio de urgencias.\"",
+      "enunciado": "¿Qué palabra completa la oración: \"Ante una emergencia médica, lo primero es pedir _____ llamando al servicio de urgencias.\"?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ayuda",
+          "correcta": true,
+          "explicacion": "Pedir ayuda al servicio de urgencias completa el sentido del texto."
+        },
+        {
+          "letra": "B",
+          "texto": "un vaso de agua",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «ayuda»."
+        },
+        {
+          "letra": "C",
+          "texto": "el horario de atención",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «ayuda»."
+        },
+        {
+          "letra": "D",
+          "texto": "un formulario",
+          "correcta": false,
+          "explicacion": "Incorrecta. Según el texto, la opción correcta es: «ayuda»."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las plazas de juegos están pensadas para que los niños disfruten en un entorno seguro. Por eso, conviene que los adultos los acompañen y supervisen. Mantener los juegos en buen estado beneficia a toda la comunidad.",
+      "enunciado": "Según el texto, ¿qué conviene que hagan los adultos en las plazas de juegos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cerrar la plaza al público.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cerrar la plaza."
+        },
+        {
+          "letra": "B",
+          "texto": "Cobrar entrada por el uso.",
+          "correcta": false,
+          "explicacion": "El texto no menciona cobrar entrada."
+        },
+        {
+          "letra": "C",
+          "texto": "Acompañar y supervisar a los niños.",
+          "correcta": true,
+          "explicacion": "El texto recomienda que los adultos acompañen y supervisen a los niños."
+        },
+        {
+          "letra": "D",
+          "texto": "Usar los juegos antes que los niños.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que los adultos usen los juegos."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Llevar una botella reutilizable y rellenarla con agua evita comprar botellas descartables a cada rato. Así se ahorra dinero y se generan menos residuos plásticos. Es una costumbre cómoda y amigable con el ambiente.",
+      "enunciado": "Según el texto, ¿qué se evita al llevar una botella reutilizable?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Usar agua potable.",
+          "correcta": false,
+          "explicacion": "El texto no plantea evitar el agua potable."
+        },
+        {
+          "letra": "B",
+          "texto": "Tomar agua durante el día.",
+          "correcta": false,
+          "explicacion": "El texto promueve rellenarla con agua, no dejar de tomar."
+        },
+        {
+          "letra": "C",
+          "texto": "Lavar la botella.",
+          "correcta": false,
+          "explicacion": "El texto no menciona evitar lavarla."
+        },
+        {
+          "letra": "D",
+          "texto": "Comprar botellas descartables a cada rato.",
+          "correcta": true,
+          "explicacion": "El texto dice que evita comprar botellas descartables a cada rato."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 940?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "480",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "940",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "470",
+          "correcta": true,
+          "explicacion": "El 50 % de 940 se calcula 50 ÷ 100 × 940 = 470."
+        },
+        {
+          "letra": "D",
+          "texto": "475",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 980?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "392",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "206",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "201",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "196",
+          "correcta": true,
+          "explicacion": "El 20 % de 980 se calcula 20 ÷ 100 × 980 = 196."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 300?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "35",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "30",
+          "correcta": true,
+          "explicacion": "El 10 % de 300 se calcula 10 ÷ 100 × 300 = 30."
+        },
+        {
+          "letra": "D",
+          "texto": "60",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 120 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "200",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "40",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 120 − 80 = 40."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 39 unidades y hay 9 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "342",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "48",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "351",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 39 × 9 = 351."
+        },
+        {
+          "letra": "D",
+          "texto": "390",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 43 unidades y hay 8 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "336",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "387",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "344",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 43 × 8 = 344."
+        },
+        {
+          "letra": "D",
+          "texto": "51",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 50 % de 140?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "140",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "75",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "70",
+          "correcta": true,
+          "explicacion": "El 50 % de 140 se calcula 50 ÷ 100 × 140 = 70."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 500 cajas y llegan 40 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "560",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "530",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "460",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "540",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 500 + 40 = 540."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 340?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "214",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "204",
+          "correcta": true,
+          "explicacion": "El 60 % de 340 se calcula 60 ÷ 100 × 340 = 204."
+        },
+        {
+          "letra": "C",
+          "texto": "408",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "209",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 580 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "500",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "680",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "660",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 580 + 80 = 660."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 640?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "192",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "106",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "96",
+          "correcta": true,
+          "explicacion": "El 15 % de 640 se calcula 15 ÷ 100 × 640 = 96."
+        },
+        {
+          "letra": "D",
+          "texto": "101",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 60 % de 460?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "552",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "276",
+          "correcta": true,
+          "explicacion": "El 60 % de 460 se calcula 60 ÷ 100 × 460 = 276."
+        },
+        {
+          "letra": "C",
+          "texto": "281",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "286",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}

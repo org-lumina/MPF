@@ -126,6 +126,7 @@ export default function ResultadoView() {
       {r.preguntas.map((p, i) => (
         <div key={p.id} className="repaso" data-pdf-block>
           <p className="tema-chip">{p.tema}</p>
+          {p.texto_base && <blockquote className="texto-base">{p.texto_base}</blockquote>}
           <p><strong>{i + 1}. {p.enunciado}</strong></p>
           <ul className="opciones">
             {p.opciones.map((o) => {

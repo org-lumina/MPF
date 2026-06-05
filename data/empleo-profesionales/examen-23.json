@@ -1,0 +1,789 @@
+{
+  "examen_id": 23,
+  "tipo": "profesionales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Para usar un matafuego correctamente conviene recordar tres pasos: quitar el seguro, apuntar a la base del fuego y apretar el gatillo. Mover la boquilla de lado a lado ayuda a cubrir las llamas.",
+      "enunciado": "Según el texto, ¿cuál es el primer paso para usar un matafuego?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Llamar a los bomberos",
+          "correcta": false,
+          "explicacion": "El texto no incluye llamar a los bomberos entre esos tres pasos."
+        },
+        {
+          "letra": "B",
+          "texto": "Apretar el gatillo",
+          "correcta": false,
+          "explicacion": "Apretar el gatillo es un paso posterior según el texto."
+        },
+        {
+          "letra": "C",
+          "texto": "Apuntar al humo",
+          "correcta": false,
+          "explicacion": "El texto indica apuntar a la base del fuego, no al humo."
+        },
+        {
+          "letra": "D",
+          "texto": "Quitar el seguro",
+          "correcta": true,
+          "explicacion": "El texto menciona quitar el seguro como primer paso."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Durante una evacuación, las personas con dificultades para movilizarse deben recibir ayuda de compañeros designados. Acompañarlas hacia la salida garantiza que nadie quede atrás.",
+      "enunciado": "Según el texto, ¿qué garantiza acompañar a las personas con dificultades para movilizarse?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se ahorre tiempo de limpieza",
+          "correcta": false,
+          "explicacion": "El texto no menciona la limpieza."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se cierren las puertas",
+          "correcta": false,
+          "explicacion": "El texto no menciona cerrar puertas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la evacuación sea más lenta",
+          "correcta": false,
+          "explicacion": "El texto no presenta esto como un retraso buscado."
+        },
+        {
+          "letra": "D",
+          "texto": "Que nadie quede atrás",
+          "correcta": true,
+          "explicacion": "El texto dice que acompañarlas garantiza que nadie quede atrás."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Antes de comenzar una tarea con maquinaria, se debe verificar que las protecciones estén colocadas y funcionando. Operar una máquina sin sus resguardos aumenta el riesgo de atrapamientos y cortes.",
+      "enunciado": "Según el texto, ¿qué aumenta operar una máquina sin resguardos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La duración de la máquina",
+          "correcta": false,
+          "explicacion": "El texto no habla de la duración de la máquina."
+        },
+        {
+          "letra": "B",
+          "texto": "El consumo de electricidad",
+          "correcta": false,
+          "explicacion": "El texto no menciona el consumo eléctrico."
+        },
+        {
+          "letra": "C",
+          "texto": "El riesgo de atrapamientos y cortes",
+          "correcta": true,
+          "explicacion": "El texto afirma que aumenta el riesgo de atrapamientos y cortes."
+        },
+        {
+          "letra": "D",
+          "texto": "La velocidad de producción sin riesgos",
+          "correcta": false,
+          "explicacion": "El texto resalta el riesgo, no una producción segura."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Tener el teléfono con poco espacio libre puede volverlo más lento. Borrar fotos repetidas y aplicaciones que no usás ayuda a liberar memoria. También conviene vaciar la papelera.",
+      "enunciado": "Según el texto, ¿qué ayuda a liberar memoria en el teléfono?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Subir el brillo de la pantalla.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el brillo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiar la contraseña del wifi.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el wifi."
+        },
+        {
+          "letra": "C",
+          "texto": "Activar el modo avión.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el modo avión."
+        },
+        {
+          "letra": "D",
+          "texto": "Borrar fotos repetidas y aplicaciones que no usás.",
+          "correcta": true,
+          "explicacion": "El texto menciona borrar fotos repetidas y aplicaciones sin uso."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "En los pasos a nivel, las barreras bajan para indicar que se acerca un tren. Mientras las barreras están bajas, los vehículos y peatones deben permanecer detenidos. Intentar cruzar en ese momento puede causar accidentes graves.",
+      "enunciado": "Según el texto, ¿qué deben hacer los vehículos y peatones cuando las barreras están bajas?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Permanecer detenidos.",
+          "correcta": true,
+          "explicacion": "El texto indica que deben permanecer detenidos mientras las barreras están bajas."
+        },
+        {
+          "letra": "B",
+          "texto": "Levantar las barreras a mano.",
+          "correcta": false,
+          "explicacion": "El texto no menciona levantar las barreras."
+        },
+        {
+          "letra": "C",
+          "texto": "Tocar bocina para avisar.",
+          "correcta": false,
+          "explicacion": "El texto no menciona tocar bocina."
+        },
+        {
+          "letra": "D",
+          "texto": "Cruzar rápidamente.",
+          "correcta": false,
+          "explicacion": "El texto advierte que intentar cruzar puede causar accidentes graves."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Hacer pausas activas durante una jornada de trabajo sentado es saludable. Levantarse, estirarse o caminar unos minutos cada tanto mejora la circulación. Estos pequeños movimientos evitan la rigidez muscular.",
+      "enunciado": "Según el texto, las pausas activas sirven para:",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Evitar tomar agua durante el día",
+          "correcta": false,
+          "explicacion": "El texto no menciona la hidratación."
+        },
+        {
+          "letra": "B",
+          "texto": "Reemplazar por completo el sueño nocturno",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las pausas con el sueño."
+        },
+        {
+          "letra": "C",
+          "texto": "Mejorar la circulación y evitar la rigidez",
+          "correcta": true,
+          "explicacion": "El texto indica que mejoran la circulación y evitan la rigidez muscular."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumentar las horas de trabajo sentado",
+          "correcta": false,
+          "explicacion": "El texto propone interrumpir el tiempo sentado, no aumentarlo."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El pescado es un alimento que aporta nutrientes beneficiosos para el organismo. Se recomienda incluirlo en la alimentación algunas veces por semana. Puede prepararse al horno, a la plancha o en guisos.",
+      "enunciado": "Según el texto, ¿cómo puede prepararse el pescado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente frito",
+          "correcta": false,
+          "explicacion": "El texto no limita la preparación a la fritura."
+        },
+        {
+          "letra": "B",
+          "texto": "Al horno, a la plancha o en guisos",
+          "correcta": true,
+          "explicacion": "El texto menciona esas tres formas de preparación."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo crudo",
+          "correcta": false,
+          "explicacion": "El texto no menciona consumirlo solo crudo."
+        },
+        {
+          "letra": "D",
+          "texto": "Solamente en sopa fría",
+          "correcta": false,
+          "explicacion": "El texto no menciona la sopa fría."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "La yogurtera debe colocarse sobre una superficie fija durante toda la elaboración. No la mueva ni la destape mientras prepara el yogur, ya que las vibraciones y los cambios de temperatura afectan la fermentación.",
+      "enunciado": "Según el texto, ¿qué no se debe hacer mientras se prepara el yogur?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Colocarla sobre una superficie fija.",
+          "correcta": false,
+          "explicacion": "El texto recomienda una superficie fija."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantenerla enchufada.",
+          "correcta": false,
+          "explicacion": "El texto no prohíbe mantenerla enchufada durante la elaboración."
+        },
+        {
+          "letra": "C",
+          "texto": "Moverla o destaparla.",
+          "correcta": true,
+          "explicacion": "El texto indica no moverla ni destaparla durante la preparación."
+        },
+        {
+          "letra": "D",
+          "texto": "Dejarla en un lugar templado.",
+          "correcta": false,
+          "explicacion": "El texto no desaconseja un lugar templado."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 80?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "65",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "70",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "60",
+          "correcta": true,
+          "explicacion": "El 75 % de 80 se calcula 75 ÷ 100 × 80 = 60."
+        },
+        {
+          "letra": "D",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 27 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "108",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "81",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 27 × 3 = 81."
+        },
+        {
+          "letra": "C",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "78",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 380 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "680",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "660",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 380 + 280 = 660."
+        },
+        {
+          "letra": "D",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 160 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "260",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "240",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 160 + 80 = 240."
+        },
+        {
+          "letra": "C",
+          "texto": "230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 49 unidades y hay 3 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "147",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 49 × 3 = 147."
+        },
+        {
+          "letra": "B",
+          "texto": "196",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "144",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 228 hojas en partes iguales entre 4 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "57",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 228 ÷ 4 = 57."
+        },
+        {
+          "letra": "B",
+          "texto": "224",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "62",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "52",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 15 % de 380?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "67",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "62",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "114",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "57",
+          "correcta": true,
+          "explicacion": "El 15 % de 380 se calcula 15 ÷ 100 × 380 = 57."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 80 cajas y llegan 80 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "160",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 80 + 80 = 160."
+        },
+        {
+          "letra": "B",
+          "texto": "180",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "0",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "150",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el Código Electoral, ¿quién organiza el Registro Nacional de Electores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las juntas electorales de distrito",
+          "correcta": false,
+          "explicacion": "El art. 17 asigna esa función a la Cámara Nacional Electoral."
+        },
+        {
+          "letra": "B",
+          "texto": "El Registro Nacional de las Personas",
+          "correcta": false,
+          "explicacion": "El RENAPER remite datos, pero la organización del registro corresponde a la Cámara Nacional Electoral (art. 17)."
+        },
+        {
+          "letra": "C",
+          "texto": "El Ministerio del Interior",
+          "correcta": false,
+          "explicacion": "El art. 17 atribuye la organización a la Cámara Nacional Electoral."
+        },
+        {
+          "letra": "D",
+          "texto": "La Cámara Nacional Electoral",
+          "correcta": true,
+          "explicacion": "El art. 17 dispone que el Registro Nacional de Electores será organizado por la Cámara Nacional Electoral, autoridad competente para su confección y actualización."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el art. 9, ¿cuál de las siguientes es una jurisdicción institucional?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las Obligaciones a cargo del Tesoro",
+          "correcta": false,
+          "explicacion": "Las Obligaciones a cargo del Tesoro son una jurisdicción administrativo-financiera, no institucional (art. 9)."
+        },
+        {
+          "letra": "B",
+          "texto": "El Servicio de la Deuda Pública",
+          "correcta": false,
+          "explicacion": "El Servicio de la Deuda Pública es una jurisdicción administrativo-financiera, no institucional (art. 9)."
+        },
+        {
+          "letra": "C",
+          "texto": "El Poder Judicial",
+          "correcta": true,
+          "explicacion": "El art. 9 incluye al Poder Judicial entre las jurisdicciones institucionales, junto con el Poder Legislativo, el Ministerio Público y la Presidencia, Jefatura de Gabinete, Ministerios y Secretarías del PEN."
+        },
+        {
+          "letra": "D",
+          "texto": "El Banco Central de la República Argentina",
+          "correcta": false,
+          "explicacion": "El art. 9 no enumera al BCRA entre las jurisdicciones institucionales; estas son Poder Legislativo, Poder Judicial, Ministerio Público y el ámbito del PEN."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿cuál de los siguientes es un derecho del personal?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estabilidad",
+          "correcta": true,
+          "explicacion": "El art. 16 inc. a) enumera la estabilidad entre los derechos del personal."
+        },
+        {
+          "letra": "B",
+          "texto": "Acumular cargos sin límite",
+          "correcta": false,
+          "explicacion": "La acumulación está sujeta a incompatibilidades (arts. 23 inc. n) y 25), no es un derecho irrestricto."
+        },
+        {
+          "letra": "C",
+          "texto": "Recibir dádivas con motivo de sus funciones",
+          "correcta": false,
+          "explicacion": "Aceptar dádivas es una prohibición (art. 24 inc. f), no un derecho."
+        },
+        {
+          "letra": "D",
+          "texto": "Patrocinar trámites de terceros vinculados a sus funciones",
+          "correcta": false,
+          "explicacion": "Eso constituye una prohibición del art. 24 inc. a)."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "¿A cargo de qué órgano está el control de las actividades de la Auditoría General de la Nación?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De la Contaduría General de la Nación",
+          "correcta": false,
+          "explicacion": "La Contaduría rige la contabilidad; el control de la AGN corresponde a la Comisión Parlamentaria Mixta Revisora de Cuentas (art. 127)."
+        },
+        {
+          "letra": "B",
+          "texto": "Del Poder Ejecutivo Nacional",
+          "correcta": false,
+          "explicacion": "El art. 127 atribuye ese control a la Comisión Parlamentaria Mixta Revisora de Cuentas."
+        },
+        {
+          "letra": "C",
+          "texto": "De la Sindicatura General de la Nación",
+          "correcta": false,
+          "explicacion": "La Sindicatura es control interno del PEN; el control de la AGN corresponde a la Comisión Parlamentaria Mixta Revisora de Cuentas (art. 127)."
+        },
+        {
+          "letra": "D",
+          "texto": "De la Comisión Parlamentaria Mixta Revisora de Cuentas",
+          "correcta": true,
+          "explicacion": "El art. 127 establece que el control de las actividades de la AGN está a cargo de la Comisión Parlamentaria Mixta Revisora de Cuentas."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según la Ley 25.164, ¿qué funciones comprende el personal de gabinete de las autoridades superiores?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Funciones de asesoramiento o de asistencia administrativa",
+          "correcta": true,
+          "explicacion": "El art. 10 limita las funciones del personal de gabinete al asesoramiento o asistencia administrativa."
+        },
+        {
+          "letra": "B",
+          "texto": "Funciones de fiscalización y control externo",
+          "correcta": false,
+          "explicacion": "El art. 10 no atribuye funciones de control externo al personal de gabinete."
+        },
+        {
+          "letra": "C",
+          "texto": "Funciones operativas de planta permanente",
+          "correcta": false,
+          "explicacion": "El personal de gabinete no desempeña funciones operativas de planta permanente."
+        },
+        {
+          "letra": "D",
+          "texto": "Funciones de carrera administrativa",
+          "correcta": false,
+          "explicacion": "El personal de gabinete no cumple funciones de carrera."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con el régimen de regalos, ¿en qué casos NO pueden recibirse obsequios de cortesía o de costumbre diplomática?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando provienen de otro gobierno extranjero",
+          "correcta": false,
+          "explicacion": "Los regalos por costumbre diplomática suelen provenir de otros gobiernos; la prohibición se da por el vínculo de interés con el órgano, no por ser extranjero."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando provienen de personas que son contratistas o proveedores del órgano donde trabaja el funcionario",
+          "correcta": true,
+          "explicacion": "Las normas sobre regalos prohíben recibir obsequios de cortesía o costumbre diplomática cuando provienen de contratistas o proveedores de obras, bienes o servicios del órgano donde trabaja el funcionario."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando se reciben en una fecha festiva",
+          "correcta": false,
+          "explicacion": "La prohibición depende del vínculo de quien regala con el órgano, no de la fecha."
+        },
+        {
+          "letra": "D",
+          "texto": "Cuando su valor es inferior al de la reglamentación",
+          "correcta": false,
+          "explicacion": "El criterio de prohibición es el vínculo de interés, no el valor del regalo."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "De acuerdo con la Ley 25.164, ¿qué comprende el régimen de contrataciones de personal por tiempo determinado?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Funciones permanentes del régimen de carrera",
+          "correcta": false,
+          "explicacion": "El art. 9 excluye expresamente las funciones propias del régimen de carrera."
+        },
+        {
+          "letra": "B",
+          "texto": "Cargos de conducción superior",
+          "correcta": false,
+          "explicacion": "Los cargos de conducción no integran el régimen de contrataciones del art. 9."
+        },
+        {
+          "letra": "C",
+          "texto": "La prestación de servicios de carácter transitorio o estacional",
+          "correcta": true,
+          "explicacion": "El art. 9 comprende exclusivamente servicios de carácter transitorio o estacional, no incluidos en las funciones propias del régimen de carrera."
+        },
+        {
+          "letra": "D",
+          "texto": "Tareas de asesoramiento político permanente",
+          "correcta": false,
+          "explicacion": "El asesoramiento corresponde al personal de gabinete, no al régimen de contrataciones."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Conforme a la Ley 25.164, ¿qué se debe acreditar además de la idoneidad y la nacionalidad para ingresar?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Constitución de una garantía patrimonial",
+          "correcta": false,
+          "explicacion": "La ley no menciona garantía patrimonial como requisito de ingreso."
+        },
+        {
+          "letra": "B",
+          "texto": "Aptitud psicofísica para el cargo",
+          "correcta": true,
+          "explicacion": "El art. 4 inc. c) establece la aptitud psicofísica para el cargo como condición de ingreso."
+        },
+        {
+          "letra": "C",
+          "texto": "Domicilio en la jurisdicción del organismo",
+          "correcta": false,
+          "explicacion": "La ley no exige domicilio en la jurisdicción como requisito de ingreso."
+        },
+        {
+          "letra": "D",
+          "texto": "Antigüedad previa en el sector privado",
+          "correcta": false,
+          "explicacion": "No se requiere antigüedad previa en el sector privado."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Administración Pública Nacional",
+      "enunciado": "Según el Código Electoral, ¿cuál de los siguientes es un requisito para ser autoridad de mesa?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tener título secundario completo",
+          "correcta": false,
+          "explicacion": "El art. 73 no exige título secundario, solo saber leer y escribir, entre otros requisitos."
+        },
+        {
+          "letra": "B",
+          "texto": "Haber cumplido el servicio militar",
+          "correcta": false,
+          "explicacion": "El art. 73 no contempla ese requisito."
+        },
+        {
+          "letra": "C",
+          "texto": "Saber leer y escribir",
+          "correcta": true,
+          "explicacion": "El art. 73, inc. 4 exige que los presidentes y suplentes sepan leer y escribir."
+        },
+        {
+          "letra": "D",
+          "texto": "Estar afiliado a un partido político",
+          "correcta": false,
+          "explicacion": "El art. 73 no requiere afiliación partidaria."
+        }
+      ]
+    }
+  ]
+}

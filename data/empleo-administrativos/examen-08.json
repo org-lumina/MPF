@@ -1,0 +1,794 @@
+{
+  "examen_id": 8,
+  "tipo": "administrativos-generales",
+  "preguntas": [
+    {
+      "id": 1,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Guardar las fotos solo en el teléfono es arriesgado. Si el equipo se pierde o se rompe, esas imágenes desaparecen. Por eso conviene respaldarlas también en la nube o en otro lugar.",
+      "enunciado": "Según el texto, ¿por qué es arriesgado guardar las fotos solo en el teléfono?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque gastan datos móviles.",
+          "correcta": false,
+          "explicacion": "El texto no menciona los datos móviles."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque las fotos pierden color.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el color."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque si el equipo se pierde o se rompe, las imágenes desaparecen.",
+          "correcta": true,
+          "explicacion": "El texto explica ese riesgo de guardar solo en el teléfono."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque bajan la señal.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la señal."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Usar el transporte público o la bicicleta en lugar del auto particular reduce la contaminación del aire. Cada viaje compartido o sin motor emite menos gases. Estas opciones también descongestionan las calles de la ciudad.",
+      "enunciado": "Según el texto, ¿qué efecto tiene usar transporte público o bicicleta en lugar del auto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Genera más residuos en las calles.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona estas opciones con más residuos."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta el consumo de combustible.",
+          "correcta": false,
+          "explicacion": "El texto plantea menos emisiones, no más combustible."
+        },
+        {
+          "letra": "C",
+          "texto": "Reduce la contaminación del aire.",
+          "correcta": true,
+          "explicacion": "El texto afirma que estas opciones reducen la contaminación del aire."
+        },
+        {
+          "letra": "D",
+          "texto": "Encarece los pasajes de colectivo.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el precio de los pasajes."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los tachos de colores sirven para separar los residuos según su tipo. En muchas ciudades, el tacho verde es para los materiales reciclables y el negro para los desechos comunes. Conocer los colores facilita la clasificación correcta.",
+      "enunciado": "Según el texto, ¿para qué sirve el tacho verde en muchas ciudades?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para los materiales reciclables.",
+          "correcta": true,
+          "explicacion": "El texto indica que el tacho verde es para los materiales reciclables."
+        },
+        {
+          "letra": "B",
+          "texto": "Para los desechos comunes.",
+          "correcta": false,
+          "explicacion": "El texto asigna los desechos comunes al tacho negro."
+        },
+        {
+          "letra": "C",
+          "texto": "Para las pilas usadas.",
+          "correcta": false,
+          "explicacion": "El texto no menciona las pilas en relación con el tacho verde."
+        },
+        {
+          "letra": "D",
+          "texto": "Para los restos de comida únicamente.",
+          "correcta": false,
+          "explicacion": "El texto no asocia el tacho verde solo a restos de comida."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El cuerpo necesita descansar después de hacer ejercicio intenso. Los días de descanso permiten que los músculos se recuperen. Alternar actividad y reposo es parte de una rutina saludable.",
+      "enunciado": "De acuerdo con el texto, ¿para qué sirven los días de descanso?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para dejar de comer",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el descanso con dejar de comer."
+        },
+        {
+          "letra": "B",
+          "texto": "Para evitar tomar agua",
+          "correcta": false,
+          "explicacion": "El texto no menciona la hidratación."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que los músculos se recuperen",
+          "correcta": true,
+          "explicacion": "El texto dice que los días de descanso permiten recuperar los músculos."
+        },
+        {
+          "letra": "D",
+          "texto": "Para no volver a hacer ejercicio nunca",
+          "correcta": false,
+          "explicacion": "El texto propone alternar actividad y reposo."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Los niños pequeños deben viajar en el asiento trasero del automóvil. Para mayor protección, conviene utilizar una sillita adecuada a su edad y tamaño. Estas medidas reducen el riesgo de lesiones en caso de accidente.",
+      "enunciado": "Según el texto, ¿en qué asiento deben viajar los niños pequeños?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el asiento trasero.",
+          "correcta": true,
+          "explicacion": "El texto indica que los niños pequeños deben viajar en el asiento trasero."
+        },
+        {
+          "letra": "B",
+          "texto": "En el asiento del conductor.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el asiento del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "En el asiento delantero.",
+          "correcta": false,
+          "explicacion": "El texto indica el asiento trasero, no el delantero."
+        },
+        {
+          "letra": "D",
+          "texto": "En el baúl del automóvil.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el baúl."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las hormigas son insectos muy organizados que viven en grandes grupos. Cada hormiga cumple una tarea distinta dentro del hormiguero. Algunas buscan alimento y otras cuidan a las crías.",
+      "enunciado": "¿Cuál es la idea principal del texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las hormigas viven siempre solas.",
+          "correcta": false,
+          "explicacion": "El texto dice que viven en grandes grupos."
+        },
+        {
+          "letra": "B",
+          "texto": "Las hormigas viven organizadas y cada una tiene una tarea.",
+          "correcta": true,
+          "explicacion": "El texto destaca que son organizadas y que cada una cumple una tarea distinta."
+        },
+        {
+          "letra": "C",
+          "texto": "Las hormigas no buscan alimento.",
+          "correcta": false,
+          "explicacion": "El texto dice que algunas buscan alimento."
+        },
+        {
+          "letra": "D",
+          "texto": "Las hormigas vuelan muy alto.",
+          "correcta": false,
+          "explicacion": "El texto no menciona que vuelen."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Las redes sociales suelen ofrecer la opción de denunciar contenido ofensivo. Al hacerlo, la plataforma puede revisarlo y retirarlo. Esta herramienta ayuda a mantener un espacio más sano.",
+      "enunciado": "Según el texto, ¿qué se puede hacer ante un contenido ofensivo en redes sociales?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apagar el teléfono.",
+          "correcta": false,
+          "explicacion": "El texto no menciona apagar el teléfono."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiar el idioma.",
+          "correcta": false,
+          "explicacion": "El texto no menciona el idioma."
+        },
+        {
+          "letra": "C",
+          "texto": "Borrar todos los contactos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona borrar contactos."
+        },
+        {
+          "letra": "D",
+          "texto": "Denunciarlo para que la plataforma lo revise.",
+          "correcta": true,
+          "explicacion": "El texto menciona la opción de denunciar contenido ofensivo."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El río Paraná es uno de los más largos de América del Sur. Atraviesa varias provincias argentinas y es muy importante para el transporte de cargas. Por sus aguas navegan grandes barcos cada día.",
+      "enunciado": "Según el texto, ¿para qué es muy importante el río Paraná?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para la práctica de deportes de nieve.",
+          "correcta": false,
+          "explicacion": "El texto no menciona deportes de nieve."
+        },
+        {
+          "letra": "B",
+          "texto": "Para la cría de pingüinos.",
+          "correcta": false,
+          "explicacion": "El texto no menciona pingüinos."
+        },
+        {
+          "letra": "C",
+          "texto": "Para la generación de viento.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el río con el viento."
+        },
+        {
+          "letra": "D",
+          "texto": "Para el transporte de cargas.",
+          "correcta": true,
+          "explicacion": "El texto dice que es importante para el transporte de cargas."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El uso del cinturón de seguridad es obligatorio para todos los ocupantes del automóvil. El cinturón ayuda a reducir las lesiones en caso de choque. Tanto el conductor como los pasajeros deben colocárselo antes de iniciar la marcha.",
+      "enunciado": "Según el texto, ¿quiénes deben usar el cinturón de seguridad?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo quienes viajan adelante.",
+          "correcta": false,
+          "explicacion": "El texto no limita la obligación a los asientos delanteros."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente en viajes largos.",
+          "correcta": false,
+          "explicacion": "El texto no condiciona el uso a la duración del viaje."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente el conductor.",
+          "correcta": false,
+          "explicacion": "El texto incluye también a los pasajeros, no solo al conductor."
+        },
+        {
+          "letra": "D",
+          "texto": "Todos los ocupantes del automóvil.",
+          "correcta": true,
+          "explicacion": "El texto afirma que el uso es obligatorio para todos los ocupantes del automóvil."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El aceite de cocina usado no debe arrojarse por la pileta porque contamina el agua y puede tapar las cañerías. Lo recomendable es guardarlo en una botella y llevarlo a un punto de recolección. Allí puede transformarse en jabón o combustible.",
+      "enunciado": "Según el texto, ¿por qué no conviene arrojar el aceite usado por la pileta?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque contamina el agua y puede tapar las cañerías.",
+          "correcta": true,
+          "explicacion": "El texto dice que contamina el agua y puede tapar las cañerías."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque hace que el agua salga más caliente.",
+          "correcta": false,
+          "explicacion": "El texto no menciona la temperatura del agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque ahorra energía.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona el aceite con el ahorro de energía."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque mejora el sabor del agua.",
+          "correcta": false,
+          "explicacion": "El texto habla de contaminación, no de sabor."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "eje": "Comprensión Lectora",
+      "texto_base": "Comer despacio y masticar bien favorece la digestión. Cuando comemos apurados, tragamos más aire y nos cuesta darnos cuenta de cuándo estamos satisfechos. Tomarse un tiempo en la mesa es un hábito sencillo y saludable.",
+      "enunciado": "¿Qué puede pasar cuando comemos apurados, según el texto?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dormimos mejor por la noche",
+          "correcta": false,
+          "explicacion": "El texto no menciona el sueño."
+        },
+        {
+          "letra": "B",
+          "texto": "Tragamos más aire y cuesta notar la saciedad",
+          "correcta": true,
+          "explicacion": "El texto dice que al comer apurados tragamos más aire y cuesta darnos cuenta de la saciedad."
+        },
+        {
+          "letra": "C",
+          "texto": "Bebemos más agua de lo necesario",
+          "correcta": false,
+          "explicacion": "El texto no habla del consumo de agua."
+        },
+        {
+          "letra": "D",
+          "texto": "Mejoramos la digestión notablemente",
+          "correcta": false,
+          "explicacion": "El texto asocia la buena digestión con comer despacio."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El horario de atención telefónica es de 8 a 12 horas. Por la tarde, las líneas se destinan a la comunicación entre áreas internas y no atienden consultas del público.",
+      "enunciado": "Según el aviso, ¿a qué se destinan las líneas telefónicas por la tarde?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A recibir reclamos por escrito.",
+          "correcta": false,
+          "explicacion": "El texto no menciona reclamos por escrito por teléfono."
+        },
+        {
+          "letra": "B",
+          "texto": "A la comunicación entre áreas internas.",
+          "correcta": true,
+          "explicacion": "El texto indica que por la tarde las líneas son para comunicación interna."
+        },
+        {
+          "letra": "C",
+          "texto": "A coordinar turnos web.",
+          "correcta": false,
+          "explicacion": "El texto no relaciona las líneas con turnos web."
+        },
+        {
+          "letra": "D",
+          "texto": "A la atención de consultas del público.",
+          "correcta": false,
+          "explicacion": "Las consultas del público se atienden por la mañana, no por la tarde."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "eje": "Comprensión Lectora",
+      "texto_base": "El teléfono de la oficina se utiliza exclusivamente para fines laborales. Las llamadas particulares deben realizarse desde los teléfonos personales y fuera del horario de atención al público.",
+      "enunciado": "¿Cuándo deben hacerse las llamadas particulares?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En cualquier momento, desde el teléfono de la oficina.",
+          "correcta": false,
+          "explicacion": "El teléfono de la oficina es solo para fines laborales."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante el horario de atención, en voz baja.",
+          "correcta": false,
+          "explicacion": "El texto pide hacerlas fuera del horario de atención."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo con permiso del jefe de área.",
+          "correcta": false,
+          "explicacion": "El texto no menciona un permiso del jefe."
+        },
+        {
+          "letra": "D",
+          "texto": "Fuera del horario de atención al público y desde el teléfono personal.",
+          "correcta": true,
+          "explicacion": "El texto indica que las llamadas particulares se hacen desde teléfonos personales y fuera del horario de atención."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 680 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "420",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 680 − 260 = 420."
+        },
+        {
+          "letra": "B",
+          "texto": "430",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "410",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "940",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 10 % de 400?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "40",
+          "correcta": true,
+          "explicacion": "El 10 % de 400 se calcula 10 ÷ 100 × 400 = 40."
+        },
+        {
+          "letra": "B",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Se reparten 200 hojas en partes iguales entre 4 personas. ¿Cuántas hojas recibe cada una?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50",
+          "correcta": true,
+          "explicacion": "Se divide el total por la cantidad de personas: 200 ÷ 4 = 50."
+        },
+        {
+          "letra": "B",
+          "texto": "55",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "196",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 580 cajas y llegan 280 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "880",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "850",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "860",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 580 + 280 = 860."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Cada caja trae 33 unidades y hay 7 cajas iguales. ¿Cuántas unidades hay en total?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "264",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "40",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "224",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "231",
+          "correcta": true,
+          "explicacion": "Se multiplica unidades por cajas: 33 × 7 = 231."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 75 % de 20?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "15",
+          "correcta": true,
+          "explicacion": "El 75 % de 20 se calcula 75 ÷ 100 × 20 = 15."
+        },
+        {
+          "letra": "C",
+          "texto": "25",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "20",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 20 % de 200?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "40",
+          "correcta": true,
+          "explicacion": "El 20 % de 200 se calcula 20 ÷ 100 × 200 = 40."
+        },
+        {
+          "letra": "C",
+          "texto": "50",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "45",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 760 expedientes y resolvió 260. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "490",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "1.020",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "510",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "500",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 760 − 260 = 500."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "¿Cuánto es el 25 % de 460?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "125",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "230",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "115",
+          "correcta": true,
+          "explicacion": "El 25 % de 460 se calcula 25 ÷ 100 × 460 = 115."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 360 cajas y llegan 240 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "620",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "120",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "600",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 360 + 240 = 600."
+        },
+        {
+          "letra": "D",
+          "texto": "590",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "En un depósito hay 500 cajas y llegan 200 más. ¿Cuántas cajas hay en total ahora?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "300",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "690",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "C",
+          "texto": "720",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "700",
+          "correcta": true,
+          "explicacion": "Se suman las existentes y las que llegan: 500 + 200 = 700."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "eje": "Razonamiento Lógico-Matemático",
+      "enunciado": "Un empleado tenía 720 expedientes y resolvió 80. ¿Cuántos le quedan por resolver?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "630",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "B",
+          "texto": "640",
+          "correcta": true,
+          "explicacion": "Se restan los resueltos: 720 − 80 = 640."
+        },
+        {
+          "letra": "C",
+          "texto": "800",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        },
+        {
+          "letra": "D",
+          "texto": "650",
+          "correcta": false,
+          "explicacion": "Es un valor cercano pero no es el resultado correcto de la operación."
+        }
+      ]
+    }
+  ]
+}
