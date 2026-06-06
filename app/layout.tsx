@@ -3,9 +3,27 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://simutest.com.ar"),
   title: "Simulacro de evaluaciones — MPF",
   description:
     "Simuladores de exámenes para preparar pruebas reales. Hoy: Ingreso Democrático Ministerio Público Fiscal.",
+  openGraph: {
+    title: "Simulacro de evaluaciones — MPF",
+    description:
+      "Practicá con simuladores reales para el ingreso al Ministerio Público Fiscal y el Sistema Nacional de Empleo Público.",
+    url: "https://simutest.com.ar",
+    siteName: "Simutest",
+    images: [{ url: "/alberdi.jpg", width: 800, height: 800, alt: "Simutest - Simuladores de examen" }],
+    locale: "es_AR",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Simulacro de evaluaciones — MPF",
+    description:
+      "Practicá con simuladores reales para el ingreso al MPF y el Sistema Nacional de Empleo Público.",
+    images: ["/alberdi.jpg"],
+  },
 };
 
 const BrandBadge = () => (
