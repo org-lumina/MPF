@@ -74,7 +74,7 @@ export default function HomeHub() {
               Elegí tu <span className="mark">simulador</span>
             </h2>
             <p className="sec-sub">
-              Arrancamos con Ingreso Democrático Ministerio Público Fiscal. El hub crece todas las semanas 🚀
+              Todo lo que necesitás para rendir los principales concursos. Sumamos simuladores cada semana 🚀
             </p>
           </div>
 

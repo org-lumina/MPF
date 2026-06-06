@@ -91,7 +91,19 @@ h1.hero-title em { font-style: normal; color: var(--yellow); }
 .hero-sello { position: absolute; z-index: 4; bottom: 24px; right: 26px; background: #fff; border: var(--outline); border-radius: 18px; box-shadow: var(--shadow); padding: 16px 22px; text-align: center; transform: rotate(-3deg); color: var(--ink); max-width: 250px; }
 .hero-sello .precio { display: block; font-family: var(--font-display); font-weight: 700; font-size: 36px; line-height: 1; }
 .hero-sello .sub { display: block; font-family: var(--font-display); font-weight: 700; font-size: 21px; line-height: 1.1; margin-top: 9px; color: var(--yellow); text-shadow: 1.5px 1.5px 0 rgba(28, 27, 51, 0.45); }
-@media (max-width: 640px) { .hero-sello { bottom: 14px; right: 14px; padding: 12px 16px; max-width: 190px; } .hero-sello .precio { font-size: 28px; } .hero-sello .sub { font-size: 16px; margin-top: 6px; } }
+@media (max-width: 640px) {
+  .hero-card { display: block; }
+  /* Fila superior: cartel $5000 a la IZQUIERDA, Alberdi a la DERECHA (misma altura) */
+  .mascot-alberdi { width: 96px; height: 96px; top: 16px; right: 16px; }
+  .hero-sello { position: absolute; top: 16px; left: 16px; right: auto; bottom: auto; transform: none; margin: 0; max-width: 150px; padding: 10px 14px; }
+  .hero-sello .precio { font-size: 26px; }
+  .hero-sello .sub { font-size: 14px; margin-top: 5px; }
+  /* Globo "¡Tomá las Bases!" debajo de Alberdi, lejos del cartel amarillo */
+  .mascot-tag { top: 120px; right: 16px; }
+  /* El contenido (eyebrow + título) arranca DEBAJO de la fila superior */
+  .hero-inner { padding: 168px 22px 30px; }
+  a.hero-sello-cta:hover, a.hero-sello-cta:active { transform: none; box-shadow: var(--shadow); }
+}
 
 /* trust strip */
 .strip { display: flex; flex-wrap: wrap; gap: 10px 22px; justify-content: center; margin: 22px 0 6px; }
@@ -310,13 +322,17 @@ h1.hero-title em { font-style: normal; color: var(--yellow); }
   .steps { grid-template-columns: 1fr; }
   .nav-links a:not(.btn) { display: none; }
   .feat-mascot { display: none; }
+  .nav-links { flex-wrap: wrap; justify-content: flex-end; gap: 6px; }
+  .btn-sm, .btn-suscribite { padding: 8px 14px; font-size: 14px; }
+}
+@media (max-width: 480px) {
+  .nav-in { flex-wrap: wrap; gap: 10px; padding: 12px 16px; }
+  .nav-links { width: 100%; justify-content: flex-start; gap: 6px; }
+  .btn-sm, .btn-suscribite { padding: 7px 12px; font-size: 13px; box-shadow: 3px 3px 0 var(--ink); }
 }
 @media (max-width: 520px) {
   .grid { grid-template-columns: 1fr; }
   .card-featured { grid-column: span 1; }
-  .mascot-alberdi { width: 96px; height: 96px; top: 18px; right: 18px; }
-  .mascot-tag { top: 120px; right: 14px; }
-  .hero-inner { padding: 28px 24px 30px; }
 }
 
 /* ===== Foro (estética Pop) ===== */
